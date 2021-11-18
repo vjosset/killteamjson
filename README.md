@@ -6,7 +6,7 @@ See also https://ktdash.app/factions.htm and https://ktdash.app/api/faction.php
 The root of the JSON file is an array of "faction" objects.
 
 Structure/Hierarchy:
-- Faction
+- [Root] - Array of Faction objects
   - factionid - string - ID for this faction
   - factionname - string - Name of this faction
   - description - string - HTML description of this faction (flavor text)
