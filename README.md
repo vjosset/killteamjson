@@ -3,9 +3,15 @@ JSON Dataset for Killteam 2021 Compendium
 
 See also https://ktdash.app/factions.htm and https://ktdash.app/api/faction.php
 
+"compendium.json" will hold the latest version of the full compendium.json
+
+This repo may contain snapshots of the compendium to be used as backups
+
+# Structure/Hierarchy
+
 The root of the JSON file is an array of "faction" objects.
 
-Structure/Hierarchy:
+
 - [Root] - Array of Faction objects
   - factionid - string - ID for this faction
   - factionname - string - Name of this faction
@@ -82,12 +88,11 @@ Structure/Hierarchy:
             - D - string - Damage characteristic
             - SR - string - Comma-separated list of Special and Critical rules for this weapon profile
 
-Distance/range placeholders:
-- [TRI] - Triange range (1 inch) - Recommend replacing with "&#x25B2;" in HTML output
-- [CIRCLE] - Circle range (2 inches) - Recommend replacing with "&#x2B24;" in HTML output
-- [SQUARE] - Square range (3 inches) - Recommend replacing with "&#9632;" in HTML output
-- [PENT] - Pentagon range (6 inches) - Recommend replacing with "&#x2B1F;" in HTML output
+# Distance/Range Placeholders
 
-"compendium.json" will hold the latest version of the full compendium.json
+- [TRI] - Triange range (1 inch) - Recommend replacing with <code>`&#x25B2;`</code> in HTML output
+- [CIRCLE] - Circle range (2 inches) - Recommend replacing with <code>`&#x2B24;`</code> in HTML output
+- [SQUARE] - Square range (3 inches) - Recommend replacing with <code>`&#9632;`</code> in HTML output
+- [PENT] - Pentagon range (6 inches) - Recommend replacing with <code>`&#x2B1F;`</code> in HTML output
 
-This repo may contain snapshots of the compendium to be used as backups
+
