@@ -90,9 +90,9 @@ The root of the JSON file is an array of "faction" objects.
 
 # Distance/Range Placeholders
 
-- `[TRI]` - Triange range (1 inch) - Recommend replacing with `&#x25B2;` in HTML output
-- `[CIRCLE]` - Circle range (2 inches) - Recommend replacing with `&#x2B24;` in HTML output
-- `[SQUARE]` - Square range (3 inches) - Recommend replacing with `&#9632;` in HTML output
-- `[PENT]` - Pentagon range (6 inches) - Recommend replacing with `&#x2B1F;` in HTML output
+- `[TRI]` - Triange range (1 inch) - Recommend replacing with `&#x25B2;` (&#x25B2;) in HTML output
+- `[CIRCLE]` - Circle range (2 inches) - Recommend replacing with `&#x2B24;` (&#x2B24;) in HTML output
+- `[SQUARE]` - Square range (3 inches) - Recommend replacing with `&#9632;` (&#9632;) in HTML output
+- `[PENT]` - Pentagon range (6 inches) - Recommend replacing with `&#x2B1F;` (&#x2B1F;) in HTML output
 
 
