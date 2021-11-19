@@ -16332,6 +16332,1748 @@
       },
       {
         "factionid": "IMP",
+        "killteamid": "HC",
+        "killteamname": "Hunter Clade",
+        "description": "Armed with the very best wargear the forge worlds of the Adeptus Mechanicus can provide, Skitarii make excellent kill team operatives.\nFearless, well trained, and coldly logical in the face of adversity, they get the job done or die selflessly in the attempt.",
+        "ploys": {
+          "strat": [
+            {
+              "factionid": "IMP",
+              "killteamid": "HC",
+              "ployid": "AA",
+              "ployname": "Accelerant Agent",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a friendly HUNTER CLADE RUSTSTALKER operative is activated:\n<ul>\n<li>It can perform a free Fight action during that activation</li>\n<li>It can perform two Fight actions during that activation</li>\n</ul>"
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "HC",
+              "ployid": "CA",
+              "ployname": "Calculated Approach",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a shooting attack is made against a friendly HUNTER CLADE operative that is more than [PENT] from enemy operatives, in the Roll Defence Dice step of that shooting attack, if you retain any critical saves, you can select one of your failed saves to be retained as a successful normal save."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "HC",
+              "ployid": "MP",
+              "ployname": "Martial Protocol",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point:\n<ul>\n<li>Each time a friendly HUNTER CLADE VANGUARD operative that is within [CIRCLE] of an objective marker or within [PENT] of your opponent's drop zone makes a shooting attack, in the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice</li>\n<li>Each time a friendl HUNTER CLADE RANGER operative that has not moved during the Turning Point makes a shooting attack, in the Roll Attack Dice step of that shooing attack, you can re-roll one of your attack dice.</li>\n</ul>"
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "HC",
+              "ployid": "NI",
+              "ployname": "Neurostatic Interference",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, while an enemy operative is within [PENT] of a friendly HUNTER CLADE INFILTRATOR operative, each time that enemy operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, your opponent cannot re-roll their attack dice."
+            }
+          ],
+          "tac": [
+            {
+              "factionid": "IMP",
+              "killteamid": "HC",
+              "ployid": "CO",
+              "ployname": "Command Override",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy when a ready friendly HUNTER CLADE operative is activated. Select one Doctrina Imperative that is not active for your kill team. Until the end of the Turning Point, that Imperative is treated as being active for that operative instad of the current active Imperative."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "HC",
+              "ployid": "CP",
+              "ployname": "Concealed Position",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy in the Set Up Operatives step of the mission sequence. Select one friendly HUNTER CLADE INFILTRATOR operative.\nThat operative can be set up with a Conceal order anywhere in the killzone that is within [TRI] of Heavy terrain and more than [PENT] from enemy operatives and the enemy drop zone.\nThat operative cannot have its order changed during the first Turning Point as a result of the Infiltrate option in the Scouting sstep. You can only use this Tactical Ploy once."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "HC",
+              "ployid": "MFV",
+              "ployname": "Motive Force Vitality",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy whe a ready friendly HUNTER CLADE operative is activated. That operative regains 1D3 lost wounds."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "HC",
+              "ployid": "P",
+              "ployname": "Pursuers",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy in the Scouting step of the mission sequence, when you resolve your scouting option.\n<ul>\n<li>If you selected the Recon option, you can also perform a free Dash action with up to two friendly HUNTER CLADE RANGER operatives that are wholly within your drop zone</li>\n<li>If you selected the Infiltrate option, during the first Turning Point, you can also change the order of up to two ready friendly HUNTER CLADE RANGER operatives when each of them are activated</li>\n</ul>"
+            }
+          ]
+        },
+        "equipments": [
+          {
+            "factionid": "IMP",
+            "killteamid": "HC",
+            "eqid": "CB",
+            "eqname": "Cense Bearer",
+            "eqdescription": "The operative gains the following ability for the battle:\n<br/>\n<strong>Cense Bearer:</strong> \nEach time a friendly HUNTER CLADE operative within [SQUARE] of this operative is activated, you can ignore any or all modifiers to that friendly operative's Movement characteristic for that activation (excluding the modifier from the Bulwakr Imperative).",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "HC",
+            "eqid": "CU",
+            "eqname": "Command Uplink*",
+            "eqdescription": "DIKTAT operative only. The operative can perfom the following action during the battle:\n<br/>\n<strong>Command Uplink (2 AP):</strong> \nAdd 1 CP to your pool. This operative cannot perform this action while within [PENT] of an enemy operative.",
+            "eqpts": "4"
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "HC",
+            "eqid": "ER",
+            "eqname": "Enriched Rounds",
+            "eqdescription": "Select one Radium Carbine or Mastercrafted Radium Pistol the operative is equipped with. \nAdd 1 to that weapon's Normal Damage characteristic for the battle.",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "HC",
+            "eqid": "MD",
+            "eqname": "Mechadendrites*",
+            "eqdescription": "The operative gains the following ability for the battle:\n<br/>\n<strong>Mechadendrites:</strong> \nOnce per Turning Point, during this operative's activation, it can perfom the Pick Up action for one less AP (to a minimum of 0 AP).",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "HC",
+            "eqid": "OG",
+            "eqname": "Optimised Gait",
+            "eqdescription": "RUSTSTALKER operative only. The operative gains the following ability for the battle:\n<br/>\n<strong>Optimised Gait:</strong> \nEach time this operative is activated, it can ignore the first distance of [CIRCLE] it travels for a climb, drop, or traverse during that activation.",
+            "eqpts": "1"
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "HC",
+            "eqid": "RF",
+            "eqname": "Refractor Field*",
+            "eqdescription": "LEADER operative only. The operative gains the following ability for the battle:\n<br/>\n<strong>Refractor Field:</strong> \nThis operative has a 4+ Invulnerable Save.",
+            "eqpts": "3"
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "HC",
+            "eqid": "SS",
+            "eqname": "Servo-Skull*",
+            "eqdescription": "The operative gains the following ability for the battle:\n<br/>\n<strong>Servo-Skull:</strong> \nOnce per Turning Point, during this operative's activation, it can perfom a mission action for one less AP (to a minimum of 0 AP).",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "HC",
+            "eqid": "ULVF",
+            "eqname": "Uplinked Vid-Feed",
+            "eqdescription": "RANGER or VANGUARD operative only. The oeprative gains the following ability for the battle:\n<br/>\n<strong>Uplinked Vid-Feed:</strong> \nEach time this operative performs an Overwatch action, for that action's shooting attack, do not worsen the Ballistic Skill characteristic of its ranged weapons as a result of performing an Overwatch action.",
+            "eqpts": "1"
+          }
+        ],
+        "killteamcomp": "A HUNTER CLADE kill team includes the following operatives:\n<ul>\n\t<li>\n\t\tOne HUNTER CLADE operative selected from the following list:\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\tSKITARRI RANGER ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Galvanic Rifle; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSKITARRI VANGUARD ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Radium Carbine; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER PRINCEPS\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR PRINCEPS operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n\t<li>\n\t\tNine HUNTER CLADE operatives selected from the following list:\n\t\t<ul>\n\t\t\t<li>SKITARII RANGER MARKSMAN</li>\n\t\t\t<li>SKITARII RANGER DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII RANGER GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII RANGER SURVEYOR</li>\n\t\t\t<li>SKITARII VANGUARD SHOCKTROOPER</li>\n\t\t\t<li>SKITARII VANGUARD DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII VANGUARD GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII VANGUARD SURVEYOR</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER ASSASSIN operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Chordclaw and Transonic Razor or Transonic Blades</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR TRACKER operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n</ul>\n\nYour Kill Team must include more SKITARII RANGER and SKITARII VANGUARD operatives that it does SICARIAN operatives.\n<br/><br/>\nYour Kill Team can only include up to two GUNNER operatives, unless it contains three or fewer SICARIAN operatives, in which case it can include up to three GUNNER operatives.\nEach FUNNER operative must be equipped with different ranged weapons.\n<br/><br/>\nYour Kill Team can only include up to one DIKTAT and one SURVEYOR operative.",
+        "fireteams": [
+          {
+            "factionid": "IMP",
+            "killteamid": "HC",
+            "fireteamid": "HC",
+            "fireteamname": "Hunter Clade",
+            "archetype": "Recon/Seek And Destroy",
+            "description": "",
+            "killteammax": 0,
+            "operatives": [
+              {
+                "factionid": "IMP",
+                "killteamid": "HC",
+                "fireteamid": "HC",
+                "opid": "SIIP",
+                "opname": "Sicarian Infiltrator Princeps",
+                "description": "Sicarian Infiltrator Princeps have a greater detachment from emotion than even others of their kind. No hunting mission is too dangerous for them, and no assassination task too harrowing.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "11",
+                "keywords": "HUNTER CLADE, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, SKITARII, LEADER, SICARIAN, INFILTRATOR, PRINCEPS",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SIIP",
+                    "wepid": "FB",
+                    "wepname": "Flechette Blaster",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SIIP",
+                        "wepid": "FB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "2+",
+                        "D": "2/3",
+                        "SR": "Rng [PENT], Fus, Relentless"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SIIP",
+                    "wepid": "SB",
+                    "wepname": "Stubcarbine",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SIIP",
+                        "wepid": "SB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "3/4",
+                        "SR": "Ceaseless"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SIIP",
+                    "wepid": "PW",
+                    "wepname": "Power Weapon",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SIIP",
+                        "wepid": "PW",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/6",
+                        "SR": "Lethal 5+"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SIIP",
+                    "wepid": "TG",
+                    "wepname": "Taser Goad",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SIIP",
+                        "wepid": "TG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Lethal 5+, Stun"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SIIP",
+                    "abilityid": "DP",
+                    "title": "Data Prehensiles",
+                    "description": "Once per Turning Point, during this operative's activation, it can perform a mission action for one less AP (to a minimum of 0 AP). This is not cumulative with the Servo-Skull equipment."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "HC",
+                "fireteamid": "HC",
+                "opid": "SIIT",
+                "opname": "Sicarian Infiltrator Tracker",
+                "description": "Experts in penetrating enemy strongholds, Sicarian Infiltrator Trackers emit a white noise that attacks their foes' sensoriums with a painful neurostatic bombardment.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "10",
+                "keywords": "HUNTER CLADE, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, SKITARII, SICARIAN, INFILTRATOR, TRACKER",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SIIT",
+                    "wepid": "FB",
+                    "wepname": "Flechette Blaster",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SIIT",
+                        "wepid": "FB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "3+",
+                        "D": "2/3",
+                        "SR": "Rng [PENT], Fus, Relentless"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SIIT",
+                    "wepid": "SB",
+                    "wepname": "Stubcarbine",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SIIT",
+                        "wepid": "SB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Ceaseless"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SIIT",
+                    "wepid": "PW",
+                    "wepname": "Power Weapon",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SIIT",
+                        "wepid": "PW",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/6",
+                        "SR": "Lethal 5+"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SIIT",
+                    "wepid": "TG",
+                    "wepname": "Taser Goad",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SIIT",
+                        "wepid": "TG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Lethal 5+, Stun"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "HC",
+                "fireteamid": "HC",
+                "opid": "SIRA",
+                "opname": "Sicarian Ruststalker Assassin",
+                "description": "Ruststalker Assassins fall upon their foes in a stabbing, slashing frenzy, unleashing a blur of attacks. They are selected for kill team duties due to their level of dogged determination to hunt quarries to the death, above and beyond others of their kind.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "10",
+                "keywords": "HUNTER CLADE, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, SKITARII, SICARIAN, RUSTSTALKER, ASSASSIN",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SIRA",
+                    "wepid": "CCTR",
+                    "wepname": "Chordclaw and Transonic Razor",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SIRA",
+                        "wepid": "CCTR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "Bal"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SIRA",
+                    "wepid": "TB",
+                    "wepname": "Transonic Blades",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SIRA",
+                        "wepid": "TB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "4/6",
+                        "SR": "Rending"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SIRA",
+                    "abilityid": "WS",
+                    "title": "Wasteland Stalkers",
+                    "description": "Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice, if it is in Cover, one additional die can be retained as a successful normal save as a result of Cover."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "HC",
+                "fireteamid": "HC",
+                "opid": "SIRP",
+                "opname": "Sicarian Ruststalker Princeps",
+                "description": "Excelling in assassination missions and surprise attacks, Princeps lead their Ruststalkers in the hunt for any theuir Tech-Priest masters have marked for death. In their lives, Princeps have claimed many foes in the most hazardous environments.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "11",
+                "keywords": "HUNTER CLADE, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, SKITARII, LEADER, SICARIAN, RUSTSTALKER, PRINCEPS",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SIRP",
+                    "wepid": "CCTR",
+                    "wepname": "Chordclaw and Transonic Razor",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SIRP",
+                        "wepid": "CCTR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "2+",
+                        "D": "4/6",
+                        "SR": "Bal, Rending"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SIRP",
+                    "abilityid": "WS",
+                    "title": "Wasteland Stalkers",
+                    "description": "Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice, if it is in Cover, one additional die can be retained as a successful normal save as a result of Cover."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "HC",
+                "fireteamid": "HC",
+                "opid": "SKRA",
+                "opname": "Skitarii Ranger Alpha",
+                "description": "Ranger Alphas are the most dedicated of their kind, relied upon to formulate reconnaissance and hunting parameters, and to lead their Hunter Clade in gruelling duties.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "HUNTER CLADE, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, LEADER, SKITARII, RANGER, ALPHA",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKRA",
+                    "wepid": "AP",
+                    "wepname": "Arc Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKRA",
+                        "wepid": "AP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "4/5",
+                        "SR": "Rng [PENT], AP1, Stun"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKRA",
+                    "wepid": "GR",
+                    "wepname": "Galvanic Rifle",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKRA",
+                        "wepid": "GR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "3/4",
+                        "SR": "Hvy, P1"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKRA",
+                    "wepid": "MCRP",
+                    "wepname": "Mastercrafter Radium Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKRA",
+                        "wepid": "MCRP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "2/4",
+                        "SR": "Rng [PENT], Bal, Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKRA",
+                    "wepid": "PBP",
+                    "wepname": "Phosphor Blast Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKRA",
+                        "wepid": "PBP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "4/5",
+                        "SR": "Rng [PENT], Blast [TRI], No Cover"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKRA",
+                    "wepid": "AM",
+                    "wepname": "Arc Maul",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKRA",
+                        "wepid": "AM",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "4/5",
+                        "SR": "Stun"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKRA",
+                    "wepid": "GB",
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKRA",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKRA",
+                    "wepid": "PW",
+                    "wepname": "Power Weapon",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKRA",
+                        "wepid": "PW",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "4/6",
+                        "SR": "Lethal 5+"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKRA",
+                    "wepid": "TG ",
+                    "wepname": "Taser Goad",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKRA",
+                        "wepid": "TG ",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": "Lethal 5+, Stun"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKRA",
+                    "abilityid": "CE",
+                    "title": "Control Edict",
+                    "description": "Once per Turning Point, when a ready friendly HUNTER CLADE operative is activated within [SQUARE] of this operative, you can select another ready friendly HUNTER CLADE operative within [SQUARE] of this operative that is eligible to be activated. After that first friendly operative has been activated, you can immediately activate that other friendly operative."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "HC",
+                "fireteamid": "HC",
+                "opid": "SKRD",
+                "opname": "Skitarii Ranger Diktat",
+                "description": "The enhanced data-tethers carried by these Skitarii enable them to communicate directly with their Tech-Priest masters. It is a great honour to be chosen to carry one, as it is seen as the mouthpiece of the Tech-Priests, who are said to be prophets of the Machine God itself.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "HUNTER CLADE, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, SKITARII, RANGER, DIKTAT",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKRD",
+                    "wepid": "GR",
+                    "wepname": "Galvanic Rifle",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKRD",
+                        "wepid": "GR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Hvy, P1"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKRD",
+                    "wepid": "GB",
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKRD",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKRD",
+                    "uniqueactionid": "EDT",
+                    "title": "Enhanced Data-Tether",
+                    "description": "Select one friendly HUNTER CLADE operative Visible to and within [PENT] of this operative. Add 1 to its APL. This operative cannot perform this action while within Engagement Range of an enemy operative",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "HC",
+                "fireteamid": "HC",
+                "opid": "SKRG",
+                "opname": "Skitarii Ranger Gunner",
+                "description": "In the hunt for the most dangerous of hereteks or xenos aggressors, a forge world's ruling Tech-Priests may issue high-performing Hunter Clade Rangers with advanced weaponry. Strange, esoteric technologies power such armaments, redndering them lethal indeed to the Rangers' foes.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "HUNTER CLADE, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, SKITARII, RANGER, GUNNER",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKRG",
+                    "wepid": "AR",
+                    "wepname": "Arc Rifle",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKRG",
+                        "wepid": "AR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "AP1, Stun"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKRG",
+                    "wepid": "PC",
+                    "wepname": "Plasma Caliver",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKRG",
+                        "wepid": "PC",
+                        "profileid": "0",
+                        "name": "Standard",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "5/6",
+                        "SR": "AP1"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKRG",
+                        "wepid": "PC",
+                        "profileid": "1",
+                        "name": "Supercharge",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "5/6",
+                        "SR": "AP2, Hot"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKRG",
+                    "wepid": "TA",
+                    "wepname": "Transuranic Arquebus",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKRG",
+                        "wepid": "TA",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "5/3",
+                        "SR": "AP1, Hvy, Unwieldy, MW3"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKRG",
+                    "wepid": "GB",
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKRG",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "HC",
+                "fireteamid": "HC",
+                "opid": "SKRM",
+                "opname": "Skitarii Ranger Marksman",
+                "description": "Skitarii Ranger Marksmen hunt the foes of the Machine God relentlessly, and their bionically enhanced stamina is legendary. They pursue like patient predators, inexorably tacking their prey before taking the killing shot with their long rifles of ancient design.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "HUNTER CLADE, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, SKITARII, RANGER, MARKSMAN",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKRM",
+                    "wepid": "GR",
+                    "wepname": "Galvanic Rifle",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKRM",
+                        "wepid": "GR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Hvy, P1"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKRM",
+                    "wepid": "GB",
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKRM",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "HC",
+                "fireteamid": "HC",
+                "opid": "SKRS",
+                "opname": "Skitarii Ranger Surveyor",
+                "description": "The omnispex wielded by these Skitarii is a device fitted with a Raptor-class machine spirit. This can glean all kinds of data from a killzone and from a Hunter Clade's enemies. Not only is it useful for the kill team in battle, but such information is a fine devotion to the Machine God itself.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "HUNTER CLADE, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, SKITARII, RANGER, SURVEYOR",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKRS",
+                    "wepid": "GR",
+                    "wepname": "Galvanic Rifle",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKRS",
+                        "wepid": "GR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Hvy, P1"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKRS",
+                    "wepid": "GB",
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKRS",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKRS",
+                    "uniqueactionid": "OSP",
+                    "title": "Omnispex",
+                    "description": "Select one friendly HUNTER CLADE operative Visible to and within [SQUARE] of this operative, then select one enemy operative. Until the end of the Turning Point, each time that friendly operative makes a shooting attack, for that shooting attack:\n<ul>\n<li>Areas of smoke have no effect when determining Line of Sight to that enemy operative</li>\n<li>That enemy oerative is not Obscured</li>\n<li>If that enemy operative is the target, that friendly operative's ranged weapons have the No Cover special rule</li>\n</ul>\nThis operative cannot perform this active while within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "HC",
+                "fireteamid": "HC",
+                "opid": "SKVA",
+                "opname": "Skitarii Vanguard Alpha",
+                "description": "Skitarii Alphas have passed a point called the Crux Mechanicus. With bodies more machine than flesh, they enach Tech-Priests overseers' orders like holy commands",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "HUNTER CLADE, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, SKITARII, VANGUARD, GUNNER",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVA",
+                    "wepid": "AP",
+                    "wepname": "Arc Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKVA",
+                        "wepid": "AP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "4/5",
+                        "SR": "Rng [PENT], AP1, Stun"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVA",
+                    "wepid": "MCRP",
+                    "wepname": "Mastercrafter Radium Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKVA",
+                        "wepid": "MCRP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "2/4",
+                        "SR": "Rng [PENT], Bal, Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVA",
+                    "wepid": "PBP",
+                    "wepname": "Phosphor Blast Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKVA",
+                        "wepid": "PBP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "4/5",
+                        "SR": "Rng [PENT], Blast [TRI], No Cover"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVA",
+                    "wepid": "RC",
+                    "wepname": "Radium Carbine",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKVA",
+                        "wepid": "RC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "2/4",
+                        "SR": "Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVA",
+                    "wepid": "AM",
+                    "wepname": "Arc Maul",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKVA",
+                        "wepid": "AM",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "4/5",
+                        "SR": "Stun"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVA",
+                    "wepid": "GB",
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKVA",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVA",
+                    "wepid": "PW",
+                    "wepname": "Power Weapon",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKVA",
+                        "wepid": "PW",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "4/6",
+                        "SR": "Lethal 5+"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVA",
+                    "wepid": "TG ",
+                    "wepname": "Taser Goad",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKVA",
+                        "wepid": "TG ",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": "Lethal 5+, Stun"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVA",
+                    "abilityid": "CE",
+                    "title": "Control Edict",
+                    "description": "Once per Turning Point, when a ready friendly HUNTER CLADE operative is activated within [SQUARE] of this operative, you can select another ready friendly HUNTER CLADE operative within [SQUARE] of this operative that is eligible to be activated. After that first friendly operative has been activated, you can immediately activate that other friendly operative."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVA",
+                    "abilityid": "RS",
+                    "title": "Red Saturation",
+                    "description": "While an enemy operative is Visible to and within [CIRCLE] of friendly operatives with this ability, that enemy operative is treated as being injured  (only subtract [CIRCLE] from that enemy operative's Movement characteristic as a result of it being injured if it is activated, Visible to, and within [CIRCLE] of friendly operatives with this ability)."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "HC",
+                "fireteamid": "HC",
+                "opid": "SKVD",
+                "opname": "Skitarii Vanguard Diktat",
+                "description": "To be a Diktat amond Skitarii is to be obeyed wihtout question, due to their direct link with the Tech-Priests. Hunter Clades receiving word from their masters through these warriors are filled with zealous conviction, willing to drive through unimaginable terrors to find and slay their quarry.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "HUNTER CLADE, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, SKITARII, VANGUARD, DIKTAT",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVD",
+                    "wepid": "RC",
+                    "wepname": "Radium Carbine",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKVD",
+                        "wepid": "RC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2/4",
+                        "SR": "Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVD",
+                    "wepid": "GB",
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKVD",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVD",
+                    "uniqueactionid": "EDT",
+                    "title": "Enhanced Data-Tether",
+                    "description": "Select one friendly HUNTER CLADE operative Visible to and within [PENT] of this operative. Add 1 to its APL. This operative cannot perform this action while within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVD",
+                    "abilityid": "RS",
+                    "title": "Red Saturation",
+                    "description": "While an enemy operative is Visible to and within [CIRCLE] of friendly operatives with this ability, that enemy operative is treated as being injured  (only subtract [CIRCLE] from that enemy operative's Movement characteristic as a result of it being injured if it is activated, Visible to, and within [CIRCLE] of friendly operatives with this ability)."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "HC",
+                "fireteamid": "HC",
+                "opid": "SKVG",
+                "opname": "Skitarii Vanguard Gunner",
+                "description": "These Skitarii wield some of the most dangerous man-portable weapons in a forge world's arsenal - to the carrier as will as the Omnissiah's enemies. To have survived long enough to join a Hunter Clade while carrying this kind of weapon shows the Machine God's favour.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "HUNTER CLADE, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, SKITARII, VANGUARD, GUNNER",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVG",
+                    "wepid": "AR",
+                    "wepname": "Arc Rifle",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKVG",
+                        "wepid": "AR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "AP1, Stun"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVG",
+                    "wepid": "PC",
+                    "wepname": "Plasma Caliver",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKVG",
+                        "wepid": "PC",
+                        "profileid": "0",
+                        "name": "Standard",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "5/6",
+                        "SR": "AP1"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKVG",
+                        "wepid": "PC",
+                        "profileid": "1",
+                        "name": "Supercharge",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "5/6",
+                        "SR": "AP2, Hot"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVG",
+                    "wepid": "TA",
+                    "wepname": "Transuranic Arquebus",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKVG",
+                        "wepid": "TA",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "5/3",
+                        "SR": "AP1, Hvy, Unwieldy, MW3"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVG",
+                    "wepid": "GB",
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKVG",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVG",
+                    "abilityid": "RS",
+                    "title": "Red Saturation",
+                    "description": "While an enemy operative is Visible to and within [CIRCLE] of friendly operatives with this ability, that enemy operative is treated as being injured  (only subtract [CIRCLE] from that enemy operative's Movement characteristic as a result of it being injured if it is activated, Visible to, and within [CIRCLE] of friendly operatives with this ability)."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "HC",
+                "fireteamid": "HC",
+                "opid": "SKVST",
+                "opname": "Skitarii Vanguard Shocktrooper",
+                "description": "So much radiation pours from these Skitarii and their ammunnition that they contaminate the air around them. Showing toughness, resilience, and dauntless bravery above others of their kind, Vanguard Shocktroopers advance into the fray, securing key positions for their Hunter Clade.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "HUNTER CLADE, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, SKITARII, VANGUARD, SHOCKTROOPER",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVST",
+                    "wepid": "RC",
+                    "wepname": "Radium Carbine",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKVST",
+                        "wepid": "RC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2/4",
+                        "SR": "Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVST",
+                    "wepid": "GB",
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKVST",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVST",
+                    "abilityid": "RS",
+                    "title": "Red-Saturation",
+                    "description": "While an enemy operative is Visible to and within [CIRCLE] of friendly operatives with this ability, that enemy operative is treated as being injured  (only subtract [CIRCLE] from that enemy operative's Movement characteristic as a result of it being injured if it is activated, Visible to, and within [CIRCLE] of friendly operatives with this ability)."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "HC",
+                "fireteamid": "HC",
+                "opid": "SKVS",
+                "opname": "Skitarii Vanguard Surveyor",
+                "description": "The omnispex's machine spirit can read heat emissions, data signatures, and biological waveforms, even at extreme range. Should it be kept focused for an extended period, it will reveal the enemy's weaknesses. This is perfect for Hunter Clades, whose primary purpose is to eliminate key targets.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "HUNTER CLADE, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, SKITARII, VANGUARD, SURVEYOR",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVS",
+                    "wepid": "RC",
+                    "wepname": "Radium Carbine",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKVS",
+                        "wepid": "RC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2/4",
+                        "SR": "Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVS",
+                    "wepid": "GB",
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "HC",
+                        "fireteamid": "HC",
+                        "opid": "SKVS",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVS",
+                    "uniqueactionid": "OSP",
+                    "title": "Omnispex",
+                    "description": "Select one friendly HUNTER CLADE operative Visible to and within [SQUARE] of this operative, then select one enemy operative. Until the end of the Turning Point, each time that friendly operative makes a shooting attack, for that shooting attack:\n<ul>\n<li>Areas of smoke have no effect when determining Line of Sight to that enemy operative</li>\n<li>That enemy oerative is not Obscured</li>\n<li>If that enemy operative is the target, that friendly operative's ranged weapons have the No Cover special rule</li>\n</ul>\nThis operative cannot perform this active while within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "HC",
+                    "fireteamid": "HC",
+                    "opid": "SKVS",
+                    "abilityid": "RS",
+                    "title": "Red Saturation",
+                    "description": "While an enemy operative is Visible to and within [CIRCLE] of friendly operatives with this ability, that enemy operative is treated as being injured  (only subtract [CIRCLE] from that enemy operative's Movement characteristic as a result of it being injured if it is activated, Visible to, and within [CIRCLE] of friendly operatives with this ability)."
+                  }
+                ],
+                "fireteammax": 0
+              }
+            ],
+            "fireteamcomp": "A HUNTER CLADE fire team includes the following operatives:\n<ul>\n\t<li>\n\t\tOne HUNTER CLADE operative selected from the following list:\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\tSKITARRI RANGER ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Galvanic Rifle; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSKITARRI VANGUARD ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Radium Carbine; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER PRINCEPS\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR PRINCEPS operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n\t<li>\n\t\tNine HUNTER CLADE operatives selected from the following list:\n\t\t<ul>\n\t\t\t<li>SKITARII RANGER MARKSMAN</li>\n\t\t\t<li>SKITARII RANGER DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII RANGER GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII RANGER SURVEYOR</li>\n\t\t\t<li>SKITARII VANGUARD SHOCKTROOPER</li>\n\t\t\t<li>SKITARII VANGUARD DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII VANGUARD GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII VANGUARD SURVEYOR</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER ASSASSIN operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Chordclaw and Transonic Razor or Transonic Blades</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR TRACKER operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n</ul>\n\nYour Kill Team must include more SKITARII RANGER and SKITARII VANGUARD operatives that it does SICARIAN operatives.\n<br/><br/>\nYour Kill Team can only include up to two GUNNER operatives, unless it contains three or fewer SICARIAN operatives, in which case it can include up to three GUNNER operatives.\nEach FUNNER operative must be equipped with different ranged weapons.\n<br/><br/>\nYour Kill Team can only include up to one DIKTAT and one SURVEYOR operative."
+          }
+        ]
+      },
+      {
+        "factionid": "IMP",
         "killteamid": "TOE",
         "killteamname": "Talons of the Emperor",
         "description": "The Adeptus Custodes, known as the Legio Custodes during the Great Crusade and Horus Heresy eras, is the Imperial adepta responsible for protecting the Imperial Palace and the physical body of the Emperor of Mankind, as well as serving as His most important emissaries, His companions, and the keepers of His many secrets. \n<br/><br/>\nThe Sisters of Silence are an all-female order of Imperial Witch Hunters tasked with hunting down rogue psykers and other psychic threats across the galaxy. They also help to enforce the Imperium's rigid laws on the use of psychic powers. ",
