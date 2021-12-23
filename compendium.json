@@ -7,7 +7,7 @@
       {
         "factionid": "AEL",
         "killteamid": "COM",
-        "killteamname": "Commorrite",
+        "killteamname": "Commorrites",
         "description": "The Drukhari or \"Dark Ones\" in the Aeldari Lexicon, also known to outsiders as the Dark Eldar, are a forsaken and corrupt Aeldari kindred, the sadistic, malicious counterparts of the Asuryani. Like their cousins of the craftworlds, the Drukhari are an ancient and highly advanced alien race of fey humanoids.\n<br\/><br\/>\nThe alternative term \"Dark Eldar,\" or Eladrith Ynneas in the Aeldari tongue, was first coined by the Drukhari archon and Supreme Overlord of Commorragh Asdrubael Vect in the 32nd Millennium.\n<br\/><br\/>\nThe Drukhari's armies, like their Craftworld Aeldari counterparts, usually have the advantages of mobility and advanced technology, though they are often lacking in resilience and numbers. ",
         "ploys": {
           "strat": [
@@ -165,7 +165,7 @@
             "factionid": "AEL",
             "killteamid": "COM",
             "fireteamid": "KBL",
-            "fireteamname": "Kabalite",
+            "fireteamname": "Kabalites",
             "archetype": "Security\/Recon",
             "description": "",
             "killteammax": 0,
@@ -2937,7 +2937,7 @@
       {
         "factionid": "CHAOS",
         "killteamid": "DAEM",
-        "killteamname": "Chaos Daemon",
+        "killteamname": "Chaos Daemons",
         "description": "A Chaos Daemon, or simply Daemon, also known as a \"Neverborn\" amongst the forces of Chaos, is an intelligent and usually malevolent entity of the Warp comprised of purely psychic energy. Daemons are sentient embodiments of Chaos and collectively the greatest servants of the Chaos Gods and of Chaos itself as a universal force. \n <br\/><br\/>\n Daemons are created at the whim of one of the four major Chaos Gods from a fraction of the god's own power within the Immaterium and act as an extension of its will. A Daemon's appearance and intrinsic character reflect the god's own nature. These Daemons may be reabsorbed into the god's psychic signature in the Warp at their whim.",
         "ploys": {
           "strat": [
@@ -2995,7 +2995,7 @@
               "ployname": "Split",
               "ploytype": "T",
               "CP": "1\/2",
-              "description": "Use this Tactical Ploy when a friendly PINK HORROR operative is incapacitated for 2 CP, or when a friendly BLUE HORROR operative is incapacitated for 1 CP.\n<ul>\n<li>Before that PINK HORROR operative is removed from the killzone, set up two BLUE HORROR operatives as close as possible to that operative and not within Engagement Range of enemy operatives.<\/li>\n<li>Before that BLUE HORROR operative is removed from the killzone, set up one BRIMSTONE HORROR operative as close as possible to that operative and not within Engagement Range of enemy operatives.<\/li>\n<\/ul>\nIn either case, set up those oepratives with the same order as the previous operative (including if it was ready or activated). In narrative play, any operatives set up as a result of this Tactical Ploy are no longer part of your kill team after the game."
+              "description": "Use this Tactical Ploy when a friendly PINK HORROR operative is incapacitated for 2 CP, or when a friendly BLUE HORROR operative is incapacitated for 1 CP.\n<ul>\n<li>Before that PINK HORROR operative is removed from the killzone, set up two BLUE HORROR operatives as close as possible to that operative and not within Engagement Range of enemy operatives.<\/li>\n<li>Before that BLUE HORROR operative is removed from the killzone, set up one BRIMSTONE HORROR operative as close as possible to that operative and not within Engagement Range of enemy operatives.<\/li>\n<\/ul>\nIn either case, set up those operatives with the same order as the previous operative (including if it was ready or activated). In narrative play, any operatives set up as a result of this Tactical Ploy are no longer part of your kill team after the game."
             },
             {
               "factionid": "CHAOS",
@@ -4251,7 +4251,7 @@
             "factionid": "CHAOS",
             "killteamid": "DG",
             "fireteamid": "PM",
-            "fireteamname": "Plague Marine",
+            "fireteamname": "Plague Marines",
             "archetype": "Seek And Destroy\/Security",
             "description": "",
             "killteammax": 0,
@@ -5051,7 +5051,7 @@
             "factionid": "CHAOS",
             "killteamid": "DG",
             "fireteamid": "PW",
-            "fireteamname": "PoxWalker",
+            "fireteamname": "PoxWalkers",
             "archetype": "Infiltration\/Security",
             "description": "",
             "killteammax": 0,
@@ -6116,7 +6116,7 @@
       {
         "factionid": "CHAOS",
         "killteamid": "CSM",
-        "killteamname": "Traitor Space Marine",
+        "killteamname": "Traitor Space Marines",
         "description": "Chaos Space Marines, also sometimes called Traitor Marines, Renegade Marines, or Heretic Astartes, are former Space Marines of the Imperium of Man who have chosen to abandon the service of the Emperor of Mankind and dedicate themselves to Chaos to achieve their own ends.\n<br\/><br\/> \n Such corrupt Astartes usually belong to one of the nine original Traitor Legions that betrayed the Emperor during the ancient civil war called the Horus Heresy more than 10,000 standard years ago, while others come from Space Marine Chapters created long after the Heresy ended that have turned Renegade. Chaos can corrupt Astartes of any time and place just as its siren call leads many lesser men and women to their damnation.",
         "ploys": {
           "strat": [
@@ -8491,7 +8491,7 @@
               "ployname": "Neurostatic Interference",
               "ploytype": "T",
               "CP": "1",
-              "description": "Use this Tactical Ploy at the start of the Firefight phase. Select one enemy operative Visible to and within [PENT] of a friendly INFILTRATOR operative.\nUntil the end of the Turning Point, that enemy oeprative cannot be activated until another enemy operative has been activated (unless it is the only remaining enemy operative)."
+              "description": "Use this Tactical Ploy at the start of the Firefight phase. Select one enemy operative Visible to and within [PENT] of a friendly INFILTRATOR operative.\nUntil the end of the Turning Point, that enemy operative cannot be activated until another enemy operative has been activated (unless it is the only remaining enemy operative)."
             }
           ]
         },
@@ -9814,7 +9814,7 @@
       {
         "factionid": "IMP",
         "killteamid": "GK",
-        "killteamname": "Grey Knight",
+        "killteamname": "Grey Knights",
         "description": "The Grey Knights are a secret and mysterious Chapter of Space Marines specifically tasked with combating the dangerous daemonic entities of the Warp and all those who wield the corrupt power of the Chaos Gods.\n<br\/><br\/>\nThey were created by the Emperor Himself with the aid of Malcador the Sigillite at the time of the Horus Heresy to serve as Humanity's greatest weapon against the threat posed by the existence of Chaos. ",
         "ploys": {
           "strat": [
@@ -12270,7 +12270,7 @@
               "ployname": "Bring It Down!",
               "ploytype": "T",
               "CP": "1",
-              "description": "Use this Tactical Ploy after a friendly IMPERIAL GUARD operative makes a shooting attack.\nUntil the end of the Turning Point, each time another friendly IMPERIAL GUARD oeprative makes a shooting attack against the target of that shooting attack, in the Roll Attack Dice step of that subsequent shooting attack, you can re-roll any or all of your attack dice."
+              "description": "Use this Tactical Ploy after a friendly IMPERIAL GUARD operative makes a shooting attack.\nUntil the end of the Turning Point, each time another friendly IMPERIAL GUARD operative makes a shooting attack against the target of that shooting attack, in the Roll Attack Dice step of that subsequent shooting attack, you can re-roll any or all of your attack dice."
             }
           ]
         },
@@ -12854,7 +12854,7 @@
             "factionid": "IMP",
             "killteamid": "IG",
             "fireteamid": "TS",
-            "fireteamname": "Tempestus Scion",
+            "fireteamname": "Tempestus Scions",
             "archetype": "Security\/Seek And Destroy\/Infiltration\/Recon",
             "description": "",
             "killteammax": 0,
@@ -13402,8 +13402,1981 @@
       },
       {
         "factionid": "IMP",
+        "killteamid": "NOV",
+        "killteamname": "Novitiates",
+        "description": "Novitiates are female Progena of the Schola Progeniums, who have been selected to undergo training to join the Adepta Sororitas. These aspirants are then given a Ring of Suffrage to wear and take the Oaths of Adherence, in order to become Novitiates.\n<br\/><br\/>\nTheir training is overseen by veteran Sororitas, who ensure the Novitiates master the Adepta's fundamentals and this may last a number of years. Even if a Novitiate has already been chosen to serve within a particular Order during that time, their trainers will demand that the Novitiates know the basic skills of all of the Adepta's Orders. This is so the Novitiates can be a tool in the Emperor's hand, to either to cure, learn, counsel or kill. ",
+        "ploys": {
+          "strat": [
+            {
+              "factionid": "IMP",
+              "killteamid": "NOV",
+              "ployid": "AOTE",
+              "ployname": "Aegis Of The Emperor",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time an enemy operative within [PENT] of a friendly NOVITIATE operative performs a psychic action, that enemy operative suffers 1 mortal wound."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "NOV",
+              "ployid": "DOTF",
+              "ployname": "Defenders Of The Faith",
+              "ploytype": "S",
+              "CP": "2",
+              "description": "At the start of the Firefight phase, one friendly NOVITIATE operative that is within of the centre of each objective marker can:\n<li>Perform a free Shoot action if it has an Engage order.<\/li>\n<li>Perform a free Fight action if it has an Engage order.<\/li>"
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "NOV",
+              "ployid": "EOTE",
+              "ployname": "Eye Of The Emperor",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, remove the Range special rule from autopistols, bolt pistols and plasma pistols that friendly NOVITIATE operatives are equipped with."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "NOV",
+              "ployid": "SR",
+              "ployname": "Sanctified Rounds",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, add 1 to both Damage characteristics of autoguns and autopistols that friendly NOVITIATE operatives are equipped with."
+            }
+          ],
+          "tac": [
+            {
+              "factionid": "IMP",
+              "killteamid": "NOV",
+              "ployid": "BW",
+              "ployname": "Burning Wrath",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Select one friendly NOVITIATE PURGATUS operative. Until the end of the turning point, that operative\u2019s Ministorum flamer has the following profile:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name<\/th>\n        <th>A<\/th>\n        <th>BS<\/th>\n        <th>D<\/th>\n    <\/tr>\n    <tr>\n\t\t<td>Ministorum Flamer<\/td>\n        <td>5<\/td>\n        <td>2+<\/td>\n        <td>3\/4<\/td>\n    <\/tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules<\/th>\n    <\/tr>\n    <tr>\n\t\t<td>Inferno 2, Rng [PENT], Tor [CIRCLE]<\/td>\n    <\/tr>\n<\/table>"
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "NOV",
+              "ployid": "GM",
+              "ployname": "Glorious Martyrdom",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy when a friendly NOVITIATE operative is incapacitated. Each enemy operative within [CIRCLE] of and Visible to that operative suffer 1 mortal wound, and you gain D3 Faith points."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "NOV",
+              "ployid": "RC",
+              "ployname": "Righteous Condemnation",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy after rolling your attack dice for a shooting attack made by a friendly NOVITIATE CONDEMNOR operative. You can re-roll any or all of your attack dice for that shooting attack."
+            }
+          ]
+        },
+        "equipments": [
+          {
+            "factionid": "IMP",
+            "killteamid": "NOV",
+            "eqid": "AC",
+            "eqname": "Auto-Chastiser",
+            "eqdescription": "This operative gains the following ability for the battle:\n<br\/>\n<strong>Auto-Chastiser:<\/strong> Each time this operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, you can re-roll any or all of your attack dice results of 1. If any of your re-rolled dice also result in 1, that operative suffers 1 mortal wound.",
+            "eqpts": "1"
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "NOV",
+            "eqid": "AWS",
+            "eqname": "Adamantium-Weave Surplice",
+            "eqdescription": "This operative gains the following ability for the battle:\n<br\/>\n<strong>Adamantium-Weave Surplice:<\/strong> This operative has a Save characteristic of 3+ instead of 4+.",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "NOV",
+            "eqid": "CE",
+            "eqname": "Chaplet Ecclesiaticus",
+            "eqdescription": "This operative gains the following ability for the battle:\n<br\/>\n<strong>Chaplet Ecclesiaticus:<\/strong> Each time this operative is activated, roll one D6: on a 6, add 1 to its APL.",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "NOV",
+            "eqid": "FG",
+            "eqname": "Frag Grenade",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br \/>\n  <table width=\"100%\" class=\"eqtable\">\n  <tr>\n  \t<th>Name<\/th>\n      <th>A<\/th>\n      <th>BS<\/th>\n      <th>D<\/th>\n  <\/tr>\n  <tr>\n  \t<td>Frag Grendate<\/td>\n      <td>4<\/td>\n      <td>3+<\/td>\n      <td>2\/3<\/td>\n  <\/tr>\n  <tr>\n  \t<th colspan=\"4\">Special Rules<\/th>\n  <\/tr>\n  <tr>\n  \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect<\/td>\n  <\/tr>\n  <\/table>",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "NOV",
+            "eqid": "IOF",
+            "eqname": "Icon Of Faith*",
+            "eqdescription": "The operative gains the following ability for the battle:\n<br\/>\n<strong>Icon of Faith:<\/strong> Once per battle, this operative can perform one Act of Faith without you needing to subtract Faith points.",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "NOV",
+            "eqid": "KG",
+            "eqname": "Krak Grenade",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br \/>\n <table width=\"100%\" class=\"eqtable\">\n <tr>\n \t<th>Name<\/th>\n     <th>A<\/th>\n     <th>BS<\/th>\n     <th>D<\/th>\n <\/tr>\n <tr>\n \t<td>Krak Grendate<\/td>\n     <td>4<\/td>\n     <td>3+<\/td>\n     <td>4\/5<\/td>\n <\/tr>\n <tr>\n \t<th colspan=\"4\">Special Rules<\/th>\n <\/tr>\n <tr>\n \t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect<\/td>\n <\/tr>\n <\/table>",
+            "eqpts": "3"
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "NOV",
+            "eqid": "SR",
+            "eqname": "Sainted Reliquae",
+            "eqdescription": "This operative gains the following ability for the battle:\n<br\/>\n<strong>Sainted Reliquae:<\/strong> Each time this operative strikes with a critical hit, you gain 1 Faith point.",
+            "eqpts": "2"
+          }
+        ],
+        "killteamcomp": "A NOVITIATE KillTeam includes:\n<ul>\n        <li>\n                1 NOVITIATE SUPERIOR operative equipped with one of the following options:\n                <ul>\n                        <li>Boltgun; Gun Butt<\/li>\n                        <li>Bolt Pistol or Plasma Pistol; Power Weapon<\/li>\n                <\/ul>\n        <\/li>\n    <li>\n                9 NOVITIATE operatives selected from the following list:\n                <ul>\n                        <li>\n                                NOVITIATE MILITANT operative each separately equipped with one of the following options:\n                                <ul>\n                                        <li>Autopistol; Novitiate Blade<\/li>\n                                        <li>Autogun; Gun Butt<\/li>\n                                <\/ul>\n                        <\/li>\n                        <li>NOVITIATE PENITENT<\/li>\n                        <li>NOVITIATE PRONATUS<\/li>\n                        <li>NOVITIATE EXACTOR<\/li>\n                        <li>NOVITIATE RELIQUARIUS<\/li>\n                        <li>NOVITIATE HOSPITALLER<\/li>\n                        <li>NOVITIATE PRECEPTOR<\/li>\n                        <li>NOVITIATE DIALOGUS<\/li>\n                        <li>NOVITIATE DUELLIST<\/li>\n                        <li>NOVITIATE CONDEMNOR<\/li>\n                        <li>NOVITIATE PURGATUS<\/li>\n                <\/ul>\n<br\/><br\/>\nNOVITIATE MILITANT operatives can be selected up to nine times, NOVITIATE PURGATUS operatives can be selected up to two times and each other option above can be selected once.",
+        "fireteams": [
+          {
+            "factionid": "IMP",
+            "killteamid": "NOV",
+            "fireteamid": "NOV",
+            "fireteamname": "Novitiates",
+            "archetype": "",
+            "description": "Security\/Recon",
+            "killteammax": 0,
+            "operatives": [
+              {
+                "factionid": "IMP",
+                "killteamid": "NOV",
+                "fireteamid": "NOV",
+                "opid": "CON",
+                "opname": "Novitiate Condemnor",
+                "description": "Sorcerers and witches are among the Adepta Sororitas\u2019 most hated foes. Such psychic abominations are terrible threats to the Emperor\u2019s realm, and cutting them down is a key priority. Novitiates Condemnor are especially equipped to deal with this kind of enemy.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "NOVITIATE, IMPERIUM, ADEPTA SORORITAS, <ORDER>, NOVITIATE CONDEMNOR",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "CON",
+                    "wepid": "CST",
+                    "wepname": "Condemnor Stakethrower",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "CON",
+                        "wepid": "CST",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2\/3",
+                        "SR": "Silent, P1, MW2"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "CON",
+                    "wepid": "NR",
+                    "wepname": "Null Rod",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "CON",
+                        "wepid": "NR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3\/3",
+                        "SR": "Stun"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "CON",
+                    "abilityid": "AOC",
+                    "title": "Armour Of Contempt (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "CON",
+                    "abilityid": "BA",
+                    "title": "Blinding Aura (2 Faith Points)",
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "CON",
+                    "abilityid": "BR",
+                    "title": "Blessed Rejuvenation (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "CON",
+                    "abilityid": "DS",
+                    "title": "Divine Shield (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "CON",
+                    "abilityid": "EP",
+                    "title": "Emperor's Protection (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "CON",
+                    "abilityid": "FB",
+                    "title": "Faithful Blessing (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "CON",
+                    "abilityid": "GL",
+                    "title": "Guiding Light (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "CON",
+                    "abilityid": "VS",
+                    "title": "Vengeful Strike (3 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "NOV",
+                "fireteamid": "NOV",
+                "opid": "DIA",
+                "opname": "Novitiate Dialogus",
+                "description": "These Novitiates are in training to join the Orders Dialogus, while \nlearning warfare under the guidance of experienced Battle Sisters. Their\n training in cryptography makes them of great value to kill teams - they\n can unlock obscure ciphers and find hidden patterns in communiques.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "NOVITIATE, IMPERIUM, ADEPTA SORORITAS, <ORDER>, NOVITIATE PRECEPTOR",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "DIA",
+                    "wepid": "AP",
+                    "wepname": "Autopistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "DIA",
+                        "wepid": "AP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2\/3",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "DIA",
+                    "wepid": "DS",
+                    "wepname": "Dialogus Stave",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "DIA",
+                        "wepid": "DS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "3\/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "DIA",
+                    "abilityid": "AOC",
+                    "title": "Armour Of Contempt (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "DIA",
+                    "abilityid": "BA",
+                    "title": "Blinding Aura (2 Faith Points)",
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "DIA",
+                    "abilityid": "BR",
+                    "title": "Blessed Rejuvenation (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "DIA",
+                    "abilityid": "DS",
+                    "title": "Divine Shield (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "DIA",
+                    "abilityid": "EP",
+                    "title": "Emperor's Protection (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "DIA",
+                    "abilityid": "FB",
+                    "title": "Faithful Blessing (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "DIA",
+                    "abilityid": "GL",
+                    "title": "Guiding Light (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "DIA",
+                    "abilityid": "VS",
+                    "title": "Vengeful Strike (3 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "NOV",
+                "fireteamid": "NOV",
+                "opid": "DUE",
+                "opname": "Novitiate Duellist",
+                "description": "Some Novitiates have a natural affinity for bladework, their reaction times and dexterity greater than that of their fellow warriors. They take to the field eager to prove their skill, wishing to claim the heads of the most capable enemies and emulate the warrior-saints of legend.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "NOVITIATE, IMPERIUM, ADEPTA SORORITAS, <ORDER>, NOVITIATE DUELLIST",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "DUE",
+                    "wepid": "AP",
+                    "wepname": "Autopistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "DUE",
+                        "wepid": "AP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2\/3",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "DUE",
+                    "wepid": "DB",
+                    "wepname": "Duelling Blades",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "DUE",
+                        "wepid": "DB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "3\/4",
+                        "SR": "Lethal 5+, Expert Riposte"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "DUE",
+                    "abilityid": "AOC",
+                    "title": "Armour Of Contempt (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "DUE",
+                    "abilityid": "BA",
+                    "title": "Blinding Aura (2 Faith Points)",
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "DUE",
+                    "abilityid": "BR",
+                    "title": "Blessed Rejuvenation (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "DUE",
+                    "abilityid": "DS",
+                    "title": "Divine Shield (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "DUE",
+                    "abilityid": "EP",
+                    "title": "Emperor's Protection (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "DUE",
+                    "abilityid": "FB",
+                    "title": "Faithful Blessing (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "DUE",
+                    "abilityid": "GL",
+                    "title": "Guiding Light (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "DUE",
+                    "abilityid": "VS",
+                    "title": "Vengeful Strike (3 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "NOV",
+                "fireteamid": "NOV",
+                "opid": "EXA",
+                "opname": "Novitiate Exactor",
+                "description": "Some zealous Novitiates are given neural whips with which to inflict \nphysical and mental anguish on the foe. On occasion, the bearer will \nturn these weapons on fellow Novitiates they feel are lacking in \ncommitment and need to be dissuaded from lapses in bravery and faith.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "NOVITIATE, IMPERIUM, ADEPTA SORORITAS, <ORDER>, NOVITIATE EXACTOR",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "EXA",
+                    "wepid": "NWR",
+                    "wepname": "Neural Whips",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "EXA",
+                        "wepid": "NWR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "3+",
+                        "D": "2\/3",
+                        "SR": "Rng [SQUARE], Lethal 5+, Stun"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "EXA",
+                    "wepid": "NWM",
+                    "wepname": "Neural Whips",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "EXA",
+                        "wepid": "NWM",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "3+",
+                        "D": "2\/3",
+                        "SR": "Lethal 5+, Stun"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "EXA",
+                    "abilityid": "AOC",
+                    "title": "Armour Of Contempt (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "EXA",
+                    "abilityid": "BA",
+                    "title": "Blinding Aura (2 Faith Points)",
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "EXA",
+                    "abilityid": "BR",
+                    "title": "Blessed Rejuvenation (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "EXA",
+                    "abilityid": "DS",
+                    "title": "Divine Shield (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "EXA",
+                    "abilityid": "EP",
+                    "title": "Emperor's Protection (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "EXA",
+                    "abilityid": "FB",
+                    "title": "Faithful Blessing (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "EXA",
+                    "abilityid": "GL",
+                    "title": "Guiding Light (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "EXA",
+                    "abilityid": "VS",
+                    "title": "Vengeful Strike (3 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "NOV",
+                "fireteamid": "NOV",
+                "opid": "HOS",
+                "opname": "Novitiate Hospitaller",
+                "description": "Curing the physical and spiritual ills of the Imperium\u2019s battlefield \nwounded is an onerous task, one that requires countless hours of \npractice. Novitiates seeking admission into the Orders Hospitaller hone \ntheir skills in the field, aiding their fellow Novitiates In whichever \nway they can.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "NOVITIATE, IMPERIUM, ADEPTA SORORITAS, <ORDER>, NOVITIATE HOSPITALLER",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "HOS",
+                    "wepid": "AP",
+                    "wepname": "Autopistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "HOS",
+                        "wepid": "AP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2\/3",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "HOS",
+                    "wepid": "SS",
+                    "wepname": "Surgical Saw",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "HOS",
+                        "wepid": "SS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "2\/3",
+                        "SR": "Lethal 5+"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "HOS",
+                    "abilityid": "AOC",
+                    "title": "Armour Of Contempt (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "HOS",
+                    "abilityid": "BA",
+                    "title": "Blinding Aura (2 Faith Points)",
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "HOS",
+                    "abilityid": "BR",
+                    "title": "Blessed Rejuvenation (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "HOS",
+                    "abilityid": "DS",
+                    "title": "Divine Shield (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "HOS",
+                    "abilityid": "EP",
+                    "title": "Emperor's Protection (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "HOS",
+                    "abilityid": "FB",
+                    "title": "Faithful Blessing (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "HOS",
+                    "abilityid": "GL",
+                    "title": "Guiding Light (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "HOS",
+                    "abilityid": "VS",
+                    "title": "Vengeful Strike (3 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "NOV",
+                "fireteamid": "NOV",
+                "opid": "MIL",
+                "opname": "Novitiate Militant",
+                "description": "Novitiates Militant are Battle Sisters in training. They have yet to \nearn the power armour and boltguns of fully fledged Battle Sisters, but \nare zealous warriors of the Emperor nonetheless, eager to join the ranks\n of their Order Militant.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "NOVITIATE, IMPERIUM, ADEPTA SORORITAS, <ORDER>, NOVITIATE MILITANT",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "MIL",
+                    "wepid": "AG",
+                    "wepname": "Autogun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "MIL",
+                        "wepid": "AG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2\/3",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "MIL",
+                    "wepid": "AP",
+                    "wepname": "Autopistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "MIL",
+                        "wepid": "AP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2\/3",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "MIL",
+                    "wepid": "GB",
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "MIL",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2\/3",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "MIL",
+                    "wepid": "NB",
+                    "wepname": "Novitiate Blade",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "MIL",
+                        "wepid": "NB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4\/5",
+                        "SR": "Bal"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "MIL",
+                    "abilityid": "AOC",
+                    "title": "Armour Of Contempt (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "MIL",
+                    "abilityid": "BA",
+                    "title": "Blinding Aura (2 Faith Points)",
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "MIL",
+                    "abilityid": "BR",
+                    "title": "Blessed Rejuvenation (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "MIL",
+                    "abilityid": "DS",
+                    "title": "Divine Shield (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "MIL",
+                    "abilityid": "EP",
+                    "title": "Emperor's Protection (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "MIL",
+                    "abilityid": "FB",
+                    "title": "Faithful Blessing (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "MIL",
+                    "abilityid": "GL",
+                    "title": "Guiding Light (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "MIL",
+                    "abilityid": "VS",
+                    "title": "Vengeful Strike (3 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "NOV",
+                "fireteamid": "NOV",
+                "opid": "PEN",
+                "opname": "Novitiate Penitent",
+                "description": "Some Novitiates are ordered to wield brutal eviscerators as a mark of \nshame for minor transgressions. Urged to earn their redemption \nface-to-face with the enemy, such Sisters will fight with unrestrained \nfury to earn hack their honour.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "NOVITIATE, IMPERIUM, ADEPTA SORORITAS, <ORDER>, NOVITIATE PENITENT",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PEN",
+                    "wepid": "AP",
+                    "wepname": "Autopistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "PEN",
+                        "wepid": "AP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2\/3",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PEN",
+                    "wepid": "PE",
+                    "wepname": "Penitent Eviscerator",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "PEN",
+                        "wepid": "PE",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "5\/6",
+                        "SR": "Brutal, Reap 2"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PEN",
+                    "abilityid": "AOC",
+                    "title": "Armour Of Contempt (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PEN",
+                    "abilityid": "BA",
+                    "title": "Blinding Aura (2 Faith Points)",
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PEN",
+                    "abilityid": "BR",
+                    "title": "Blessed Rejuvenation (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PEN",
+                    "abilityid": "DS",
+                    "title": "Divine Shield (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PEN",
+                    "abilityid": "EP",
+                    "title": "Emperor's Protection (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PEN",
+                    "abilityid": "FB",
+                    "title": "Faithful Blessing (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PEN",
+                    "abilityid": "GL",
+                    "title": "Guiding Light (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PEN",
+                    "abilityid": "VS",
+                    "title": "Vengeful Strike (3 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "NOV",
+                "fireteamid": "NOV",
+                "opid": "PRE",
+                "opname": "Novitiate Preceptor",
+                "description": "These Novitiates are expected to rigidly enforce their Order\u2019s precepts, ensuring their fellows faithfully adhere to the prescribed standards. They are often chosen as their Superior\u2019s second in command, and serve as exemplars by eagerly striding into the fray to smite the Emperor\u2019s foes.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "NOVITIATE, IMPERIUM, ADEPTA SORORITAS, <ORDER>, NOVITIATE PRECEPTOR",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRE",
+                    "wepid": "MOTR",
+                    "wepname": "Mace Of The Rigtheous",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "PRE",
+                        "wepid": "MOTR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "5\/5",
+                        "SR": "Inferno 2, Stun"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRE",
+                    "abilityid": "AOC",
+                    "title": "Armour Of Contempt (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRE",
+                    "abilityid": "BA",
+                    "title": "Blinding Aura (2 Faith Points)",
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRE",
+                    "abilityid": "BR",
+                    "title": "Blessed Rejuvenation (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRE",
+                    "abilityid": "DS",
+                    "title": "Divine Shield (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRE",
+                    "abilityid": "EP",
+                    "title": "Emperor's Protection (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRE",
+                    "abilityid": "FB",
+                    "title": "Faithful Blessing (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRE",
+                    "abilityid": "GL",
+                    "title": "Guiding Light (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRE",
+                    "abilityid": "VS",
+                    "title": "Vengeful Strike (3 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "NOV",
+                "fireteamid": "NOV",
+                "opid": "PRO",
+                "opname": "Novitiate Pronatus",
+                "description": "To serve in the Orders Pronatus a candidate must learn everything there is to know of countless kinds of relics, as well being highly skilled warriors. They are expected to retrieve and guard highly precious - and sometimes extremely dangerous - artefacts.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "NOVITIATE, IMPERIUM, ADEPTA SORORITAS, <ORDER>, NOVITIATE PRONATUS",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRO",
+                    "wepid": "AP",
+                    "wepname": "Autopistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "PRO",
+                        "wepid": "AP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2\/3",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRO",
+                    "wepid": "GB",
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "PRO",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2\/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRO",
+                    "abilityid": "AOC",
+                    "title": "Armour Of Contempt (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRO",
+                    "abilityid": "BA",
+                    "title": "Blinding Aura (2 Faith Points)",
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRO",
+                    "abilityid": "BR",
+                    "title": "Blessed Rejuvenation (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRO",
+                    "abilityid": "DS",
+                    "title": "Divine Shield (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRO",
+                    "abilityid": "EP",
+                    "title": "Emperor's Protection (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRO",
+                    "abilityid": "FB",
+                    "title": "Faithful Blessing (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRO",
+                    "abilityid": "GL",
+                    "title": "Guiding Light (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRO",
+                    "abilityid": "VS",
+                    "title": "Vengeful Strike (3 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "NOV",
+                "fireteamid": "NOV",
+                "opid": "PUR",
+                "opname": "Novitiate Purgatus",
+                "description": "Novitiates Purgatus have the holy duty of bringing cleansing flame to \nthe enemies of Mankind. When they unleash their Ministorum flamers at \nthe enemy, they leave little more than ash behind.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "NOVITIATE, IMPERIUM, ADEPTA SORORITAS, <ORDER>, NOVITIATE PURGATUS",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PUR",
+                    "wepid": "MF",
+                    "wepname": "Ministorum Flamer",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "PUR",
+                        "wepid": "MF",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "2+",
+                        "D": "2\/3",
+                        "SR": "Rng [PENT], Tor [CIRCLE], Inferno 1"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PUR",
+                    "wepid": "GB",
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "PUR",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2\/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PUR",
+                    "abilityid": "AOC",
+                    "title": "Armour Of Contempt (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PUR",
+                    "abilityid": "BA",
+                    "title": "Blinding Aura (2 Faith Points)",
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PUR",
+                    "abilityid": "BR",
+                    "title": "Blessed Rejuvenation (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PUR",
+                    "abilityid": "DS",
+                    "title": "Divine Shield (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PUR",
+                    "abilityid": "EP",
+                    "title": "Emperor's Protection (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PUR",
+                    "abilityid": "FB",
+                    "title": "Faithful Blessing (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PUR",
+                    "abilityid": "GL",
+                    "title": "Guiding Light (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PUR",
+                    "abilityid": "VS",
+                    "title": "Vengeful Strike (3 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "NOV",
+                "fireteamid": "NOV",
+                "opid": "REL",
+                "opname": "Novitiate Reliquarius",
+                "description": "Some Novitiates bear inspiring icons, such as an ornate tapestry, a \nreliquary containing a saint\u2019s mortal remains or a simulacrum of a \nfamous artefact. Novitiates who look upon such relics know the holy \npower of the God-Emperor is with them, and fight all the harder for it.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "NOVITIATE, IMPERIUM, ADEPTA SORORITAS, <ORDER>, NOVITIATE RELIQUARIUS",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "REL",
+                    "wepid": "AP",
+                    "wepname": "Autopistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "REL",
+                        "wepid": "AP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2\/3",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "REL",
+                    "wepid": "GB",
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "REL",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2\/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "REL",
+                    "abilityid": "AOC",
+                    "title": "Armour Of Contempt (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "REL",
+                    "abilityid": "BA",
+                    "title": "Blinding Aura (2 Faith Points)",
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "REL",
+                    "abilityid": "BR",
+                    "title": "Blessed Rejuvenation (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "REL",
+                    "abilityid": "DS",
+                    "title": "Divine Shield (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "REL",
+                    "abilityid": "EP",
+                    "title": "Emperor's Protection (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "REL",
+                    "abilityid": "FB",
+                    "title": "Faithful Blessing (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "REL",
+                    "abilityid": "GL",
+                    "title": "Guiding Light (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "REL",
+                    "abilityid": "VS",
+                    "title": "Vengeful Strike (3 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "NOV",
+                "fireteamid": "NOV",
+                "opid": "SUP",
+                "opname": "Novitiate Superior",
+                "description": "A fully fledged Battle Sister of an Order Militant, a Superior has the \ntask of leading Novitiates in battle. They make command decisions, steer\n the faith of their charges and serve as inspirational examples of how a\n warrior of the Adepta Sororitas acts at all times.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "3+",
+                "W": "8",
+                "keywords": "NOVITIATE, IMPERIUM, ADEPTA SORORITAS, <ORDER>, LEADER, NOVITIATE SUPERIOR",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "SUP",
+                    "wepid": "BP",
+                    "wepname": "Bolt Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "SUP",
+                        "wepid": "BP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "3\/4",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "SUP",
+                    "wepid": "BG",
+                    "wepname": "Boltgun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "SUP",
+                        "wepid": "BG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "3\/4",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "SUP",
+                    "wepid": "PP",
+                    "wepname": "Plasma Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "SUP",
+                        "wepid": "PP",
+                        "profileid": "0",
+                        "name": "Standard",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "5\/6",
+                        "SR": "Rng [PENT], AP1"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "SUP",
+                        "wepid": "PP",
+                        "profileid": "1",
+                        "name": "Supercharge",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "5\/6",
+                        "SR": "Rng [PENT], AP2, Hot"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "SUP",
+                    "wepid": "GB",
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "SUP",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "2+",
+                        "D": "2\/3",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "SUP",
+                    "wepid": "PW",
+                    "wepname": "Power Weapon",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "NOV",
+                        "fireteamid": "NOV",
+                        "opid": "SUP",
+                        "wepid": "PW",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "4\/6",
+                        "SR": "Lethal 5+"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "SUP",
+                    "abilityid": "AOC",
+                    "title": "Armour Of Contempt (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "SUP",
+                    "abilityid": "BA",
+                    "title": "Blinding Aura (2 Faith Points)",
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "SUP",
+                    "abilityid": "BR",
+                    "title": "Blessed Rejuvenation (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "SUP",
+                    "abilityid": "DS",
+                    "title": "Divine Shield (2 Faith Points)",
+                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "SUP",
+                    "abilityid": "EP",
+                    "title": "Emperor's Protection (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "SUP",
+                    "abilityid": "FB",
+                    "title": "Faithful Blessing (1 Faith Point)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "SUP",
+                    "abilityid": "GL",
+                    "title": "Guiding Light (2 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "SUP",
+                    "abilityid": "VS",
+                    "title": "Vengeful Strike (3 Faith Points)",
+                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
+                  }
+                ],
+                "fireteammax": 0
+              }
+            ],
+            "fireteamcomp": "A NOVITIATE KillTeam includes:\n<ul>\n        <li>\n                1 NOVITIATE SUPERIOR operative equipped with one of the following options:\n                <ul>\n                        <li>Boltgun; Gun Butt<\/li>\n                        <li>Bolt Pistol or Plasma Pistol; Power Weapon<\/li>\n                <\/ul>\n        <\/li>\n    <li>\n                9 NOVITIATE operatives selected from the following list:\n                <ul>\n                        <li>\n                                NOVITIATE MILITANT operative each separately equipped with one of the following options:\n                                <ul>\n                                        <li>Autopistol; Novitiate Blade<\/li>\n                                        <li>Autogun; Gun Butt<\/li>\n                                <\/ul>\n                        <\/li>\n                        <li>NOVITIATE PENITENT<\/li>\n                        <li>NOVITIATE PRONATUS<\/li>\n                        <li>NOVITIATE EXACTOR<\/li>\n                        <li>NOVITIATE RELIQUARIUS<\/li>\n                        <li>NOVITIATE HOSPITALLER<\/li>\n                        <li>NOVITIATE PRECEPTOR<\/li>\n                        <li>NOVITIATE DIALOGUS<\/li>\n                        <li>NOVITIATE DUELLIST<\/li>\n                        <li>NOVITIATE CONDEMNOR<\/li>\n                        <li>NOVITIATE PURGATUS<\/li>\n                <\/ul>\n<br\/><br\/>\nNOVITIATE MILITANT operatives can be selected up to nine times, NOVITIATE PURGATUS operatives can be selected up to two times and each other option above can be selected once."
+          }
+        ]
+      },
+      {
+        "factionid": "IMP",
         "killteamid": "SM",
-        "killteamname": "Space Marine",
+        "killteamname": "Space Marines",
         "description": "The Space Marines or Adeptus Astartes are foremost amongst the defenders of Humanity, the greatest of the Emperor of Mankind's warriors. They are barely Human at all, but superhuman; having been made superior in all respects to a normal man by a harsh regime of genetic modification, psycho-conditioning and rigorous training.\n <br\/><br\/>\n Space Marines are untouched by plague or any natural disease and can suffer wounds that would kill a lesser being several times over, and live to fight again. Clad in ancient power armour and wielding the most potent weapons known to man, the Space Marines are terrifying foes and their devotion to the Emperor and the Imperium of Man is unyielding. They are the God-Emperor's Angels of Death, and they know no fear.",
         "ploys": {
           "strat": [
@@ -14235,15 +16208,7 @@
                   
                 ],
                 "abilities": [
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "SM",
-                    "fireteamid": "DW",
-                    "opid": "FTR",
-                    "abilityid": "G",
-                    "title": "Grav",
-                    "description": "Each time this operative makes a shooting attack with this weapon, if the target has an unmodified Save characteristic of 3+ or better, this weapon has the Lethal 4+ special rule for that attack."
-                  }
+                  
                 ],
                 "fireteammax": 0
               },
@@ -14572,15 +16537,7 @@
                   
                 ],
                 "abilities": [
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "SM",
-                    "fireteamid": "DW",
-                    "opid": "GNR",
-                    "abilityid": "G",
-                    "title": "Grav",
-                    "description": "Each time this operative makes a shooting attack with this weapon, if the target has an unmodified Save characteristic of 3+ or better, this weapon has the Lethal 4+ special rule for that attack."
-                  }
+                  
                 ],
                 "fireteammax": 0
               },
@@ -15539,24 +17496,7 @@
                   
                 ],
                 "abilities": [
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "SM",
-                    "fireteamid": "DW",
-                    "opid": "SGT",
-                    "abilityid": "G",
-                    "title": "Grav",
-                    "description": "Each time this operative makes a shooting attack with this weapon, if the target has an unmodified Save characteristic of 3+ or better, this weapon has the Lethal 4+ special rule for that attack."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "SM",
-                    "fireteamid": "DW",
-                    "opid": "SGT",
-                    "abilityid": "SS",
-                    "title": "Storm Shield",
-                    "description": "If this operative is equipped with a storm shield:<ul><li>It has a 4+ Invulnerable Save<\/li><li>Each time it fights in combat, in the Resolve Successful Hits step of that combat, each time it parries, two of your opponent's successful hits are discarded (instead of one).<\/li>"
-                  }
+                  
                 ],
                 "fireteammax": 0
               },
@@ -17928,15 +19868,7 @@
                   
                 ],
                 "abilities": [
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "SM",
-                    "fireteamid": "TAC",
-                    "opid": "GNR",
-                    "abilityid": "G",
-                    "title": "Grav",
-                    "description": "Each time this operative makes a shooting attack with this weapon, if the target has an unmodified Save characteristic of 3+ or better, this weapon has the Lethal 4+ special rule for that attack."
-                  }
+                  
                 ],
                 "fireteammax": 0
               },
@@ -18407,15 +20339,7 @@
                   
                 ],
                 "abilities": [
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "SM",
-                    "fireteamid": "TAC",
-                    "opid": "SGT",
-                    "abilityid": "G",
-                    "title": "Grav",
-                    "description": "Each time this operative makes a shooting attack with this weapon, if the target has an unmodified Save characteristic of 3+ or better, this weapon has the Lethal 4+ special rule for that attack."
-                  }
+                  
                 ],
                 "fireteammax": 0
               },
@@ -18738,15 +20662,6 @@
                     "abilityid": "EC",
                     "title": "The Emperor's Chosen",
                     "description": "Other than the effects of Battle Scars, this\noperative cannot be injured. You can ignore any or all modifiers to\nthis operative's APL and it is not affected by the Stun critical hit rule."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "TOE",
-                    "fireteamid": "CG",
-                    "opid": "LDR",
-                    "abilityid": "SS",
-                    "title": "Storm Shield",
-                    "description": "If this operative is equipped with a storm shield, it\nhas a 4+ invulnerable save. Each time it fig hts in combat, in the\nResolve Successful Hits step of that combat, each time it parries,\ntwo of your opponent's successful hits are discarded (instead\nof one)."
                   }
                 ],
                 "fireteammax": 0
@@ -18875,15 +20790,6 @@
                     "abilityid": "EC",
                     "title": "The Emperor's Chosen",
                     "description": "Other than the effects of Battle Scars, this\noperative cannot be injured. You can ignore any or all modifiers to\nthis operative's APL and it is not affected by the Stun critical hit rule."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "TOE",
-                    "fireteamid": "CG",
-                    "opid": "WAR",
-                    "abilityid": "SS",
-                    "title": "Storm Shield",
-                    "description": "If this operative is equipped with a storm shield, it\nhas a 4+ invulnerable save. Each time it fig hts in combat, in the\nResolve Successful Hits step of that combat, each time it parries,\ntwo of your opponent's successful hits are discarded (instead\nof one)."
                   }
                 ],
                 "fireteammax": 0
@@ -19893,7 +21799,7 @@
             "factionid": "NEC",
             "killteamid": "TW",
             "fireteamid": "NC",
-            "fireteamname": "Necron",
+            "fireteamname": "Necrons",
             "archetype": "Security",
             "description": null,
             "killteammax": 0,
@@ -20017,7 +21923,7 @@
       {
         "factionid": "ORK",
         "killteamid": "GSK",
-        "killteamname": "Greenskin",
+        "killteamname": "Greenskins",
         "description": "The Orks, also called greenskins, are a savage, warlike, green-skinned species of humanoids who possess physiological features of both animals and fungi who are spread all across the Milky Way Galaxy. They share many features with Warhammer Fantasy Orcs (and were initially called \"Space Orcs\" to distinguish them).\n<br\/><br\/>\nThey are seen by their enemies (pretty much everyone else in the universe) as savage, violent, and crude, but they are the most successful species in the whole galaxy, outnumbering possibly every other intelligent starfaring species, even Humanity (with the very plausible exception of the Tyranids). ",
         "ploys": {
           "strat": [
@@ -20143,7 +22049,7 @@
             "factionid": "ORK",
             "killteamid": "GSK",
             "fireteamid": "BOY",
-            "fireteamname": "Boy",
+            "fireteamname": "Boyz",
             "archetype": "Seek And Destroy\/Security",
             "description": "",
             "killteammax": 0,
@@ -20691,7 +22597,7 @@
             "factionid": "ORK",
             "killteamid": "GSK",
             "fireteamid": "CK",
-            "fireteamname": "Clan Kommando",
+            "fireteamname": "Clan Kommandoz",
             "archetype": "Seek And Destroy\/Infiltration",
             "description": "",
             "killteammax": 0,
@@ -20871,7 +22777,7 @@
             "factionid": "ORK",
             "killteamid": "GSK",
             "fireteamid": "SPE",
-            "fireteamname": "Speshulist",
+            "fireteamname": "Speshulists",
             "archetype": "Seek And Destroy",
             "description": "",
             "killteammax": 0,
@@ -21155,7 +23061,7 @@
       {
         "factionid": "TAU",
         "killteamid": "CM",
-        "killteamname": "Cadre Mercenary",
+        "killteamname": "Cadre Mercenaries",
         "description": "The Kroot (Krootis aviana), also designated by the Imperium as Kroot Carnivore, are a xenos species of savage humanoids who are members of the T'au Empire. The Kroot evolved from avian creatures on their homeworld of Pech.\n<br\/><br\/>\nKroot are tall (a good half-metre taller than most Humans), their avian ancestry giving them a bird-like beak and long quills protruding from their heads like hair.\n<br\/><br\/>\nSmaller quills, possibly the evolutionary remnants of feathers, can be found scattered over their bodies. ",
         "ploys": {
           "strat": [
@@ -21265,7 +23171,7 @@
             "factionid": "TAU",
             "killteamid": "CM",
             "fireteamid": "CM",
-            "fireteamname": "Cadre Mercenary",
+            "fireteamname": "Cadre Mercenaries",
             "archetype": "Seek And Destroy\/Infiltration\/Recon",
             "description": "",
             "killteammax": 0,
