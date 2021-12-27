@@ -27834,7 +27834,7 @@
                     "opid": "SL",
                     "uniqueactionid": "ML",
                     "title": "Markerlight",
-                    "description": "Select one enemy operative Visible to this operative. That \nenemy operative gains one Markerlight token until the \nend of  the Tu rning Point. This operative cannot perform \nthis action while within Engagement Range of enemy \noperatives.  If an  operative would perform this  action and \na Shoot action in the same activation, only the target of \nthat Shoot action's shooting attack can be selected for \nthis action. \n<br/><br/>\nEach time a shooting attack is made against an enemy \noperative, in the Roll Attack  Dice step of that shooting \nattack, if that enemy operative has one or  more Markerlight \ntokens, you can re-roll one of your attack dice. ",
+                    "description": "Select one enemy operative Visible to this operative. That \n enemy operative gains one Markerlight token until the \n end of  the Tu rning Point. This operative cannot perform \n this action while within Engagement Range of enemy \n operatives.  If an  operative would perform this  action and \n a Shoot action in the same activation, only the target of \n that Shoot action's shooting attack can be selected for \n this action. \n <br/><br/>\n Each time a shooting attack is made against an enemy \n operative, in the Roll Attack  Dice step of that shooting \n attack, if that enemy operative has one or  more Markerlight \n tokens, you can re-roll one of your attack dice. ",
                     "AP": 1
                   }
                 ],
@@ -27913,7 +27913,7 @@
                     "opid": "SU",
                     "uniqueactionid": "ML",
                     "title": "Markerlight",
-                    "description": "Select one enemy operative Visible to this operative. That \nenemy operative gains one Markerlight token until the \nend of  the Tu rning Point. This operative cannot perform \nthis action while within Engagement Range of enemy \noperatives.  If an  operative would perform this  action and \na Shoot action in the same activation, only the target of \nthat Shoot action's shooting attack can be selected for \nthis action. \n<br/><br/>\nEach time a shooting attack is made against an enemy \noperative, in the Roll Attack  Dice step of that shooting \nattack, if that enemy operative has one or  more Markerlight \ntokens, you can re-roll one of your attack dice. ",
+                    "description": "Select one enemy operative Visible to this operative. That \n enemy operative gains one Markerlight token until the \n end of  the Tu rning Point. This operative cannot perform \n this action while within Engagement Range of enemy \n operatives.  If an  operative would perform this  action and \n a Shoot action in the same activation, only the target of \n that Shoot action's shooting attack can be selected for \n this action. \n <br/><br/>\n Each time a shooting attack is made against an enemy \n operative, in the Roll Attack  Dice step of that shooting \n attack, if that enemy operative has one or  more Markerlight \n tokens, you can re-roll one of your attack dice. ",
                     "AP": 1
                   }
                 ],
@@ -28138,6 +28138,1613 @@
               }
             ],
             "fireteamcomp": "A STEALTH BATTLESUIT fire team includes three STEALTH BATTLESUIT SHAS'UI operatives each separately equipped \nwith fists and one of the following options: \n<ul><li>Fusion blaster (max one per fire team) or burst cannon</li></ul>\n<br/><br/>\nIf your kill team does not include any other LEADER operatives, instead of selecting one STEALTH BATTLESUIT SHAS'UI \noperative for one STEALTH BATTLESUIT fire team, you can select one STEALTH BATTLESUIT SHAS'VRE operative equipped \nwith fists and one of the following options: \n<ul><li>Fusion blaster (max one per fire team) or burst cannon</li></ul>"
+          }
+        ]
+      },
+      {
+        "factionid": "TAU",
+        "killteamid": "PF",
+        "killteamname": "Pathfinders",
+        "description": "Pathfinders are the main scouting infantry forces for the Fire Caste of the T'au Empire. As light reconnaissance units, Pathfinder Teams are the eyes and ears of their T'au Commander in a way no T'au Drone can yet emulate.\n<br/><br/>\nA Pathfinder's role is not to engage the enemy, but instead to maximise the efficiency of the rest of their Hunter Cadre with their Marker Lights which designate priority enemy targets and guide the fire of their comrades.\n<br/><br/>\nPathfinders often operate ahead of the main body of T'au forces and close with the foe to accurately scout the enemy. In such a position, a Pathfinder's life is always under threat. For this reason and more, Pathfinders are held in high regard by the members of every T'au caste. ",
+        "ploys": {
+          "strat": [
+            {
+              "factionid": "TAU",
+              "killteamid": "PF",
+              "ployid": "BND",
+              "ployname": "Bonded",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a friendly PATHFINDER operative makes a shooting attack, in the Roll Attack Dice step of that shooting attack, if it is within [SQUARE] of another friendly PATHFINDER operative (excluding a DRONE operative), you can re-roll one of your attack dice."
+            },
+            {
+              "factionid": "TAU",
+              "killteamid": "PF",
+              "ployid": "DT",
+              "ployname": "Determined Tactician",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "If a friendly SHAS’UI PATHFINDER operative is in the killzone and it used its Art of War ability in the previous Turning Point, you can use this Strategic Ploy. Until the end of the Turning Point, while a friendly PATHFINDER operative is within [PENT] of and Visible to a friendly SHAS’UI operative, it treats the same Art of War that was in effect for your kill team in the previous Turning Point as being in effect for this Turning Point. Note that means for Mont’ka, it can only perform that free Dash action if it is within [PENT] of and Visible to a friendly SHAS’UI operative when that action is declared. You can only use this Strategic Ploy once."
+            },
+            {
+              "factionid": "TAU",
+              "killteamid": "PF",
+              "ployid": "RW",
+              "ployname": "Recon Sweep",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Friendly PATHFINDER operatives that are wholly within [PENT] of any killzone edge can immediately perform a free Dash action, but only if they can finish that move wholly within [PENT] of a killzone edge that is not your own killzone edge."
+            },
+            {
+              "factionid": "TAU",
+              "killteamid": "PF",
+              "ployid": "TC",
+              "ployname": "Take Cover",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a shooting attack is made against a friendly PATHFINDER operative (excluding a DRONE operative), if it is in Cover, improve its Save characteristic by 1 for that shooting attack."
+            }
+          ],
+          "tac": [
+            {
+              "factionid": "TAU",
+              "killteamid": "PF",
+              "ployid": "AWC",
+              "ployname": "A Worthy Cause",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy at the start of the Firefight phase. Select one ready friendly PATHFINDER operative (excluding a DRONE operative) that is within [SQUARE] of any enemy operatives or within [CIRCLE] of the centre of an objective marker and activate it. Once that operative has completed its activation, the player who has the Initiative activates an operative as normal."
+            },
+            {
+              "factionid": "TAU",
+              "killteamid": "PF",
+              "ployid": "REP",
+              "ployname": "Reposition",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy in the Firefight phase, when a friendly PATHFINDER operative is activated. Until the end of its activation, that operative can perform Dash actions if it is within Engagement Range of an enemy operative and when performing that action, it can move within Engagement Range of enemy operatives, but cannot finish that move within Engagement Range of enemy operatives (if that is not possible, it cannot perform the action)."
+            },
+            {
+              "factionid": "TAU",
+              "killteamid": "PF",
+              "ployid": "SF",
+              "ployname": "Supporting Fire",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy in the Firefight phase, when a Shoot action is declared for a friendly PATHFINDER operative. In the Select Valid Target step of that shooting attack, you must select an enemy operative that is within Engagement Range of a friendly operative and within [PENT] of the active operative, and that enemy operative cannot be in Cover as a result of friendly operatives’ bases. Note, however, that in the Roll Defence Dice step of that shooting attack, the enemy operative can be in Cover as a result of friendly operatives’ bases."
+            }
+          ]
+        },
+        "equipments": [
+          {
+            "factionid": "TAU",
+            "killteamid": "PF",
+            "eqid": "CE",
+            "eqname": "Climbing Equipment",
+            "eqdescription": "The operative gains the following ability:\n<br/>\n<strong>Climbing Equipment:</strong>\n<li>Each time this operative ascends or descends a terrain feature while climbing, the first vertical distance of up to 3 it travels are counted as for that climb.</li>\n<li>This operative does not need to be within of a physical and climbable part of a terrain feature in order to climb it.</li>\n<li>Each time this operative drops, the intended location can be any vertical distance from the level it occupies.</li>\n<li>Each time this operative drops, it counts any vertical distance it travels as half for that drop.</li>",
+            "eqpts": "1"
+          },
+          {
+            "factionid": "TAU",
+            "killteamid": "PF",
+            "eqid": "DRK",
+            "eqname": "Drone Repair Kit",
+            "eqdescription": "The operative can perform the following action during the battle:\n<br/>\n<strong>Repair Drone (1 AP):</strong>\nSelect one friendly PATHFINDER DRONE operative Visible to and within [TRI] of this operative. It regains D3 lost wounds. If the operative performing this action is a Drone Controller Pathfinder operative, the selected operative regains 3 lost wounds instead. This operative cannot perform this action if it is within Engagement Range of an enemy operative.",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "TAU",
+            "killteamid": "PF",
+            "eqid": "EMP",
+            "eqname": "EMP Grenade",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<br/>\n<table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n \t\t<th>A</th>\n \t\t<th>BS</th>\n \t\t<th>D</th>\n \t</tr>\n \t<tr>\n \t\t<td>EMP Grenade</td>\n \t\t<td>4</td>\n \t\t<td>2+</td>\n \t\t<td>2/3</td>\n \t</tr>\n \t<tr>\n \t\t<th colspan=\"4\">\n \t\t\tSpecial Rules\n \t\t</th>\n \t</tr>\n \t<tr>\n \t\t<td colspan=\"4\">\n \t\t\tRng [PENT], Blast [CIRCLE], Indirect, EMP*, Lim\n \t\t</td>\n \t</tr>\n </table>\n<strong>*EMP:</strong> Each time a friendly operative makes a shooting attack with this weapon, this weapon has the Lethal X special rule for that shooting attack. X is the target’s unmodified Save characteristic.",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "TAU",
+            "killteamid": "PF",
+            "eqid": "FG",
+            "eqname": "Fusion Grenade",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle. It cannot make a shooting attack with this weapon by performing an Overwatch action.\n<br/>\n<table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n \t\t<th>A</th>\n \t\t<th>BS</th>\n \t\t<th>D</th>\n \t</tr>\n \t<tr>\n \t\t<td>Fusion Grenade</td>\n \t\t<td>4</td>\n \t\t<td>3+</td>\n \t\t<td>4/3</td>\n \t</tr>\n \t<tr>\n \t\t<th colspan=\"4\">\n \t\t\tSpecial Rules\n \t\t</th>\n \t</tr>\n \t<tr>\n \t\t<td colspan=\"4\">\n \t\t\tRng [PENT], Indirect, AP2, Lim\n \t\t</td>\n \t</tr>\n </table>\n",
+            "eqpts": "4"
+          },
+          {
+            "factionid": "TAU",
+            "killteamid": "PF",
+            "eqid": "HIML",
+            "eqname": "High-Intensity Markerlight",
+            "eqdescription": "The operative gains the following ability for the battle:\n<br/>\n<strong>High-Intensity Markerlight:</strong> Each time this operative performs the Markerlight action, the selected enemy operative gains 2 markerlight tokens instead of 1.",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "TAU",
+            "killteamid": "PF",
+            "eqid": "OSUL",
+            "eqname": "Orbital Survey Uplink*",
+            "eqdescription": "The operative can perform the following action during the battle:\n<br/>\n<strong>Orbital Scan (2 AP):</strong>\nSelect one enemy operative. That operative, and each enemy operative within [TRI] of it, gains 1 Markerlight token if they are visible to an orbital scan (determine each operative separately). An operative is not visible to an orbital scan if any part of its base is hidden by a terrain feature from directly above.",
+            "eqpts": "3"
+          },
+          {
+            "factionid": "TAU",
+            "killteamid": "PF",
+            "eqid": "PG",
+            "eqname": "Photon Grenade",
+            "eqdescription": "The operative can perform the following action during the battle:\n<strong>Photon Grenade (1 AP):</strong>\nSelect one enemy operative Visible to this operative. Roll one D6, subtracting 1 from the result as follows:\n<li>If that enemy operative is not in this operative’s Line of Sight.</li>\n<li>If that enemy operative is more than [PENT] from this operative.</li>\n\nOn a 2+, that enemy operative gains a Photon token. While an operative has any Photon tokens, subtract [CIRCLE] from its Movement characteristic and it cannot perform Dash actions. At the end of an operative’s activation, remove all Photon tokens it has. This operative can only perform this action once, and cannot perform this action if it is within Engagement Range of an enemy operative.\n",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "TAU",
+            "killteamid": "PF",
+            "eqid": "TAO",
+            "eqname": "Target Analysis Optic",
+            "eqdescription": "The operative gains the following ability for the battle:\n<br/>\n<strong>Target Analysis:</strong> Each time this operative makes a shooting attack, enemy operatives with at least one Markerlighl token are considered to have one additional Markerlight token for that shooting attack.",
+            "eqpts": "2"
+          }
+        ],
+        "killteamcomp": "A PATHFINDER KillTeam is composed of:\n<ul>\n    <li>1 SHAS’UI PATHFINDER operative</li>\n    <li>\n                12 PATHFINDER operatives selected from the following list:\n                <ul>\n                        <li>SHAS’LA PATHFINDER</li>\n                        <li>BLOODED PATHFINDER</li>\n                        <li>DRONE CONTROLLER PATHFINDER</li>\n                        <li>ASSAULT GRENADIER PATHFINDER</li>\n                        <li>MEDICAL TECHNICIAN PATHFINDER</li>\n                        <li>TRANSPECTRAL INTERFERENCE PATHFINDER</li>\n                        <li>COMMUNICATIONS SPECIALIST PATHFINDER</li>\n                        <li>\n                                WEAPONS EXPERT PATHFINDER equipped with fists and one of the following:\n                                <ul>\n                                        <li>Rail rifle</li>\n                                        <li>Ion rifle</li>\n                                </ul>\n                        <li>MARKSMAN PATHFINDER</li>\n                        <li>MB3 RECON DRONE</li>\n                        <li>MV31 PULSE ACCELERATOR DRONE</li>\n                        <li>MV33 GRAV-INHIBITOR DRONE</li>\n                        <li>MV1 GUN DRONE</li>\n                        <li>MV4 SHIELD DRONE</li>\n                        <li>V7 MARKER DRONE</li>\n                </ul>\n        </li>\n</ul>\n<br/>\nSHAS’LA PATHFINDER operatives can be selected up to twelve times, WEAPONS EXPERT PATHFINDER operatives can be selected up to two times, and each other operative above can be selected once. If you select an MB3 RECON DRONE, you can only select 10 other PATHFINDER operatives.",
+        "fireteams": [
+          {
+            "factionid": "TAU",
+            "killteamid": "PF",
+            "fireteamid": "PF",
+            "fireteamname": "Pathfinders",
+            "archetype": "",
+            "description": "Recon",
+            "killteammax": 0,
+            "operatives": [
+              {
+                "factionid": "TAU",
+                "killteamid": "PF",
+                "fireteamid": "PF",
+                "opid": "AG",
+                "opname": "Assault Grenadier Pathfinder",
+                "description": "The most hot-blooded Pathfinders are trained to carry out extremely dangerous attacks against enemy positions, using their grenades to stun enemy troops and destroy bunkers. They are also outfitted with advanced helmets that render them immune to enemy efforts to stun them in turn.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "7",
+                "keywords": "PATHFINDER, T’AU, <SEPT>, ASSAULT GRENADIER PATHFINDER",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "AG",
+                    "wepid": "PC",
+                    "wepname": "Pulse Carbine",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "AG",
+                        "wepid": "PC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "4/5",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "AG",
+                    "wepid": "F",
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "AG",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "AG",
+                    "uniqueactionid": "ML",
+                    "title": "Markerlight",
+                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order.</td></tr>\n</table>\n\n",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "AG",
+                    "abilityid": "GR",
+                    "title": "Grenadier",
+                    "description": "This operative is equipped with EMP, fusion and photon grenades and they do not cost any equipment points. Those grenades that have the Limited special rule can be selected for this operative’s use twice, instead of once."
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "AG",
+                    "abilityid": "NCHG",
+                    "title": "Nanocrystalline Headgear",
+                    "description": "You can ignore any or all modifiers to this operative’s APL and to the Weapon Skill and Ballistic Skill characteristics of its melee and ranged weapons respectively."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "PF",
+                "fireteamid": "PF",
+                "opid": "BL",
+                "opname": "Blooded Pathfinder",
+                "description": "Many experienced and respected Pathfinders earn the personal name of Mont’yr, which translates as ‘Blooded’, Many bear highly advanced bionics in place of lost limbs, and are entrusted with specialist technology such as suppressed weapons.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "PATHFINDER, T’AU, <SEPT>, BLOODED PATHFINDER",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "BL",
+                    "wepid": "SBC",
+                    "wepname": "Suppressed Pulse Carbine",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "BL",
+                        "wepid": "SBC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "Silent"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "BL",
+                    "wepid": "BA",
+                    "wepname": "Bionic Arm",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "BL",
+                        "wepid": "BA",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "BL",
+                    "uniqueactionid": "ML",
+                    "title": "Markerlight",
+                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order.</td></tr>\n</table>\n\n",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "PF",
+                "fireteamid": "PF",
+                "opid": "COMMS",
+                "opname": "Communications Specialist Pathfinder",
+                "description": "Communications Specialists are found in most Pathfinder kill teams, providing a connection with the team’s Commanders, other kill teams and vital support assets.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "7",
+                "keywords": "PATHFINDER, T’AU, <SEPT>, COMMUNICATIONS SPECIALIST PATHFINDER",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "COMMS",
+                    "wepid": "PC",
+                    "wepname": "Pulse Carbine",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "COMMS",
+                        "wepid": "PC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "4/5",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "COMMS",
+                    "wepid": "F",
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "COMMS",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "COMMS",
+                    "uniqueactionid": "ML",
+                    "title": "Markerlight",
+                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order.</td></tr>\n</table>\n\n",
+                    "AP": 1
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "COMMS",
+                    "uniqueactionid": "SIG",
+                    "title": "Signal",
+                    "description": "Select one friendly PATHFINDER operative within [PENT] of and Visible to this operative. Add 1 to its APL. This operative cannot perform this action if it is within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "PF",
+                "fireteamid": "PF",
+                "opid": "DC",
+                "opname": "Drone Controller Pathfinder",
+                "description": "Drone Controller Pathfinders receive additional training in remote piloting the drones that frequently accompany their teams. With careful work and patience they can manipulate a drone to carry out complex tasks that the drones cannot complete using solely their programming.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "7",
+                "keywords": "PATHFINDER, T’AU, <SEPT>, DRONE CONTROLLER PATHFINDER",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "DC",
+                    "wepid": "PC",
+                    "wepname": "Pulse Carbine",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "DC",
+                        "wepid": "PC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "4/5",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "DC",
+                    "wepid": "F",
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "DC",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "44230",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "DC",
+                    "uniqueactionid": "CD",
+                    "title": "Control Drone",
+                    "description": "Select one friendly PATHFINDER DRONE operative, then select one of the following:\n<li>If that DRONE operative is Ready, after this activation ends, you can activate that DRONE operative and until the end of the Turning Point, it is not considered to have the first three bullet points of its Artificial Intelligence ability.</li>\n<li>If that DRONE operative has been activated during this Turning Point, perform a free Dash or Shoot action with it. If you perform a Shoot action, for that action’s shooting attack, worsen the Ballistic Skill characteristic of its ranged weapons by 1.</li>\nThis operative cannot perform this action if it is within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "DC",
+                    "uniqueactionid": "ML",
+                    "title": "Markerlight",
+                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order.</td></tr>\n</table>\n\n",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "DC",
+                    "abilityid": "DS",
+                    "title": "Drone Scout",
+                    "description": "During deployment, if this operative was selected for deployment, you can set up one friendly PATHFINDER DRONE operative with a Conceal order anywhere in the killzone that is wholly within [PENT] of your drop zone, more than [PENT] from enemy operatives and more than [SQUARE] from the enemy drop zone."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "PF",
+                "fireteamid": "PF",
+                "opid": "MARKS",
+                "opname": "Marksman Pathfinder",
+                "description": "Marksman Pathfinders carry customised rail rifles with advanced optics and sophisticated inertial dampeners to ensure incredible accuracy. These Pathfinders are also issued with experimental dart ammunition that is all but inaudible to the foe when fired.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "7",
+                "keywords": "PATHFINDER, T’AU, <SEPT>, MARKSMAN PATHFINDER",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MARKS",
+                    "wepid": "MRR",
+                    "wepname": "Marksman Rail Rifle",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "MARKS",
+                        "wepid": "MRR",
+                        "profileid": "0",
+                        "name": "Standard",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/4",
+                        "SR": "Ap1, Lethal 5+, MW2"
+                      },
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "MARKS",
+                        "wepid": "MRR",
+                        "profileid": "1",
+                        "name": "Dart Round",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/3",
+                        "SR": "AP1, Silent, MW2"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MARKS",
+                    "wepid": "F",
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "MARKS",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MARKS",
+                    "uniqueactionid": "ML",
+                    "title": "Markerlight",
+                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order.</td></tr>\n</table>\n\n",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MARKS",
+                    "abilityid": "ID",
+                    "title": "Inertial Dampener",
+                    "description": "Each time this operative performs an Overwatch action, for that action’s shooting attack, do not worsen the Ballistic Skill characteristic of its marksman rail rifle as a result of performing an Overwatch action."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "PF",
+                "fireteamid": "PF",
+                "opid": "MB3",
+                "opname": "MB3 Recon Drone",
+                "description": "These large drones are capable of collecting swathes of vital battlefield data that can make the difference between victory and defeat. Being larger, they can also be mounted with heavier weaponry - their burst cannon can effectively suppress or cut down enemy infantry.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "4",
+                "SV": "4+",
+                "W": "12",
+                "keywords": "PATHFINDER, T’AU, <SEPT>, DRONE, FLY, MB3 RECON DRONE",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MB3",
+                    "wepid": "BC",
+                    "wepname": "Burst Cannon",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "MB3",
+                        "wepid": "BC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "6",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": "Heavy, Ceaseless, Fus"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MB3",
+                    "wepid": "R",
+                    "wepname": "Ram",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "MB3",
+                        "wepid": "R",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MB3",
+                    "uniqueactionid": "AN",
+                    "title": "Analyse",
+                    "description": "Select one enemy operative Visible to this operative, then select one other ready friendly PATHFINDER operative that is not within Engagement Range of an enemy operative. After this operative’s activation ends, you can activate that other friendly operative, and during its next activation, each time it makes a shooting attack against that enemy operative, in the Roll Attack Dice step of that shooting attack, you can re-roll any or all of your attack dice. This operative cannot perform this action if it is within Engagement Range of enemy operatives.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MB3",
+                    "abilityid": "AI",
+                    "title": "Artificial Intelligence",
+                    "description": "<li>This operative cannot perform mission actions or the Pick Up action.</li>\n<li>For the purposes of determining control of objective markers, treat this operative’s APL as 1 lower.</li>\n<li>Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, if it has an Engage order, defence dice cannot be automatically retained as a result of Cover.</li>\n<li>When drawing a Visibility line from a DRONE operative, draw it from any part of the round disc at the top of the miniature.</li>\n<li>Unless otherwise specified, this operative cannot be equipped with equipment.</li>"
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MB3",
+                    "abilityid": "RS",
+                    "title": "Recon Suite",
+                    "description": "During the mission sequence, if this friendly operative was selected for deployment, after resolving your selected option in the Scouting step, you can select and resolve a Recon option in addition to any other options. Initiative is still determined by your original selection."
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MB3",
+                    "abilityid": "SP",
+                    "title": "Saviour Protocols",
+                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "PF",
+                "fireteamid": "PF",
+                "opid": "MDC",
+                "opname": "Medical Technician Pathfinder",
+                "description": "In a Pathfinder kill team, the lives of the T’au are often in the hands of a Medical Technician. These selfless healers brave storms of enemy fire to reach the wounded.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "7",
+                "keywords": "PATHFINDER, T’AU, <SEPT>, MEDIC, MEDICAL TECHNICIAN PATHFINDER",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MDC",
+                    "wepid": "PC",
+                    "wepname": "Pulse Carbine",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "MDC",
+                        "wepid": "PC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "4/5",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MDC",
+                    "wepid": "F",
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "MDC",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MDC",
+                    "uniqueactionid": "MDK",
+                    "title": "Medikit",
+                    "description": "Select one friendly PATHFINDER operative (excluding a DRONE operative) within [TRI] of and Visible to this operative. That operative regains 2D3 lost wounds. An operative cannot be selected for this ability if it was revived using the Medic! ability during the same Turning Point. This operative cannot perform this action if it is within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MDC",
+                    "uniqueactionid": "ML",
+                    "title": "Markerlight",
+                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order.</td></tr>\n</table>\n\n",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MDC",
+                    "abilityid": "MDC",
+                    "title": "Medic!",
+                    "description": "Once per Turning Point, the first time a friendly PATHFINDER operative (excluding a DRONE operative) would be incapacitated while Visible to and within [SQUARE] of this operative and not within Engagement Range of an enemy operative, if this operative is not within Engagement Range of an enemy operative, this operative can revive it. That friendly operative is not incapacitated, has 1 wound remaining, and if it would have been incapacitated as a result of a shooting attack, any remaining attack dice are discarded. That friendly operative can then perform a free Dash action, but must finish that move within [TRI] of this operative. Subtract 1 from both operatives’ APL."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "PF",
+                "fireteamid": "PF",
+                "opid": "MV1",
+                "opname": "MV1 Gun Drone",
+                "description": "Using anti-gravitic motors and jet-thrusters, Gun Drones hover over the landscape, moving quickly to engage the enemy and record battlefield data. On kill team missions, they can distract enemies as well as partake in attacks alongside the T’au warriors they serve.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "PATHFINDER, T’AU, <SEPT>, DRONE, FLY, MV1 GUN DRONE",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MV1",
+                    "wepid": "TPC",
+                    "wepname": "Twin Pulse Carbine",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "MV1",
+                        "wepid": "TPC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "4/5",
+                        "SR": "Relentless"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MV1",
+                    "wepid": "R",
+                    "wepname": "Ram",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "MV1",
+                        "wepid": "R",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MV1",
+                    "abilityid": "AI",
+                    "title": "Artificial Intelligence",
+                    "description": "<li>This operative cannot perform mission actions or the Pick Up action.</li>\n<li>For the purposes of determining control of objective markers, treat this operative’s APL as 1 lower.</li>\n<li>Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, if it has an Engage order, defence dice cannot be automatically retained as a result of Cover.</li>\n<li>When drawing a Visibility line from a DRONE operative, draw it from any part of the round disc at the top of the miniature.</li>\n<li>Unless otherwise specified, this operative cannot be equipped with equipment.</li>"
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MV1",
+                    "abilityid": "SP",
+                    "title": "Saviour Protocols",
+                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "PF",
+                "fireteamid": "PF",
+                "opid": "MV31",
+                "opname": "MV31 Pulse Accelerator Drone",
+                "description": "Pulse Accelerator Drones boost the pulse weapons carried by Pathfinders, making the technology much more powerful and giving them a vital edge against the enemy.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "4",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "PATHFINDER, T’AU, <SEPT>, DRONE, FLY, MV31 PULSE ACCELERATOR DRONE",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MV31",
+                    "wepid": "R",
+                    "wepname": "Ram",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "MV31",
+                        "wepid": "R",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MV31",
+                    "abilityid": "AI",
+                    "title": "Artificial Intelligence",
+                    "description": "<li>This operative cannot perform mission actions or the Pick Up action.</li>\n<li>For the purposes of determining control of objective markers, treat this operative’s APL as 1 lower.</li>\n<li>Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, if it has an Engage order, defence dice cannot be automatically retained as a result of Cover.</li>\n<li>When drawing a Visibility line from a DRONE operative, draw it from any part of the round disc at the top of the miniature.</li>\n<li>Unless otherwise specified, this operative cannot be equipped with equipment.</li>"
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MV31",
+                    "abilityid": "PA",
+                    "title": "Pulse Accelerator",
+                    "description": "While a friendly PATHFINDER operative is within [SQUARE] of this operative, pulse weapons that friendly operative is equipped with are accelerated. While a pulse weapon is accelerated, each time a shooting attack is made with it, in the Roll Attack Dice step of that shooting attack, before rolling your attack dice, you can retain one as a successful normal hit without rolling it."
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MV31",
+                    "abilityid": "SP",
+                    "title": "Saviour Protocols",
+                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "PF",
+                "fireteamid": "PF",
+                "opid": "MV33",
+                "opname": "MV33 Grav-Inhibitor Drone",
+                "description": "Grav-inhibitor Drones are capable of manipulating gravity around, and significantly slowing the progress of, oncoming enemy troops. On countless occasions have Pathfinder kill teams escaped almost certain death thanks to the technology carried by these drones.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "PATHFINDER, T’AU, <SEPT>, DRONE, FLY, MV33 GRAV-INHIBITOR DRONE",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MV33",
+                    "wepid": "R",
+                    "wepname": "Ram",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "MV33",
+                        "wepid": "R",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MV33",
+                    "uniqueactionid": "GW",
+                    "title": "Grav-Wave",
+                    "description": "Place a Grav Wave token within [PENT] of and Visible to this operative. While a friendly PATHFINDER operative is within [CIRCLE] of the centre of that token, it can perform Fall Back actions for one less AP (to a minimum of 0AP). At the start of this operative’s next activation, remove its Grav Wave token.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MV33",
+                    "abilityid": "AI",
+                    "title": "Artificial Intelligence",
+                    "description": "<li>This operative cannot perform mission actions or the Pick Up action.</li>\n<li>For the purposes of determining control of objective markers, treat this operative’s APL as 1 lower.</li>\n<li>Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, if it has an Engage order, defence dice cannot be automatically retained as a result of Cover.</li>\n<li>When drawing a Visibility line from a DRONE operative, draw it from any part of the round disc at the top of the miniature.</li>\n<li>Unless otherwise specified, this operative cannot be equipped with equipment.</li>"
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MV33",
+                    "abilityid": "GI",
+                    "title": "Grav-Inhibitor",
+                    "description": "Each time an enemy operative performs a Charge action, if it would move within [PENT] of this operative, only add [TRI] to the additional distance it can move, instead of [CIRCLE]. Each time an enemy operative performs a Dash action, if it would move within [PENT] of this operative, it can only move up to [CIRCLE], instead of up to [SQUARE]."
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MV33",
+                    "abilityid": "SP",
+                    "title": "Saviour Protocols",
+                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "PF",
+                "fireteamid": "PF",
+                "opid": "MV4",
+                "opname": "MV4 Shield Drone",
+                "description": "Shield Drones are fitted with shield generators rather than weaponry. It is their task to protect the Pathfinders they accompany. Their saviour protocols ensure that, should a T’au come under direct threat, the Shield Drone will protect them from harm.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "PATHFINDER, T’AU, <SEPT>, DRONE, FLY, MV4 SHIELD DRONE",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MV4",
+                    "wepid": "R",
+                    "wepname": "Ram",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "MV4",
+                        "wepid": "R",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MV4",
+                    "abilityid": "AI",
+                    "title": "Artificial Intelligence",
+                    "description": "<li>This operative cannot perform mission actions or the Pick Up action.</li>\n<li>For the purposes of determining control of objective markers, treat this operative’s APL as 1 lower.</li>\n<li>Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, if it has an Engage order, defence dice cannot be automatically retained as a result of Cover.</li>\n<li>When drawing a Visibility line from a DRONE operative, draw it from any part of the round disc at the top of the miniature.</li>\n<li>Unless otherwise specified, this operative cannot be equipped with equipment.</li>"
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MV4",
+                    "abilityid": "SG",
+                    "title": "Shield Generator",
+                    "description": "This operative has a 4+ invulnerable save. Each time this operative would lose a wound that is not as a result of a mortal wound, roll one D6: on a 5+, that wound is not lost."
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MV4",
+                    "abilityid": "SP",
+                    "title": "Saviour Protocols",
+                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "PF",
+                "fireteamid": "PF",
+                "opid": "MV7",
+                "opname": "MV7 Marker Drone",
+                "description": "The high-intensity markerlights used by Marker Drones are vital for the synergy of T’au forces. They indicate priority targets both for the Pathfinders they are alongside as well as other powerful T’au assets. Whatever they pick out will soon be obliterated.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "PATHFINDER, T’AU, <SEPT>, DRONE, FLY, MV7 MARKER DRONE",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MV7",
+                    "wepid": "R",
+                    "wepname": "Ram",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "MV7",
+                        "wepid": "R",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MV7",
+                    "uniqueactionid": "ML",
+                    "title": "Markerlight",
+                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order.</td></tr>\n</table>\n\n",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MV7",
+                    "abilityid": "AI",
+                    "title": "Artificial Intelligence",
+                    "description": "<li>This operative cannot perform mission actions or the Pick Up action.</li>\n<li>For the purposes of determining control of objective markers, treat this operative’s APL as 1 lower.</li>\n<li>Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, if it has an Engage order, defence dice cannot be automatically retained as a result of Cover.</li>\n<li>When drawing a Visibility line from a DRONE operative, draw it from any part of the round disc at the top of the miniature.</li>\n<li>Unless otherwise specified, this operative cannot be equipped with equipment.</li>"
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MV7",
+                    "abilityid": "HIML",
+                    "title": "High-Intensity Markerlight",
+                    "description": "Each time this operative performs the Markerlight action, the selected enemy operative gains 2 Markerlight tokens instead of 1."
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "MV7",
+                    "abilityid": "SP",
+                    "title": "Saviour Protocols",
+                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "PF",
+                "fireteamid": "PF",
+                "opid": "SL",
+                "opname": "Shas'La Pathfinder",
+                "description": "Even the rank-and-file of Pathfinder teams are selfless adherents to the Greater Good, eagerly volunteering themselves for the most dangerous missions. They operate close to the enemy to learn all they can of them, as well as engaging them when necessary.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "7",
+                "keywords": "PATHFINDER, T’AU, <SEPT>, SHAS’LA PATHFINDER",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "SL",
+                    "wepid": "PC",
+                    "wepname": "Pulse Carbine",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "SL",
+                        "wepid": "PC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "4/5",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "SL",
+                    "wepid": "F",
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "SL",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "44230",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "SL",
+                    "uniqueactionid": "ML",
+                    "title": "Markerlight",
+                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order.</td></tr>\n</table>\n\n",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "PF",
+                "fireteamid": "PF",
+                "opid": "SU",
+                "opname": "Shas'Ui Pathfinder",
+                "description": "Shas’ui Pathfinders are veteran warriors who have fought in many campaigns. They have passed dangerous trials of fire to reach the rank, and are dynamic and accomplished tacticians more than capable of leading their team to victory.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "8",
+                "keywords": "PATHFINDER, T’AU, <SEPT>, LEADER, SHAS’UI PATHFINDER",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "SU",
+                    "wepid": "PC",
+                    "wepname": "Pulse Carbine",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "SU",
+                        "wepid": "PC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "SU",
+                    "wepid": "BK",
+                    "wepname": "Bonding Knife",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "SU",
+                        "wepid": "BK",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": "Bal"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "SU",
+                    "uniqueactionid": "ML",
+                    "title": "Markerlight",
+                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order.</td></tr>\n</table>\n\n",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "SU",
+                    "abilityid": "AOW",
+                    "title": "Art Of War",
+                    "description": "Once per battle, when it is in your turn to use a Strategic Ploy, if this operative is in the killzone, it can use this ability. If it does, select one Art of War to be in effect until the end of the Turning Point."
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "SU",
+                    "abilityid": "HGRO",
+                    "title": "Holographic Readout",
+                    "description": "Once per battle, when a friendly PATHFINDER operative (excluding a DRONE operative) is activated within [SQUARE] of and is Visible to this operative, this operative can use this ability. If it does, until the end of the friendly PATHFINDER operative’s activation, it can perform one mission action for one less AP (to a minimum of 0AP)."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "PF",
+                "fireteamid": "PF",
+                "opid": "TSI",
+                "opname": "Transpectral Interference Pathfinder",
+                "description": "Transpectral Interference Pathfinders are tasked with jamming enemy communications through the use of complex signal scramblers that can shut down electrical systems.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "7",
+                "keywords": "PATHFINDER, T’AU, <SEPT>, TRANSPECTRAL INTERFERENCE PATHFINDER",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "TSI",
+                    "wepid": "PC",
+                    "wepname": "Pulse Carbine",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "TSI",
+                        "wepid": "PC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "4/5",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "TSI",
+                    "wepid": "FB",
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "TSI",
+                        "wepid": "FB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "TSI",
+                    "uniqueactionid": "ML",
+                    "title": "Markerlight",
+                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order.</td></tr>\n</table>\n\n",
+                    "AP": 1
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "TSI",
+                    "uniqueactionid": "SJ",
+                    "title": "System Jam",
+                    "description": "Select one enemy operative Visible to this operative. Subtract 1 from its APL. This operative cannot perform this action if it has a Conceal order or if it is within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "TSI",
+                    "abilityid": "MSS",
+                    "title": "Multi-Spectral Sensor",
+                    "description": "Each time this operative makes a shooting attack, when selecting a valid target for that shooting attack, enemy operatives are not Obscured."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "PF",
+                "fireteamid": "PF",
+                "opid": "WE",
+                "opname": "Weapons Expert Pathfinder",
+                "description": "Weapons Experts Pathfinders wield their kill team’s heavy weapons. Their task is a relatively simple one to kill or destroy what their Shas’ui orders them to or what they deem to be an important target.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "7",
+                "keywords": "PATHFINDER, T’AU, <SEPT>, WEAPONS EXPERT PATHFINDER",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "WE",
+                    "wepid": "IR",
+                    "wepname": "Ion Rifle",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "WE",
+                        "wepid": "IR",
+                        "profileid": "0",
+                        "name": "Standard",
+                        "A": "5",
+                        "BS": "4+",
+                        "D": "4/5",
+                        "SR": "P1"
+                      },
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "WE",
+                        "wepid": "IR",
+                        "profileid": "1",
+                        "name": "Overcharge",
+                        "A": "5",
+                        "BS": "4+",
+                        "D": "5/6",
+                        "SR": "AP1, Hot"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "WE",
+                    "wepid": "RR",
+                    "wepname": "Rail Rifle",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "WE",
+                        "wepid": "RR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "4/4",
+                        "SR": "Ap1, Lethal 5+, MW2"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "PF",
+                    "fireteamid": "PF",
+                    "opid": "WE",
+                    "wepid": "F",
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "PF",
+                        "fireteamid": "PF",
+                        "opid": "WE",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [],
+                "fireteammax": 0
+              }
+            ],
+            "fireteamcomp": "A PATHFINDER KillTeam is composed of:\n<ul>\n    <li>1 SHAS’UI PATHFINDER operative</li>\n    <li>\n                12 PATHFINDER operatives selected from the following list:\n                <ul>\n                        <li>SHAS’LA PATHFINDER</li>\n                        <li>BLOODED PATHFINDER</li>\n                        <li>DRONE CONTROLLER PATHFINDER</li>\n                        <li>ASSAULT GRENADIER PATHFINDER</li>\n                        <li>MEDICAL TECHNICIAN PATHFINDER</li>\n                        <li>TRANSPECTRAL INTERFERENCE PATHFINDER</li>\n                        <li>COMMUNICATIONS SPECIALIST PATHFINDER</li>\n                        <li>\n                                WEAPONS EXPERT PATHFINDER equipped with fists and one of the following:\n                                <ul>\n                                        <li>Rail rifle</li>\n                                        <li>Ion rifle</li>\n                                </ul>\n                        <li>MARKSMAN PATHFINDER</li>\n                        <li>MB3 RECON DRONE</li>\n                        <li>MV31 PULSE ACCELERATOR DRONE</li>\n                        <li>MV33 GRAV-INHIBITOR DRONE</li>\n                        <li>MV1 GUN DRONE</li>\n                        <li>MV4 SHIELD DRONE</li>\n                        <li>V7 MARKER DRONE</li>\n                </ul>\n        </li>\n</ul>\n<br/>\nSHAS’LA PATHFINDER operatives can be selected up to twelve times, WEAPONS EXPERT PATHFINDER operatives can be selected up to two times, and each other operative above can be selected once. If you select an MB3 RECON DRONE, you can only select 10 other PATHFINDER operatives."
           }
         ]
       }
