@@ -1545,7 +1545,7 @@
                     "fireteamid": "GD",
                     "opid": "WPLT",
                     "wepid": "SCN",
-                    "wepname": "Shuirken Cannon",
+                    "wepname": "Shuriken Cannon",
                     "weptype": "R",
                     "profiles": [
                       {
@@ -2867,7 +2867,7 @@
   },
   {
     "factionid": "CHAOS",
-    "factionname": "Forces Of Chaos",
+    "factionname": "Chaos",
     "description": "Chaos, also known to its servants as the Primordial Truth or the Primordial Annihilator, and to the Imperium of Man as the Archenemy, is the universal and usually malign metaphysical force embodied by the malevolent intelligent entities comprised of psychic energy that live in the Immaterium.\n<br/><br/>\nThe entities who embody Chaos are mostly Daemons, but the term also encompasses those mortals who have thrown in their lot with Chaos, ranging from simple peasants and/or manufactorum labourers who serve as Chaos Cultists, to Traitor Imperial Guardsmen, planetary militia, Imperial nobles, planetary governors, and even the mighty Chaos Space Marines and Traitor Titan Legions of the Dark Mechanicum. ",
     "killteams": [
       {
@@ -4073,7 +4073,7 @@
             "killteamid": "DG",
             "eqid": "KG",
             "eqname": "Krak Grenade",
-            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n\t</tr>\n    <tr>\n\t\t<td>Krak Grenade</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>4/5</td>\n    </tr>\n    <tr>\n\t\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n\t</tr>\n</table>",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Krak Grenade</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>4/5</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n \t</tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n \t</tr>\n </table>",
             "eqpts": "3"
           },
           {
@@ -4089,7 +4089,7 @@
             "killteamid": "DG",
             "eqid": "NG",
             "eqname": "Nurgling*",
-            "eqdescription": "The operative gains the following ability for the battle:\n<br/>\n<strong>Nurgling Mischief:</strong> Once per battle, when an enemy oeprative Visible to and within [SQUARE] of this operative is activated, you can use this ability. If you do so, subtract 1 from that enemy operative's APL.",
+            "eqdescription": "The operative gains the following ability for the battle:\n<br/>\n<strong>Nurgling Mischief:</strong> Once per battle, when an enemy operative Visible to and within [SQUARE] of this operative is activated, you can use this ability. If you do so, subtract 1 from that enemy operative's APL.",
             "eqpts": "3"
           },
           {
@@ -5117,7 +5117,7 @@
                 "killteamid": "TS",
                 "fireteamid": "RUB",
                 "opid": "SOR",
-                "opname": "Aspiring Sorcer",
+                "opname": "Aspiring Sorcerer",
                 "description": "An Aspiring Sorcerer who has gained control over a unit of Rubric Marines yokes them to his will. He directs them like a puppeteer, employing them as bulwarks against his foes while channelling his dark magics of manipulation through a spychically attuned force staff.",
                 "M": "3[CIRCLE]",
                 "APL": "2",
@@ -6042,7 +6042,7 @@
             "killteamid": "CSM",
             "eqid": "FG",
             "eqname": "Frag Grenade",
-            "eqdescription": "Excludes CHAOS CULTIST operatives. The operative is equipped with the following ranged weapon for the battle:<br />\n <table width=\"100%\" class=\"eqtable\">\n <tr>\n \t<th>Name</th>\n     <th>A</th>\n     <th>BS</th>\n     <th>D</th>\n </tr>\n <tr>\n \t<td>Frag Grendate</td>\n     <td>4</td>\n     <td>3+</td>\n     <td>2/3</td>\n </tr>\n <tr>\n \t<th colspan=\"4\">Special Rules</th>\n </tr>\n <tr>\n \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n </tr>\n </table>",
+            "eqdescription": "Excludes CHAOS CULTIST operatives. The operative is equipped with the following ranged weapon for the battle:<br />\n <table width=\"100%\" class=\"eqtable\">\n <tr>\n \t<th>Name</th>\n     <th>A</th>\n     <th>BS</th>\n     <th>D</th>\n </tr>\n <tr>\n \t<td>Frag Grenade</td>\n     <td>4</td>\n     <td>3+</td>\n     <td>2/3</td>\n </tr>\n <tr>\n \t<th colspan=\"4\">Special Rules</th>\n </tr>\n <tr>\n \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n </tr>\n </table>",
             "eqpts": "2"
           },
           {
@@ -6058,7 +6058,7 @@
             "killteamid": "CSM",
             "eqid": "KG",
             "eqname": "Krak Grenade",
-            "eqdescription": "Excludes CHAOS CULTIST operatives. The operative is equipped with the following ranged weapon for the battle:<br />\n<table width=\"100%\" class=\"eqtable\">\n<tr>\n\t<th>Name</th>\n    <th>A</th>\n    <th>BS</th>\n    <th>D</th>\n</tr>\n<tr>\n\t<td>Krak Grendate</td>\n    <td>4</td>\n    <td>3+</td>\n    <td>4/5</td>\n</tr>\n<tr>\n\t<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n</tr>\n</table>",
+            "eqdescription": "Excludes CHAOS CULTIST operatives. The operative is equipped with the following ranged weapon for the battle:<br />\n<table width=\"100%\" class=\"eqtable\">\n<tr>\n\t<th>Name</th>\n    <th>A</th>\n    <th>BS</th>\n    <th>D</th>\n</tr>\n<tr>\n\t<td>Krak Grenade</td>\n    <td>4</td>\n    <td>3+</td>\n    <td>4/5</td>\n</tr>\n<tr>\n\t<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n</tr>\n</table>",
             "eqpts": "3"
           },
           {
@@ -6082,7 +6082,7 @@
             "killteamid": "CSM",
             "eqid": "SUS",
             "eqname": "Suspensor System",
-            "eqdescription": "Excludes CHAOS CULTIST operatives. The operative can perform the following action during the battle.\n\n<ul><li>\n<strong>Suspensor System:</strong> \nThe Heavy Special Rule of ranged weapons the operative is equipped with is treated differently.\nInstead, an operative cannot move more than 3 [CIRCLE] in the same activation in which it performs a Shoot action with any of those ranged weapons. \n</li></ul>",
+            "eqdescription": "Excludes CHAOS CULTIST operatives. The operative gains the following ability for the battle:\n\n<ul><li>\n<strong>Suspensor System:</strong> \nThe Heavy Special Rule of ranged weapons the operative is equipped with is treated differently.\nInstead, an operative cannot move more than 3 [CIRCLE] in the same activation in which it performs a Shoot action with any of those ranged weapons. \n</li></ul>",
             "eqpts": "3"
           }
         ],
@@ -7308,7 +7308,7 @@
                 "fireteamid": "WC",
                 "opid": "GNR",
                 "opname": "Rubric Marine Gunner",
-                "description": "With their armour s servos infused with sorcery, the spirit within a Rubric Marine s shell easily hefts the heaviest of arcane weapons. Their soulreaper cannons shoot streams of shells alight with magical power, while their warpflamers unleash gouts of iridescent fire.",
+                "description": "With their armour's servos infused with sorcery, the spirit within a Rubric Marine's shell easily hefts the heaviest of arcane weapons. Their soulreaper cannons shoot streams of shells alight with magical power, while their warpflamers unleash gouts of iridescent fire.",
                 "M": "3[CIRCLE]",
                 "APL": "2",
                 "GA": "1",
@@ -7795,7 +7795,7 @@
                     "opid": "SOR",
                     "uniqueactionid": "WD-FS",
                     "title": "Warpfire Discipline - Firestorm",
-                    "description": "Perform a free Shoot action using the following ranged weapon:\n<table class=\"eqtable\" width=\"100%\">\n\t<tbody><tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>FIrestorm</td>\n        <td>5</td>\n        <td>4+</td>\n        <td>2/2</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n\t</tr>\n    <tr>\n\t\t<td colspan=\"4\">Barrage, Blast [TRI], Indirect</td>\n\t</tr>\n</tbody></table>",
+                    "description": "Perform a free Shoot action using the following ranged weapon:\n <table class=\"eqtable\" width=\"100%\">\n \t<tbody><tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Firestorm</td>\n         <td>5</td>\n         <td>4+</td>\n         <td>2/2</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n \t</tr>\n     <tr>\n \t\t<td colspan=\"4\">Barrage, Blast [TRI], Indirect</td>\n \t</tr>\n </tbody></table>",
                     "AP": 1
                   },
                   {
@@ -8179,7 +8179,7 @@
   },
   {
     "factionid": "IMP",
-    "factionname": "Imperium Of Mankind",
+    "factionname": "Imperium",
     "description": "The Imperium of Man is a galaxy-spanning interstellar Human empire, the ultimate authority for the majority of the Human species in the Milky Way Galaxy in the 41st Millennium A.D. It is ruled by the living god who is known as the Emperor of Mankind.\n<br/><br/>\nThe founder and ruler of the Imperium is the god-like Emperor of Mankind, the most powerful Human psyker ever born. The Emperor founded the Imperium over 10,000 Terran years ago in the late 30th Millennium during the Unification Wars on Old Earth following the terrible period in Human history known as the Age of Strife. ",
     "killteams": [
       {
@@ -8253,7 +8253,7 @@
             "killteamid": "ECC",
             "eqid": "FG",
             "eqname": "Frag Grenade",
-            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n <table width=\"100%\" class=\"eqtable\">\n <tr>\n \t<th>Name</th>\n     <th>A</th>\n     <th>BS</th>\n     <th>D</th>\n </tr>\n <tr>\n \t<td>Frag Grendate</td>\n     <td>4</td>\n     <td>3+</td>\n     <td>2/3</td>\n </tr>\n <tr>\n \t<th colspan=\"4\">Special Rules</th>\n </tr>\n <tr>\n \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n </tr>\n </table>",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n <table width=\"100%\" class=\"eqtable\">\n <tr>\n \t<th>Name</th>\n     <th>A</th>\n     <th>BS</th>\n     <th>D</th>\n </tr>\n <tr>\n \t<td>Frag Grenade</td>\n     <td>4</td>\n     <td>3+</td>\n     <td>2/3</td>\n </tr>\n <tr>\n \t<th colspan=\"4\">Special Rules</th>\n </tr>\n <tr>\n \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n </tr>\n </table>",
             "eqpts": "2"
           },
           {
@@ -8261,7 +8261,7 @@
             "killteamid": "ECC",
             "eqid": "KG",
             "eqname": "Krak Grenade",
-            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n<table width=\"100%\" class=\"eqtable\">\n<tr>\n\t<th>Name</th>\n    <th>A</th>\n    <th>BS</th>\n    <th>D</th>\n</tr>\n<tr>\n\t<td>Krak Grendate</td>\n    <td>4</td>\n    <td>3+</td>\n    <td>4/5</td>\n</tr>\n<tr>\n\t<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n</tr>\n</table>",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n<table width=\"100%\" class=\"eqtable\">\n<tr>\n\t<th>Name</th>\n    <th>A</th>\n    <th>BS</th>\n    <th>D</th>\n</tr>\n<tr>\n\t<td>Krak Grenade</td>\n    <td>4</td>\n    <td>3+</td>\n    <td>4/5</td>\n</tr>\n<tr>\n\t<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n</tr>\n</table>",
             "eqpts": "3"
           },
           {
@@ -8277,7 +8277,7 @@
             "killteamid": "ECC",
             "eqid": "PS",
             "eqname": "Purity Seal",
-            "eqdescription": "The operative gains the following ability for the battle:\n<ul><li><strong>Purity Seal:</strong> Once per battle, when this operative is fighting in combat, making a shooting attack, or a shooting attack is being made against it, you can use the Command Re-Roll Tactical Ploy (see the Kill Team Core Book) without spending any CP.</li></ul>",
+            "eqdescription": "The operative gains the following ability for the battle:<br/>\n <strong>Purity Seal:</strong> Once per battle, when this operative is fighting in combat, making a shooting attack, or a shooting attack is being made against it, you can use the Command Re-Roll Tactical Ploy (see the Kill Team Core Book) without spending any CP.",
             "eqpts": "3"
           },
           {
@@ -10659,7 +10659,7 @@
             "killteamid": "GK",
             "eqid": "HW",
             "eqname": "Hexagrammic Ward",
-            "eqdescription": "The operative gains the following ability for the battle:<br>\n<strong>Hexagrammic Ward:</strong> Once per battle, when an enemy oeprative that is Visible to this operative performs a psychic action, this operative can use this ability.\nIf it does so, roll 1D6: On a 3+, that action's psychic power is not resolved (the action points subtracted for that action are not refunded).",
+            "eqdescription": "The operative gains the following ability for the battle:<br>\n<strong>Hexagrammic Ward:</strong> Once per battle, when an enemy operative that is Visible to this operative performs a psychic action, this operative can use this ability.\nIf it does so, roll 1D6: On a 3+, that action's psychic power is not resolved (the action points subtracted for that action are not refunded).",
             "eqpts": "2"
           },
           {
@@ -10675,7 +10675,7 @@
             "killteamid": "GK",
             "eqid": "POG",
             "eqname": "Psyk-Out Grenade",
-            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br/>\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Psyk-Out Grenade</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>1/1</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<td>Rng [PENT], Lim, Blast [CIRCLE], Indirect, Psyk-Out*</td>\n    </tr>\n</table>\n* <strong>Psyk-Out:</strong> \nEach time a shooting attack is made with this weapon, if the target has the PSYKER or DAEMON keyword, for that shooting attack, change its Damage characteristic to 3/5 and it has the Lethal 5+ Special Rule.",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br/>\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Psyk-Out Grenade</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>1/1</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect, Psyk-Out*</td>\n     </tr>\n </table>\n * <strong>Psyk-Out:</strong> \n Each time a shooting attack is made with this weapon, if the target has the PSYKER or DAEMON keyword, for that shooting attack, change its Damage characteristic to 3/5 and it has the Lethal 5+ Special Rule.",
             "eqpts": "2"
           },
           {
@@ -10683,7 +10683,7 @@
             "killteamid": "GK",
             "eqid": "PS",
             "eqname": "Purity Seal",
-            "eqdescription": "The operative gains the following ability for the battle:<br/>\n<strong>Purity Seal:</strong> \nOnce per battle, when this operative is fighting in combat, making a shooting attack or a shooting attack is made against it, you can use the Command Re-Roll Tactical Ploy without spending any CP.",
+            "eqdescription": "The operative gains the following ability for the battle:<br/>\n <strong>Purity Seal:</strong> Once per battle, when this operative is fighting in combat, making a shooting attack, or a shooting attack is being made against it, you can use the Command Re-Roll Tactical Ploy (see the Kill Team Core Book) without spending any CP.",
             "eqpts": "3"
           },
           {
@@ -11353,7 +11353,7 @@
             "killteamid": "HC",
             "eqid": "ULVF",
             "eqname": "Uplinked Vid-Feed",
-            "eqdescription": "RANGER or VANGUARD operative only. The oeprative gains the following ability for the battle:\n<br/>\n<strong>Uplinked Vid-Feed:</strong> \nEach time this operative performs an Overwatch action, for that action's shooting attack, do not worsen the Ballistic Skill characteristic of its ranged weapons as a result of performing an Overwatch action.",
+            "eqdescription": "RANGER or VANGUARD operative only. The operative gains the following ability for the battle:\n<br/>\n<strong>Uplinked Vid-Feed:</strong> \nEach time this operative performs an Overwatch action, for that action's shooting attack, do not worsen the Ballistic Skill characteristic of its ranged weapons as a result of performing an Overwatch action.",
             "eqpts": "1"
           }
         ],
@@ -12312,7 +12312,7 @@
                     "opid": "SKRS",
                     "uniqueactionid": "OSP",
                     "title": "Omnispex",
-                    "description": "Select one friendly HUNTER CLADE operative Visible to and within [SQUARE] of this operative, then select one enemy operative. Until the end of the Turning Point, each time that friendly operative makes a shooting attack, for that shooting attack:\n<ul>\n<li>Areas of smoke have no effect when determining Line of Sight to that enemy operative</li>\n<li>That enemy oerative is not Obscured</li>\n<li>If that enemy operative is the target, that friendly operative's ranged weapons have the No Cover special rule</li>\n</ul>\nThis operative cannot perform this active while within Engagement Range of an enemy operative.",
+                    "description": "Select one friendly HUNTER CLADE operative Visible to and within [SQUARE] of this operative, then select one enemy operative. Until the end of the Turning Point, each time that friendly operative makes a shooting attack, for that shooting attack:\n<ul>\n<li>Areas of smoke have no effect when determining Line of Sight to that enemy operative</li>\n<li>That enemy operative is not Obscured</li>\n<li>If that enemy operative is the target, that friendly operative's ranged weapons have the No Cover special rule</li>\n</ul>\nThis operative cannot perform this active while within Engagement Range of an enemy operative.",
                     "AP": 1
                   }
                 ],
@@ -12928,7 +12928,7 @@
                     "opid": "SKVS",
                     "uniqueactionid": "OSP",
                     "title": "Omnispex",
-                    "description": "Select one friendly HUNTER CLADE operative Visible to and within [SQUARE] of this operative, then select one enemy operative. Until the end of the Turning Point, each time that friendly operative makes a shooting attack, for that shooting attack:\n<ul>\n<li>Areas of smoke have no effect when determining Line of Sight to that enemy operative</li>\n<li>That enemy oerative is not Obscured</li>\n<li>If that enemy operative is the target, that friendly operative's ranged weapons have the No Cover special rule</li>\n</ul>\nThis operative cannot perform this active while within Engagement Range of an enemy operative.",
+                    "description": "Select one friendly HUNTER CLADE operative Visible to and within [SQUARE] of this operative, then select one enemy operative. Until the end of the Turning Point, each time that friendly operative makes a shooting attack, for that shooting attack:\n<ul>\n<li>Areas of smoke have no effect when determining Line of Sight to that enemy operative</li>\n<li>That enemy operative is not Obscured</li>\n<li>If that enemy operative is the target, that friendly operative's ranged weapons have the No Cover special rule</li>\n</ul>\nThis operative cannot perform this active while within Engagement Range of an enemy operative.",
                     "AP": 1
                   }
                 ],
@@ -13029,7 +13029,7 @@
             "killteamid": "IG",
             "eqid": "FG",
             "eqname": "Frag Grenade",
-            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n <table width=\"100%\" class=\"eqtable\">\n <tr>\n \t<th>Name</th>\n     <th>A</th>\n     <th>BS</th>\n     <th>D</th>\n </tr>\n <tr>\n \t<td>Frag Grendate</td>\n     <td>4</td>\n     <td>3+</td>\n     <td>2/3</td>\n </tr>\n <tr>\n \t<th colspan=\"4\">Special Rules</th>\n </tr>\n <tr>\n \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n </tr>\n </table>",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n <table width=\"100%\" class=\"eqtable\">\n <tr>\n \t<th>Name</th>\n     <th>A</th>\n     <th>BS</th>\n     <th>D</th>\n </tr>\n <tr>\n \t<td>Frag Grenade</td>\n     <td>4</td>\n     <td>3+</td>\n     <td>2/3</td>\n </tr>\n <tr>\n \t<th colspan=\"4\">Special Rules</th>\n </tr>\n <tr>\n \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n </tr>\n </table>",
             "eqpts": "2"
           },
           {
@@ -13037,7 +13037,7 @@
             "killteamid": "IG",
             "eqid": "KG",
             "eqname": "Krak Grenade",
-            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n<table width=\"100%\" class=\"eqtable\">\n<tr>\n\t<th>Name</th>\n    <th>A</th>\n    <th>BS</th>\n    <th>D</th>\n</tr>\n<tr>\n\t<td>Krak Grendate</td>\n    <td>4</td>\n    <td>3+</td>\n    <td>4/5</td>\n</tr>\n<tr>\n\t<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n</tr>\n</table>",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n<table width=\"100%\" class=\"eqtable\">\n<tr>\n\t<th>Name</th>\n    <th>A</th>\n    <th>BS</th>\n    <th>D</th>\n</tr>\n<tr>\n\t<td>Krak Grenade</td>\n    <td>4</td>\n    <td>3+</td>\n    <td>4/5</td>\n</tr>\n<tr>\n\t<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n</tr>\n</table>",
             "eqpts": "3"
           },
           {
@@ -14169,7 +14169,7 @@
               "ployname": "Burning Wrath",
               "ploytype": "T",
               "CP": "1",
-              "description": "Select one friendly NOVITIATE PURGATUS operative. Until the end of the turning point, that operative’s Ministorum flamer has the following profile:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Ministorum Flamer</td>\n        <td>5</td>\n        <td>2+</td>\n        <td>3/4</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<td>Inferno 2, Rng [PENT], Tor [CIRCLE]</td>\n    </tr>\n</table>"
+              "description": "Select one friendly NOVITIATE PURGATUS operative. Until the end of the turning point, that operative’s Ministorum flamer has the following profile:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Ministorum Flamer</td>\n         <td>5</td>\n         <td>2+</td>\n         <td>3/4</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Inferno 2, Rng [PENT], Tor [CIRCLE]</td>\n     </tr>\n </table>"
             },
             {
               "factionid": "IMP",
@@ -14221,7 +14221,7 @@
             "killteamid": "NOV",
             "eqid": "FG",
             "eqname": "Frag Grenade",
-            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n  <table width=\"100%\" class=\"eqtable\">\n  <tr>\n  \t<th>Name</th>\n      <th>A</th>\n      <th>BS</th>\n      <th>D</th>\n  </tr>\n  <tr>\n  \t<td>Frag Grendate</td>\n      <td>4</td>\n      <td>3+</td>\n      <td>2/3</td>\n  </tr>\n  <tr>\n  \t<th colspan=\"4\">Special Rules</th>\n  </tr>\n  <tr>\n  \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n  </tr>\n  </table>",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n  <table width=\"100%\" class=\"eqtable\">\n  <tr>\n  \t<th>Name</th>\n      <th>A</th>\n      <th>BS</th>\n      <th>D</th>\n  </tr>\n  <tr>\n  \t<td>Frag Grenade</td>\n      <td>4</td>\n      <td>3+</td>\n      <td>2/3</td>\n  </tr>\n  <tr>\n  \t<th colspan=\"4\">Special Rules</th>\n  </tr>\n  <tr>\n  \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n  </tr>\n  </table>",
             "eqpts": "2"
           },
           {
@@ -14237,7 +14237,7 @@
             "killteamid": "NOV",
             "eqid": "KG",
             "eqname": "Krak Grenade",
-            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n <table width=\"100%\" class=\"eqtable\">\n <tr>\n \t<th>Name</th>\n     <th>A</th>\n     <th>BS</th>\n     <th>D</th>\n </tr>\n <tr>\n \t<td>Krak Grendate</td>\n     <td>4</td>\n     <td>3+</td>\n     <td>4/5</td>\n </tr>\n <tr>\n \t<th colspan=\"4\">Special Rules</th>\n </tr>\n <tr>\n \t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n </tr>\n </table>",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n <table width=\"100%\" class=\"eqtable\">\n <tr>\n \t<th>Name</th>\n     <th>A</th>\n     <th>BS</th>\n     <th>D</th>\n </tr>\n <tr>\n \t<td>Krak Grenade</td>\n     <td>4</td>\n     <td>3+</td>\n     <td>4/5</td>\n </tr>\n <tr>\n \t<th colspan=\"4\">Special Rules</th>\n </tr>\n <tr>\n \t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n </tr>\n </table>",
             "eqpts": "3"
           },
           {
@@ -14394,6 +14394,15 @@
                     "killteamid": "NOV",
                     "fireteamid": "NOV",
                     "opid": "CON",
+                    "abilityid": "NR",
+                    "title": "Null Rod",
+                    "description": "Each time an enemy operative is activated, if it is within [PENT] of this operative for that activation, its APL characteristic cannot be higher than 2. Each time an enemy operative would perform a psychic action, if it is within [PENT] of this operative, 1 additional AP must be subtracted to perform that action."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "CON",
                     "abilityid": "VS",
                     "title": "Vengeful Strike (3 Faith Points)",
                     "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
@@ -14465,7 +14474,28 @@
                     ]
                   }
                 ],
-                "uniqueactions": [],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "DIA",
+                    "uniqueactionid": "AB",
+                    "title": "Auto-Broadcaster",
+                    "description": "Place a Condemning Sermon token within [PENT] of this operative. While an enemy operative is within [CIRCLE] of the centre of your Condemning Sermon token, worsen the Ballistic Skill characteristic of ranged weapons it is equipped with by 1. In the Ready Operatives step of each Turning Point, remove your Condemning Sermon token.",
+                    "AP": 1
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "DIA",
+                    "uniqueactionid": "SR",
+                    "title": "Stirring Rhetoric",
+                    "description": "Select one friendly NOVITIATE operative within [PENT] of and Visible to this operative. Add 1 to its APL.",
+                    "AP": 1
+                  }
+                ],
                 "abilities": [
                   {
                     "factionid": "IMP",
@@ -14747,7 +14777,18 @@
                     ]
                   }
                 ],
-                "uniqueactions": [],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "EXA",
+                    "uniqueactionid": "WIF",
+                    "title": "Whip Into Frenzy",
+                    "description": "Select one friendly NOVITIATE operative (excluding a NOVITIATE SUPERIOR operative) within [SQUARE] of and Visible to this operative. Add 1 to that operative’s APL. In addition, if that operative is a NOVITIATE PENITENT operative, until the end of that operative’s next activation, add [CIRCLE] to its Movement characteristic.",
+                    "AP": 1
+                  }
+                ],
                 "abilities": [
                   {
                     "factionid": "IMP",
@@ -14888,7 +14929,18 @@
                     ]
                   }
                 ],
-                "uniqueactions": [],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "HOS",
+                    "uniqueactionid": "CT",
+                    "title": "Chirurgeon's Tools",
+                    "description": "Select one friendly NOVITIATE operative within [TRI] of and Visible to this operative. That operative regains 2D3 lost wounds. An operative cannot be selected for this if it was revived using the Mantra of Restoration ability during the same Turning Point. This operative cannot perform this action if it is within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
                 "abilities": [
                   {
                     "factionid": "IMP",
@@ -14952,6 +15004,15 @@
                     "abilityid": "GL",
                     "title": "Guiding Light (2 Faith Points)",
                     "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "HOS",
+                    "abilityid": "MOR",
+                    "title": "Mantra Of Restoration",
+                    "description": "Once per Turning Point, the first time a friendly NOVITIATE operative would be incapacitated while Visible to and within [SQUARE] of this operative and not within Engagement Range of an enemy operative, if this operative is not within Engagement Range of an enemy operative, this operative can revive it. That operative is not incapacitated, has 1 wound remaining, and if it would have been incapacitated by a shooting attack, any remaining attack dice are discarded. That other friendly operative can then perform a free Dash action, but must finish that move within [TRI] of this operative. Subtract 1 from both operatives’ APL."
                   },
                   {
                     "factionid": "IMP",
@@ -15218,7 +15279,18 @@
                     ]
                   }
                 ],
-                "uniqueactions": [],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PEN",
+                    "uniqueactionid": "ATD",
+                    "title": "Absolution Through Destruction",
+                    "description": "Perform a Fight action with this operative, then perform another Fight action.",
+                    "AP": 1
+                  }
+                ],
                 "abilities": [
                   {
                     "factionid": "IMP",
@@ -15291,6 +15363,15 @@
                     "abilityid": "VS",
                     "title": "Vengeful Strike (3 Faith Points)",
                     "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PEN",
+                    "abilityid": "ZR",
+                    "title": "Zealous Rage",
+                    "description": "The first time this operative performs a Fight action in each of its activations, in the Roll Attack Dice step of that combat, you can re-roll any or all of your attack dice."
                   }
                 ],
                 "fireteammax": 0
@@ -15335,7 +15416,18 @@
                     ]
                   }
                 ],
-                "uniqueactions": [],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRE",
+                    "uniqueactionid": "GH",
+                    "title": "Glorious Hymnal",
+                    "description": "Until the end of the Turning Point, each time a friendly NOVITIATE operative fights in combat, in the Roll Attack Dice step of that combat, if it is within [PENT] of this operative, you can re-roll any or all of your attack dice results of 1 or 2.",
+                    "AP": 1
+                  }
+                ],
                 "abilities": [
                   {
                     "factionid": "IMP",
@@ -15399,6 +15491,15 @@
                     "abilityid": "GL",
                     "title": "Guiding Light (2 Faith Points)",
                     "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRE",
+                    "abilityid": "UD",
+                    "title": "Unflinching Determination",
+                    "description": "Each time a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, if this operative is Visible to and within [SQAURE] of it, you can re-roll one of your defence dice."
                   },
                   {
                     "factionid": "IMP",
@@ -15476,7 +15577,18 @@
                     ]
                   }
                 ],
-                "uniqueactions": [],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRO",
+                    "uniqueactionid": "RR",
+                    "title": "Raise Relic",
+                    "description": "You gain 2 Faith points. If this operative performs this action while within [CIRCLE] of the centre of an objective marker, or while within [PENT] of the enemy drop zone, you gain 3 Faith points instead.",
+                    "AP": 1
+                  }
+                ],
                 "abilities": [
                   {
                     "factionid": "IMP",
@@ -15540,6 +15652,15 @@
                     "abilityid": "GL",
                     "title": "Guiding Light (2 Faith Points)",
                     "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PRO",
+                    "abilityid": "RS",
+                    "title": "Relic Seeker",
+                    "description": "Each time this operative is activated, it can perform one mission action at any point during its activation without subtracting any action points."
                   },
                   {
                     "factionid": "IMP",
@@ -15617,7 +15738,18 @@
                     ]
                   }
                 ],
-                "uniqueactions": [],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "PUR",
+                    "uniqueactionid": "BA",
+                    "title": "Burning Advance",
+                    "description": "Perform a free Dash action with this operative, then perform a free Shoot action with it.",
+                    "AP": 1
+                  }
+                ],
                 "abilities": [
                   {
                     "factionid": "IMP",
@@ -15758,7 +15890,18 @@
                     ]
                   }
                 ],
-                "uniqueactions": [],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "REL",
+                    "uniqueactionid": "PTI",
+                    "title": "Plant The Icon",
+                    "description": "Perform this action while within [CIRCLE] of the centre of an objective marker. Until this operative is next activated, if it is within [CIRCLE] of the centre of that objective marker, halve the APL of enemy operatives (rounding up) when determining who controls that objective marker.",
+                    "AP": 1
+                  }
+                ],
                 "abilities": [
                   {
                     "factionid": "IMP",
@@ -15822,6 +15965,15 @@
                     "abilityid": "GL",
                     "title": "Guiding Light (2 Faith Points)",
                     "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "REL",
+                    "abilityid": "IOP",
+                    "title": "Icon Of Purity",
+                    "description": "Each time a friendly NOVITIATE operative is incapacitated, if this operative is within [PENT] of and Visible to it, roll one D6: on a 4+, that operative can immediately perform a free Shoot action."
                   },
                   {
                     "factionid": "IMP",
@@ -16054,6 +16206,15 @@
                     "killteamid": "NOV",
                     "fireteamid": "NOV",
                     "opid": "SUP",
+                    "abilityid": "LBE",
+                    "title": "Lead By Example",
+                    "description": "Each time this operative is activated, if it performs any mission actions or if any enemy operatives are incapacitated as a result of any actions it performs during that activation, you can select one Ready friendly NOVITIATE operative Visible to and within [PENT] of it. After this operative’s activation ends, you can activate that operative."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "NOV",
+                    "fireteamid": "NOV",
+                    "opid": "SUP",
                     "abilityid": "VS",
                     "title": "Vengeful Strike (3 Faith Points)",
                     "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
@@ -16136,7 +16297,7 @@
               "ployname": "Omni-Scrambler",
               "ploytype": "T",
               "CP": "1",
-              "description": "Use this Tactical Ploy at the start of the Firefight phase. Select one enemy operative Visible and within [PENT] of a friendly INFILTRATOR operative. Until the end of the TP, that enemy operative cannot be activated until another enemy operative has been activated (unless it is the only operative remaining)."
+              "description": "Use this Tactical Ploy at the start of the Firefight phase. Select one enemy operative Visible and within [PENT] of a friendly INFILTRATOR operative. Until the end of the Turning Point, that enemy operative cannot be activated until another enemy operative has been activated (unless it is the only operative remaining)."
             },
             {
               "factionid": "IMP",
@@ -16154,7 +16315,7 @@
               "ployname": "Terror Troop",
               "ploytype": "T",
               "CP": "1",
-              "description": "Use this Tactical Ploy during a friendly Reiver operative's activation. Until the start of the next Turning Point:<ul><li>Each time an enemy operative would perform a mission action or the Pick Up action, if this friendly REIVER operative is within [SQUARE] of that enemy operative, one additional action point must be subtracted to perform that action.</li><li>When determining cotnrol of an object marker that friendly REIVER operative is within range of, treat enemy operatives' total APL as being 1 less. Note that this is not a modifier.</li></ul>"
+              "description": "Use this Tactical Ploy during a friendly Reiver operative's activation. Until the start of the next Turning Point:<ul><li>Each time an enemy operative would perform a mission action or the Pick Up action, if this friendly REIVER operative is within [SQUARE] of that enemy operative, one additional action point must be subtracted to perform that action.</li><li>When determining control of an object marker that friendly REIVER operative is within range of, treat enemy operatives' total APL as being 1 less. Note that this is not a modifier.</li></ul>"
             }
           ]
         },
@@ -16164,7 +16325,7 @@
             "killteamid": "SM",
             "eqid": "AGL",
             "eqname": "Auxiliary Grenade Launcher",
-            "eqdescription": "INTERCESSOR operative only. The operative gains the following ability for the battle:\n<ul><li>\n<strong>Auxiliary Grenade Launcher:</strong> \nFrag and Krak Grenades the operative is equipped with can be selected for use twice, instead of once.\nEach time the operative performs a Shoot action, if a Frag or Krak Grenade is selected as the ranged weapon an Auxiliary Grenade Launcher can also be selected. \nIf it is, for that action's shooting attack(s), Frag or Krak Grenades are treated as not having the Rng [PENT] and indirect Special Rule.",
+            "eqdescription": "INTERCESSOR operative only. The operative gains the following ability for the battle:<br/>\n <strong>Auxiliary Grenade Launcher:</strong> \n Frag and Krak Grenades the operative is equipped with can be selected for use twice, instead of once.\n Each time the operative performs a Shoot action, if a Frag or Krak Grenade is selected as the ranged weapon an Auxiliary Grenade Launcher can also be selected. \n If it is, for that action's shooting attack(s), Frag or Krak Grenades are treated as not having the Rng [PENT] and indirect Special Rule.",
             "eqpts": "1"
           },
           {
@@ -16180,7 +16341,7 @@
             "killteamid": "SM",
             "eqid": "FG",
             "eqname": "Frag Grenade",
-            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n <table width=\"100%\" class=\"eqtable\">\n <tr>\n \t<th>Name</th>\n     <th>A</th>\n     <th>BS</th>\n     <th>D</th>\n </tr>\n <tr>\n \t<td>Frag Grendate</td>\n     <td>4</td>\n     <td>3+</td>\n     <td>2/3</td>\n </tr>\n <tr>\n \t<th colspan=\"4\">Special Rules</th>\n </tr>\n <tr>\n \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n </tr>\n </table>",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n <table width=\"100%\" class=\"eqtable\">\n <tr>\n \t<th>Name</th>\n     <th>A</th>\n     <th>BS</th>\n     <th>D</th>\n </tr>\n <tr>\n \t<td>Frag Grenade</td>\n     <td>4</td>\n     <td>3+</td>\n     <td>2/3</td>\n </tr>\n <tr>\n \t<th colspan=\"4\">Special Rules</th>\n </tr>\n <tr>\n \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n </tr>\n </table>",
             "eqpts": "2"
           },
           {
@@ -16196,7 +16357,7 @@
             "killteamid": "SM",
             "eqid": "GRP",
             "eqname": "Grapnel Launcher",
-            "eqdescription": "REIVER operative only.\nThe operative gains the following ability for the battle.\n<br/>\n<strong>Grapnel Launcher:</strong> \n<ul>\n<li>Each time this operative ascends or descends a terrain feature while climbing, the first vertical of up to 3 [CIRCLE] it travels is counted as [CIRCLE] for that climb.</li>\n<li>The operative does not need to be within [TRI] of a physical and climbable part of a terrain feature in order to climb it.</li> \n<li>Each time this operative drops, the intended location can be any vertical distance from the level it occupies.</li>\n<li>Each time this operative drops, it counts any vertical distance it travles as half of that drop.</li>\n</ul>",
+            "eqdescription": "REIVER operative only.\nThe operative gains the following ability for the battle.\n<br/>\n<strong>Grapnel Launcher:</strong> \n<ul>\n<li>Each time this operative ascends or descends a terrain feature while climbing, the first vertical of up to 3 [CIRCLE] it travels is counted as [CIRCLE] for that climb.</li>\n<li>The operative does not need to be within [TRI] of a physical and climbable part of a terrain feature in order to climb it.</li> \n<li>Each time this operative drops, the intended location can be any vertical distance from the level it occupies.</li>\n<li>Each time this operative drops, it counts any vertical distance it travels as half of that drop.</li>\n</ul>",
             "eqpts": "1"
           },
           {
@@ -16204,7 +16365,7 @@
             "killteamid": "SM",
             "eqid": "HG",
             "eqname": "Helix Gauntlet",
-            "eqdescription": "INFILTRATOR WARRIOR operative only. The operative gains the MEDIS keyword until the start of the next battle and can perform the following action during the battle:\n<ul><li>\n<strong>Helix Gauntlet (1 AP):</strong> \nSelect one friendly SPACE MARINE operative Visible and within [TRI] of this operative.\nThat operative regains 2D3 lost wounds. This operative cannot perform this action while within Engagement Range of enemy operatives.\n</li></ul>",
+            "eqdescription": "INFILTRATOR WARRIOR operative only. The operative gains the MEDIC keyword until the start of the next battle and can perform the following action during the battle:<br/>\n <strong>Helix Gauntlet (1 AP):</strong> \n Select one friendly SPACE MARINE operative Visible and within [TRI] of this operative.\n That operative regains 2D3 lost wounds. This operative cannot perform this action while within Engagement Range of enemy operatives.",
             "eqpts": "2"
           },
           {
@@ -16212,7 +16373,7 @@
             "killteamid": "SM",
             "eqid": "HM",
             "eqname": "Haywire Mine",
-            "eqdescription": "\nINCURSOR WARRIOR operative only. The operative can perform the following action during the battle:\n <ul><li>\n <strong>Haywire Mine (1 AP):</strong> \n Place a Haywire Mine token within [TRI] of this operative.\n This operative can only perform this action once, and cannot perform this action while within Engagement Range of enemy operatives. \n If this operative is incapacitated and removed from the killzone, remove its Haywire Mine token. \n </li></ul>\n The operative is equipped with the following ranged weapon:\n <table width=\"100%\" class=\"eqtable\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Haywire Mine</td>\n         <td>4</td>\n         <td>2+</td>\n         <td>4/5</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">\n \t\t\tDetonate*, Silent\n         </td>\n     </tr>\n </table>\n <li><strong>Detonate:</strong> \n Each time this operative makes a Shoot action using its Haywire Mine, make a shooting attack against each operative within [SQUARE] of the centre of its Haywire Mine token with that weapon.\n When making those shooting attacks, each operative is treated as being Visible, but when determining if it is in Cover, treat this operative's Haywire Mine token as the active operative. \n Then remove this operative's Haywire Mine token. \n An operative cannot make a shooting attack with this weapon by performing an Overwatch action, or if its Haywire Mine token is not in the killzone.\n </li>",
+            "eqdescription": "INCURSOR WARRIOR operative only. The operative can perform the following action during the battle:\n <br/>\n   <strong>Haywire Mine (1 AP):</strong> \n   Place a Haywire Mine token within [TRI] of this operative.\n   This operative can only perform this action once, and cannot perform this action while within Engagement Range of enemy operatives. \n   If this operative is incapacitated and removed from the killzone, remove its Haywire Mine token. \n <br/><br/>\n   The operative is equipped with the following ranged weapon:\n   <table width=\"100%\" class=\"eqtable\">\n   \t<tr>\n   \t\t<th>Name</th>\n           <th>A</th>\n           <th>BS</th>\n           <th>D</th>\n       </tr>\n       <tr>\n   \t\t<td>Haywire Mine</td>\n           <td>4</td>\n           <td>2+</td>\n           <td>4/5</td>\n       </tr>\n       <tr>\n   \t\t<th colspan=\"4\">Special Rules</th>\n       </tr>\n       <tr>\n   \t\t<td colspan=\"4\">\n   \t\t\tDetonate*, Silent\n           </td>\n       </tr>\n   </table>\n<strong>Detonate:</strong> \nEach time this operative makes a Shoot action using its Haywire Mine, make a shooting attack against each operative within [SQUARE] of the centre of its Haywire Mine token with that weapon.\nWhen making those shooting attacks, each operative is treated as being Visible, but when determining if it is in Cover, treat this operative's Haywire Mine token as the active operative. \nThen remove this operative's Haywire Mine token. \nAn operative cannot make a shooting attack with this weapon by performing an Overwatch action, or if its Haywire Mine token is not in the killzone.",
             "eqpts": "3"
           },
           {
@@ -16220,7 +16381,7 @@
             "killteamid": "SM",
             "eqid": "KG",
             "eqname": "Krak Grenade",
-            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n<table width=\"100%\" class=\"eqtable\">\n<tr>\n\t<th>Name</th>\n    <th>A</th>\n    <th>BS</th>\n    <th>D</th>\n</tr>\n<tr>\n\t<td>Krak Grendate</td>\n    <td>4</td>\n    <td>3+</td>\n    <td>4/5</td>\n</tr>\n<tr>\n\t<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n</tr>\n</table>",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n<table width=\"100%\" class=\"eqtable\">\n<tr>\n\t<th>Name</th>\n    <th>A</th>\n    <th>BS</th>\n    <th>D</th>\n</tr>\n<tr>\n\t<td>Krak Grenade</td>\n    <td>4</td>\n    <td>3+</td>\n    <td>4/5</td>\n</tr>\n<tr>\n\t<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n</tr>\n</table>",
             "eqpts": "3"
           },
           {
@@ -16228,7 +16389,7 @@
             "killteamid": "SM",
             "eqid": "PS",
             "eqname": "Purity Seal",
-            "eqdescription": "The operative gains the following ability for the battle:\n<ul><li><strong>Purity Seal:</strong> Once per battle, when this operative is fighting in combat, making a shooting attack, or a shooting attack is being made against it, you can use the Command Re-Roll Tactical Ploy (see the Kill Team Core Book) without spending any CP.</li></ul>",
+            "eqdescription": "The operative gains the following ability for the battle:<br/>\n <strong>Purity Seal:</strong> Once per battle, when this operative is fighting in combat, making a shooting attack, or a shooting attack is being made against it, you can use the Command Re-Roll Tactical Ploy (see the Kill Team Core Book) without spending any CP.",
             "eqpts": "3"
           },
           {
@@ -16236,7 +16397,7 @@
             "killteamid": "SM",
             "eqid": "SG",
             "eqname": "Smoke Grenade",
-            "eqdescription": "INCURSOR, INFILTRATOR, REIVER, or SCOUT operative only.\n The oeprative can perform the following action during the battle:\n <ul><li>\n <strong>Smoke Grenade (1 AP):</strong> \n Place the centre of one Smoke token on a point within [PENT] of this operative.\n That token creates an area of smoke with a [CIRCLE] radius and unlimited upward height (but not below) measured from the centre of that token.\n Until the end of the Turning Point, an operative is Obscured if every Cover line drawn to it crosses an area of smoke.\n This operative can only perfom this action once, and cannot perform this action while within Engagement Range of enemy operatives.\n </li></ul>",
+            "eqdescription": "INCURSOR, INFILTRATOR, REIVER, or SCOUT operative only.\n  The operative can perform the following action during the battle:\n<br/>\n  <strong>Smoke Grenade (1 AP):</strong> \n  Place the centre of one Smoke token on a point within [PENT] of this operative.\n  That token creates an area of smoke with a [CIRCLE] radius and unlimited upward height (but not below) measured from the centre of that token.\n  Until the end of the Turning Point, an operative is Obscured if every Cover line drawn to it crosses an area of smoke.\n  This operative can only perfom this action once, and cannot perform this action while within Engagement Range of enemy operatives.",
             "eqpts": "3"
           },
           {
@@ -16244,7 +16405,7 @@
             "killteamid": "SM",
             "eqid": "SHG",
             "eqname": "Shock Grenade",
-            "eqdescription": "REIVER operative only. \nThe operative can perform the following action during the battle.\n\n<ul><li>\n<strong>Shock Grenade (1 AP):</strong> \nSelect one point of the killzone within [PENT] of this operative. Roll 1D6 for each operative within [CIRCLE] of that point, subtracting 1 from the result if they are not Visible to this operative.\nOn a 4+, subtract 1 from that operative's APL. \nThis operative can only perform this action once, and cannot perform this action while within Engagement Range of enemy operatives.\n</li></ul>",
+            "eqdescription": "REIVER operative only. \n  The operative can perform the following action during the battle.\n  <br/>\n  <strong>Shock Grenade (1 AP):</strong> \n  Select one point of the killzone within [PENT] of this operative. Roll 1D6 for each operative within [CIRCLE] of that point, subtracting 1 from the result if they are not Visible to this operative.\n  On a 4+, subtract 1 from that operative's APL. \n  This operative can only perform this action once, and cannot perform this action while within Engagement Range of enemy operatives.",
             "eqpts": "3"
           },
           {
@@ -16252,7 +16413,7 @@
             "killteamid": "SM",
             "eqid": "SUS",
             "eqname": "Suspensor System",
-            "eqdescription": "The operative can perform the following action during the battle.\n\n<ul><li>\n<strong>Suspensor System:</strong> \nThe Heavy Special Rule of ranged weapons the operative is equipped with is treated differently.\nInstead, an operative cannot move more than 3 [CIRCLE] in the same activation in which it performs a Shoot action with any of those ranged weapons. \n</li></ul>",
+            "eqdescription": "The operative gains the following ability for the battle:\n <br/>\n <strong>Suspensor System:</strong> \n The Heavy Special Rule of ranged weapons the operative is equipped with is treated differently.\n Instead, an operative cannot move more than 3 [CIRCLE] in the same activation in which it performs a Shoot action with any of those ranged weapons. ",
             "eqpts": "3"
           }
         ],
@@ -18399,7 +18560,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "A DEATHWATCH VETERAN fire team includes one DEATHWATCH VETERAN WATCH SERGEANT operative equipped with one of the following options:\n<ul>\n\t<li>Heavy Thunder Hammer (max one per kill team)</li>\n    <li>Lightning Claws</li>\n    <li>\n\t\tFists and one of the following options:\n        <ul>\n\t\t\t<li>DeathWatch Boltgun, DeathWatch Shotgun, Combi-Flamer, Combi-Grav, Combi-Melta, Combi-Plasma, Flamer, Grav-Gun, Meltagun, Plasma Gun, Stalker Pattern Boltgun, or Storm Bolter</li>\n        </ul>\n\t</li>\n    <li>\n\t\tOne options from each of the following:\n        <ul>\n\t\t\t<li>Chainsword, Lightning Claw, Power Fist, Power Maul, Power Weapon, Thunder Hammer, or Xenophase Blade</li>\n            <li>Bolt Pistol, Grav-Pistol, Hand Flamer, Inferno Pistol, Plasma Pistol, or Storm Shield</li>\n        </ul>\n    </li>\n</ul>\nIt also includes four DEATHWATCH VETERAN operatives selected from the following list:\n<ul>\n\t<li>\n\t\tDEATHWATCH VETERAN WARRIOR each separately equipped with one of the following options:\n        <ul>\n\t\t\t<li>DeathWatch Boltgun, Power Weapon</li>\n            <li>\n\t\t\t\tFists and one of the following options:\n                <ul>\n\t\t\t\t\t<li>DeathWatch Shotgun, Stalker Pattern Boltgun, or Storm Bolter</li>\n                </ul>\n            </li>\n        </ul>\n\t</li>\n    <li>\n\t\tDEATHWATCH VETERAN FIGHTER each separately equipped with one of the following options:\n        <ul>\n\t\t\t<li>Heavy Thunder Hammer (max one per kill team)</li>\n            <li>LIghtning Claws</li>\n            <li>\n\t\t\t\tOne option from each of the following:\n                <ul>\n\t\t\t\t\t<li>Chainsword, Lightning Claw, Power Fist, Power Maul, Power Weapon, or Thunder Hammer</li>\n                    <li>Bolt Pistol, Grav-Pistol, Hand Flamer, Inferno Pistol, Plasma Pistol, or Storm Shield</li>\n                </ul>\n\t\t\t</li>\n        </ul>\n    </li>\n    <li>\n\t\tDEATHWATCH VETERAN GUNNER each separately equipped with Fists and one of the following options:\n        <ul>\n\t\t\t<li>Combi-Flamer, Combi-Grav, Combi-Melta, Combi-Plasma, Flamer, Grav-Gun, Meltagun, or Plasma Gun</li>\n        </ul>\n    </li>\n    <li>\n\t\tDEATHWATCH VETERAN HEAVY GUNNER each separately equipped with Fists and one of the following options:\n        <ul>\n\t\t\t<li>Frag Cannon, Heavy Bolter, Heavy Flamer, Infernus Heavy Bolter, or Missile Launcher</li>\n        </ul>\n    </li>\n</ul>\nOther than DEATHWATCH VETERAN WARRIOR operatives, your kill team can only include each operative above once."
+            "fireteamcomp": "A DEATHWATCH VETERAN fire team includes one DEATHWATCH VETERAN WATCH SERGEANT operative equipped with one of the following options:\n<ul>\n\t<li>Heavy Thunder Hammer (max one per kill team)</li>\n    <li>Lightning Claws</li>\n    <li>\n\t\tFists and one of the following options:\n        <ul>\n\t\t\t<li>DeathWatch Boltgun, DeathWatch Shotgun, Combi-Flamer, Combi-Grav, Combi-Melta, Combi-Plasma, Flamer, Grav-Gun, Meltagun, Plasma Gun, Stalker Pattern Boltgun, or Storm Bolter</li>\n        </ul>\n\t</li>\n    <li>\n\t\tOne option from each of the following:\n        <ul>\n\t\t\t<li>Chainsword, Lightning Claw, Power Fist, Power Maul, Power Weapon, Thunder Hammer, or Xenophase Blade</li>\n            <li>Bolt Pistol, Grav-Pistol, Hand Flamer, Inferno Pistol, Plasma Pistol, or Storm Shield</li>\n        </ul>\n    </li>\n</ul>\nIt also includes four DEATHWATCH VETERAN operatives selected from the following list:\n<ul>\n\t<li>\n\t\tDEATHWATCH VETERAN WARRIOR each separately equipped with one of the following options:\n        <ul>\n\t\t\t<li>DeathWatch Boltgun, Power Weapon</li>\n            <li>\n\t\t\t\tFists and one of the following options:\n                <ul>\n\t\t\t\t\t<li>DeathWatch Shotgun, Stalker Pattern Boltgun, or Storm Bolter</li>\n                </ul>\n            </li>\n        </ul>\n\t</li>\n    <li>\n\t\tDEATHWATCH VETERAN FIGHTER each separately equipped with one of the following options:\n        <ul>\n\t\t\t<li>Heavy Thunder Hammer (max one per kill team)</li>\n            <li>LIghtning Claws</li>\n            <li>\n\t\t\t\tOne option from each of the following:\n                <ul>\n\t\t\t\t\t<li>Chainsword, Lightning Claw, Power Fist, Power Maul, Power Weapon, or Thunder Hammer</li>\n                    <li>Bolt Pistol, Grav-Pistol, Hand Flamer, Inferno Pistol, Plasma Pistol, or Storm Shield</li>\n                </ul>\n\t\t\t</li>\n        </ul>\n    </li>\n    <li>\n\t\tDEATHWATCH VETERAN GUNNER each separately equipped with Fists and one of the following options:\n        <ul>\n\t\t\t<li>Combi-Flamer, Combi-Grav, Combi-Melta, Combi-Plasma, Flamer, Grav-Gun, Meltagun, or Plasma Gun</li>\n        </ul>\n    </li>\n    <li>\n\t\tDEATHWATCH VETERAN HEAVY GUNNER each separately equipped with Fists and one of the following options:\n        <ul>\n\t\t\t<li>Frag Cannon, Heavy Bolter, Heavy Flamer, Infernus Heavy Bolter, or Missile Launcher</li>\n        </ul>\n    </li>\n</ul>\nOther than DEATHWATCH VETERAN WARRIOR operatives, your kill team can only include each operative above once."
           },
           {
             "factionid": "IMP",
@@ -21098,7 +21259,7 @@
             "killteamid": "TOE",
             "eqid": "POG",
             "eqname": "Psyk-Out Grenade",
-            "eqdescription": "ANATHEMA PSYKANA operative only. The operative is equipped with the following ranged weapon for the battle:<br/>\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Psyk-Out Grenade</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>1/1</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td>Rng [PENT], Lim, Blast [CIRCLE], Indirect, Psyk-Out*</td>\n     </tr>\n </table>\n * <strong>Psyk-Out:</strong> \n Each time a shooting attack is made with this weapon, if the target has the PSYKER or DAEMON keyword, for that shooting attack, change its Damage characteristic to 3/5 and it has the Lethal 5+ Special Rule.",
+            "eqdescription": "ANATHEMA PSYKANA operative only. The operative is equipped with the following ranged weapon for the battle:<br/>\n  <table class=\"eqtable\" width=\"100%\">\n  \t<tr>\n  \t\t<th>Name</th>\n          <th>A</th>\n          <th>BS</th>\n          <th>D</th>\n      </tr>\n      <tr>\n  \t\t<td>Psyk-Out Grenade</td>\n          <td>4</td>\n          <td>3+</td>\n          <td>1/1</td>\n      </tr>\n      <tr>\n  \t\t<th colspan=\"4\">Special Rules</th>\n      </tr>\n      <tr>\n  \t\t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect, Psyk-Out*</td>\n      </tr>\n  </table>\n  * <strong>Psyk-Out:</strong> \n  Each time a shooting attack is made with this weapon, if the target has the PSYKER or DAEMON keyword, for that shooting attack, change its Damage characteristic to 3/5 and it has the Lethal 5+ Special Rule.",
             "eqpts": "2"
           },
           {
@@ -21106,7 +21267,7 @@
             "killteamid": "TOE",
             "eqid": "TFG",
             "eqname": "Tanglefoot Grenade",
-            "eqdescription": "AOEPTUS CUSTODES operative only. The operative can\nperform the followi ng action during the battle:<br/>\n<strong>Tanglefoot Grenade (lAP):</strong> Select one enemy operative\nVisible to and within [PENT] of this operative. Subtract 1 from its\nAPL. This operative can only perform this action once, and\ncan not perform this action while within Engagement Range of\nenemy operatives.",
+            "eqdescription": "AOEPTUS CUSTODES operative only. The operative can\nperform the following action during the battle:<br/>\n<strong>Tanglefoot Grenade (1 AP):</strong> Select one enemy operative\nVisible to and within [PENT] of this operative. Subtract 1 from its\nAPL. This operative can only perform this action once, and\ncan not perform this action while within Engagement Range of\nenemy operatives.",
             "eqpts": "3"
           },
           {
@@ -21766,7 +21927,7 @@
               "ployname": "Overcharge Lasguns",
               "ploytype": "S",
               "CP": "1",
-              "description": "Until the end of the Turning Point, change the profile of lasguns that friendly VETERAN GUARDSMAN operatives are equipped with to the following:<br/>\n<table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Overcharge Lasguns</td>\n\t</tr>\n    <tr>\n\t\t<td>&nbsp;&nbsp;Standard</td>\n         <td>4</td>\n         <td>4+</td>\n         <td>2/3</td>\n     </tr>\n    <tr>\n\t\t<td>&nbsp;&nbsp;OVercharge (AP1, Hot)</td>\n         <td>4</td>\n         <td>4+</td>\n         <td>2/3</td>\n     </tr>\n </table>"
+              "description": "Until the end of the Turning Point, change the profile of lasguns that friendly VETERAN GUARDSMAN operatives are equipped with to the following:<br/>\n <table class=\"eqtable\" width=\"100%\">\n  \t<tr>\n  \t\t<th>Name</th>\n          <th>A</th>\n          <th>BS</th>\n          <th>D</th>\n      </tr>\n      <tr>\n  \t\t<td colspan=\"4\">Overcharge Lasguns</td>\n \t</tr>\n     <tr>\n \t\t<td>&nbsp;&nbsp;Standard</td>\n          <td>4</td>\n          <td>4+</td>\n          <td>2/3</td>\n      </tr>\n     <tr>\n \t\t<td>&nbsp;&nbsp;Overcharge (AP1, Hot)</td>\n          <td>4</td>\n          <td>4+</td>\n          <td>2/3</td>\n      </tr>\n  </table>"
             },
             {
               "factionid": "IMP",
@@ -23321,7 +23482,7 @@
               "ployname": "Skulking Killer",
               "ploytype": "S",
               "CP": "1",
-              "description": "Until the end of the Turning Point, friendly FLAYED ONE operatives gain the following ability: <strong>Skulking Killer:</strong> This operative can perform a Charge action while it has a Conceal order."
+              "description": "Until the end of the Turning Point, friendly FLAYED ONE operatives gain the following ability:<br/>\n<strong>Skulking Killer:</strong> This operative can perform a Charge action while it has a Conceal order."
             }
           ],
           "tac": [
@@ -23375,7 +23536,7 @@
             "killteamid": "TW",
             "eqid": "SC",
             "eqname": "Starfire Core",
-            "eqdescription": "Select one Gauss Flayer, Gauss Reaper, or Gauss Blaster the operative is equipped with. That weapon gains the following special rule for the battle:\n<br/>\n<strong>Starfire Core:</strong> \nEach time a friendly oeprative makes a shooting attack with this weapon, in the Roll Attack Dice step of that shooting attack, if you retain any critical hits, you can retain one of your failed hits as a successful normal hit.",
+            "eqdescription": "Select one Gauss Flayer, Gauss Reaper, or Gauss Blaster the operative is equipped with. That weapon gains the following special rule for the battle:\n<br/>\n<strong>Starfire Core:</strong> \nEach time a friendly operative makes a shooting attack with this weapon, in the Roll Attack Dice step of that shooting attack, if you retain any critical hits, you can retain one of your failed hits as a successful normal hit.",
             "eqpts": "2"
           },
           {
@@ -24135,7 +24296,7 @@
             "killteamid": "GSK",
             "eqid": "SB",
             "eqname": "Stikkbomb",
-            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Stikkbomb</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>2/4</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<td>Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n    </tr>\n</table>",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Stikkbomb</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>2/4</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n     </tr>\n </table>",
             "eqpts": "2"
           },
           {
@@ -25209,7 +25370,7 @@
             "killteamid": "KOM",
             "eqid": "DYN",
             "eqname": "Dynamite",
-            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Dynamite</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>5/6</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<td colspan=\"2\">Rng [PENT], Blast [CIRCLE], AP1, Indirect, UnwieldyLim</td>\n    </tr>\n</table>",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Dynamite</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>5/6</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Blast [CIRCLE], AP1, Indirect, Unwieldy, Lim</td>\n     </tr>\n </table>",
             "eqpts": "4"
           },
           {
@@ -25217,7 +25378,7 @@
             "killteamid": "KOM",
             "eqid": "HRP",
             "eqname": "Harpoon*",
-            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Harpoon</td>\n        <td>4</td>\n        <td>4+</td>\n        <td>4/5</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<td colspan=\"2\">Rng [PENT], Stun</td>\n    </tr>\n</table>",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Harpoon</td>\n         <td>4</td>\n         <td>4+</td>\n         <td>4/5</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Stun</td>\n     </tr>\n </table>",
             "eqpts": "3"
           },
           {
@@ -25233,7 +25394,7 @@
             "killteamid": "KOM",
             "eqid": "SLG",
             "eqname": "Slugga",
-            "eqdescription": "The operative is equipped with the Slugga ranged weapon for the battle.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Slugga</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>4/5</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<td colspan=\"2\">Rng [PENT]</td>\n    </tr>\n</table>",
+            "eqdescription": "The operative is equipped with the Slugga ranged weapon for the battle.\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Slugga</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>4/5</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT]</td>\n     </tr>\n </table>",
             "eqpts": "2"
           },
           {
@@ -25241,7 +25402,7 @@
             "killteamid": "KOM",
             "eqid": "SLH",
             "eqname": "Sledgehammer*",
-            "eqdescription": "The operative is equipped with the following melee weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Sledgehammer</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>4/4</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<td colspan=\"2\">Stun</td>\n    </tr>\n</table>",
+            "eqdescription": "The operative is equipped with the following melee weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Sledgehammer</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>4/4</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Stun</td>\n     </tr>\n </table>",
             "eqpts": "3"
           },
           {
@@ -25257,7 +25418,7 @@
             "killteamid": "KOM",
             "eqid": "STB",
             "eqname": "Stikkbomb",
-            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Stikkbomb</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>2/4</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<td colspan=\"2\">Rng [PENT], Blast [CIRCLE], Indirect, Lim</td>\n    </tr>\n</table>",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Stikkbomb</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>2/4</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Indirect, Lim</td>\n     </tr>\n </table>",
             "eqpts": "2"
           },
           {
@@ -26196,7 +26357,7 @@
               "ployname": "Fieldcraft",
               "ploytype": "S",
               "CP": "1",
-              "description": "Until the end of the Turning Point, friendly KROOT \nCARNIVORE operatives can perform the following action: \n<br/>\n<strong>Fieldcraft {1 AP}:</strong> Change this operative's order."
+              "description": "Until the end of the Turning Point, friendly KROOT \nCARNIVORE operatives can perform the following action: \n<br/>\n<strong>Fieldcraft (1 AP):</strong> Change this operative's order."
             },
             {
               "factionid": "TAU",
@@ -26769,7 +26930,7 @@
                         "A": "6",
                         "BS": "4+",
                         "D": "3/4",
-                        "SR": "Heavy, Smart Targeting*"
+                        "SR": "Heavy, Smart Targeting"
                       }
                     ]
                   }
@@ -26793,15 +26954,6 @@
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
                     "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Tu rning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. "
-                  },
-                  {
-                    "factionid": "TAU",
-                    "killteamid": "HC",
-                    "fireteamid": "DRN",
-                    "opid": "DS8",
-                    "abilityid": "ST",
-                    "title": "Smart Targeting",
-                    "description": "Each time this operative makes a shooting \nattack with this weapon, you can use this special rule. If you do so, \nfor that shooting attack: \n<ul>\n<li>Enemy operatives with  an Engage order that are not within   \nEngagement Range of friendly operatives are valid targets and \ncannot be in Cover.</li>\n<li>In  the  Roll Attack  Dice step of that shooting attack, attack dice \nresults of 6 are successful normal hits. All other attack dice   \nresults are failed hits.</li>\n</ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -27215,7 +27367,7 @@
                     "opid": "MV36",
                     "abilityid": "GSG",
                     "title": "Guardian Shield Generator",
-                    "description": " This operative has a 54+ invulnerable save."
+                    "description": " This operative has a 5+ invulnerable save."
                   },
                   {
                     "factionid": "TAU",
@@ -27349,7 +27501,7 @@
                     "opid": "MV7",
                     "uniqueactionid": "ML",
                     "title": "Markerlight",
-                    "description": "Select one enemy operative Visible to this operative. That \nenemy operative gains one Markerlight token until the \nend of  the Tu rning Point. This operative cannot perform \nthis action while within Engagement Range of enemy \noperatives.  If an  operative would perform this  action and \na Shoot action in the same activation, only the target of \nthat Shoot action's shooting attack can be selected for \nthis action. \n<br/><br/>\nEach time a shooting attack is made against an enemy \noperative, in the Roll Attack  Dice step of that shooting \nattack, if that enemy operative has one or  more Markerlight \ntokens, you can re-roll one of your attack dice. ",
+                    "description": "Select one enemy operative Visible to this operative. That \nenemy operative gains one Markerlight token until the \nend of  the Turning Point. This operative cannot perform \nthis action while within Engagement Range of enemy \noperatives.  If an  operative would perform this  action and \na Shoot action in the same activation, only the target of \nthat Shoot action's shooting attack can be selected for \nthis action. \n<br/><br/>\nEach time a shooting attack is made against an enemy \noperative, in the Roll Attack  Dice step of that shooting \nattack, if that enemy operative has one or  more Markerlight \ntokens, you can re-roll one of your attack dice. ",
                     "AP": 1
                   }
                 ],
@@ -27834,7 +27986,7 @@
                     "opid": "SL",
                     "uniqueactionid": "ML",
                     "title": "Markerlight",
-                    "description": "Select one enemy operative Visible to this operative. That \n enemy operative gains one Markerlight token until the \n end of  the Tu rning Point. This operative cannot perform \n this action while within Engagement Range of enemy \n operatives.  If an  operative would perform this  action and \n a Shoot action in the same activation, only the target of \n that Shoot action's shooting attack can be selected for \n this action. \n <br/><br/>\n Each time a shooting attack is made against an enemy \n operative, in the Roll Attack  Dice step of that shooting \n attack, if that enemy operative has one or  more Markerlight \n tokens, you can re-roll one of your attack dice. ",
+                    "description": "Select one enemy operative Visible to this operative. That \n enemy operative gains one Markerlight token until the \n end of  the Turning Point. This operative cannot perform \n this action while within Engagement Range of enemy \n operatives.  If an  operative would perform this  action and \n a Shoot action in the same activation, only the target of \n that Shoot action's shooting attack can be selected for \n this action. \n <br/><br/>\n Each time a shooting attack is made against an enemy \n operative, in the Roll Attack  Dice step of that shooting \n attack, if that enemy operative has one or  more Markerlight \n tokens, you can re-roll one of your attack dice. ",
                     "AP": 1
                   }
                 ],
@@ -27913,7 +28065,7 @@
                     "opid": "SU",
                     "uniqueactionid": "ML",
                     "title": "Markerlight",
-                    "description": "Select one enemy operative Visible to this operative. That \n enemy operative gains one Markerlight token until the \n end of  the Tu rning Point. This operative cannot perform \n this action while within Engagement Range of enemy \n operatives.  If an  operative would perform this  action and \n a Shoot action in the same activation, only the target of \n that Shoot action's shooting attack can be selected for \n this action. \n <br/><br/>\n Each time a shooting attack is made against an enemy \n operative, in the Roll Attack  Dice step of that shooting \n attack, if that enemy operative has one or  more Markerlight \n tokens, you can re-roll one of your attack dice. ",
+                    "description": "Select one enemy operative Visible to this operative. That \n enemy operative gains one Markerlight token until the \n end of  the Turning Point. This operative cannot perform \n this action while within Engagement Range of enemy \n operatives.  If an  operative would perform this  action and \n a Shoot action in the same activation, only the target of \n that Shoot action's shooting attack can be selected for \n this action. \n <br/><br/>\n Each time a shooting attack is made against an enemy \n operative, in the Roll Attack  Dice step of that shooting \n attack, if that enemy operative has one or  more Markerlight \n tokens, you can re-roll one of your attack dice. ",
                     "AP": 1
                   }
                 ],
@@ -29525,7 +29677,7 @@
                     "opid": "SU",
                     "abilityid": "AOW",
                     "title": "Art Of War",
-                    "description": "Once per battle, when it is in your turn to use a Strategic Ploy, if this operative is in the killzone, it can use this ability. If it does, select one Art of War to be in effect until the end of the Turning Point."
+                    "description": "Once per battle, when it is in your turn to use a Strategic Ploy, if this operative is in the killzone, it can use this ability. If it does, select one Art of War to be in effect until the end of the Turning Point.\n<br/>\n <br/>\n <strong>Mont’ka:</strong>\n Each time a friendly PATHFINDER operative is activated, if it has an Engage order for that activation, it can perform a free Dash action during that activation.\n <br/><br/>\n <strong>Kauyon:</strong>\n Each time a shooting attack is made against a friendly PATHFINDER operative, before rolling your defence dice, if it is in Cover, one additional dice can be retained as a successful normal save as a result of Cover."
                   },
                   {
                     "factionid": "TAU",
@@ -29879,7 +30031,7 @@
                 "opid": "FTR",
                 "opname": "Acolyte Hybrid Fighter",
                 "description": "Employing their xeno-augmented strength, some Acolyte Hybrids wield monstrous pieces of mining equipment repurposed for close combat. Howling saws and churning drills intended to gouge a path through solid rock make short work of even the toughest foes.",
-                "M": "3[CIRCLE}",
+                "M": "3[CIRCLE]",
                 "APL": "2",
                 "GA": "1",
                 "DF": "3",
@@ -29995,7 +30147,7 @@
                 "opid": "GNR",
                 "opname": "Acolyte Hybrid Gunner",
                 "description": "Some Acolyte Hybrids wield hand flamers as they charge into battle. Ideal weapons for confined spaces, these compact flamethrowers allow their wielders to engulf their victims in sheets of blazing promethium before they storm in and finish off their survivors hand-to-hand.",
-                "M": "3[CIRCLE}",
+                "M": "3[CIRCLE]",
                 "APL": "2",
                 "GA": "1",
                 "DF": "3",
@@ -30023,7 +30175,7 @@
                         "A": "4",
                         "BS": "2+",
                         "D": "2/2",
-                        "SR": "Rng [PENT], Tor [TRIANGLE}"
+                        "SR": "Rng [PENT], Tor [TRI]"
                       }
                     ]
                   },
@@ -30063,7 +30215,7 @@
                 "opid": "IB",
                 "opname": "Acolyte Hybrid Icon Bearer",
                 "description": "Acolyte Hybrids bearing cult icons provide inspiration for their brood brothers and sisters to fight all the harder. The icons' twisted wyrmforms sway above the bloody back and forth of battle, serving as rallying points and menacing reminders of the horrors at the heart of the cult.",
-                "M": "3[CIRCLE}",
+                "M": "3[CIRCLE]",
                 "APL": "2",
                 "GA": "1",
                 "DF": "3",
@@ -30152,7 +30304,7 @@
                 "opid": "LDR",
                 "opname": "Acolyte Hybrid Leader",
                 "description": "Acolyte Hybrids typically follow the most monstrous of their brood into battle. Hissing through mouthfuls of needle fangs, these horrors lead their gene-kin into the heart of the fray, directing their weapons to greatest effect and rallying those who look likely to retreat.",
-                "M": "3[CIRCLE}",
+                "M": "3[CIRCLE]",
                 "APL": "2",
                 "GA": "1",
                 "DF": "3",
@@ -30204,7 +30356,7 @@
                         "A": "4",
                         "BS": "2+",
                         "D": "2/2",
-                        "SR": "Rng [PENT], Tor [TRIANGLE]"
+                        "SR": "Rng [PENT], Tor [TRI]"
                       }
                     ]
                   },
@@ -30302,7 +30454,7 @@
                 "opid": "TRP",
                 "opname": "Acolyte Hybrid Trooper",
                 "description": "Bulky and inhuman, Acolyte Hybrids are marked indelibly with the stigma of their zeno-taint. Yet the mutations they bear only make them stronger and more resilient, able to wield sizeable weapons against the foe with the aid of their additional limbs.",
-                "M": "3[CIRCLE}",
+                "M": "3[CIRCLE]",
                 "APL": "2",
                 "GA": "1",
                 "DF": "3",
@@ -30364,7 +30516,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "An ACOLYTE HYBRID fire team includes five ACOLYTE HYBRID operatives selected from the following list:\n<ul>\n        <li>ACOLYTE HYBRID TROOPER<li>\n        <li>ACOLYTE HYBRID GUNNER</li>\n        <li>ACOLYTE HYBRID FIGHTER equipped with: Autopistol; Heavy Rock Cutter</li>\n        <li>ACOLYTE HYBRID FIGHTER equipped with: Autopistol; Heavy Rock Drill</li>\n        <li>ACOLYTE HYBRID FIGHTER equipped with: Autopistol; Heavy Rock Saw</li>\n        <li>ACOLYTE HYBRID ICON BEARER</li>\n</ul>\n\nEach ACOLYTE HYBRID fire team can only include up to two ACOLYTE HYBRID GUNNER operatives, up to two ACOLYTE HYBRID FIGHTER operatives, one ACOLYTE HYBRID GUNNER, and one ACOLYTE HYBRID FIGHTER operative.\nOther than ACOLYTE HYBRID TROOPER and ACOLYTE HYBRID GUNNER operatives, your kill team can only include each operative above once.\nYour kill team can only include up to one ICON BEARER operative.\n<br/><br/>\nIf your kill team does not include any other LEADER operatives, instead of selecting one ACOLYTE HYBRID TROOPER operative for one ACOLYTE HYBRID fire team, you can select one ACOLYTE HYBRID LEADER operative equipped with one option from each of the following:\n<ul>\n        <li>Autopistol, Hand Flamer, or Lash Whip</li>\n        <li>Cult Bonesword and Claw, or Cult Knife and Claw</li>\n</ul>"
+            "fireteamcomp": "An ACOLYTE HYBRID fire team includes five ACOLYTE HYBRID operatives selected from the following list:\n <ul>\n         <li>ACOLYTE HYBRID TROOPER</li>\n         <li>ACOLYTE HYBRID GUNNER</li>\n         <li>ACOLYTE HYBRID FIGHTER equipped with: Autopistol; Heavy Rock Cutter</li>\n         <li>ACOLYTE HYBRID FIGHTER equipped with: Autopistol; Heavy Rock Drill</li>\n         <li>ACOLYTE HYBRID FIGHTER equipped with: Autopistol; Heavy Rock Saw</li>\n         <li>ACOLYTE HYBRID ICON BEARER</li>\n </ul>\n \n Each ACOLYTE HYBRID fire team can only include up to two ACOLYTE HYBRID GUNNER operatives, up to two ACOLYTE HYBRID FIGHTER operatives, one ACOLYTE HYBRID GUNNER, and one ACOLYTE HYBRID FIGHTER operative.\n Other than ACOLYTE HYBRID TROOPER and ACOLYTE HYBRID GUNNER operatives, your kill team can only include each operative above once.\n Your kill team can only include up to one ICON BEARER operative.\n <br/><br/>\n If your kill team does not include any other LEADER operatives, instead of selecting one ACOLYTE HYBRID TROOPER operative for one ACOLYTE HYBRID fire team, you can select one ACOLYTE HYBRID LEADER operative equipped with one option from each of the following:\n <ul>\n         <li>Autopistol, Hand Flamer, or Lash Whip</li>\n         <li>Cult Bonesword and Claw, or Cult Knife and Claw</li>\n </ul>"
           },
           {
             "factionid": "TYR",
@@ -30478,7 +30630,7 @@
                         "A": "4",
                         "BS": "2+",
                         "D": "2/2",
-                        "SR": "Rng [PENT], Tor [TRIANGLE]"
+                        "SR": "Rng [PENT], Tor [TRI]"
                       }
                     ]
                   },
@@ -30659,7 +30811,7 @@
                         "A": "4",
                         "BS": "2+",
                         "D": "2/2",
-                        "SR": "Rng [PENT], Tor [TRIANGLE]"
+                        "SR": "Rng [PENT], Tor [TRI]"
                       }
                     ]
                   },
@@ -30717,7 +30869,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "An HYBRID METAMORPH fire team includes five HYBRID METAMORPH operatives selected from the following list:\n<ul>\n        <li>HYBRID METAMORPH FIGHTER<li>\n        <li>HYBRID METAMORPH GUNNER</li>\n        <li>HYBRID METAMORPH ICON BEARER</li>\n</ul>\n\nEach HYBRID METAMORPH fire team can only include up to two HYBRID METAMORPH GUNNER operatives.\nYour kill team can only include up to one ICON BEARER operative.\n<br/><br/>\nIf your kill team does not include any other LEADER operatives, instead of selecting one HYBRID METAMORPH FIGHTER operative for one HYBRID METAMORPH fire team, you can select one HYBRID METAMORPH LEADER operative equipped with one option from each of the following:\n<ul>\n        <li>Autopistol, or Hand Flamer</li>\n        <li>Cult Bonesword and Metamorph Mutations, or Metamorph Mutations</li>\n</ul>"
+            "fireteamcomp": "A HYBRID METAMORPH fire team includes five HYBRID METAMORPH operatives selected from the following list:\n <ul>\n         <li>HYBRID METAMORPH FIGHTER</li>\n         <li>HYBRID METAMORPH GUNNER</li>\n         <li>HYBRID METAMORPH ICON BEARER</li>\n </ul>\n \n Each HYBRID METAMORPH fire team can only include up to two HYBRID METAMORPH GUNNER operatives.\n Your kill team can only include up to one ICON BEARER operative.\n <br/><br/>\n If your kill team does not include any other LEADER operatives, instead of selecting one HYBRID METAMORPH FIGHTER operative for one HYBRID METAMORPH fire team, you can select one HYBRID METAMORPH LEADER operative equipped with one option from each of the following:\n <ul>\n         <li>Autopistol, or Hand Flamer</li>\n         <li>Cult Bonesword and Metamorph Mutations, or Metamorph Mutations</li>\n </ul>"
           },
           {
             "factionid": "TYR",
@@ -30940,7 +31092,7 @@
                         "A": "6",
                         "BS": "4+",
                         "D": "2/2",
-                        "SR": "Hvy, Clast [TRIANGLE], Stun"
+                        "SR": "Hvy, Blast [TRI], Stun"
                       },
                       {
                         "factionid": "TYR",
@@ -31428,7 +31580,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "A NEOPHYTE HYBRID fire team includes seven NEOPHYTE HYBRID operatives selected from the following list:\n <ul>\n         <li>\n\t\t\tNEOPHYTE HYBRID TROOPER each separately equipped with a Gun Butt and one of the following options:\n            <ul>\n\t\t\t\t<li>Autogun OR Shotgun</li>\n            </ul>\n\t\t<li>\n         <li>NEOPHYTE HYBRID GUNNER equipped with: Gun Butt; Flamer</li>\n         <li>NEOPHYTE HYBRID GUNNER equipped with: Gun Butt; Grenade Launcher</li>\n         <li>NEOPHYTE HYBRID GUNNER equipped with: Gun Butt; Webber</li>\n         <li>NEOPHYTE HYBRID HEAVY GUNNER equipped with: Gun Butt; Heavy Stubber</li>\n         <li>NEOPHYTE HYBRID HEAVY GUNNER equipped with: Gun Butt; Mining Laser</li>\n         <li>NEOPHYTE HYBRID HEAVY GUNNER equipped with: Gun Butt; Seismic Cannon</li>\n         <li>NEOPHYTE HYBRID ICON BEARER</li>\n </ul>\n \n Each NEOPHYTE fire team can only include up to two NEOPHYTE HYBRID GUNNER operatives and up to one NEOPHYTE HYBRID HEAVY GUNNER operative.\n Other than NEOPHYTE HYBRID TROOPER operatives, your kill team can only include each operative above once.\n Your kill team can only include up to one ICON BEARER operative.\n <br/><br/>\n If your kill team does not include any other LEADER operatives, instead of selecting one NEOPHYTE HYBRID TROOPER operative for one NEOPHYTE HYBRID fire team, you can select one NEOPHYTE HYBRID LEADER operative equipped with one of the following options:\n <ul>\n         <li>\n                 Gun Butt and one of the following options:\n                 <ul>\n                         <li>Autogun or Shotgun</li>\n                 </ul>\n         </li>\n         <li>\n                 One option from each of the following options:\n                 <ul>\n                         <li>Chainsword, Power Maul, or Power Pick</li>\n                         <li>Autopistol, Bolt Pistol, or Web Pistol</li>\n                 </ul>\n         </li>\n </ul>"
+            "fireteamcomp": "A NEOPHYTE HYBRID fire team includes seven NEOPHYTE HYBRID operatives selected from the following list:\n  <ul>\n          <li>\n \t\t\tNEOPHYTE HYBRID TROOPER each separately equipped with a Gun Butt and one of the following options:\n             <ul>\n \t\t\t\t<li>Autogun OR Shotgun</li>\n             </ul>\n \t\t</li>\n          <li>NEOPHYTE HYBRID GUNNER equipped with: Gun Butt; Flamer</li>\n          <li>NEOPHYTE HYBRID GUNNER equipped with: Gun Butt; Grenade Launcher</li>\n          <li>NEOPHYTE HYBRID GUNNER equipped with: Gun Butt; Webber</li>\n          <li>NEOPHYTE HYBRID HEAVY GUNNER equipped with: Gun Butt; Heavy Stubber</li>\n          <li>NEOPHYTE HYBRID HEAVY GUNNER equipped with: Gun Butt; Mining Laser</li>\n          <li>NEOPHYTE HYBRID HEAVY GUNNER equipped with: Gun Butt; Seismic Cannon</li>\n          <li>NEOPHYTE HYBRID ICON BEARER</li>\n  </ul>\n  \n  Each NEOPHYTE fire team can only include up to two NEOPHYTE HYBRID GUNNER operatives and up to one NEOPHYTE HYBRID HEAVY GUNNER operative.\n  Other than NEOPHYTE HYBRID TROOPER operatives, your kill team can only include each operative above once.\n  Your kill team can only include up to one ICON BEARER operative.\n  <br/><br/>\n  If your kill team does not include any other LEADER operatives, instead of selecting one NEOPHYTE HYBRID TROOPER operative for one NEOPHYTE HYBRID fire team, you can select one NEOPHYTE HYBRID LEADER operative equipped with one of the following options:\n  <ul>\n          <li>\n                  Gun Butt and one of the following options:\n                  <ul>\n                          <li>Autogun or Shotgun</li>\n                  </ul>\n          </li>\n          <li>\n                  One option from each of the following options:\n                  <ul>\n                          <li>Chainsword, Power Maul, or Power Pick</li>\n                          <li>Autopistol, Bolt Pistol, or Web Pistol</li>\n                  </ul>\n          </li>\n  </ul>"
           }
         ]
       },
@@ -31503,7 +31655,7 @@
             "killteamid": "HF",
             "eqid": "AG",
             "eqname": "Adrenal Glands",
-            "eqdescription": "Add [TRI] to the oeprative's Movement characteristic for the battle.",
+            "eqdescription": "Add [TRI] to the operative's Movement characteristic for the battle.",
             "eqpts": "2"
           },
           {
@@ -31535,7 +31687,7 @@
             "killteamid": "HF",
             "eqid": "FT",
             "eqname": "Feeder Tendrils",
-            "eqdescription": "The operative gains the following ability for the battle:<br/>\n<strong>Feeder Tendrils:</strong> \nEach time this operative incapacitates an enemy operative in combat, it regain up to 1D3 los wounds.",
+            "eqdescription": "The operative gains the following ability for the battle:<br/>\n<strong>Feeder Tendrils:</strong> \nEach time this operative incapacitates an enemy operative in combat, it regain up to 1D3 lost wounds.",
             "eqpts": "2"
           },
           {
@@ -31543,7 +31695,7 @@
             "killteamid": "HF",
             "eqid": "TS",
             "eqname": "Toxin Sacks",
-            "eqdescription": "The operative gains the following ability for the battle:<br/>\n<strongToxin Sacks:</strong> \nEach time this operative fights in combat, in the Roll Attack Dice step of that combat, if you retain any critical hits, you can retain one of your failed hits as a successful normal hit.",
+            "eqdescription": "The operative gains the following ability for the battle:<br/>\n <strong>Toxin Sacks:</strong> \n Each time this operative fights in combat, in the Roll Attack Dice step of that combat, if you retain any critical hits, you can retain one of your failed hits as a successful normal hit.",
             "eqpts": "2"
           }
         ],
