@@ -8,7 +8,7 @@
         "factionid": "AEL",
         "killteamid": "COM",
         "killteamname": "Commorrites",
-        "description": "The Drukhari or \"Dark Ones\" in the Aeldari Lexicon, also known to outsiders as the Dark Eldar, are a forsaken and corrupt Aeldari kindred, the sadistic, malicious counterparts of the Asuryani. Like their cousins of the craftworlds, the Drukhari are an ancient and highly advanced alien race of fey humanoids.\n<br/><br/>\nThe alternative term \"Dark Eldar,\" or Eladrith Ynneas in the Aeldari tongue, was first coined by the Drukhari archon and Supreme Overlord of Commorragh Asdrubael Vect in the 32nd Millennium.\n<br/><br/>\nThe Drukhari's armies, like their Craftworld Aeldari counterparts, usually have the advantages of mobility and advanced technology, though they are often lacking in resilience and numbers. ",
+        "description": "The Drukhari or \"Dark Ones\" in the Aeldari Lexicon, also known to outsiders as the Dark Eldar, are a forsaken and corrupt Aeldari kindred, the sadistic, malicious counterparts of the Asuryani. Like their cousins of the craftworlds, the Drukhari are an ancient and highly advanced alien race of fey humanoids.\n <br/><br/>\n The alternative term \"Dark Eldar,\" or Eladrith Ynneas in the Aeldari tongue, was first coined by the Drukhari archon and Supreme Overlord of Commorragh Asdrubael Vect in the 32nd Millennium.",
         "ploys": {
           "strat": [
             {
@@ -938,7 +938,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "A WYCH fire team includes five WYCH operatives selected from the following list:\n<ul>\n        <li>WYCH WARRIOR</li>\n        <li>\n                WYCH FIGHTER equipped with one of the following options:\n                <ul>\n                        <li>Hydra Gauntlets, Razorflails, or Shardnet and Impaler</li>\n                </ul>\n        </li>\n</ul>\n\nYour kill team can only include up to two WYCH FIGHTER operatives.\nIf your kill team includes two WYCH fire teams, it can include up to three WHYCH FIGHTER operatives instead.\nEach WYCH FIGHTER operative in your kill team must be equipped with different options.\n<br/>\nIf your kill team does not include any other LEADER operatives, instead of selecting one WYCH WARRIOR operative for one WYCH fire team, you can select one HEKATRIX operative equipped with one option from each of the following:\n<ul>\n        <li>Blast Pistol or Splinter Pistol</li>\n        <li>Agoniser, Hekatarii Blade, or Power Weapon</li>\n</ul>"
+            "fireteamcomp": "A WYCH fire team includes five WYCH operatives selected from the following list:\n<ul>\n        <li>WYCH WARRIOR</li>\n        <li>\n                WYCH FIGHTER equipped with one of the following options:\n                <ul>\n                        <li>Hydra Gauntlets, Razorflails, or Shardnet and Impaler</li>\n                </ul>\n        </li>\n</ul>\n\nYour kill team can only include up to two WYCH FIGHTER operatives.\nIf your kill team includes two WYCH fire teams, it can include up to three WYCH FIGHTER operatives instead.\nEach WYCH FIGHTER operative in your kill team must be equipped with different options.\n<br/>\nIf your kill team does not include any other LEADER operatives, instead of selecting one WYCH WARRIOR operative for one WYCH fire team, you can select one HEKATRIX operative equipped with one option from each of the following:\n<ul>\n        <li>Blast Pistol or Splinter Pistol</li>\n        <li>Agoniser, Hekatarii Blade, or Power Weapon</li>\n</ul>"
           }
         ]
       },
@@ -946,7 +946,7 @@
         "factionid": "AEL",
         "killteamid": "CW",
         "killteamname": "Craftworld",
-        "description": "\nA craftworld is a vast, planetoid-sized spacecraft populated by the Asuryani faction of the highly advanced humanoid species known as the Aeldari. The craftworlds travel through the void of space at sublight speeds, carrying the greater remnant of the Aeldari species after their Fall.\n<br/></br>\nEvery craftworld is built upon a skeleton of psychoactive, crystalline wraithbone whose structure extends throughout the gigantic voidcraft. A similar skeletal core lies at the heart of most Asuryani constructions and every one of their spacecraft. ",
+        "description": "A craftworld is a vast, planetoid-sized spacecraft populated by the Asuryani faction of the highly advanced humanoid species known as the Aeldari. The craftworlds travel through the void of space at sublight speeds, carrying the greater remnant of the Aeldari species after their Fall.\n <br/></br>\n Every craftworld is built upon a skeleton of psychoactive, crystalline wraithbone whose structure extends throughout the gigantic voidcraft. A similar skeletal core lies at the heart of most Asuryani constructions and every one of their spacecraft. ",
         "ploys": {
           "strat": [
             {
@@ -11212,7 +11212,7 @@
         "factionid": "IMP",
         "killteamid": "HC",
         "killteamname": "Hunter Clade",
-        "description": "Armed with the very best wargear the forge worlds of the Adeptus Mechanicus can provide, Skitarii make excellent kill team operatives.\nFearless, well trained, and coldly logical in the face of adversity, they get the job done or die selflessly in the attempt.",
+        "description": "The Skitarii (sing. Skitarius), also known as the Tech-Guard and the Legiones Skitarii, are the cybernetic military forces of the Adeptus Mechanicus of the Imperium of Man.\n<br/><br/>\nTo a man, the Skitarii are warriors born. They take pride in their holy work, glorying in the power of the Omnissiah as He drives them to ever greater feats. Reticules and calibrators pick out targets with uncanny accuracy, Galvanic Rifles bark and servitor-bullets find the skulls of the foe. ",
         "ploys": {
           "strat": [
             {
@@ -12556,7 +12556,7 @@
                 "fireteamid": "HC",
                 "opid": "SKVD",
                 "opname": "Skitarii Vanguard Diktat",
-                "description": "To be a Diktat amond Skitarii is to be obeyed wihtout question, due to their direct link with the Tech-Priests. Hunter Clades receiving word from their masters through these warriors are filled with zealous conviction, willing to drive through unimaginable terrors to find and slay their quarry.",
+                "description": "To be a Diktat amond Skitarii is to be obeyed without question, due to their direct link with the Tech-Priests. Hunter Clades receiving word from their masters through these warriors are filled with zealous conviction, willing to drive through unimaginable terrors to find and slay their quarry.",
                 "M": "3[CIRCLE]",
                 "APL": "2",
                 "GA": "1",
@@ -12784,7 +12784,7 @@
                 "fireteamid": "HC",
                 "opid": "SKVST",
                 "opname": "Skitarii Vanguard Shocktrooper",
-                "description": "So much radiation pours from these Skitarii and their ammunnition that they contaminate the air around them. Showing toughness, resilience, and dauntless bravery above others of their kind, Vanguard Shocktroopers advance into the fray, securing key positions for their Hunter Clade.",
+                "description": "So much radiation pours from these Skitarii and their ammunition that they contaminate the air around them. Showing toughness, resilience, and dauntless bravery above others of their kind, Vanguard Shocktroopers advance into the fray, securing key positions for their Hunter Clade.",
                 "M": "3[CIRCLE]",
                 "APL": "2",
                 "GA": "1",
@@ -21899,7 +21899,7 @@
         "factionid": "IMP",
         "killteamid": "VG",
         "killteamname": "Veteran Guardsmen",
-        "description": "\nA Veteran, sometimes called a Hardened Veteran, is a trooper of the Astra Militarum who has survived multiple battles and has become a skilled and efficient warrior for the Emperor of Mankind.\n<br/><br/>\nWithin the disgraced forces of the Penal Legions, such as the Savlar Chem Dogs, Hardened Veterans are instead known as \"Hardened Criminals.\"\n<br/><br/>\nVeterans are sometimes assembled into what is known as a Veteran Squad to be placed within less experienced platoons or companies. Imperial Guard regiments are often called upon to fight gruelling wars of attrition lasting standard years or even solar decades. ",
+        "description": " A Veteran, sometimes called a Hardened Veteran, is a trooper of the Astra Militarum who has survived multiple battles and has become a skilled and efficient warrior for the Emperor of Mankind.\n <br/><br/>\n Veterans are sometimes assembled into what is known as a Veteran Squad to be placed within less experienced platoons or companies. Imperial Guard regiments are often called upon to fight gruelling wars of attrition lasting standard years or even solar decades. ",
         "ploys": {
           "strat": [
             {
@@ -23439,13 +23439,13 @@
   {
     "factionid": "NEC",
     "factionname": "Necrons",
-    "description": "The Necrons are a mysterious xenos species of humanoid, robotic skeletal warriors that have lain dormant in their stasis-tombs for more than 60 million Terran years, though they have begun to awaken at last. They are the soulless creations and former servants of the ancient C'tan, the terrible Star Gods of Aeldari myth.\n<br/><br/>\nThe Necrons are ancient beyond reckoning, predating even the birth of the Aeldari. At long last, however, they are beginning to awaken from their Tomb Worlds, for the galaxy is ripe for conquest and the restoration of the Necron Empire since the disappearance of the Old Ones more than 60 million standard years ago.\n<br/><br/>\nThe Necrons are a completely robotic humanoid species whose technological prowess is probably unmatched by any of the other intelligent species of the galaxy. ",
+    "description": "The Necrons are a mysterious xenos species of humanoid, robotic skeletal warriors that have lain dormant in their stasis-tombs for more than 60 million Terran years, though they have begun to awaken at last. They are the soulless creations and former servants of the ancient C'tan, the terrible Star Gods of Aeldari myth.\n <br/><br/>\n The Necrons are ancient beyond reckoning, predating even the birth of the Aeldari. At long last, however, they are beginning to awaken from their Tomb Worlds, for the galaxy is ripe for conquest and the restoration of the Necron Empire since the disappearance of the Old Ones more than 60 million standard years ago.",
     "killteams": [
       {
         "factionid": "NEC",
         "killteamid": "TW",
         "killteamname": "Tomb World",
-        "description": "The Necrons are a mysterious xenos species of humanoid, robotic skeletal warriors that have lain dormant in their stasis-tombs for more than 60 million Terran years, though they have begun to awaken at last. They are the soulless creations and former servants of the ancient C'tan, the terrible Star Gods of Aeldari myth.\n<br/><br/> \n The Necrons are ancient beyond reckoning, predating even the birth of the Aeldari. At long last, however, they are beginning to awaken from their Tomb Worlds, for the galaxy is ripe for conquest and the restoration of the Necron Empire since the disappearance of the Old Ones more than 60 million standard years ago.",
+        "description": "A Tomb World is one of the worlds across the Milky Way Galaxy where the ancient and terrible xenos known as the Necrons chose to go into hibernation over 60 million standard years ago, deep beneath its surface in their specially prepared catacombs and tombs.\n<br/><br/>\nMany Tomb Worlds are now settled planets of the Imperium of Man and their status as a Necron Tomb World remains unknown until the Necrons beneath its surface begin to awaken, much to the detriment of all life on the world. An unknown number of these planets exist across the galaxy in the 41st Millennium. ",
         "ploys": {
           "strat": [
             {
@@ -24183,7 +24183,7 @@
   {
     "factionid": "ORK",
     "factionname": "Orks",
-    "description": "The Orks, also called greenskins, are a savage, warlike, green-skinned species of humanoids who possess physiological features of both animals and fungi who are spread all across the Milky Way Galaxy. They share many features with Warhammer Fantasy Orcs (and were initially called \"Space Orcs\" to distinguish them).\n<br/><br/>\nThey are seen by their enemies (pretty much everyone else in the universe) as savage, violent, and crude, but they are the most successful species in the whole galaxy, outnumbering possibly every other intelligent starfaring species, even Humanity (with the very plausible exception of the Tyranids).\n<br/><br/>\nGreenskins are one of the most dangerous alien races to plague the galaxy. Numerous beyond belief and driven always to fight and conquer, the Orks threaten every single intelligent species of the galaxy. ",
+    "description": "The Orks, also called greenskins, are a savage, warlike, green-skinned species of humanoids who possess physiological features of both animals and fungi who are spread all across the Milky Way Galaxy. They share many features with Warhammer Fantasy Orcs (and were initially called \"Space Orcs\" to distinguish them).\n <br/><br/>\n They are seen by their enemies (pretty much everyone else in the universe) as savage, violent, and crude, but they are the most successful species in the whole galaxy, outnumbering possibly every other intelligent starfaring species, even Humanity (with the very plausible exception of the Tyranids).",
     "killteams": [
       {
         "factionid": "ORK",
@@ -25286,7 +25286,7 @@
         "factionid": "ORK",
         "killteamid": "KOM",
         "killteamname": "Kommandoz",
-        "description": "A Kommando (pl. Kommandoz) is an Ork Boy specialist who prefers to rely on \"kunning trikz\" instead of fighting his opponents head-on like most other Greenskins.\n<br/><br/>\nKommandoz serve as the Orks' infiltrators and saboteurs, and are masters of the arts of stealth, ambush, unconventional tactics and striking at the opponent from a totally unexpected quarter.\n<br/><br/>\nUnlike Boyz, these Orks use dirty tricks like stealth, camouflage, and creating distractions. Such methods rely on a trait lacking amongst Orks -- discipline. Though Kommandos exist in all Ork clans, other Orks tend to distrust them. ",
+        "description": "A Kommando is an Ork Boy specialist who prefers to rely on \"kunning trikz\" instead of fighting his opponents head-on like most other Greenskins.\n <br/><br/>\n Kommandoz serve as the Orks' infiltrators and saboteurs, and are masters of the arts of stealth, ambush, unconventional tactics and striking at the opponent from a totally unexpected quarter.",
         "ploys": {
           "strat": [
             {
@@ -26341,13 +26341,13 @@
   {
     "factionid": "TAU",
     "factionname": "T'au Empire",
-    "description": "The T'au (Imperial binomial classification: Tau tau), also spelled Tau in older records and pronounced \"TOW,\" are a young, humanoid and technologically-advanced intelligent species native to the Eastern Fringes of the Milky Way Galaxy.\n<br/><br/>\nThey are fighting to expand their interstellar empire and extend a philosophical concept they call the \"Greater Good\" (Tau'va in the T'au Lexicon) to all the intelligent species of the galaxy.\n<br/><br/>\nThe T'au claim to be a peaceful species when possible, asking if others will join their cause voluntarily instead of fighting against them. ",
+    "description": "The T'au (also spelled Tau in older records) are a young, humanoid and technologically-advanced intelligent species native to the Eastern Fringes of the Milky Way Galaxy.\n <br/><br/>\n They are fighting to expand their interstellar empire and extend a philosophical concept they call the \"Greater Good\" (Tau'va in the T'au Lexicon) to all the intelligent species of the galaxy.",
     "killteams": [
       {
         "factionid": "TAU",
         "killteamid": "CM",
         "killteamname": "Cadre Mercenaries",
-        "description": "The Kroot (Krootis aviana), also designated by the Imperium as Kroot Carnivore, are a xenos species of savage humanoids who are members of the T'au Empire. The Kroot evolved from avian creatures on their homeworld of Pech.\n<br/><br/>\nKroot are tall (a good half-metre taller than most Humans), their avian ancestry giving them a bird-like beak and long quills protruding from their heads like hair.\n<br/><br/>\nSmaller quills, possibly the evolutionary remnants of feathers, can be found scattered over their bodies. ",
+        "description": "The Kroot (Krootis aviana), also designated by the Imperium as Kroot Carnivore, are a xenos species of savage humanoids who are members of the T'au Empire. The Kroot evolved from avian creatures on their homeworld of Pech.\n <br/><br/>\n Kroot are tall (a good half-metre taller than most Humans), their avian ancestry giving them a bird-like beak and long quills protruding from their heads like hair.",
         "ploys": {
           "strat": [
             {
@@ -26757,7 +26757,7 @@
         "factionid": "TAU",
         "killteamid": "HC",
         "killteamname": "Hunter Cadre",
-        "description": "The T'au Empire (pronounced \"TOW\"), also spelled Tau Empire in older records, is a rapidly expanding xenos stellar empire situated within the Imperium of Man's Ultima Segmentum, near the Eastern Fringes of the Milky Way Galaxy.\n<br/><br/>\nThe T'au Empire was founded by the T'au caste called the Ethereals, who lead the T'au Empire in the name of the philosophy they have named the Greater Good.\n<br/><br/>\nSeveral intelligent alien races (the Kroot, Vespid, Nicassar, Demiurg and even some Humans who have turned their backs on the Imperium, known as Gue'vesa in the T'au Lexicon) have allied themselves with the T'au. The T'au Empire borders the Imperium of Man, and lies within the reach of the Astronomican. ",
+        "description": "A Hunter Cadre is the Tau terminology used to indicate what the Imperium of Man would call a company of soldiers. The Tau were once a species of hunters and gatherers and the Tau who now make up what is the T'au Empire's Fire Caste were the most-skilled hunters of that ancient time. Even though the Tau are now a xenos species gifted in some areas with technology that is more advanced than that available to Mankind, the Tau Lexicon still makes use of much terminology derived from their hunter-gatherer period and companies of Tau warriors are always referred to as Hunter Cadres in the Low Gothic translation. ",
         "ploys": {
           "strat": [
             {
@@ -28297,7 +28297,7 @@
         "factionid": "TAU",
         "killteamid": "PF",
         "killteamname": "Pathfinders",
-        "description": "Pathfinders are the main scouting infantry forces for the Fire Caste of the T'au Empire. As light reconnaissance units, Pathfinder Teams are the eyes and ears of their T'au Commander in a way no T'au Drone can yet emulate.\n<br/><br/>\nA Pathfinder's role is not to engage the enemy, but instead to maximise the efficiency of the rest of their Hunter Cadre with their Marker Lights which designate priority enemy targets and guide the fire of their comrades.\n<br/><br/>\nPathfinders often operate ahead of the main body of T'au forces and close with the foe to accurately scout the enemy. In such a position, a Pathfinder's life is always under threat. For this reason and more, Pathfinders are held in high regard by the members of every T'au caste. ",
+        "description": "Pathfinders are the main scouting infantry forces for the Fire Caste of the T'au Empire. As light reconnaissance units, Pathfinder Teams are the eyes and ears of their T'au Commander in a way no T'au Drone can yet emulate.\n <br/><br/>\n A Pathfinder's role is not to engage the enemy, but instead to maximise the efficiency of the rest of their Hunter Cadre with their Marker Lights which designate priority enemy targets and guide the fire of their comrades.",
         "ploys": {
           "strat": [
             {
@@ -29905,7 +29905,7 @@
   {
     "factionid": "TYR",
     "factionname": "Tyranids",
-    "description": "The Tyranids are an extragalactic composite species of hideous, insectoid xenos. They actually comprise an entire space-faring ecosystem comprised of innumerable different bioforms which are all variations on the same genetic theme.\n<br/><br/>\nThe Tyranids are unlike any other intelligent species encountered by Humanity. They are the ultimate predators; to them, all living things, from the lowliest insect to the most advanced starfaring civilisation, are mere prey. Only now are the inhabitants of the galaxy realising the scale of the threat; unless the Tyranids can be stopped, it will mean nothing less than the extinction of all life.\n<br/><br/>\nThe Tyranid species is ultimately dedicated solely to its own survival, propagation and evolutionary advancement. The Tyranids collectively form a monstrous superorganism that travels across the universe in their great hive fleets of biomechanical Hive Ships, systematically consuming all other biomatter to enable their own rapid evolution and reproduction. ",
+    "description": "The Tyranids are an extragalactic composite species of hideous, insectoid xenos. They actually comprise an entire space-faring ecosystem comprised of innumerable different bioforms which are all variations on the same genetic theme.\n <br/><br/>\n The Tyranids are unlike any other intelligent species encountered by Humanity. They are the ultimate predators; to them, all living things, from the lowliest insect to the most advanced starfaring civilisation, are mere prey. Only now are the inhabitants of the galaxy realising the scale of the threat; unless the Tyranids can be stopped, it will mean nothing less than the extinction of all life.",
     "killteams": [
       {
         "factionid": "TYR",
@@ -31588,7 +31588,7 @@
         "factionid": "TYR",
         "killteamid": "HF",
         "killteamname": "Hive Fleet",
-        "description": "The Tyranids are an extragalactic composite species of hideous, insectoid xenos. They actually comprise an entire space-faring ecosystem composed of innumerable different bioforms which are all variations on the same genetic theme.\n<br/><br/>\nThe Tyranids are unlike any other intelligent species encountered by Humanity. They are the ultimate predators; to them, all living things, from the lowliest insect to the most advanced starfaring civilisation, are mere prey. Only now are the inhabitants of the galaxy realising the scale of the threat; unless the Tyranids can be stopped, it will mean nothing less than the extinction of all life. ",
+        "description": "A Hive Fleet is a large armada of living, biomechanical starships created by the Tyranids for the purpose of gathering the raw materials and biomass necessary for the reproduction, evolution and expansion of their species. A hive fleet is used to attack and strip star systems of their biomass using the full range of Tyranid bioforms. ",
         "ploys": {
           "strat": [
             {
@@ -31912,7 +31912,7 @@
                 "fireteamid": "TS",
                 "opid": "HRM",
                 "opname": "Hormagaunt",
-                "description": "Hormagaunts have razor-sharp talons specially developed for ripping and piercing flesh and  armour, and their powerful hind legs drive them after their prey.. Extraordinarily single-minded, they will pursue their victims wihtout pause or fatigue until they run their quarry down.",
+                "description": "Hormagaunts have razor-sharp talons specially developed for ripping and piercing flesh and  armour, and their powerful hind legs drive them after their prey.. Extraordinarily single-minded, they will pursue their victims without pause or fatigue until they run their quarry down.",
                 "M": "3[CIRCLE]",
                 "APL": "2",
                 "GA": "2",
