@@ -14342,7 +14342,7 @@
                     "opid": "CON",
                     "abilityid": "BA",
                     "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -14378,7 +14378,7 @@
                     "opid": "CON",
                     "abilityid": "FB",
                     "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
                   },
                   {
                     "factionid": "IMP",
@@ -14513,7 +14513,7 @@
                     "opid": "DIA",
                     "abilityid": "BA",
                     "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -14549,7 +14549,7 @@
                     "opid": "DIA",
                     "abilityid": "FB",
                     "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
                   },
                   {
                     "factionid": "IMP",
@@ -14654,7 +14654,7 @@
                     "opid": "DUE",
                     "abilityid": "BA",
                     "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -14690,7 +14690,7 @@
                     "opid": "DUE",
                     "abilityid": "FB",
                     "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
                   },
                   {
                     "factionid": "IMP",
@@ -14806,7 +14806,7 @@
                     "opid": "EXA",
                     "abilityid": "BA",
                     "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -14842,7 +14842,7 @@
                     "opid": "EXA",
                     "abilityid": "FB",
                     "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
                   },
                   {
                     "factionid": "IMP",
@@ -14958,7 +14958,7 @@
                     "opid": "HOS",
                     "abilityid": "BA",
                     "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -14994,7 +14994,7 @@
                     "opid": "HOS",
                     "abilityid": "FB",
                     "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
                   },
                   {
                     "factionid": "IMP",
@@ -15012,7 +15012,7 @@
                     "opid": "HOS",
                     "abilityid": "MOR",
                     "title": "Mantra Of Restoration",
-                    "description": "Once per Turning Point, the first time a friendly NOVITIATE operative would be incapacitated while Visible to and within [SQUARE] of this operative and not within Engagement Range of an enemy operative, if this operative is not within Engagement Range of an enemy operative, this operative can revive it. That operative is not incapacitated, has 1 wound remaining, and if it would have been incapacitated by a shooting attack, any remaining attack dice are discarded. That other friendly operative can then perform a free Dash action, but must finish that move within [TRI] of this operative. Subtract 1 from both operatives’ APL."
+                    "description": "Once per Turning Point, the first time another friendly NOVITIATE operative would be incapacitated while Visible to and within [SQUARE] of this operative and not within Engagement Range of an enemy operative, if this operative is not within Engagement Range of an enemy operative, this operative can revive it. That operative is not incapacitated, has 1 wound remaining, and if it would have been incapacitated by a shooting attack, any remaining attack dice are discarded. That other friendly operative can then perform a free Dash action, but must finish that move within [TRI] of this operative. Subtract 1 from both operatives’ APL."
                   },
                   {
                     "factionid": "IMP",
@@ -15156,7 +15156,7 @@
                     "opid": "MIL",
                     "abilityid": "BA",
                     "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -15192,7 +15192,7 @@
                     "opid": "MIL",
                     "abilityid": "FB",
                     "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
                   },
                   {
                     "factionid": "IMP",
@@ -15308,7 +15308,7 @@
                     "opid": "PEN",
                     "abilityid": "BA",
                     "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -15344,7 +15344,7 @@
                     "opid": "PEN",
                     "abilityid": "FB",
                     "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
                   },
                   {
                     "factionid": "IMP",
@@ -15445,7 +15445,7 @@
                     "opid": "PRE",
                     "abilityid": "BA",
                     "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -15481,7 +15481,7 @@
                     "opid": "PRE",
                     "abilityid": "FB",
                     "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
                   },
                   {
                     "factionid": "IMP",
@@ -15606,7 +15606,7 @@
                     "opid": "PRO",
                     "abilityid": "BA",
                     "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -15642,7 +15642,7 @@
                     "opid": "PRO",
                     "abilityid": "FB",
                     "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
                   },
                   {
                     "factionid": "IMP",
@@ -15746,7 +15746,7 @@
                     "opid": "PUR",
                     "uniqueactionid": "BA",
                     "title": "Burning Advance",
-                    "description": "Perform a free Dash action with this operative, then perform a free Shoot action with it.",
+                    "description": "Perform a free Dash action with this operative, then perform a free Shoot action with it. You can only select a ministorum flamer for this action’s shooting attack.",
                     "AP": 1
                   }
                 ],
@@ -15767,7 +15767,7 @@
                     "opid": "PUR",
                     "abilityid": "BA",
                     "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -15803,7 +15803,7 @@
                     "opid": "PUR",
                     "abilityid": "FB",
                     "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
                   },
                   {
                     "factionid": "IMP",
@@ -15919,7 +15919,7 @@
                     "opid": "REL",
                     "abilityid": "BA",
                     "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -15955,7 +15955,7 @@
                     "opid": "REL",
                     "abilityid": "FB",
                     "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
                   },
                   {
                     "factionid": "IMP",
@@ -16154,7 +16154,7 @@
                     "opid": "SUP",
                     "abilityid": "BA",
                     "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than [CIRCLE] from that enemy operative, that friendly operative is treated as being in Cover."
+                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -16190,7 +16190,7 @@
                     "opid": "SUP",
                     "abilityid": "FB",
                     "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice or Roll Defence Dice step of that combat or shooting attack, re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
+                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
                   },
                   {
                     "factionid": "IMP",
@@ -25912,7 +25912,7 @@
                     "opid": "DAK",
                     "uniqueactionid": "DD",
                     "title": "Dakka Dash",
-                    "description": "Perform a free Shoot action and free Dash action with this operative in any order.",
+                    "description": "Perform a free Shoot action and free Dash action with this operative in any order. You can only select a dakka shoota for this action’s shooting attack.",
                     "AP": 1
                   }
                 ],
@@ -25997,7 +25997,7 @@
                 "DF": "3",
                 "SV": "4+",
                 "W": "13",
-                "keywords": "KOMMANDO, ORK, <CLAN>, KOMMANDO NOB",
+                "keywords": "KOMMANDO, ORK, <CLAN>, KOMMANDO NOB, LEADER",
                 "weapons": [
                   {
                     "factionid": "ORK",
@@ -28921,7 +28921,7 @@
                 "M": "3[CIRCLE]",
                 "APL": "2",
                 "GA": "1",
-                "DF": "4",
+                "DF": "3",
                 "SV": "4+",
                 "W": "12",
                 "keywords": "PATHFINDER, T’AU, <SEPT>, DRONE, FLY, MB3 RECON DRONE",
@@ -29013,7 +29013,7 @@
                     "opid": "MB3",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover."
+                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover.<br/>\nFriendly PATHFINDER operatives cannot be protected by Saviour\nProtocols from shooting attacks made against each operative\nwithin range of a specified point (e.g. remote mine, see Kill Team:\nOctarius). Note that this also means they cannot be protected from\nthe subsequent shooting attacks made as a result of the Blast X or\nTorrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -29112,7 +29112,7 @@
                     "opid": "MDC",
                     "abilityid": "MDC",
                     "title": "Medic!",
-                    "description": "Once per Turning Point, the first time a friendly PATHFINDER operative (excluding a DRONE operative) would be incapacitated while Visible to and within [SQUARE] of this operative and not within Engagement Range of an enemy operative, if this operative is not within Engagement Range of an enemy operative, this operative can revive it. That friendly operative is not incapacitated, has 1 wound remaining, and if it would have been incapacitated as a result of a shooting attack, any remaining attack dice are discarded. That friendly operative can then perform a free Dash action, but must finish that move within [TRI] of this operative. Subtract 1 from both operatives’ APL."
+                    "description": "Once per Turning Point, the first time another friendly PATHFINDER operative (excluding a DRONE operative) would be incapacitated while Visible to and within [SQUARE] of this operative and not within Engagement Range of an enemy operative, if this operative is not within Engagement Range of an enemy operative, this operative can revive it. That friendly operative is not incapacitated, has 1 wound remaining, and if it would have been incapacitated as a result of a shooting attack, any remaining attack dice are discarded. That friendly operative can then perform a free Dash action, but must finish that move within [TRI] of this operative. Subtract 1 from both operatives’ APL."
                   }
                 ],
                 "fireteammax": 0
@@ -29199,7 +29199,7 @@
                     "opid": "MV1",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover."
+                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover.<br/>\nFriendly PATHFINDER operatives cannot be protected by Saviour\nProtocols from shooting attacks made against each operative\nwithin range of a specified point (e.g. remote mine, see Kill Team:\nOctarius). Note that this also means they cannot be protected from\nthe subsequent shooting attacks made as a result of the Blast X or\nTorrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -29214,7 +29214,7 @@
                 "M": "3[CIRCLE]",
                 "APL": "2",
                 "GA": "1",
-                "DF": "4",
+                "DF": "3",
                 "SV": "4+",
                 "W": "7",
                 "keywords": "PATHFINDER, T’AU, <SEPT>, DRONE, FLY, MV31 PULSE ACCELERATOR DRONE",
@@ -29271,7 +29271,7 @@
                     "opid": "MV31",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover."
+                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover.<br/>\nFriendly PATHFINDER operatives cannot be protected by Saviour\nProtocols from shooting attacks made against each operative\nwithin range of a specified point (e.g. remote mine, see Kill Team:\nOctarius). Note that this also means they cannot be protected from\nthe subsequent shooting attacks made as a result of the Blast X or\nTorrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -29354,7 +29354,7 @@
                     "opid": "MV33",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover."
+                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover.<br/>\nFriendly PATHFINDER operatives cannot be protected by Saviour\nProtocols from shooting attacks made against each operative\nwithin range of a specified point (e.g. remote mine, see Kill Team:\nOctarius). Note that this also means they cannot be protected from\nthe subsequent shooting attacks made as a result of the Blast X or\nTorrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -29426,7 +29426,7 @@
                     "opid": "MV4",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover."
+                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover.<br/>\nFriendly PATHFINDER operatives cannot be protected by Saviour\nProtocols from shooting attacks made against each operative\nwithin range of a specified point (e.g. remote mine, see Kill Team:\nOctarius). Note that this also means they cannot be protected from\nthe subsequent shooting attacks made as a result of the Blast X or\nTorrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -29509,7 +29509,7 @@
                     "opid": "MV7",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover."
+                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover.<br/>\nFriendly PATHFINDER operatives cannot be protected by Saviour\nProtocols from shooting attacks made against each operative\nwithin range of a specified point (e.g. remote mine, see Kill Team:\nOctarius). Note that this also means they cannot be protected from\nthe subsequent shooting attacks made as a result of the Blast X or\nTorrent X special rules."
                   }
                 ],
                 "fireteammax": 0
