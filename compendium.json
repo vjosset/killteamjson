@@ -3453,7 +3453,7 @@
                         "wepid": "CLS",
                         "profileid": "0",
                         "name": "",
-                        "A": "3",
+                        "A": "4",
                         "BS": "3+",
                         "D": "4/5",
                         "SR": "Relentless"
@@ -3497,7 +3497,7 @@
                         "wepid": "CLS",
                         "profileid": "0",
                         "name": "",
-                        "A": "3",
+                        "A": "4",
                         "BS": "3+",
                         "D": "4/5",
                         "SR": "Relentless"
@@ -10602,7 +10602,7 @@
               "ployname": "Bolter Discipline",
               "ploytype": "S",
               "CP": "1",
-              "description": "Until the end of the Turning Point, each time a friendly SPACE MARINE (excluding SCOUT) operative is activated, if it does not perform a Fight action during that activation, it can perform two Shoot actions during that activation if a bolt weapon is selected for each of those shooting attacks."
+              "description": "Until the end of the Turning Point, each time a friendly GREY KNIGHT operative is activated, if it does not perform a Fight action during that activation, it can perform two Shoot actions during that activation if a bolt weapon is selected for each of those shooting attacks."
             },
             {
               "factionid": "IMP",
@@ -10611,7 +10611,7 @@
               "ployname": "Shock Assault",
               "ploytype": "S",
               "CP": "1",
-              "description": "Until the end of the Turning Point, each time a friendly SPACE MARINE (excluding SCOUT) operative is activated, if it does not perform a Shoot action during that activation, it can perform two Fight actions during that activation."
+              "description": "Until the end of the Turning Point, each time a friendly GREY KNIGHT operative is activated, if it does not perform a Shoot action during that activation, it can perform two Fight actions during that activation."
             },
             {
               "factionid": "IMP",
@@ -10640,7 +10640,7 @@
               "ployname": "And They Shall Know No Fear",
               "ploytype": "T",
               "CP": "1",
-              "description": "Use this Tactical Ploy when a friendly SPACE MARINE operative is activated. Until the end of that operative's activation, you can ignore any or all modifiers to its APL characteristic and it is not Injured."
+              "description": "Use this Tactical Ploy when a friendly GREY KNIGHT operative is activated. Until the end of that operative's activation, you can ignore any or all modifiers to its APL characteristic and it is not Injured."
             },
             {
               "factionid": "IMP",
@@ -10649,7 +10649,7 @@
               "ployname": "Only In Death Does Duty End",
               "ploytype": "T",
               "CP": "1",
-              "description": "Use this Tactical Ploy when a friendly SPACE MARINE operative is incapacitated.\nThat operative is not removed from the killzone until the end of your next activation or the end of the battle (whichever comes first) and does not count as being injured."
+              "description": "Use this Tactical Ploy when a friendly GREY KNIGHT operative is incapacitated.\nThat operative is not removed from the killzone until the end of your next activation or the end of the battle (whichever comes first) and does not count as being injured."
             }
           ]
         },
@@ -10658,7 +10658,7 @@
             "factionid": "IMP",
             "killteamid": "GK",
             "eqid": "HW",
-            "eqname": "Hexagrammic Ward",
+            "eqname": "Hexagrammic Ward*",
             "eqdescription": "The operative gains the following ability for the battle:<br>\n<strong>Hexagrammic Ward:</strong> Once per battle, when an enemy operative that is Visible to this operative performs a psychic action, this operative can use this ability.\nIf it does so, roll 1D6: On a 3+, that action's psychic power is not resolved (the action points subtracted for that action are not refunded).",
             "eqpts": "2"
           },
@@ -10666,7 +10666,7 @@
             "factionid": "IMP",
             "killteamid": "GK",
             "eqid": "PA",
-            "eqname": "Psybolt Ammnunition",
+            "eqname": "Psybolt Ammnunition*",
             "eqdescription": "Select one Storm Bolter this operative is equipped with. Add 1 that that weapon's Damage characteristic for the battle.",
             "eqpts": "3"
           },
@@ -10698,7 +10698,7 @@
             "factionid": "IMP",
             "killteamid": "GK",
             "eqid": "TSA",
-            "eqname": "Truesilver Armour",
+            "eqname": "Truesilver Armour*",
             "eqdescription": "This operative has a Save characteristic of 2+ for the battle.",
             "eqpts": "3"
           }
@@ -18560,7 +18560,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "A DEATHWATCH VETERAN fire team includes one DEATHWATCH VETERAN WATCH SERGEANT operative equipped with one of the following options:\n<ul>\n\t<li>Heavy Thunder Hammer (max one per kill team)</li>\n    <li>Lightning Claws</li>\n    <li>\n\t\tFists and one of the following options:\n        <ul>\n\t\t\t<li>DeathWatch Boltgun, DeathWatch Shotgun, Combi-Flamer, Combi-Grav, Combi-Melta, Combi-Plasma, Flamer, Grav-Gun, Meltagun, Plasma Gun, Stalker Pattern Boltgun, or Storm Bolter</li>\n        </ul>\n\t</li>\n    <li>\n\t\tOne option from each of the following:\n        <ul>\n\t\t\t<li>Chainsword, Lightning Claw, Power Fist, Power Maul, Power Weapon, Thunder Hammer, or Xenophase Blade</li>\n            <li>Bolt Pistol, Grav-Pistol, Hand Flamer, Inferno Pistol, Plasma Pistol, or Storm Shield</li>\n        </ul>\n    </li>\n</ul>\nIt also includes four DEATHWATCH VETERAN operatives selected from the following list:\n<ul>\n\t<li>\n\t\tDEATHWATCH VETERAN WARRIOR each separately equipped with one of the following options:\n        <ul>\n\t\t\t<li>DeathWatch Boltgun, Power Weapon</li>\n            <li>\n\t\t\t\tFists and one of the following options:\n                <ul>\n\t\t\t\t\t<li>DeathWatch Shotgun, Stalker Pattern Boltgun, or Storm Bolter</li>\n                </ul>\n            </li>\n        </ul>\n\t</li>\n    <li>\n\t\tDEATHWATCH VETERAN FIGHTER each separately equipped with one of the following options:\n        <ul>\n\t\t\t<li>Heavy Thunder Hammer (max one per kill team)</li>\n            <li>LIghtning Claws</li>\n            <li>\n\t\t\t\tOne option from each of the following:\n                <ul>\n\t\t\t\t\t<li>Chainsword, Lightning Claw, Power Fist, Power Maul, Power Weapon, or Thunder Hammer</li>\n                    <li>Bolt Pistol, Grav-Pistol, Hand Flamer, Inferno Pistol, Plasma Pistol, or Storm Shield</li>\n                </ul>\n\t\t\t</li>\n        </ul>\n    </li>\n    <li>\n\t\tDEATHWATCH VETERAN GUNNER each separately equipped with Fists and one of the following options:\n        <ul>\n\t\t\t<li>Combi-Flamer, Combi-Grav, Combi-Melta, Combi-Plasma, Flamer, Grav-Gun, Meltagun, or Plasma Gun</li>\n        </ul>\n    </li>\n    <li>\n\t\tDEATHWATCH VETERAN HEAVY GUNNER each separately equipped with Fists and one of the following options:\n        <ul>\n\t\t\t<li>Frag Cannon, Heavy Bolter, Heavy Flamer, Infernus Heavy Bolter, or Missile Launcher</li>\n        </ul>\n    </li>\n</ul>\nOther than DEATHWATCH VETERAN WARRIOR operatives, your kill team can only include each operative above once."
+            "fireteamcomp": "A DEATHWATCH VETERAN fire team includes one DEATHWATCH VETERAN WATCH SERGEANT operative equipped with one of the following options:\n <ul>\n \t<li>Deathwatch Boltgun; Power Weapon</li>\n \t<li>Heavy Thunder Hammer (max one per kill team)</li>\n     <li>Lightning Claws</li>\n     <li>\n \t\tFists and one of the following options:\n         <ul>\n \t\t\t<li>DeathWatch Boltgun, DeathWatch Shotgun, Combi-Flamer, Combi-Grav, Combi-Melta, Combi-Plasma, Flamer, Grav-Gun, Meltagun, Plasma Gun, Stalker Pattern Boltgun, or Storm Bolter</li>\n         </ul>\n \t</li>\n     <li>\n \t\tOne option from each of the following:\n         <ul>\n \t\t\t<li>Chainsword, Lightning Claw, Power Fist, Power Maul, Power Weapon, Thunder Hammer, or Xenophase Blade</li>\n             <li>Bolt Pistol, Grav-Pistol, Hand Flamer, Inferno Pistol, Plasma Pistol, or Storm Shield</li>\n         </ul>\n     </li>\n </ul>\n It also includes four DEATHWATCH VETERAN operatives selected from the following list:\n <ul>\n \t<li>\n \t\tDEATHWATCH VETERAN WARRIOR each separately equipped with one of the following options:\n         <ul>\n \t\t\t<li>DeathWatch Boltgun, Power Weapon</li>\n             <li>\n \t\t\t\tFists and one of the following options:\n                 <ul>\n \t\t\t\t\t<li>DeathWatch Shotgun, Stalker Pattern Boltgun, or Storm Bolter</li>\n                 </ul>\n             </li>\n         </ul>\n \t</li>\n     <li>\n \t\tDEATHWATCH VETERAN FIGHTER each separately equipped with one of the following options:\n         <ul>\n \t\t\t<li>Heavy Thunder Hammer (max one per kill team)</li>\n             <li>LIghtning Claws</li>\n             <li>\n \t\t\t\tOne option from each of the following:\n                 <ul>\n \t\t\t\t\t<li>Chainsword, Lightning Claw, Power Fist, Power Maul, Power Weapon, or Thunder Hammer</li>\n                     <li>Bolt Pistol, Grav-Pistol, Hand Flamer, Inferno Pistol, Plasma Pistol, or Storm Shield</li>\n                 </ul>\n \t\t\t</li>\n         </ul>\n     </li>\n     <li>\n \t\tDEATHWATCH VETERAN GUNNER each separately equipped with Fists and one of the following options:\n         <ul>\n \t\t\t<li>Combi-Flamer, Combi-Grav, Combi-Melta, Combi-Plasma, Flamer, Grav-Gun, Meltagun, or Plasma Gun</li>\n         </ul>\n     </li>\n     <li>\n \t\tDEATHWATCH VETERAN HEAVY GUNNER each separately equipped with Fists and one of the following options:\n         <ul>\n \t\t\t<li>Frag Cannon, Heavy Bolter, Heavy Flamer, Infernus Heavy Bolter, or Missile Launcher</li>\n         </ul>\n     </li>\n </ul>\n Other than DEATHWATCH VETERAN WARRIOR operatives, your kill team can only include each operative above once."
           },
           {
             "factionid": "IMP",
@@ -26953,7 +26953,7 @@
                     "opid": "DS8",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Tu rning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. "
+                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -27051,7 +27051,7 @@
                     "opid": "MB3",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Tu rning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. "
+                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -27138,7 +27138,7 @@
                     "opid": "MV1",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Tu rning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. "
+                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -27210,7 +27210,7 @@
                     "opid": "MV31",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Tu rning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. "
+                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -27293,7 +27293,7 @@
                     "opid": "MV33",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Tu rning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. "
+                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -27376,7 +27376,7 @@
                     "opid": "MV36",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Tu rning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. "
+                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -27448,7 +27448,7 @@
                     "opid": "MV4",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Tu rning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. "
+                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -27522,7 +27522,7 @@
                     "opid": "MV7",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Tu rning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. "
+                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
                   }
                 ],
                 "fireteammax": 0
