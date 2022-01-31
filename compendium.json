@@ -32724,6 +32724,1356 @@
             "fireteamcomp": "A TYRANID WARRIOR fire team includes three TYRANID WARRIOR operatives selected from the following list:\n<ul>\n\t<li>\n\t\tTYRANID WARRIOR FIGHTER each separately equipped with one option from each of the following:\n        <ul>\n\t\t\t<li>Boneswords, DeathSpitter, Devourer, Rending Claws, Scything Talons, Bonesword, Spinefists, or Lash Whip</li>\n            <li>Boneswords, Rending Claws, Scything Talons, orLash Whip; Bonesword</li>\n\t\t</ul>\n\t</li>\n\t<li>\n\t\tTYRANID WARRIOR HEAVY GUNNER each separately equipped with one option from each of the following:\n        <ul>\n\t\t\t<li>Barbed Strangler or Venom Cannon</li>\n            <li>Boneswords, Rending Claws, Scything Talons, or Lash Whip; Bonesword</li>\n\t\t</ul>\n\t</li>\n</ul>\nEach TYRANID WARRIOR fire team can only include up to one TYRANID WARRIOR HEAVY GUNNER operative.<br/>\nIf your kill team does not include any other LEADER operatives, instead of selecting one TYRANID WARRIOR FIGHTER operative for one TYRANID WARRIOR fire team, you can select one TYRANID WARRIOR LEADER operative equipped with one option from each of the following:\n<ul>\n\t<li>Boneswords, DeathSpitter, Devourer, Rending Claws, Scything Talons, Spinefists, or Lash Whip; Bonesword</li>\n    <li>Boneswords, Rending Claws, Scything Talons, or Lash Whip; Bonesword</li>\n</ul>"
           }
         ]
+      },
+      {
+        "factionid": "TYR",
+        "killteamid": "WB",
+        "killteamname": "WyrmBlade",
+        "description": "A Genestealer Cult is a community of Genestealers, genestealer hybrids, as well as the completely human convert-hosts, infected victims and genetic relatives known as Brood Brothers, existing within another society.\n<br/><br/>\nGenestealer cults form if a Genestealer infects members of another species with its genetic code. The resultant changes in the genome of the host cause a fanatical loyalty to the genestealers, as well as a drastic change to their reproductive system; their firstborn children will be hybrids, a grotesque mixture of the host's race and genestealers.",
+        "ploys": {
+          "strat": [
+            {
+              "factionid": "TYR",
+              "killteamid": "WB",
+              "ployid": "CF",
+              "ployname": "Crossfire",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point:\n<ul>\n<li>Each time after a friendly WYRMBLADE operative makes a shooting attack, if the target has not been incapacitated and does not have a Crossfire token, the target gains a Crossfire token until the end of the Turning Point.</li>\n<li>Each time a friendly WYRMBLADE operative makes a shooting attack, if the target has a Crossfire token, in the Roll Attack Dice step of that shooting attack, before rolling your attack dice, you can retain one as a successful Normal hit without rolling it.</li>\n</ul>"
+            },
+            {
+              "factionid": "TYR",
+              "killteamid": "WB",
+              "ployid": "MP",
+              "ployname": "Meticulous Plan",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a friendly NEOPHYTE operative is activated, if it has a Conceal order, it can perform a mission action or the Pick Up action for one less action point (to a minimum of 0 AP). You can only use this Strategic Ploy once."
+            },
+            {
+              "factionid": "TYR",
+              "killteamid": "WB",
+              "ployid": "OWTS",
+              "ployname": "One With The Shadows",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, when determining Line of Sight from an enemy operative to a friendly WYRMBLADE operative, if that friendly WYRMBLADE operative has a Conceal order, Light terrain is Obscuring."
+            },
+            {
+              "factionid": "TYR",
+              "killteamid": "WB",
+              "ployid": "WI",
+              "ployname": "Writhing Ingress",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Place one of your Ingress tokens within [TRI] of a terrain feature no more than [TRI] thick. Until the end of the battle, friendly WYRMBLADE operatives can move through that terrain feature as if it were not there, so long as they do so within [TRI] of that token. You can only use this Strategic Ploy once."
+            }
+          ],
+          "tac": [
+            {
+              "factionid": "TYR",
+              "killteamid": "WB",
+              "ployid": "CS",
+              "ployname": "Coiled Serpent",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy when a friendly WYRMBLADE operative is activated and its order is changed from Conceal to Engage. The first time that operative performs either a Fight or Shoot action during that activation, in the Roll Attack Dice step of that combat or shooting attack, you can retain one of your successful Normal hits as a Critical hit instead."
+            },
+            {
+              "factionid": "TYR",
+              "killteamid": "WB",
+              "ployid": "HID",
+              "ployname": "Hiding",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy in the Set Up Operatives step of the mission sequence, when you would set up your operatives.\nSelect up to two friendly NEOPHYTE operatives to be set up hiding instead. In the Firefight phase of the first Turning Point:\n<ul>\n<li>Friendly operatives hiding have a Group Activation characteristic of 1, are considered to be within the killzone for activation purposes, and can be activated as normal.</li>\n<li>When a friendly operative hiding is activated for the first time, set it up with an order of your choice anywhere in the killzone within [PENT] of your drop zone and more than [SQUARE] from enemy operatives.\nThat operative is treated as having performed a Normal Move action (subtract action points accordingly), [...]\n</ul>"
+            },
+            {
+              "factionid": "TYR",
+              "killteamid": "WB",
+              "ployid": "SID",
+              "ployname": "Slink Into Darkness",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy at the end of a friendly WYRMBLADE operative's activation. If that operative has an Engage order, change it to a Conceal order. You can only use this Tactical Ploy for each friendly operative once."
+            },
+            {
+              "factionid": "TYR",
+              "killteamid": "WB",
+              "ployid": "UL",
+              "ployname": "Unquestioning Loyalty",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy when a friendly WYRMBLADE LEADER or CULT AGENT operative is selected as the target for combat.\nSelect one other friendly LOCUS or NEOPHYTE operative (excluding a LEADER operative) within [SQUARE] of that friendly operative to intervene.\n<br/>\nIf that intervening friendly operative is not within Engagement Range of an enemy operative, you can interrupt that combat to perform a free Charge action with it, but it must finish that move within Engagement Range of the enemy operative fighting in that combat."
+            }
+          ]
+        },
+        "equipments": [
+          {
+            "factionid": "TYR",
+            "killteamid": "WB",
+            "eqid": "BC",
+            "eqname": "Blasting Charge",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n<tr>\n<th>Name</th>\n<th>A</th>\n<th>BS</th>\n<th>D</th>\n</tr>\n<tr>\n<td>Blasting Charge</td>\n<td>4</td>\n<td>3+</td>\n<td>3/4</td>\n<tr><th colspan=\"4\">Special Rules</th></td>\n<tr><th colspan=\"4\">Rng [PENT], Blast [TRI], Indirect, Limited</th></td>\n</tr>\n</table>",
+            "eqpts": "3"
+          },
+          {
+            "factionid": "TYR",
+            "killteamid": "WB",
+            "eqid": "CE",
+            "eqname": "Climbing Equipment",
+            "eqdescription": "The operative gains the following ability for the battle:\n<br/>\n<strong>Climbing Equipment:</strong>\n<ul>\n<li>Each time this operative ascends or descends a terrain feature while climbing, the first vertical distance of up to 3 [CIRCLE] is counted as [CIRCLE] for that climb.</li>\n<li>This oeprative does not need to be withing [TRI] of a physical and climbable part of a terrain feature in order to climb it.</li>\n<li>Each time this operative drops, the intended location can be any vertical distance from the level it occupies.</li>\n<li>Each time this operative drops, it counts any vertical distance it travels as half for that drop.</li>\n</ul>",
+            "eqpts": "1"
+          },
+          {
+            "factionid": "TYR",
+            "killteamid": "WB",
+            "eqid": "CK",
+            "eqname": "Cult Knife",
+            "eqdescription": "The operative is equipped with the following melee weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n<tr>\n<th>Name</th>\n<th>A</th>\n<th>BS</th>\n<th>D</th>\n</tr>\n<tr>\n<td>Cult Knife</td>\n<td>4</td>\n<td>4+</td>\n<td>2/3</td>\n</tr>\n</table>",
+            "eqpts": "1"
+          },
+          {
+            "factionid": "TYR",
+            "killteamid": "WB",
+            "eqid": "CT",
+            "eqname": "Cult Talisman",
+            "eqdescription": "The operative gains the following ability for the battle:\n<br/>\n<strong>Cult Talisman:</strong> Once per battle, when a shooting attack is made against this operative, in the Resolve Successful Saves step of that shooting attack, you can change one of your retained Normal saves to a Critical save.",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "TYR",
+            "killteamid": "WB",
+            "eqid": "FG",
+            "eqname": "Frag Grenade",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n<tr>\n<th>Name</th>\n<th>A</th>\n<th>BS</th>\n<th>D</th>\n</tr>\n<tr>\n<td>Frag Grenade</td>\n<td>4</td>\n<td>3+</td>\n<td>2/3</td>\n<tr><th colspan=\"4\">Special Rules</th></td>\n<tr><th colspan=\"4\">Rng [PENT], Blast [CIRCLE], Indirect, Limited</th></td>\n</tr>\n</table>",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "TYR",
+            "killteamid": "WB",
+            "eqid": "FV",
+            "eqname": "Flash Visor",
+            "eqdescription": "The operative gains the following ability for the battle:\n <br/>\n <strong>Flash Visor:</strong> Each time this operative is activated, you can ignore any or all modifiers to its APL.\tError Code: 1064. You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'The operative gains the following ability for the battle:\n <br/>",
+            "eqpts": "1"
+          },
+          {
+            "factionid": "TYR",
+            "killteamid": "WB",
+            "eqid": "SL",
+            "eqname": "Splotlight",
+            "eqdescription": "The operative gains the following ability for the battle:\n<br/>\n<strong>Splotlight:</strong> While an enemy operative is Visible to and within [PENT] of a friendly operative with this ability, that enemy operative cannot be Obscured.",
+            "eqpts": "3"
+          }
+        ],
+        "killteamcomp": "<ul>\n        <li>\n                1 NEOPHYTE LEADER operative equipped with one of the following options:\n                <ul>\n                        <li>Autogun; Gun Butt</li>\n                        <li>Shotgun; Gun Butt</li>\n                </ul>\n                or one option from each of the following:\n                <ul>\n                        <li>Master-Crafted AutoPistol, Bolt Pistol, or Web Pistol</li>\n                        <li>Chainsword, Power Maul, or Power Pick</li>\n                </ul>\n        </li>\n        <li>\n                13 WYRMBLADE operatives selected from the following list:\n                <ul>\n                        <li>KELERMORPH (counts as two selections</li>\n                        <li>LOCUS (counts as two selections</li>\n                        <li>\n                                NEOPHYTE BROOD-ADEPT equipped with a Gun Butt and one of the following options:\n                                <ul>\n                                        <li>Autogun or Shotgun</li>\n                                </ul>\n                        </li>\n                        <li>NEOPHYTE GUNNER equipped with a Gun Butt and a Flamer</li>\n                        <li>NEOPHYTE GUNNER equipped with a Gun Butt and a Grenade Launcher</li>\n                        <li>NEOPHYTE GUNNER equipped with a Gun Butt and a Webber</li>\n                        <li>NEOPHYTE HEAVY GUNNER equipped with a Gun Butt and a Heavy Stubber</li>\n                        <li>NEOPHYTE HEAVY GUNNER equipped with a Gun Butt and a Mining Laser</li>\n                        <li>NEOPHYTE HEAVY GUNNER equipped with a Gun Butt and a Seismic Cannon</li>\n                        <li>\n                                NEOPHYTE ICON BEARER equipped with a Gun Butt and one of the following options:\n                                <ul>\n                                        <li>Autogun or Shotgun</li>\n                                </ul>\n                        </li>\n                        <li>SANCTUS SNIPER (counts as two selections)</li>\n                        <li>SANCTUS TALON (counts as two selections</li>\n                </ul>\n        </li>\n</ul>\n\nOther than BROOD-ADEPT operatives, your KillTeam can only include each operative above once.\n<br/><br/>\nYour KillTeam can only inlcude up to two GUNNER operatives, up to two HEAVY GUNNER operatives, and up to two CULT AGENT operatives.",
+        "fireteams": [
+          {
+            "factionid": "TYR",
+            "killteamid": "WB",
+            "fireteamid": "WB",
+            "fireteamname": "WyrmBlade",
+            "archetype": "",
+            "description": "",
+            "killteammax": 0,
+            "operatives": [
+              {
+                "factionid": "TYR",
+                "killteamid": "WB",
+                "fireteamid": "WB",
+                "opid": "KLM",
+                "opname": "Kelermorph",
+                "description": "The Kellermorph is a third-generation cult hybrid, bred to exploit the hopes of the downtrodden and embody their kin's desire for rebellion. They are seen as inspirational folk heroes, and it is often on Wyrmblade missions that their legend as unnaturally agile, gunslinging revolutionaries is forged.",
+                "M": "3[CIRCLE]",
+                "APL": "3",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "9",
+                "keywords": "WYRMBLADE, TYRANIDS, GENESTEALER CULTS, <CULT>, CULT AGENT, KELERMORPH",
+                "weapons": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "KLM",
+                    "wepid": "LAS",
+                    "wepname": "Liberator Autostubs",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "KLM",
+                        "wepid": "LAS",
+                        "profileid": "0",
+                        "name": "Long Range",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": "P1, Rending"
+                      },
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "KLM",
+                        "wepid": "LAS",
+                        "profileid": "1",
+                        "name": "Short Range",
+                        "A": "5",
+                        "BS": "2+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT], P1, Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "KLM",
+                    "wepid": "KK",
+                    "wepname": "Kelermorph Knife",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "KLM",
+                        "wepid": "KK",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rending"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "KLM",
+                    "uniqueactionid": "HS",
+                    "title": "Hypersence",
+                    "description": "The next time this operative performs a Shoot action during this activation, for that shooting attack, the short range profile of its Liberator Autostubs gains the Indirect and No Cover special rules but loses the P1 and Rending Critical Hit rules.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "KLM",
+                    "abilityid": "CA",
+                    "title": "Cult Ambush",
+                    "description": "During the first Turning Point, when this operative is activated, you can change its order.\n<br/>\nThs first time this operative performs either a Fight or Shoot action in each of its activations, if its order was changed from Conceal to Engage during that activation,\nin the Roll Attack Dice step of that combat or shooting attack, you can re-roll any or all of your attack dice results of on result (e.g. results of 2)."
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "KLM",
+                    "abilityid": "EG",
+                    "title": "Expert Gunslinger",
+                    "description": "This operative can perform two Shoot actions during each of its activations."
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "KLM",
+                    "abilityid": "HI",
+                    "title": "Heroic Inspiration",
+                    "description": "If this operative incapacitates an enemy operative, until the end of the Turning Point, it is a Heroic Inspiration. Each time a friendly WYRMBLADE NEOPHYTE operative fights in combat or makes a shooting attack, if this operative is a Heroic Inspiration and is Visible to and within [SQUARE] of the friendly operative,\nin the Roll Attack Dice step of that combat or shooting attack, you can retain one of your attack dice results of 5+ that is a successful Normal hit as a Critical hit instead."
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "KLM",
+                    "abilityid": "PA",
+                    "title": "Preternatural Assassin",
+                    "description": "This operative cannot be equipped with equipment.<br/>\nThis operative has a 4+ Invulnerable Save.<br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before your rolling your defence dice, if it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful Normal Save as a result of Cover.</li>\n<li>Retain one die as a successful Critical Save isntead of a Normal Save as a result of Cover.</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TYR",
+                "killteamid": "WB",
+                "fireteamid": "WB",
+                "opid": "LOC",
+                "opname": "Locus",
+                "description": "Concealing a powerful, xenos-mutated form beneath heavy robes and a sinisterly still exterior, a Locus can erupt into a flurry of deadly attacks in the blink of an eye. Often appointed by the cult's Magus to protect a kill team's leader, these gene-bred bodyguards are also their master's eyes and ears.",
+                "M": "3[CIRCLE]",
+                "APL": "3",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "9",
+                "keywords": "WYRMBLADE, TYRANIDS, GENESTEALER CULTS, <CULT>, CULT AGENT, SANCTUS, LOCUS",
+                "weapons": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "LOC",
+                    "wepid": "BT",
+                    "wepname": "Barbed Tail",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "LOC",
+                        "wepid": "BT",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rng [SQUARE], Silent"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "LOC",
+                    "wepid": "LB",
+                    "wepname": "Locus Blades",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "LOC",
+                        "wepid": "LB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "2+",
+                        "D": "4/6",
+                        "SR": "Lethal 5+"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "LOC",
+                    "uniqueactionid": "QSS",
+                    "title": "Quicksilver Strike",
+                    "description": "Once this Turning Point, when an enemy operative is performing a Normal Move or Dash action and moves within [SQUARE] of this operative, you can interrupt that action to perform a free Charge action with this operative (it must finish that move within Engagement Range of that enemy operative, and if this operative has a Conceal order, change it to an Engage order to do so).\nIf you do so, that enemy operative's action ends without finishing their move, and you must then perform a free Fight action with this operative against that enemy operative.\nThis action is treated as a Fight action for the purposes of action restrictions.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "LOC",
+                    "abilityid": "CA",
+                    "title": "Cult Ambush",
+                    "description": "During the first Turning Point, when this operative is activated, you can change its order.\n<br/>\nThs first time this operative performs either a Fight or Shoot action in each of its activations, if its order was changed from Conceal to Engage during that activation,\nin the Roll Attack Dice step of that combat or shooting attack, you can re-roll any or all of your attack dice results of on result (e.g. results of 2)."
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "LOC",
+                    "abilityid": "DUEL",
+                    "title": "Duellist",
+                    "description": "Each time this operative fights in combat, in the Resolve Successful Hits step of that combat, you can resolve one successful hit before the Attacker. If you do so, that successful hit must be used to parry."
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "LOC",
+                    "abilityid": "ESM",
+                    "title": "Expert Swordsman",
+                    "description": "This operative can perform two Fight actions during each of its activations. Each time after this operative fights in combat, it can perform a free Charge action (even if it has done so during this activation), but can only move up to [SQUARE]."
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "LOC",
+                    "abilityid": "PA",
+                    "title": "Preternatural Assassin",
+                    "description": "This operative cannot be equipped with equipment.<br/>\nThis operative has a 4+ Invulnerable Save.<br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before your rolling your defence dice, if it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful Normal Save as a result of Cover.</li>\n<li>Retain one die as a successful Critical Save isntead of a Normal Save as a result of Cover.</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TYR",
+                "killteamid": "WB",
+                "fireteamid": "WB",
+                "opid": "NBA",
+                "opname": "Neophyte Brood-Adept",
+                "description": "Brood-Adepts are amongst the most experienced guerilla fighters of a cult's Neophyte Hybrids. They are veteran agitators and insurgents, ferociously loyal and deeply indoctrinated in the cult's creed. They form the backbone of the elite Wyrmblade broods sent deep into the oppressor's territory.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "2",
+                "DF": "3",
+                "SV": "5+",
+                "W": "7",
+                "keywords": "WYRMBLADE, TYRANIDS, GENESTEALER CULTS, <CULT>, NEOPHYTE, BROOD-ADEPT",
+                "weapons": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "NBA",
+                    "wepid": "AG",
+                    "wepname": "Autogun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "NBA",
+                        "wepid": "AG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "NBA",
+                    "wepid": "SG",
+                    "wepname": "Shotgun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "NBA",
+                        "wepid": "SG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/3",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "NBA",
+                    "wepid": "GB",
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "NBA",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "NBA",
+                    "abilityid": "CA",
+                    "title": "Cult Ambush",
+                    "description": "During the first Turning Point, when this operative is activated, you can change its order.\n<br/>\nThs first time this operative performs either a Fight or Shoot action in each of its activations, if its order was changed from Conceal to Engage during that activation,\nin the Roll Attack Dice step of that combat or shooting attack, you can re-roll any or all of your attack dice results of on result (e.g. results of 2)."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TYR",
+                "killteamid": "WB",
+                "fireteamid": "WB",
+                "opid": "GNR",
+                "opname": "Neophyte Gunner",
+                "description": "Especially powerful weapons purloined from defence militias, acquired via criminal contacts, or even built in cult-owned weapons shops are issued to a Wyrmblade boord's most capable Gunners. These warriors gladly lay down salvoes on the move to protect their comrades and slay the cult's foes.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "7",
+                "keywords": "WYRMBLADE, TYRANIDS, GENESTEALER CULTS, <CULT>, NEOPHYTE, GUNNER",
+                "weapons": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "GNR",
+                    "wepid": "FL",
+                    "wepname": "Flamer",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "GNR",
+                        "wepid": "FL",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "2+",
+                        "D": "2/2",
+                        "SR": "Rng [PENT], Tor [CIRCLE]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "GNR",
+                    "wepid": "GL",
+                    "wepname": "Grenade Launcher",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "GNR",
+                        "wepid": "GL",
+                        "profileid": "0",
+                        "name": "Frag",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "2/4",
+                        "SR": "Blast [CIRCLE]"
+                      },
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "GNR",
+                        "wepid": "GL",
+                        "profileid": "1",
+                        "name": "Krak",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "4/5",
+                        "SR": "AP1"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "GNR",
+                    "wepid": "WB",
+                    "wepname": "Webber",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "GNR",
+                        "wepid": "WB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "3+",
+                        "D": "2/2",
+                        "SR": "Rng [PENT], Lethal 5+, Stun"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "GNR",
+                    "wepid": "GB",
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "GNR",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "GNR",
+                    "abilityid": "CA",
+                    "title": "Cult Ambush",
+                    "description": "During the first Turning Point, when this operative is activated, you can change its order.\n<br/>\nThs first time this operative performs either a Fight or Shoot action in each of its activations, if its order was changed from Conceal to Engage during that activation,\nin the Roll Attack Dice step of that combat or shooting attack, you can re-roll any or all of your attack dice results of on result (e.g. results of 2)."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TYR",
+                "killteamid": "WB",
+                "fireteamid": "WB",
+                "opid": "HGNR",
+                "opname": "Neophyte Heavy Gunner",
+                "description": "Powerfully-built Neophytes - some more prominently bearing the blesed mark of their gene-sire - are granted the honour of bearing deadly, repurposed mining tools or weapons too hefty for normal Humans to carry. Their heavy firepower supports Wyrmblade missions by laying low the biggest threats.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "7",
+                "keywords": "WYRMBLADE, TYRANIDS, GENESTEALER CULTS, <CULT>, NEOPHYTE, HEAVY GUNNER",
+                "weapons": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "HGNR",
+                    "wepid": "HS",
+                    "wepname": "Heavy Stubber",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "HGNR",
+                        "wepid": "HS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": "Ceaseless, Fus, Heavy"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "HGNR",
+                    "wepid": "ML",
+                    "wepname": "Mining Laser",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "HGNR",
+                        "wepid": "ML",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "4+",
+                        "D": "5/6",
+                        "SR": "AP1, Heavy"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "HGNR",
+                    "wepid": "SC",
+                    "wepname": "Seismic Cannon",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "HGNR",
+                        "wepid": "SC",
+                        "profileid": "0",
+                        "name": "Long-Wave",
+                        "A": "6",
+                        "BS": "4+",
+                        "D": "2/2",
+                        "SR": "Blast [TRI], Heavy, Stun"
+                      },
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "HGNR",
+                        "wepid": "SC",
+                        "profileid": "1",
+                        "name": "Short-Wave",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/4",
+                        "SR": "Rng [PENT], Heavy, P1, Stun"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "HGNR",
+                    "wepid": "GB",
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "HGNR",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "HGNR",
+                    "abilityid": "CA",
+                    "title": "Cult Ambush",
+                    "description": "During the first Turning Point, when this operative is activated, you can change its order.\n<br/>\nThs first time this operative performs either a Fight or Shoot action in each of its activations, if its order was changed from Conceal to Engage during that activation,\nin the Roll Attack Dice step of that combat or shooting attack, you can re-roll any or all of your attack dice results of on result (e.g. results of 2)."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TYR",
+                "killteamid": "WB",
+                "fireteamid": "WB",
+                "opid": "IB",
+                "opname": "Neophyte Icon Bearer",
+                "description": "As strong in faith as their genetic inheritance makes them in body, Icon Bearers carry their holy sigils low until the time is right to raise them aloft and signal the attack. They are honoured wardens of their brood's holy icon, inspiring their brothers and sisters to feats of great sacrifice to ensure the mission succeeds",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "7",
+                "keywords": "WYRMBLADE, TYRANIDS, GENESTEALER CULTS, <CULT>, NEOPHYTE, ICON BEARER",
+                "weapons": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "IB",
+                    "wepid": "AG",
+                    "wepname": "Autogun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "IB",
+                        "wepid": "AG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "IB",
+                    "wepid": "SG",
+                    "wepname": "Shotgun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "IB",
+                        "wepid": "SG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/3",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "IB",
+                    "wepid": "GB",
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "IB",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "IB",
+                    "uniqueactionid": "STS",
+                    "title": "Signal The Strike",
+                    "description": "Until the end of the Turning Point, for the purposes of the Cult Ambush ability, if this operative is Visible to and within [SQUARE] of the friendly operative performing the Fight or Shoot action, you can re-roll any or all of your attack dice instead (rather than attack dice results of one result). This operative cannot perform this action while within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "IB",
+                    "abilityid": "CA",
+                    "title": "Cult Ambush",
+                    "description": "During the first Turning Point, when this operative is activated, you can change its order.\n<br/>\nThs first time this operative performs either a Fight or Shoot action in each of its activations, if its order was changed from Conceal to Engage during that activation,\nin the Roll Attack Dice step of that combat or shooting attack, you can re-roll any or all of your attack dice results of on result (e.g. results of 2)."
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "IB",
+                    "abilityid": "IB",
+                    "title": "Icon Bearer",
+                    "description": "When determining control of an objective marker, treat this operative's APL characteristic as being 1 higher. Note that this is not a modifier.\nIn narrative play, this is cumulative with the Focused Battle Honour."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TYR",
+                "killteamid": "WB",
+                "fireteamid": "WB",
+                "opid": "LDR",
+                "opname": "Neophyte Leader",
+                "description": "Often a clandestine veteram of one of numerous Imperial martial or security institutions, the leaders of Wyrmblade broods are accomplished guerilla commanders. They are so highly skilled in unorthodox strikes and coordinating multipronged assaults that the gene sect's agents defer to their experience.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "8",
+                "keywords": "WYRMBLADE, TYRANIDS, GENESTEALER CULTS, <CULT>, NEOPHYTE, LEADER",
+                "weapons": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "LDR",
+                    "wepid": "AG",
+                    "wepname": "Autogun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "LDR",
+                        "wepid": "AG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "LDR",
+                    "wepid": "BP",
+                    "wepname": "Bolt Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "LDR",
+                        "wepid": "BP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "LDR",
+                    "wepid": "MCAP",
+                    "wepname": "Master-Crafter AutoPistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "LDR",
+                        "wepid": "MCAP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2/3",
+                        "SR": "Rng [PENT], Bal, Lethal 5+"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "LDR",
+                    "wepid": "SG",
+                    "wepname": "Shotgun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "LDR",
+                        "wepid": "SG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "3/3",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "LDR",
+                    "wepid": "WB",
+                    "wepname": "Web Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "LDR",
+                        "wepid": "WB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "2/2",
+                        "SR": "Rng [PENT], Stun"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "LDR",
+                    "wepid": "CS",
+                    "wepname": "Chainsword",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "LDR",
+                        "wepid": "CS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "Ceaseless"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "LDR",
+                    "wepid": "GB",
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "LDR",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "LDR",
+                    "wepid": "PM",
+                    "wepname": "Power Maul",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "LDR",
+                        "wepid": "PM",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/",
+                        "SR": "Stun"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "LDR",
+                    "wepid": "PP",
+                    "wepname": "Power Pick",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "LDR",
+                        "wepid": "PP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "Rending"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "LDR",
+                    "abilityid": "CA",
+                    "title": "Cult Ambush",
+                    "description": "During the first Turning Point, when this operative is activated, you can change its order.\n<br/>\nThs first time this operative performs either a Fight or Shoot action in each of its activations, if its order was changed from Conceal to Engage during that activation,\nin the Roll Attack Dice step of that combat or shooting attack, you can re-roll any or all of your attack dice results of on result (e.g. results of 2)."
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "LDR",
+                    "abilityid": "SV",
+                    "title": "Shadow Vector",
+                    "description": "Once per Turning Point, you can use either the Slink Into Darkness or Coiled Serpent Tactical Ploy without spending any Command Points if a friendly NEOPHYTE operative is Visible to this operative is the friendly WYRMBLADE operative for that ploy."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TYR",
+                "killteamid": "WB",
+                "fireteamid": "WB",
+                "opid": "SNP",
+                "opname": "Sanctus Sniper",
+                "description": "Escape is almost impossible once a Sanctus Sniper has selected its target. Fixed by the assassin's tri-lens goggles and centred in the crosshairs of their calibrated rifle, the target is doomed. The Sanctus' aim is further refined by their Soulsight Familiar, through which the cult's Patriarch directs the killer",
+                "M": "3[CIRCLE]",
+                "APL": "3",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "9",
+                "keywords": "WYRMBLADE, TYRANIDS, GENESTEALER CULTS, <CULT>, CULT AGENT, SANCTUS, SNIPER",
+                "weapons": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "SNP",
+                    "wepid": "SSR",
+                    "wepname": "Sanctus Sniper Rifle",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "SNP",
+                        "wepid": "SSR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "3/3",
+                        "SR": "Heavy, Silent, MW3"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "SNP",
+                    "wepid": "F",
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "SNP",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "2/4",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "SNP",
+                    "uniqueactionid": "FSS",
+                    "title": "Familiar's Soulsight",
+                    "description": "Select one enemy operative. Until the end of the Turning Point, each time this operative makes a shooting attack against that enemy operative:\n<ul>\n<li>The Sanctus Sniper Rifle this operative is equipped with gainst the No Cover special rule for that shooting attack.</li>\n<li>That enemy operative cannot be Obscured for that shooting attack.</li>\n<li>Areas of smoke cannot prevent that enemy operative from being Visible for that shooting attack.</li>\n</ul>",
+                    "AP": 1
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "SNP",
+                    "uniqueactionid": "TV",
+                    "title": "Target Vulnerability",
+                    "description": "Until the end of the activation, the Sanctus Sniper Rifle this operative is equipped with gains the Lethal 5+ special rule.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "SNP",
+                    "abilityid": "CA",
+                    "title": "Cult Ambush",
+                    "description": "During the first Turning Point, when this operative is activated, you can change its order.\n<br/>\nThs first time this operative performs either a Fight or Shoot action in each of its activations, if its order was changed from Conceal to Engage during that activation,\nin the Roll Attack Dice step of that combat or shooting attack, you can re-roll any or all of your attack dice results of on result (e.g. results of 2)."
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "SNP",
+                    "abilityid": "PA",
+                    "title": "Preternatural Assassin",
+                    "description": "This operative cannot be equipped with equipment.<br/>\nThis operative has a 4+ Invulnerable Save.<br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before your rolling your defence dice, if it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful Normal Save as a result of Cover.</li>\n<li>Retain one die as a successful Critical Save isntead of a Normal Save as a result of Cover.</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TYR",
+                "killteamid": "WB",
+                "fireteamid": "WB",
+                "opid": "TAL",
+                "opname": "Sanctus Talon",
+                "description": "Some Sanctuses wield atrophic blades, each grown within bubbling pools containing the liquefied psychic essences of slain cultists. Clutching these deadly weapons, a Sanctus will track its target for days, squeezing its multijointed limbs through narrow spaces while following its victim's psychic spoor.",
+                "M": "3[CIRCLE]",
+                "APL": "3",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "9",
+                "keywords": "WYRMBLADE, TYRANIDS, GENESTEALER CULTS, <CULT>, CULT AGENT, SANCTUS, TALON",
+                "weapons": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "TAL",
+                    "wepid": "SBD",
+                    "wepname": "Sanctus Bio-Dagger",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TYR",
+                        "killteamid": "WB",
+                        "fireteamid": "WB",
+                        "opid": "TAL",
+                        "wepid": "SBD",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "3/6",
+                        "SR": "Lethal 4+, Stun"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "TAL",
+                    "uniqueactionid": "FSS",
+                    "title": "Familiar's Soulsight",
+                    "description": "Select one enemy operative. Until the end of the Turning Point, each time this operative fights in combat with that enemy operative, the Sanctus Bio-Dagger this operative is equipped with gains the Brutal and Balanced special rules for that combat.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "TAL",
+                    "abilityid": "CA",
+                    "title": "Cult Ambush",
+                    "description": "During the first Turning Point, when this operative is activated, you can change its order.\n<br/>\nThs first time this operative performs either a Fight or Shoot action in each of its activations, if its order was changed from Conceal to Engage during that activation,\nin the Roll Attack Dice step of that combat or shooting attack, you can re-roll any or all of your attack dice results of on result (e.g. results of 2)."
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "TAL",
+                    "abilityid": "CS",
+                    "title": "Creeping Shadow",
+                    "description": "This operative can perform a Charge action while it has a Conceal order. Each time after this operative fights in combar, it can perform a free Dash action, regardless of any other actions it has performed during this activation, and even if it is within Engagement Range of an enemy operative (but it cannot finish that move within Engagement Range of an enemy operative)."
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "WB",
+                    "fireteamid": "WB",
+                    "opid": "TAL",
+                    "abilityid": "PA",
+                    "title": "Preternatural Assassin",
+                    "description": "This operative cannot be equipped with equipment.<br/>\nThis operative has a 4+ Invulnerable Save.<br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before your rolling your defence dice, if it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful Normal Save as a result of Cover.</li>\n<li>Retain one die as a successful Critical Save isntead of a Normal Save as a result of Cover.</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              }
+            ],
+            "fireteamcomp": "A WYRMBLADE kill team is composed of:\n<ul>\n        <li>\n                1 NEOPHYTE LEADER operative equipped with one of the following options:\n                <ul>\n                        <li>Autogun; Gun Butt</li>\n                        <li>Shotgun; Gun Butt</li>\n                </ul>\n                or one option from each of the following:\n                <ul>\n                        <li>Master-Crafted AutoPistol, Bolt Pistol, or Web Pistol</li>\n                        <li>Chainsword, Power Maul, or Power Pick</li>\n                </ul>\n        </li>\n        <li>\n                13 WYRMBLADE operatives selected from the following list:\n                <ul>\n                        <li>KELERMORPH (counts as two selections</li>\n                        <li>LOCUS (counts as two selections</li>\n                        <li>\n                                NEOPHYTE BROOD-ADEPT equipped with a Gun Butt and one of the following options:\n                                <ul>\n                                        <li>Autogun or Shotgun</li>\n                                </ul>\n                        </li>\n                        <li>NEOPHYTE GUNNER equipped with a Gun Butt and a Flamer</li>\n                        <li>NEOPHYTE GUNNER equipped with a Gun Butt and a Grenade Launcher</li>\n                        <li>NEOPHYTE GUNNER equipped with a Gun Butt and a Webber</li>\n                        <li>NEOPHYTE HEAVY GUNNER equipped with a Gun Butt and a Heavy Stubber</li>\n                        <li>NEOPHYTE HEAVY GUNNER equipped with a Gun Butt and a Mining Laser</li>\n                        <li>NEOPHYTE HEAVY GUNNER equipped with a Gun Butt and a Seismic Cannon</li>\n                        <li>\n                                NEOPHYTE ICON BEARER equipped with a Gun Butt and one of the following options:\n                                <ul>\n                                        <li>Autogun or Shotgun</li>\n                                </ul>\n                        </li>\n                        <li>SANCTUS SNIPER (counts as two selections)</li>\n                        <li>SANCTUS TALON (counts as two selections</li>\n                </ul>\n        </li>\n</ul>\n\nOther than BROOD-ADEPT operatives, your KillTeam can only include each operative above once.\n<br/><br/>\nYour KillTeam can only inlcude up to two GUNNER operatives, up to two HEAVY GUNNER operatives, and up to two CULT AGENT operatives."
+          }
+        ]
       }
     ]
   }
