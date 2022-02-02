@@ -1,5 +1,5 @@
 # killteamjson
-JSON Dataset for Killteam 2021 Compendium
+JSON Dataset for Killteam 2021 Compendium, including additional teams from White Dwarf and boxed sets.
 
 See also https://ktdash.app/ and https://ktdash.app/api/faction.php
 
