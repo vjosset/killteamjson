@@ -1349,7 +1349,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "A DIRE AVENGER fire team includes four DIRE AVENGER WARRIOR operatives.\n<br/>\nIf your kill team does not include any other LEADER operatives, instead of selecting one DIRE AVENGER WARRIOR operative for one DIRE AVENGER fire team, you can select one DIRE AVENGER EXARCH operative equipped with one of the following options:\n<ul>\n\t<li>Twin Avenger Shuriken Catapult</li>\n\t<li>Avenger Shuriken Catapult and Fists</li>\n\t<li>\n\t\tOne option from each of the following:\n\t\t<ul>\n\t\t\t<li>Diresword or Power Weapon</li>\n\t\t\t<li>Shimmershield or Shuriken Pistol</li>\n\t\t</ul>\n\t</li>\n</ul>"
+            "fireteamcomp": "A DIRE AVENGER fire team includes five DIRE AVENGER WARRIOR operatives.\n<br/>\nIf your kill team does not include any other LEADER operatives, instead of selecting one DIRE AVENGER WARRIOR operative for one DIRE AVENGER fire team, you can select one DIRE AVENGER EXARCH operative equipped with one of the following options:\n<ul>\n        <li>Twin Avenger Shuriken Catapult</li>\n        <li>Avenger Shuriken Catapult and Fists</li>\n        <li>\n                One option from each of the following:\n                <ul>\n                        <li>Diresword or Power Weapon</li>\n                        <li>Shimmershield or Shuriken Pistol</li>\n                </ul>\n        </li>\n</ul>"
           },
           {
             "factionid": "AEL",
@@ -1748,7 +1748,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "A GUARDIAN DEFENDER fire team includes five GUARDIAN DEFENDER operatives selected from the following list:\n<ul>\n\t<li>GUARDIAN DEFENDER WARRIOR</li>\n    <li>GUARDIAN DEFENDER HEAVY GUNNER</li>\n    <li>\n\t\tGUARDIAN DEFENDER HEAVY WEAPON PLATFORM equipped with one of the following options:\n        <ul>\n\t\t\t<li>Aeldari Missile Launcher, Bright Lance, Scatter Laser, Shuriken Cannon, or Starcannon</li>\n        </ul>\n</ul>\nOther than GUARDIAN DEFENDER WARRIOR operatives, your kill team can only include each operative above once. \nYour kill team can only include a GUARDIAN DEFENDER HEAVY WEAPON PLATFORM operative if it also includes one GUARDIAN DEFENDER HEAVY GUNNER operative.\n<br/>\nIf your kill team does not include any other LEADER operatives, instead of selecting one GUARDIAN DEFENDER WARRIOR operative for one GUARDIAN DEFENDER fire team, you can select one GUARDIAN DEFENDER LEADER operative."
+            "fireteamcomp": "A GUARDIAN DEFENDER fire team includes six GUARDIAN DEFENDER operatives selected from the following list:\n<ul>\n    <li>GUARDIAN DEFENDER WARRIOR</li>\n    <li>GUARDIAN DEFENDER HEAVY GUNNER</li>\n    <li>\n        GUARDIAN DEFENDER HEAVY WEAPON PLATFORM equipped with one of the following options:\n        <ul>\n            <li>Aeldari Missile Launcher, Bright Lance, Scatter Laser, Shuriken Cannon, or Starcannon</li>\n        </ul>\n</ul>\nOther than GUARDIAN DEFENDER WARRIOR operatives, your kill team can only include each operative above once. \nYour kill team can only include a GUARDIAN DEFENDER HEAVY WEAPON PLATFORM operative if it also includes one GUARDIAN DEFENDER HEAVY GUNNER operative.\n<br/>\nIf your kill team does not include any other LEADER operatives, instead of selecting one GUARDIAN DEFENDER WARRIOR operative for one GUARDIAN DEFENDER fire team, you can select one GUARDIAN DEFENDER LEADER operative."
           },
           {
             "factionid": "AEL",
@@ -1964,7 +1964,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "A RANGER fire team includes four RANGER WARRIOR operatives.\n<br/>\nIf your kill team does not include any other LEADER operatives, instead of selecting one RANGER WARRIOR operative for one RANGER fire team, you can select one RANGER LEADER operative."
+            "fireteamcomp": "A RANGER fire team includes five RANGER WARRIOR operatives.\n<br/>\nIf your kill team does not include any other LEADER operatives, instead of selecting one RANGER WARRIOR operative for one RANGER fire team, you can select one RANGER LEADER operative."
           },
           {
             "factionid": "AEL",
@@ -2204,7 +2204,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "A STORM GUARDIAN fire team includes five STORM GUARDIAN operatives selected from the following list:\n<ul>\n\t<li>STORM GUARDIAN WARRIOR</li>\n    <li>\n\t\tSTORM GUARDIAN GUNNER each separately equipped with Fists and one of the following options:\n\t</li>\n        <ul>\n\t\t\t<li>Flamer or Fusion Gun</li>\n        </ul>\n</ul>\nEach STORM GUARDIAN fire team can only include up to one STORM GUARDIAN GUNNER operative.\n<br/>\nIf your kill team does not include any other LEADER operatives, instead of selecting one STORM GUARDIAN WARRIOR operative for one STORM GUARDIAN fire team, you can select one STORM GUARDIAN LEADER operative."
+            "fireteamcomp": "A STORM GUARDIAN fire team includes six STORM GUARDIAN operatives selected from the following list:\n<ul>\n    <li>STORM GUARDIAN WARRIOR</li>\n    <li>\n        STORM GUARDIAN GUNNER each separately equipped with Fists and one of the following options:\n    </li>\n        <ul>\n            <li>Flamer or Fusion Gun</li>\n        </ul>\n</ul>\nEach STORM GUARDIAN fire team can only include up to one STORM GUARDIAN GUNNER operative.\n<br/>\nIf your kill team does not include any other LEADER operatives, instead of selecting one STORM GUARDIAN WARRIOR operative for one STORM GUARDIAN fire team, you can select one STORM GUARDIAN LEADER operative."
           }
         ]
       },
@@ -4899,7 +4899,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "A PLAGUE MARINE fire team includes two PLAGUE MARINE operatives selected from the following list:\n<ul>\n\t<li>PLAGUE MARINE WARRIOR</li>\n\t<li>\n\t\tPLAGUE MARINE GUNNER each separately equipped with a Plague Knife and one of the following options:\n\t\t<ul>\n\t\t\t<li>Meltagun, Plague Belcher, or Plasma Gun</li>\n\t\t</ul>\n\t</li>\n\t<li>\n\t\tPLAGUE MARINE HEAVY GUNNER each separately equipped with a Plague Knife and one of the following options:\n\t\t<ul>\n\t\t\t<li>Blight Launcher or Plague Spewer</li>\n\t\t</ul>\n\t</li>\n\t<li>\n\t\tPLAGUE MARINE FIGHTER each separately equipped with one of the following options:\n\t\t<ul>\n\t\t\t<li>Bolt Pistol; Bubotic Axe; Mace of Contagion</li>\n\t\t\t<li>\n\t\t\t\tBolt Pistol and one of the following options:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flail of Corruption, Great Plague Cleaver, or Plague Knives</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n\t<li>PLAGUE MARINE ICON BEARER</li>\n</ul>\n\nYou cannot include a PLAGUE MARINE GUNNER, PLAGUE MARINE HEAVY GUNNER, or PLAGUE MARINE FIGHTER operative in the same fire team. Other than PLAGUE MARINE WARRIOR operatives, your kill team can only include each operative above once.\n<br/><br/>\nIf your kill team does not include any other LEADER operatives, one PLAGUE MARINE fire team can also include one PLAGUE MARINE CHAMPION operative equipped with one option from each of the following:\n<ul>\n\t<li>Bolt Pistol, Boltgun, or Plasma Pistol</li>\n\t<li>Plague Knife, Plague Sword, or Power Fist</li>\n</ul>"
+            "fireteamcomp": "A PLAGUE MARINE fire team includes three PLAGUE MARINE operatives selected from the following list:\n<ul>\n        <li>PLAGUE MARINE WARRIOR</li>\n        <li>\n                PLAGUE MARINE GUNNER each separately equipped with a Plague Knife and one of the following options:\n                <ul>\n                        <li>Meltagun, Plague Belcher, or Plasma Gun</li>\n                </ul>\n        </li>\n        <li>\n                PLAGUE MARINE HEAVY GUNNER each separately equipped with a Plague Knife and one of the following options:\n                <ul>\n                        <li>Blight Launcher or Plague Spewer</li>\n                </ul>\n        </li>\n        <li>\n                PLAGUE MARINE FIGHTER each separately equipped with one of the following options:\n                <ul>\n                        <li>Bolt Pistol; Bubotic Axe; Mace of Contagion</li>\n                        <li>\n                                Bolt Pistol and one of the following options:\n                                <ul>\n                                        <li>Flail of Corruption, Great Plague Cleaver, or Plague Knives</li>\n                                </ul>\n                        </li>\n                </ul>\n        </li>\n        <li>PLAGUE MARINE ICON BEARER</li>\n</ul>\n\nYou cannot include a PLAGUE MARINE GUNNER, PLAGUE MARINE HEAVY GUNNER, or PLAGUE MARINE FIGHTER operative in the same fire team. Other than PLAGUE MARINE WARRIOR operatives, your kill team can only include each operative above once.\n<br/><br/>\nIf your kill team does not include any other LEADER operatives, one PLAGUE MARINE fire team can also include one PLAGUE MARINE CHAMPION operative instead of one PLAGUE MARINE WARRIOR equipped with one option from each of the following:\n<ul>\n        <li>Bolt Pistol, Boltgun, or Plasma Pistol</li>\n        <li>Plague Knife, Plague Sword, or Power Fist</li>\n</ul>"
           },
           {
             "factionid": "CHAOS",
@@ -4975,983 +4975,6 @@
               }
             ],
             "fireteamcomp": "A POXWALKER fireteam includes eight POXWALKER operatives."
-          }
-        ]
-      },
-      {
-        "factionid": "CHAOS",
-        "killteamid": "TS",
-        "killteamname": "Thousand Sons",
-        "description": "The Thousand Sons are one of the Traitor Legions of Chaos Space Marines who are sworn solely to the service of Tzeentch, the Chaos God of change, intrigue and sorcery, though they were once the Imperium of Man's XVth Legion of Space Marines. The main feature that distinguishes the Thousand Sons from the other Traitor Legions is the sheer number of psyker mutations that have always existed amongst the Space Marines in this Legion.\n<br/><br/>\nEvery current member of the Legion possesses psychic abilities and they prefer to use Chaos Sorcerers and guile in combat, relying on their psychic powers and sorcerous knowledge to earn them victory. ",
-        "ploys": {
-          "strat": [
-            {
-              "factionid": "CHAOS",
-              "killteamid": "TS",
-              "ployid": "IS",
-              "ployname": "Inhuman Savagery",
-              "ploytype": "S",
-              "CP": "1",
-              "description": "Until the end of the Turning Point, each time a friendly\nTZAANGOR operative fights in combat, if it performed a\nCharge action during.that activation, in the Roll Attack Dice\nstep of that combat, if you retain two or more successful hits,\nyou can retain one failed hit as a successful normal hit."
-            },
-            {
-              "factionid": "CHAOS",
-              "killteamid": "TS",
-              "ployid": "MV",
-              "ployname": "Malicious Volleys",
-              "ploytype": "S",
-              "CP": "1",
-              "description": "Until the end of the Turning Point, each time a friendly\n ARCANA ASTARTES operative is activated, if it does not\n perform a Fight action during that activation, it can perform\n two Shoot actions during that activation if a bolt weapon is\n selected for each of those shooting attacks. A bolt weapon\n is a ranged weapon that includes \"bolt\" in its name (excluding DoomBolt) , e.g.\n inferno boltgun."
-            },
-            {
-              "factionid": "CHAOS",
-              "killteamid": "TS",
-              "ployid": "SA",
-              "ployname": "Sorcerous Automata",
-              "ploytype": "S",
-              "CP": "1",
-              "description": "Until the end of the Turning Point, each time a friendly\nARCANA ASTARTES operative (excluding an ASPIRING\nSORCERER operative) is activated while Visible to and\nwithin [SQUARE] of a ready friendly ARCANA ASTARTES ASPIRING\nSORCERER operative, add l to its APL."
-            }
-          ],
-          "tac": [
-            {
-              "factionid": "CHAOS",
-              "killteamid": "TS",
-              "ployid": "IF",
-              "ployname": "Infernal Fusillade",
-              "ploytype": "T",
-              "CP": "1",
-              "description": "Use this Tactical Ploy after making a shooting attack with\na friendly ARCANA ASTARTES operative (excluding an\nASPIRING SORCERER operative) in which the target did not\nlose any wounds. Repeat that shooting attack."
-            },
-            {
-              "factionid": "CHAOS",
-              "killteamid": "TS",
-              "ployid": "SF",
-              "ployname": "Sorcerous Focus",
-              "ploytype": "T",
-              "CP": "1",
-              "description": "Use this Tactical Ploy after rolling one D6 to resolve a second\npsychic power with a friendly ASPIRING SORCERER operative\nthat is not within Engagement Range of enemy operatives. Treat\nthe result of that D6 as a 6."
-            },
-            {
-              "factionid": "CHAOS",
-              "killteamid": "TS",
-              "ployid": "TH",
-              "ployname": "Treasure Hunter",
-              "ploytype": "T",
-              "CP": "1",
-              "description": "Use this Tactical Ploy when a friendly TZAANGOR operative is\nactivated. During that activation, that operative can perform\na mission action or the Pick Up action for one less AP (to a\nminimum of 0 AP)."
-            }
-          ]
-        },
-        "equipments": [
-          {
-            "factionid": "CHAOS",
-            "killteamid": "TS",
-            "eqid": "ASE",
-            "eqname": "All-Seeing Eye*",
-            "eqdescription": "\nThe operative gains the following ability for the battle:<br/>\n<strong>All-seeing Eye:</strong> Once per battle, you can do one of\nthe following:\n<ul>\n<li>If this operative is ready, you can activate it after\nactivating a friendly operative.</li>\n<li>You can activate a ready friendly operative after\nactivating this operative.</li>\n</ul>",
-            "eqpts": "2"
-          },
-          {
-            "factionid": "CHAOS",
-            "killteamid": "TS",
-            "eqid": "ER",
-            "eqname": "Ensorcelled Rounds",
-            "eqdescription": "TZAANGOR operative only. Select one autopistol the\noperative is equipped with. Add 1 to that weapon's Damage\ncharacteristics for the battle.",
-            "eqpts": "2"
-          },
-          {
-            "factionid": "CHAOS",
-            "killteamid": "TS",
-            "eqid": "GB",
-            "eqname": "Gargoyle Bayonet",
-            "eqdescription": "The operative is equipped with the following melee weapon\nfor the battle:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name<?th>\n        <th>A</th>\n        <th>WS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Gargoyle Bayonet</td>\n        <td>3</td>\n        <td>3+</td>\n        <td>4/4</td>\n    </tr>\n</table>",
-            "eqpts": "2"
-          },
-          {
-            "factionid": "CHAOS",
-            "killteamid": "TS",
-            "eqid": "GH",
-            "eqname": "Gilded Horns",
-            "eqdescription": "TZAANGOR operative only. The operative gains the following\nability for the battle:<br/>\n<strong>Gilded Horns:</strong> Each time this operative fights in combat,\nif it performed a Charge action during that activation, in\nthe Roll Attack Dice step of that combat, you can retain one\nof your attack dice results of 5+ that is a successful hit as a\ncritical hit.",
-            "eqpts": "1"
-          },
-          {
-            "factionid": "CHAOS",
-            "killteamid": "TS",
-            "eqid": "MS",
-            "eqname": "Mythic Scroll*",
-            "eqdescription": "ASPIRING SORCERER operative only. The operative gains the\nfollowing ability for the battle:<br/>\n<strong>Mythic Scroll:</strong> Once per battle, during this operative's\nactivation, it can perform a free Manifest Psychic\nPower action.",
-            "eqpts": "2"
-          },
-          {
-            "factionid": "CHAOS",
-            "killteamid": "TS",
-            "eqid": "RW",
-            "eqname": "Runic Ward*",
-            "eqdescription": "The operative gains the following ability for the battle:<br/>\n<strong>Runic Ward:</strong> Once per battle, in the Roll Defence Dice step\nof a shooting attack made against this operative, you can\nuse this ability. If you do so, you can retain one of your failed\nsaves as a successful normal save, or one of your successful\nnormal saves as a successful critical save.",
-            "eqpts": "3"
-          },
-          {
-            "factionid": "CHAOS",
-            "killteamid": "TS",
-            "eqid": "TT",
-            "eqname": "Treasure Trinket*",
-            "eqdescription": "TZAANGOR operative only. Add 1 CP to your pool for\nthe battle.",
-            "eqpts": "3"
-          }
-        ],
-        "killteamcomp": "A THOUSAND SONSt kill team consists of two fire teams selected from the following list:\n<ul>\n<li>RUBRIC MARINE</li>\n<li>TZAANGOR</li>\n</ul>",
-        "fireteams": [
-          {
-            "factionid": "CHAOS",
-            "killteamid": "TS",
-            "fireteamid": "RUB",
-            "fireteamname": "Rubric Marines",
-            "archetype": "Seek And Destroy/Security",
-            "description": "",
-            "killteammax": 0,
-            "operatives": [
-              {
-                "factionid": "CHAOS",
-                "killteamid": "TS",
-                "fireteamid": "RUB",
-                "opid": "SOR",
-                "opname": "Aspiring Sorcerer",
-                "description": "An Aspiring Sorcerer who has gained control over a unit of Rubric Marines yokes them to his will. He directs them like a puppeteer, employing them as bulwarks against his foes while channelling his dark magics of manipulation through a spychically attuned force staff.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "3+",
-                "W": "13",
-                "keywords": "THOUSAND SONS., CHAOS, ARCANA ASTARTES, <GREAT CULT>, PSYKER, LEADER, RUBRIC MARINE, ASPIRING SORCERER",
-                "weapons": [
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "SOR",
-                    "wepid": "IBP",
-                    "wepname": "Inferno Bolt Pistol",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "CHAOS",
-                        "killteamid": "TS",
-                        "fireteamid": "RUB",
-                        "opid": "SOR",
-                        "wepid": "IBP",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "2+",
-                        "D": "3/4",
-                        "SR": "Rng [PENT], AP1"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "SOR",
-                    "wepid": "PP",
-                    "wepname": "Plasma Pistol",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "CHAOS",
-                        "killteamid": "TS",
-                        "fireteamid": "RUB",
-                        "opid": "SOR",
-                        "wepid": "PP",
-                        "profileid": "0",
-                        "name": "Standard",
-                        "A": "4",
-                        "BS": "2+",
-                        "D": "5/6",
-                        "SR": "Rng [PENT]. AP1"
-                      },
-                      {
-                        "factionid": "CHAOS",
-                        "killteamid": "TS",
-                        "fireteamid": "RUB",
-                        "opid": "SOR",
-                        "wepid": "PP",
-                        "profileid": "1",
-                        "name": "Supercharge",
-                        "A": "4",
-                        "BS": "2+",
-                        "D": "5/6",
-                        "SR": "Rng [PENT]. AP2, Hot"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "SOR",
-                    "wepid": "WFP",
-                    "wepname": "Warpflame Pistol",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "CHAOS",
-                        "killteamid": "TS",
-                        "fireteamid": "RUB",
-                        "opid": "SOR",
-                        "wepid": "WFP",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "2+",
-                        "D": "2/3",
-                        "SR": "Rng [PENT], Tor [TRI], AP1"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "SOR",
-                    "wepid": "FS",
-                    "wepname": "Force Stave",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "CHAOS",
-                        "killteamid": "TS",
-                        "fireteamid": "RUB",
-                        "opid": "SOR",
-                        "wepid": "FS",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "4/5",
-                        "SR": "Stun"
-                      }
-                    ]
-                  }
-                ],
-                "uniqueactions": [
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "SOR",
-                    "uniqueactionid": "DB",
-                    "title": "Doombolt",
-                    "description": "<em>Psychic Power</em><br/>\nPerform a free Shoot action using the following ranged weapon:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Doombolt</td>\n        <td>4</td>\n        <td>3+</td\n        <td>3/3</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<td>Lethal 5+, MW2</td>\n    </tr>\n</table>\nThe second time a friendly THOUSAND SONS ASPIRING SORCERER\noperative performs the Manifest Psychic Power action in each of its\nactivations, roll 1D6: on a 1 -2, that operative suffers 3 mortal wounds.\nOn a 3+, select one psychic power from the list below to be resolved. You\ncannot select one that you have resolved during this Turning Point.",
-                    "AP": 1
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "SOR",
-                    "uniqueactionid": "FS",
-                    "title": "Firestorm",
-                    "description": "<em>Psychic Power</em><br/>\nPerform a free Shoot action using the following ranged weapon:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Firestorm</td>\n        <td>5</td>\n        <td>4+</td\n        <td>2/2</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<td>Indirect, Barrage, Blast [TRI]</td>\n    </tr>\n</table>\nThe second time a friendly THOUSAND SONS ASPIRING SORCERER\noperative performs the Manifest Psychic Power action in each of its\nactivations, roll 1D6: on a 1 -2, that operative suffers 3 mortal wounds.\nOn a 3+, select one psychic power from the list below to be resolved. You\ncannot select one that you have resolved during this Turning Point.",
-                    "AP": 1
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "SOR",
-                    "uniqueactionid": "IS",
-                    "title": "Immaterial Surge",
-                    "description": "<em>Psychic Power</em><br/>\nSelect one other friendly THOUSAND SONS operative Visible to this operative. Add 1 to its APL.\n<br/>\nThe second time a friendly THOUSAND SONS ASPIRING SORCERER\noperative performs the Manifest Psychic Power action in each of its\nactivations, roll 1D6: on a 1 -2, that operative suffers 3 mortal wounds.\nOn a 3+, select one psychic power from the list below to be resolved. You\ncannot select one that you have resolved during this Turning Point.",
-                    "AP": 1
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "SOR",
-                    "uniqueactionid": "TOF",
-                    "title": "Twist Of Fate",
-                    "description": "<em>Psychic Power</em><br/>\nSelect one enemy operative Visible to this operative. Until the end of the Turning Point, each time a friendly THOUSAND SONS operative fights in combat or makes a shooting attack against that enemy operative,\nin the Roll Attack Dice step of that combat or shooting attack, you can re-roll one of your attack dice.\n<br/>\nThe second time a friendly THOUSAND SONS ASPIRING SORCERER\noperative performs the Manifest Psychic Power action in each of its\nactivations, roll 1D6: on a 1 -2, that operative suffers 3 mortal wounds.\nOn a 3+, select one psychic power from the list below to be resolved. You\ncannot select one that you have resolved during this Turning Point.",
-                    "AP": 1
-                  }
-                ],
-                "abilities": [
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "SOR",
-                    "abilityid": "FBC",
-                    "title": "Favoured By Change",
-                    "description": "This operative has a 5+ Invulnerable Save."
-                  }
-                ],
-                "fireteammax": 0
-              },
-              {
-                "factionid": "CHAOS",
-                "killteamid": "TS",
-                "fireteamid": "RUB",
-                "opid": "GNR",
-                "opname": "Rubric Marine Gunner",
-                "description": "With their armour's servos infused with sorcery, the spirit wihin a Rubric Marine's shell easily hefts the heaviest of arcane weapons. Their Soulreaper Cannons shoot streams of shells alight with magical power, while their Warpflamers unleash gouts of iridescent fire.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "3+",
-                "W": "12",
-                "keywords": "THOUSAND SONS, CHAOS, ARCANA ASTARTES, <GREAT CULT>, RUBRIC MARINE, GUNNER",
-                "weapons": [
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "GNR",
-                    "wepid": "SRC",
-                    "wepname": "Soulreaper Cannon",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "CHAOS",
-                        "killteamid": "TS",
-                        "fireteamid": "RUB",
-                        "opid": "GNR",
-                        "wepid": "SRC",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "6",
-                        "BS": "3+",
-                        "D": "3/4",
-                        "SR": "AP1, Fus"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "GNR",
-                    "wepid": "WFL",
-                    "wepname": "Warpflamer",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "CHAOS",
-                        "killteamid": "TS",
-                        "fireteamid": "RUB",
-                        "opid": "GNR",
-                        "wepid": "WFL",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "5",
-                        "BS": "2+",
-                        "D": "2/3",
-                        "SR": "Rng [PENT], Tor [CIRCLE], AP1"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "GNR",
-                    "wepid": "F",
-                    "wepname": "Fists",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "CHAOS",
-                        "killteamid": "TS",
-                        "fireteamid": "RUB",
-                        "opid": "GNR",
-                        "wepid": "F",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "3",
-                        "BS": "3+",
-                        "D": "3/4",
-                        "SR": ""
-                      }
-                    ]
-                  }
-                ],
-                "uniqueactions": [],
-                "abilities": [
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "GNR",
-                    "abilityid": "AID",
-                    "title": "All is Dust",
-                    "description": "Each time a shooting attack is made against\nthis operative, if the ranged weapon has a Normal Damage\ncharacteristic of 3 or less, this operative is treated as having a\nSave characteristic of 2+ for that shooting attack."
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "GNR",
-                    "abilityid": "FBC",
-                    "title": "Favoured By Change",
-                    "description": "This operative has a 5+ Invulnerable Save."
-                  }
-                ],
-                "fireteammax": 0
-              },
-              {
-                "factionid": "CHAOS",
-                "killteamid": "TS",
-                "fireteamid": "RUB",
-                "opid": "IB",
-                "opname": "Rubric Marine Icon Bearer",
-                "description": "Rubric Marines and their masters ultimately serve the schemes of the Chaos God Tzeentch. Some of these arcane warriors bear sorcerous icons of the Changer of the Ways that crawl with corsucating energy, searing the unenlightened with mutating flames.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "3+",
-                "W": "12",
-                "keywords": "THOUSAND SONS, CHAOS, ARCANA ASTARTES, <GREAT CULT>, RUBRIC MARINE, ICON BEARER",
-                "weapons": [
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "IB",
-                    "wepid": "IBG",
-                    "wepname": "Inferno Boltgun",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "CHAOS",
-                        "killteamid": "TS",
-                        "fireteamid": "RUB",
-                        "opid": "IB",
-                        "wepid": "IBG",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "3/4",
-                        "SR": "AP1"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "IB",
-                    "wepid": "F",
-                    "wepname": "Fists",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "CHAOS",
-                        "killteamid": "TS",
-                        "fireteamid": "RUB",
-                        "opid": "IB",
-                        "wepid": "F",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "3",
-                        "BS": "3+",
-                        "D": "3/4",
-                        "SR": ""
-                      }
-                    ]
-                  }
-                ],
-                "uniqueactions": [],
-                "abilities": [
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "IB",
-                    "abilityid": "AID",
-                    "title": "All is Dust",
-                    "description": "Each time a shooting attack is made against\nthis operative, if the ranged weapon has a Normal Damage\ncharacteristic of 3 or less, this operative is treated as having a\nSave characteristic of 2+ for that shooting attack."
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "IB",
-                    "abilityid": "FBC",
-                    "title": "Favoured By Change",
-                    "description": "This operative has a 5+ Invulnerable Save."
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "IB",
-                    "abilityid": "IB",
-                    "title": "Icon Bearer",
-                    "description": "When determining control of an objective marker, treat this operative's APL characteristic as being 1 higher. Note that this is not a modifier. In narrative play, this is cumulative with the Focused Battle Honour (see Kill Team Core Book)."
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "IB",
-                    "abilityid": "IOF",
-                    "title": "Icon Of Flame",
-                    "description": "While a friendly THOUSAND SONS ASPIRING\nSORCERER operative is within [SQUARE] of this operative, it can resolve a\nsecond psychic power in its activation as a result of the Manifest\nPsychic Power action (pg 81) without needing to roll one D6."
-                  }
-                ],
-                "fireteammax": 0
-              },
-              {
-                "factionid": "CHAOS",
-                "killteamid": "TS",
-                "fireteamid": "RUB",
-                "opid": "WAR",
-                "opname": "Rubric Marine Warrior",
-                "description": "Rubric Marines are animated suits of power armour inhabited by the bound souls of thier former occupants. With ruinous proficiency, they steadily fire bursts of eldritch shells from their Inferno Boltguns, advancing upon their psychic master's enemies.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "3+",
-                "W": "12",
-                "keywords": "THOUSAND SONS, CHAOS, ARCANA ASTARTES, <GREAT CULT>, RUBRIC MARINE, WARRIOR",
-                "weapons": [
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "WAR",
-                    "wepid": "IBG",
-                    "wepname": "Inferno Boltgun",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "CHAOS",
-                        "killteamid": "TS",
-                        "fireteamid": "RUB",
-                        "opid": "WAR",
-                        "wepid": "IBG",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "3/4",
-                        "SR": "AP1"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "WAR",
-                    "wepid": "F",
-                    "wepname": "Fists",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "CHAOS",
-                        "killteamid": "TS",
-                        "fireteamid": "RUB",
-                        "opid": "WAR",
-                        "wepid": "F",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "3",
-                        "BS": "3+",
-                        "D": "3/4",
-                        "SR": ""
-                      }
-                    ]
-                  }
-                ],
-                "uniqueactions": [],
-                "abilities": [
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "WAR",
-                    "abilityid": "AID",
-                    "title": "All is Dust",
-                    "description": "Each time a shooting attack is made against\nthis operative, if the ranged weapon has a Normal Damage\ncharacteristic of 3 or less, this operative is treated as having a\nSave characteristic of 2+ for that shooting attack."
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "RUB",
-                    "opid": "WAR",
-                    "abilityid": "FBC",
-                    "title": "Favoured By Change",
-                    "description": "This operative has a 5+ Invulnerable Save."
-                  }
-                ],
-                "fireteammax": 0
-              }
-            ],
-            "fireteamcomp": "A RUBRIC MARINE fire team includes two RUBRIC MARINE operatives selected from the following list:\n<ul>\n<li>RUBRIC MARINE WARRIOR</li>\n<li>RUBRIC MARINE GUNNER each separately equipped with fists and one of the following options:\n<ul><li>Soul reaper cannon (max one per kill team) or warpflamer</li></ul>\n</li>\n<li>RUBRIC MARINE ICON BEARER</li>\n</ul>\nEach RUBRIC MARINE fire team can only include up to one RUBRIC MARINE GUNNER operative. Your kill team can only\ninclude up to one RUBRIC MARINE ICON BEARER operative.\n<br/><br/>\nIf your kill team does not include any other LEADER operatives, one RUBRIC MARINE fire team can also include one\nASPIRING SORCERER operative equipped with a force stave and one of the following options:\n<ul><li>Inferno bolt pistol, plasma pistol or warpflame pistol</li></ul>"
-          },
-          {
-            "factionid": "CHAOS",
-            "killteamid": "TS",
-            "fireteamid": "TZA",
-            "fireteamname": "Tzaangor",
-            "archetype": "Seek And Destroy/Recon",
-            "description": "",
-            "killteammax": 0,
-            "operatives": [
-              {
-                "factionid": "CHAOS",
-                "killteamid": "TS",
-                "fireteamid": "TZA",
-                "opid": "TB",
-                "opname": "Twistbray",
-                "description": "The most savage member of a flock is a Twistbray, usually bearing the most extreme mutations of their creator-god. Raised by Tzeentch above the predatory instincts of their fellow mutatns, they exhibit great cunning, formulating complex ploys to outwit their prey.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "6+",
-                "W": "9",
-                "keywords": "THOUSAND SONS, CHAOS, LEADER, TZAANGOR, TWISTBRAY",
-                "weapons": [
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "TZA",
-                    "opid": "TB",
-                    "wepid": "AP",
-                    "wepname": "Autopistol",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "CHAOS",
-                        "killteamid": "TS",
-                        "fireteamid": "TZA",
-                        "opid": "TB",
-                        "wepid": "AP",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "4+",
-                        "D": "2/3",
-                        "SR": "Rng [PENT]"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "TZA",
-                    "opid": "TB",
-                    "wepid": "CS",
-                    "wepname": "Chainsword",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "CHAOS",
-                        "killteamid": "TS",
-                        "fireteamid": "TZA",
-                        "opid": "TB",
-                        "wepid": "CS",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "4/5",
-                        "SR": ""
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "TZA",
-                    "opid": "TB",
-                    "wepid": "TB",
-                    "wepname": "Tzaangor Blades",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "CHAOS",
-                        "killteamid": "TS",
-                        "fireteamid": "TZA",
-                        "opid": "TB",
-                        "wepid": "TB",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "4/",
-                        "SR": "Relentless"
-                      }
-                    ]
-                  }
-                ],
-                "uniqueactions": [],
-                "abilities": [
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "TZA",
-                    "opid": "TB",
-                    "abilityid": "FBC",
-                    "title": "Favoured By Change",
-                    "description": "This operative has a 5+ Invulnerable Save."
-                  }
-                ],
-                "fireteammax": 0
-              },
-              {
-                "factionid": "CHAOS",
-                "killteamid": "TS",
-                "fireteamid": "TZA",
-                "opid": "FTR",
-                "opname": "Tzaangor Fighter",
-                "description": "Tzaangors are mutated fusions of avian beasts and corrupted humans. In thrall to Tzeentch, they serve the Thousand Sons as bestial shock troops, attacking with savage blows from ritual blades and tearing flesh with their jagged beaks.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "6+",
-                "W": "8",
-                "keywords": "THOUSAND SONS, CHAOS, TZAANGOR, FIGHTER",
-                "weapons": [
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "TZA",
-                    "opid": "FTR",
-                    "wepid": "AP",
-                    "wepname": "Autopistol",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "CHAOS",
-                        "killteamid": "TS",
-                        "fireteamid": "TZA",
-                        "opid": "FTR",
-                        "wepid": "AP",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "4+",
-                        "D": "2/3",
-                        "SR": "Rng [PENT]"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "TZA",
-                    "opid": "FTR",
-                    "wepid": "CS",
-                    "wepname": "Chainsword",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "CHAOS",
-                        "killteamid": "TS",
-                        "fireteamid": "TZA",
-                        "opid": "FTR",
-                        "wepid": "CS",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "4+",
-                        "D": "4/5",
-                        "SR": ""
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "TZA",
-                    "opid": "FTR",
-                    "wepid": "TB",
-                    "wepname": "Tzaangor Blades",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "CHAOS",
-                        "killteamid": "TS",
-                        "fireteamid": "TZA",
-                        "opid": "FTR",
-                        "wepid": "TB",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "4+",
-                        "D": "4/5",
-                        "SR": "Relentless"
-                      }
-                    ]
-                  }
-                ],
-                "uniqueactions": [],
-                "abilities": [
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "TZA",
-                    "opid": "FTR",
-                    "abilityid": "FBC",
-                    "title": "Favoured By Change",
-                    "description": "This operative has a 5+ Invulnerable Save."
-                  }
-                ],
-                "fireteammax": 0
-              },
-              {
-                "factionid": "CHAOS",
-                "killteamid": "TS",
-                "fireteamid": "TZA",
-                "opid": "HB",
-                "opname": "Tzaangor Horn Bearer",
-                "description": "Often, a member of a Tzaangor flock will carry a daemonically mawed instrument, the piercing blasts of which stir its fellow creatures into a bestial frenzy. Their shrill cries echo and their horns clatter together as they vie to be first into the fray to hack their victims apart.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "6+",
-                "W": "8",
-                "keywords": "THOUSAND SONS, CHAOS, TZAANGOR, HORN BEARER",
-                "weapons": [
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "TZA",
-                    "opid": "HB",
-                    "wepid": "D",
-                    "wepname": "Dagger",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "CHAOS",
-                        "killteamid": "TS",
-                        "fireteamid": "TZA",
-                        "opid": "HB",
-                        "wepid": "D",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "4+",
-                        "D": "3/4",
-                        "SR": ""
-                      }
-                    ]
-                  }
-                ],
-                "uniqueactions": [
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "TZA",
-                    "opid": "HB",
-                    "uniqueactionid": "BH",
-                    "title": "Brayhorn",
-                    "description": "Until the end of the Turning Point, each time\na friendly TZAANGOR operative performs a Normal Move or\nCharge action, it can move an additional [TRI].",
-                    "AP": 1
-                  }
-                ],
-                "abilities": [
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "TZA",
-                    "opid": "HB",
-                    "abilityid": "FBC",
-                    "title": "Favoured By Change",
-                    "description": "This operative has a 5+ Invulnerable Save."
-                  }
-                ],
-                "fireteammax": 0
-              },
-              {
-                "factionid": "CHAOS",
-                "killteamid": "TS",
-                "fireteamid": "TZA",
-                "opid": "IB",
-                "opname": "Tzaangor Icon Bearer",
-                "description": "Driven by a desire to accumulate arcane knowledge, Tzaangor hop to use such a prize to gain even more favour with Tzeentch. Particularly fervent Tzaangor carry sinuous icons and banners they believe draw their desity's gaze and mutative blessings.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "6+",
-                "W": "8",
-                "keywords": "THOUSAND SONS, CHAOS, TZAANGOR, ICON BEARER",
-                "weapons": [
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "TZA",
-                    "opid": "IB",
-                    "wepid": "D",
-                    "wepname": "Dagger",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "CHAOS",
-                        "killteamid": "TS",
-                        "fireteamid": "TZA",
-                        "opid": "IB",
-                        "wepid": "D",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "4+",
-                        "D": "3/4",
-                        "SR": ""
-                      }
-                    ]
-                  }
-                ],
-                "uniqueactions": [
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "TZA",
-                    "opid": "IB",
-                    "uniqueactionid": "HB",
-                    "title": "Herd Banner",
-                    "description": "Until the end of the Turning Point, while\nthis operative is within [SQUARE] of a friendly TZAANGOR operative,\nthat operative is invigorated by chaos. While an operative is\ninvigorated by chaos, improve its invulnerable save by 1.",
-                    "AP": 1
-                  }
-                ],
-                "abilities": [
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "TZA",
-                    "opid": "IB",
-                    "abilityid": "FBC",
-                    "title": "Favoured By Change",
-                    "description": "This operative has a 5+ Invulnerable Save."
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "TS",
-                    "fireteamid": "TZA",
-                    "opid": "IB",
-                    "abilityid": "IB",
-                    "title": "Icon Bearer",
-                    "description": "When determining control of an objective marker, treat this operative's APL characteristic as being 1 higher. Note that this is not a modifier. In narrative play, this is cumulative with the Focused Battle Honour (see Kill Team Core Book)."
-                  }
-                ],
-                "fireteammax": 0
-              }
-            ],
-            "fireteamcomp": "A TZAANGOR fire team includes six TZAANGOR operatives selected from the following list:\n<ul>\n<li>\nTZAANGOR FIGHTER each separately equipped with one of the following options:\n<ul>\n<li>Autopistol; chainsword</li>\n<li>Tzaangor blades</li>\n</ul>\n</li>\n<li>TZAANGOR ICON BEARER</li>\n<li>TZAANGOR HORN BEARER</li>\n</ul>\nOther than TZAANGOR FIGHTER operatives, your kill team can only include each operative above once.\n<br/><br/>\nIf your kill team does not include any other LEADER operatives, instead of selecting one TZAANGOR FIGHTER operative for\none TZAANGOR fire team, you can select one TWISTBRAY operative equipped with one of the following options:\n<ul>\n<li>Autopistol; chainsword</li>\n<li>Tzaangor blades</li>\n</ul>"
           }
         ]
       },
@@ -9249,1347 +8272,6 @@
       },
       {
         "factionid": "IMP",
-        "killteamid": "FW",
-        "killteamname": "Forge World",
-        "description": "The Adeptus Mechanicus is the official Imperial name within the Adeptus Terra for the Cult Mechanicus or Cult of the Machine based on Mars which provides the Imperium with its scientists, engineers and technicians.\n<br/><br/>\nThe tech-adepts of the Mechanicus are the primary keepers of what is viewed as sacred wisdom, a privileged caste of Tech-priests who jealously guard the knowledge required to maintain and construct much of the Imperium's advanced technology. ",
-        "ploys": {
-          "strat": [
-            {
-              "factionid": "IMP",
-              "killteamid": "FW",
-              "ployid": "AI",
-              "ployname": "Aggressor Imperative",
-              "ploytype": "S",
-              "CP": "1",
-              "description": "Until the end of the turning point:<ul>\n<li>Each time a friendly FORGE WORLD operative performs a Normal Move or Charge action, it can move an additional [TRI].</li>\n<li>Each time a shooting attack is made against a friendly FORGE WORLD operative, in the Roll Defence Dice step of that shooting attack, you must re-roll one of your successful saves</li>\n</ul>\nYou can only use this Strategic Ploy once."
-            },
-            {
-              "factionid": "IMP",
-              "killteamid": "FW",
-              "ployid": "BI",
-              "ployname": "Bulwark Imperative",
-              "ploytype": "S",
-              "CP": "1",
-              "description": "Until the end of the turning point:<ul>\n<li>Each time a shooting attack is made against a friendly FORGE WORLD operative, in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice.</li>\n<li>Subtract [CIRCLE] from the Movement characteristic of friendly FORGE WORLD operatives</li>\n</ul>\nYou can only use this Strategic Ploy once."
-            },
-            {
-              "factionid": "IMP",
-              "killteamid": "FW",
-              "ployid": "CI",
-              "ployname": "Conqueror Imperative",
-              "ploytype": "S",
-              "CP": "1",
-              "description": "Until the end of the turning point:<ul>\n<li>Each time a friendly FORGE WORLD operative fights in combat, in the Roll Attack Dice step of that combat, you can re-roll one of your attack dice</li>\n<li>Each time a friendly FORGE WORLD operative makes a shooting attack, you must re-roll one of your successful hits</li>\nYOu can only use this Strategic Ploy once."
-            },
-            {
-              "factionid": "IMP",
-              "killteamid": "FW",
-              "ployid": "PI",
-              "ployname": "Protector Imperative",
-              "ploytype": "S",
-              "CP": "1",
-              "description": "Until the end of the turning point:<ul>\n<li>Each time a friendly FORGE WORLD operative makes a shooting attack, you can re-roll one of your attack dice</li>\n<li>Each time a friendly FORGE WORLD operative fights in combat, in the Roll Attack Dice step of that combat, you must re-roll one of your successful hits</li>\nYOu can only use this Strategic Ploy once."
-            }
-          ],
-          "tac": [
-            {
-              "factionid": "IMP",
-              "killteamid": "FW",
-              "ployid": "CE",
-              "ployname": "Control Edict",
-              "ploytype": "T",
-              "CP": "1",
-              "description": "Use this Tactical Ploy when you activate a ready friendly FORGE WORLD LEADER operative. Select one other ready friendly FORGE WORLD operative Visible to and within [SQUARE] of that LEADER operative. At the end of that LEADER operative's activation, you can activate that other ready friendly operative."
-            },
-            {
-              "factionid": "IMP",
-              "killteamid": "FW",
-              "ployid": "NI",
-              "ployname": "Neurostatic Interference",
-              "ploytype": "T",
-              "CP": "1",
-              "description": "Use this Tactical Ploy at the start of the Firefight phase. Select one enemy operative Visible to and within [PENT] of a friendly INFILTRATOR operative.\nUntil the end of the Turning Point, that enemy operative cannot be activated until another enemy operative has been activated (unless it is the only remaining enemy operative)."
-            }
-          ]
-        },
-        "equipments": [
-          {
-            "factionid": "IMP",
-            "killteamid": "FW",
-            "eqid": "CB",
-            "eqname": "Cense Bearer",
-            "eqdescription": "The operative gains the following ability for the battle:\n <br/>\n <strong>Cense Bearer:</strong>\n Each time a friendly FORGE WORLD operative within [CIRCLE] of and visible to this operative is activated, if it is injured, do not subtract [CIRCLE] from its Movement characteristic for that activation.",
-            "eqpts": "2"
-          },
-          {
-            "factionid": "IMP",
-            "killteamid": "FW",
-            "eqid": "DT",
-            "eqname": "Data-Tether",
-            "eqdescription": "The operative can perform the following action during the battle:\n<br/>\n<strong>Data-Tether (1 AP):</strong><br/>\nYou gain 1 CP. This operative cannot perform this action while within Engagement Range of enemy operatives.",
-            "eqpts": "4"
-          },
-          {
-            "factionid": "IMP",
-            "killteamid": "FW",
-            "eqid": "EB",
-            "eqname": "Enhanced Bionics",
-            "eqdescription": "The operative gains the following ability for the battle:\n<br/>\n<strong>Enhanced Bionics:</strong>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, you can re-roll any or all of your defence dice results of 1",
-            "eqpts": "2"
-          },
-          {
-            "factionid": "IMP",
-            "killteamid": "FW",
-            "eqid": "OS",
-            "eqname": "Omni Spex",
-            "eqdescription": "The operative can perform the following action during the battle:\n<br/>\n<strong>Omni Spex (1 AP)</strong><br/>\nSelect one friendly FORGE WORLD operative within [SQUARE] of and Visible to this operative, then select one enemy operative.\nUntil the end of the Turning Point, each time that friendly operative makes a shooting attack, for that shooting attack:\n<ul>\n<li>That enemy operative is not Obscured</li>\n<li>If that enemy operative is the target, that friendly operative's ranged weapons have the No Cover special rule</li>\n</ul>\nThis operative cannot perform a Shoot or Fight action in the same activation in which it performs this action.\nAn operative cannot perform this action while within Engagement Range of enemy operatives.",
-            "eqpts": "2"
-          },
-          {
-            "factionid": "IMP",
-            "killteamid": "FW",
-            "eqid": "SS",
-            "eqname": "Servo-Skull",
-            "eqdescription": "The operative gains the following ability for the battle:\n<br/>\n<strong>Servo-Skull:</strong>\nThis operative can perform mission actions for one less AP (to a minimum of 0 AP).",
-            "eqpts": "2"
-          },
-          {
-            "factionid": "IMP",
-            "killteamid": "FW",
-            "eqid": "UVF",
-            "eqname": "Uplinked Vid-Feed",
-            "eqdescription": "RANGER or VANGUARD operative only. The operative gains the following ability for the battle:\n<br/>\n<strong>Uplinked Vid-Feed</strong>: \nEach time this operative perform an Overwatch action, for that action's shooting attack, do not worsen the Ballistic Skill characteristc of its ranged weapons as a result of performing an Overwatch action.",
-            "eqpts": "2"
-          }
-        ],
-        "killteamcomp": "A FORGE WORLD kill team consists of two fireteams selected from the following list:\n<ul>\n<li>SKITARII RANGER</li>\n<li>SKITARII VANGUARD</li>\n<li>SICARIAN</li>\n</ul>\n",
-        "fireteams": [
-          {
-            "factionid": "IMP",
-            "killteamid": "FW",
-            "fireteamid": "SIC",
-            "fireteamname": "Sicarians",
-            "archetype": "Seek And Destroy/Infiltration/Recom",
-            "description": "",
-            "killteammax": 0,
-            "operatives": [
-              {
-                "factionid": "IMP",
-                "killteamid": "FW",
-                "fireteamid": "SIC",
-                "opid": "INFPRI",
-                "opname": "Sicarian Infiltrator Princeps",
-                "description": "Princeps lead coordinated assaults under cover of their insidious auras. Once Sicarians, their worth to the Machine God led them to be rebuilt from destruction.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "4+",
-                "W": "11",
-                "keywords": "FORGE WORLD, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, SKITARII, SICARIAN, INFILTRATOR, PRINCEPS",
-                "weapons": [
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SIC",
-                    "opid": "INFPRI",
-                    "wepid": "FB",
-                    "wepname": "Flechette Blaster",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SIC",
-                        "opid": "INFPRI",
-                        "wepid": "FB",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "5",
-                        "BS": "2+",
-                        "D": "2/3",
-                        "SR": "Relentless, Fus, Rng [PENT]"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SIC",
-                    "opid": "INFPRI",
-                    "wepid": "SC",
-                    "wepname": "Stubcarbine",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SIC",
-                        "opid": "INFPRI",
-                        "wepid": "SC",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "2+",
-                        "D": "3/4",
-                        "SR": "Ceaseless"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SIC",
-                    "opid": "INFPRI",
-                    "wepid": "PW",
-                    "wepname": "Power Weapon",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SIC",
-                        "opid": "INFPRI",
-                        "wepid": "PW",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "4/6",
-                        "SR": "Lethal 5+"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SIC",
-                    "opid": "INFPRI",
-                    "wepid": "TG",
-                    "wepname": "Taser Goard",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SIC",
-                        "opid": "INFPRI",
-                        "wepid": "TG",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "3/4",
-                        "SR": "Lethal 5+, Stun"
-                      }
-                    ]
-                  }
-                ],
-                "uniqueactions": [],
-                "abilities": [],
-                "fireteammax": 0
-              },
-              {
-                "factionid": "IMP",
-                "killteamid": "FW",
-                "fireteamid": "SIC",
-                "opid": "INF",
-                "opname": "Sicarian Infiltrator Trooper",
-                "description": "Experts in penetrating enemy strongholds, Sicarian Infiltrators emit a white noise that attacks their foes' sensoriums with a painful neurostatic bombardment.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "4+",
-                "W": "10",
-                "keywords": "FORGE WORLD, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, SKITARII, SICARIAN, INFILTRATOR, TROOPER",
-                "weapons": [
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SIC",
-                    "opid": "INF",
-                    "wepid": "FB",
-                    "wepname": "Flechette Blaster",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SIC",
-                        "opid": "INF",
-                        "wepid": "FB",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "5",
-                        "BS": "3+",
-                        "D": "2/3",
-                        "SR": "Relentless, Fus, Rng [PENT]"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SIC",
-                    "opid": "INF",
-                    "wepid": "SC",
-                    "wepname": "Stubcarbine",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SIC",
-                        "opid": "INF",
-                        "wepid": "SC",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "3/4",
-                        "SR": "Ceaseless"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SIC",
-                    "opid": "INF",
-                    "wepid": "PW",
-                    "wepname": "Power Weapon",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SIC",
-                        "opid": "INF",
-                        "wepid": "PW",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "4/6",
-                        "SR": "Lethal 5+"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SIC",
-                    "opid": "INF",
-                    "wepid": "TG",
-                    "wepname": "Taser Goard",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SIC",
-                        "opid": "INF",
-                        "wepid": "TG",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "3/4",
-                        "SR": "Lethal 5+, Stun"
-                      }
-                    ]
-                  }
-                ],
-                "uniqueactions": [],
-                "abilities": [],
-                "fireteammax": 0
-              },
-              {
-                "factionid": "IMP",
-                "killteamid": "FW",
-                "fireteamid": "SIC",
-                "opid": "PRI",
-                "opname": "Sicarian Ruststalker Princeps",
-                "description": "Excelling in assassination missions and surprise attacks, Princeps lead their Ruststalkers in the hu8nt for any their Tech-Priest masters have marked for death.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "4+",
-                "W": "11",
-                "keywords": "FORGE WORLD, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, SKITARII, LEADER, SICARIAN, RUSTSTALKER, PRINCEPS",
-                "weapons": [
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SIC",
-                    "opid": "PRI",
-                    "wepid": "CTR",
-                    "wepname": "Chordclaw and Transonic Razor",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SIC",
-                        "opid": "PRI",
-                        "wepid": "CTR",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "5",
-                        "BS": "2+",
-                        "D": "4/5",
-                        "SR": "Bal"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SIC",
-                    "opid": "PRI",
-                    "wepid": "TB",
-                    "wepname": "Transonic Blades",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SIC",
-                        "opid": "PRI",
-                        "wepid": "TB",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "5",
-                        "BS": "2+",
-                        "D": "4/6",
-                        "SR": "Rending"
-                      }
-                    ]
-                  }
-                ],
-                "uniqueactions": [],
-                "abilities": [],
-                "fireteammax": 0
-              },
-              {
-                "factionid": "IMP",
-                "killteamid": "FW",
-                "fireteamid": "SIC",
-                "opid": "TRP",
-                "opname": "Sicarian Ruststalker Trooper",
-                "description": "The Ruststalkers fall upon their foes in a stabbing, slashing frenzy. Their transonic blades are wielded in a blur of attacks, capable of bypassing armour.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "4+",
-                "W": "10",
-                "keywords": "FORGE WORLD, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, SKITARII, SICARIAN, RUSTSTALKER, TROOPER",
-                "weapons": [
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SIC",
-                    "opid": "TRP",
-                    "wepid": "CTR",
-                    "wepname": "Chordclaw and Transonic Razor",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SIC",
-                        "opid": "TRP",
-                        "wepid": "CTR",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "5",
-                        "BS": "3+",
-                        "D": "4/5",
-                        "SR": "Bal"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SIC",
-                    "opid": "TRP",
-                    "wepid": "TB",
-                    "wepname": "Transonic Blades",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SIC",
-                        "opid": "TRP",
-                        "wepid": "TB",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "5",
-                        "BS": "3+",
-                        "D": "4/6",
-                        "SR": "Rending"
-                      }
-                    ]
-                  }
-                ],
-                "uniqueactions": [],
-                "abilities": [],
-                "fireteammax": 0
-              }
-            ],
-            "fireteamcomp": "A SICARIAN fire team includes four SICARIAN operatives selected from the following list:\n<ul>\n\t<li>\n\t\tSICARIAN RUSTSTALKER TROOPER each separately equipped with one of the following options:\n\t\t<ul>\n\t\t\t<li>Chordclaw and Transonic Razor, or Transonic Blades</li>\n\t\t</ul>\n\t</li>\n\t<li>\n\t\tSICARIAN INFILTRATOR TROOPER each separately equipped with one option from each of the following:\n\t\t<ul>\n\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t<li>Power Weapon of Taser Goad</li>\n\t\t</ul>\n\t</li>\n</ul>\n\nIf your kill team does not include any other LEADER operatives, instead of selecting one SICARIAN TROOPER operative for one SICARIAN fire team, you can either select one SICARIAN RUSTSTALKER PRINCEPS operative equipped with one of the following:\n<ul>\n\t<li>Chordclaw and Transonic Razor, or Transonic Blades</li>\n</ul>\nOr one SICARIAN INFILTRATOR PRINCEPS operative equipped with one option from each of the following:\n<ul>\n\t<li>Flechette Blaster or Stubcarbine</li>\n\t<li>Power Weapon or Taser Goad</li>\n</ul>"
-          },
-          {
-            "factionid": "IMP",
-            "killteamid": "FW",
-            "fireteamid": "SKR",
-            "fireteamname": "Skitarii Rangers",
-            "archetype": "Recon/Security",
-            "description": "",
-            "killteammax": 0,
-            "operatives": [
-              {
-                "factionid": "IMP",
-                "killteamid": "FW",
-                "fireteamid": "SKR",
-                "opid": "ALP",
-                "opname": "Skitarii Ranger Alpha",
-                "description": "Ranger Alphas are the most dedicated of their kind, relied upon to formulate reconnaissance and hunting parameters, and to lead their unit in gruelling duties.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "4+",
-                "W": "8",
-                "keywords": "FORGE WORLD, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, LEADER, SKITARII, RANGER, ALPHA",
-                "weapons": [
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKR",
-                    "opid": "ALP",
-                    "wepid": "AP",
-                    "wepname": "Arc Pistol",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKR",
-                        "opid": "ALP",
-                        "wepid": "AP",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "2+",
-                        "D": "4/5",
-                        "SR": "Rng [PENT], AP1, Stun"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKR",
-                    "opid": "ALP",
-                    "wepid": "GR",
-                    "wepname": "Galvanic Rifle",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKR",
-                        "opid": "ALP",
-                        "wepid": "GR",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "2+",
-                        "D": "3/4",
-                        "SR": "Hvy"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKR",
-                    "opid": "ALP",
-                    "wepid": "PBP",
-                    "wepname": "Phosphor Blast Pistol",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKR",
-                        "opid": "ALP",
-                        "wepid": "PBP",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "2+",
-                        "D": "4/5",
-                        "SR": "Rng [PENT], Blast [TRI]"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKR",
-                    "opid": "ALP",
-                    "wepid": "RP",
-                    "wepname": "Radium Pistol",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKR",
-                        "opid": "ALP",
-                        "wepid": "RP",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "2+",
-                        "D": "2/3",
-                        "SR": "Rng [PENT], Rending"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKR",
-                    "opid": "ALP",
-                    "wepid": "AM",
-                    "wepname": "Arc Maul",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKR",
-                        "opid": "ALP",
-                        "wepid": "AM",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "4+",
-                        "D": "4/5",
-                        "SR": "Stun"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKR",
-                    "opid": "ALP",
-                    "wepid": "GB",
-                    "wepname": "Gun Butt",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKR",
-                        "opid": "ALP",
-                        "wepid": "GB",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "3",
-                        "BS": "4+",
-                        "D": "2/3",
-                        "SR": ""
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKR",
-                    "opid": "ALP",
-                    "wepid": "PW",
-                    "wepname": "Power Weapon",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKR",
-                        "opid": "ALP",
-                        "wepid": "PW",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "4+",
-                        "D": "4/6",
-                        "SR": "Lethal 5+"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKR",
-                    "opid": "ALP",
-                    "wepid": "TG",
-                    "wepname": "Taser Goard",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKR",
-                        "opid": "ALP",
-                        "wepid": "TG",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "4+",
-                        "D": "3/4",
-                        "SR": "Lethal 5+, Stun"
-                      }
-                    ]
-                  }
-                ],
-                "uniqueactions": [],
-                "abilities": [],
-                "fireteammax": 0
-              },
-              {
-                "factionid": "IMP",
-                "killteamid": "FW",
-                "fireteamid": "SKR",
-                "opid": "GNR",
-                "opname": "Skitarii Ranger Gunner",
-                "description": "In the hunt for the most dangerous of hereteks or xeons aggressors, a forge world's ruling Tech-Priests may issue high-performing Rangers with advanced weaponry. Strange, esoteric technologies power such armaments, rendering them lethal indeed to the Rangers' foes.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "4+",
-                "W": "7",
-                "keywords": "FORGE WORLD, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, SKITARII, RANGER, GUNNER",
-                "weapons": [
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKR",
-                    "opid": "GNR",
-                    "wepid": "AR",
-                    "wepname": "Arc Rifle",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKR",
-                        "opid": "GNR",
-                        "wepid": "AR",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "4/5",
-                        "SR": "AP1, Stun"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKR",
-                    "opid": "GNR",
-                    "wepid": "PC",
-                    "wepname": "Plasma Caliver",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKR",
-                        "opid": "GNR",
-                        "wepid": "PC",
-                        "profileid": "0",
-                        "name": "Standard",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "5/6",
-                        "SR": "AP1"
-                      },
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKR",
-                        "opid": "GNR",
-                        "wepid": "PC",
-                        "profileid": "1",
-                        "name": "Supercharge",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "5/6",
-                        "SR": "AP2, Hot"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKR",
-                    "opid": "GNR",
-                    "wepid": "TA",
-                    "wepname": "Transuranic Arquebus",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKR",
-                        "opid": "GNR",
-                        "wepid": "TA",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "2+",
-                        "D": "5/4",
-                        "SR": "AP1, Hvy, Unwieldy, MW2"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKR",
-                    "opid": "GNR",
-                    "wepid": "GB",
-                    "wepname": "Gun Butt",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKR",
-                        "opid": "GNR",
-                        "wepid": "GB",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "3",
-                        "BS": "4+",
-                        "D": "2/3",
-                        "SR": ""
-                      }
-                    ]
-                  }
-                ],
-                "uniqueactions": [],
-                "abilities": [],
-                "fireteammax": 0
-              },
-              {
-                "factionid": "IMP",
-                "killteamid": "FW",
-                "fireteamid": "SKR",
-                "opid": "TRP",
-                "opname": "Skitarii Ranger Trooper",
-                "description": "Skitarii Rangers hunt the foes of the Machine God relentlessly, and their bionically enhanced stamina is legendary. They pursue like patient predators, inexorably tracking their prey before taking the killing shot with their long rifles of ancient design.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "4+",
-                "W": "7",
-                "keywords": "FORGE WORLD, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, SKITARII, RANGER, TROOPER",
-                "weapons": [
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKR",
-                    "opid": "TRP",
-                    "wepid": "GR",
-                    "wepname": "Galvanic Rifle",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKR",
-                        "opid": "TRP",
-                        "wepid": "GR",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "3/4",
-                        "SR": "Hvy, P1"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKR",
-                    "opid": "TRP",
-                    "wepid": "GB",
-                    "wepname": "Gun Butt",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKR",
-                        "opid": "TRP",
-                        "wepid": "GB",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "3",
-                        "BS": "4+",
-                        "D": "2/3",
-                        "SR": ""
-                      }
-                    ]
-                  }
-                ],
-                "uniqueactions": [],
-                "abilities": [],
-                "fireteammax": 0
-              }
-            ],
-            "fireteamcomp": "A SKITARII RANGER fire team includes five SKITARII RANGER operatives selected from the following list:\n<ul>\n\t<li>SKITARII RANGER TROOPER</li>\n\t<li>SKITARII RANGER GUNNER equipped with: Gun Butt; Arc Rifle</li>\n\t<li>SKITARII RANGER GUNNER equipped with: Gun Butt; Plasma Caliver</li>\n\t<li>SKITARII RANGER GUNNER equipped with: Gun Butt; Transuranic Arquebus</li>\n</ul>\nEach SKITARII RANGER fire team can only include up to two SKITARII RANGER GUNNER operatives, each of which must be equipped with different ranged weapons.\n<br/>\nIf your kill team does not include any other LEADER operatives, one SKITARII RANGER fire team can also include one SKITARII RANGER ALPHA operative equipped with one of the following options:\n<ul>\n\t<li>Gun Butt; Galvanic Rifle</li>\n\t<li>\n\t\tOne option from each of the following:\n\t\t<ul>\n\t\t\t<li>Gun Butt; Galvanic Rifle</li>\n\t\t\t<li>\n\t\t\t\tOne option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol, Phosphor Blast Pistol, or Radium Pistol</li>\n\t\t\t\t\t<li>Arc Maul, Power Weapon, or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n</ul>"
-          },
-          {
-            "factionid": "IMP",
-            "killteamid": "FW",
-            "fireteamid": "SKV",
-            "fireteamname": "Skitarii Vanguard",
-            "archetype": "Security",
-            "description": "",
-            "killteammax": 0,
-            "operatives": [
-              {
-                "factionid": "IMP",
-                "killteamid": "FW",
-                "fireteamid": "SKV",
-                "opid": "ALP",
-                "opname": "Skitarii Vanguard Alpha",
-                "description": "Skitarii Alphas have passed a point called the Crux Mechanicus. With bodies more machine than flesh, they enact Tech-Priest overseers' orders like holy commands.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "4+",
-                "W": "8",
-                "keywords": "FORGE WORLD, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, LEADER, SKITARII, VANGUARD, ALPHA",
-                "weapons": [
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKV",
-                    "opid": "ALP",
-                    "wepid": "AP",
-                    "wepname": "Arc Pistol",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKV",
-                        "opid": "ALP",
-                        "wepid": "AP",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "2+",
-                        "D": "4/5",
-                        "SR": "Rng [PENT], AP1, Stun"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKV",
-                    "opid": "ALP",
-                    "wepid": "PBP",
-                    "wepname": "Phosphor Blast Pistol",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKV",
-                        "opid": "ALP",
-                        "wepid": "PBP",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "2+",
-                        "D": "4/5",
-                        "SR": "Rng [PENT], Blast [TRI]"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKV",
-                    "opid": "ALP",
-                    "wepid": "RC",
-                    "wepname": "Radium Carbine",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKV",
-                        "opid": "ALP",
-                        "wepid": "RC",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "2/3",
-                        "SR": "Rending"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKV",
-                    "opid": "ALP",
-                    "wepid": "RP",
-                    "wepname": "Radium Pistol",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKV",
-                        "opid": "ALP",
-                        "wepid": "RP",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "2+",
-                        "D": "2/3",
-                        "SR": "Rng [PENT], Rending"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKV",
-                    "opid": "ALP",
-                    "wepid": "AM",
-                    "wepname": "Arc Maul",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKV",
-                        "opid": "ALP",
-                        "wepid": "AM",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "4+",
-                        "D": "4/5",
-                        "SR": "Stun"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKV",
-                    "opid": "ALP",
-                    "wepid": "GB",
-                    "wepname": "Gun Butt",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKV",
-                        "opid": "ALP",
-                        "wepid": "GB",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "3",
-                        "BS": "4+",
-                        "D": "2/3",
-                        "SR": ""
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKV",
-                    "opid": "ALP",
-                    "wepid": "PW",
-                    "wepname": "Power Weapon",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKV",
-                        "opid": "ALP",
-                        "wepid": "PW",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "4+",
-                        "D": "4/6",
-                        "SR": "Lethal 5+"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKV",
-                    "opid": "ALP",
-                    "wepid": "TG",
-                    "wepname": "Taser Goard",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKV",
-                        "opid": "ALP",
-                        "wepid": "TG",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "4+",
-                        "D": "3/4",
-                        "SR": "Lethal 5+, Stun"
-                      }
-                    ]
-                  }
-                ],
-                "uniqueactions": [],
-                "abilities": [],
-                "fireteammax": 0
-              },
-              {
-                "factionid": "IMP",
-                "killteamid": "FW",
-                "fireteamid": "SKV",
-                "opid": "GNR",
-                "opname": "Skitarii Vanguard Gunner",
-                "description": "Many of the most powerful forge world weapons are potentially hazardous to the wielder. Vanguard marksmen, however, are already inured to the irradiating effects of their wargear - a price they willingly pay in devotion to their techno-arcane religion.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "4+",
-                "W": "7",
-                "keywords": "FORGE WORLD, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, SKITARII, VANGUARD, GUNNER",
-                "weapons": [
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKV",
-                    "opid": "GNR",
-                    "wepid": "AR",
-                    "wepname": "Arc Rifle",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKV",
-                        "opid": "GNR",
-                        "wepid": "AR",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "4/5",
-                        "SR": "AP1, Stun"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKV",
-                    "opid": "GNR",
-                    "wepid": "PC",
-                    "wepname": "Plasma Caliver",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKV",
-                        "opid": "GNR",
-                        "wepid": "PC",
-                        "profileid": "0",
-                        "name": "Standard",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "5/6",
-                        "SR": "AP1"
-                      },
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKV",
-                        "opid": "GNR",
-                        "wepid": "PC",
-                        "profileid": "1",
-                        "name": "Supercharge",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "5/6",
-                        "SR": "AP2, Hot"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKV",
-                    "opid": "GNR",
-                    "wepid": "TA",
-                    "wepname": "Transuranic Arquebus",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKV",
-                        "opid": "GNR",
-                        "wepid": "TA",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "2+",
-                        "D": "5/4",
-                        "SR": "AP1, Hvy, Unwieldy, MW2"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKV",
-                    "opid": "GNR",
-                    "wepid": "GB",
-                    "wepname": "Gun Butt",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKV",
-                        "opid": "GNR",
-                        "wepid": "GB",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "3",
-                        "BS": "4+",
-                        "D": "2/3",
-                        "SR": ""
-                      }
-                    ]
-                  }
-                ],
-                "uniqueactions": [],
-                "abilities": [],
-                "fireteammax": 0
-              },
-              {
-                "factionid": "IMP",
-                "killteamid": "FW",
-                "fireteamid": "SKV",
-                "opid": "TRP",
-                "opname": "Skitarii Vanguard Trooper",
-                "description": "Skitarii Vanguard are so infused with baleful energies that simply being near them is deadly. So much radiation bleeds out from their shells fired by their Radium Carbines that they contaminate the air around them, as well as their targets.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "4+",
-                "W": "7",
-                "keywords": "FORGE WORLD, IMPERIUM, ADEPTUS MECHANICUS, <FORGE WORLD>, SKITARII, VANGUARD, TROOPER",
-                "weapons": [
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKV",
-                    "opid": "TRP",
-                    "wepid": "RC",
-                    "wepname": "Radium Carbine",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKV",
-                        "opid": "TRP",
-                        "wepid": "RC",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "2/3",
-                        "SR": "Rending"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "FW",
-                    "fireteamid": "SKV",
-                    "opid": "TRP",
-                    "wepid": "GB",
-                    "wepname": "Gun Butt",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "FW",
-                        "fireteamid": "SKV",
-                        "opid": "TRP",
-                        "wepid": "GB",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "3",
-                        "BS": "4+",
-                        "D": "2/3",
-                        "SR": ""
-                      }
-                    ]
-                  }
-                ],
-                "uniqueactions": [],
-                "abilities": [],
-                "fireteammax": 0
-              }
-            ],
-            "fireteamcomp": "A SKITARII VANGUARD fire team includes five SKITARII VANGUARD operatives selected from the following list:\n<ul>\n\t<li>SKITARII VANGUARD TROOPER</li>\n\t<li>SKITARII VANGUARD GUNNER equipped with: Gun Butt; Arc Rifle</li>\n\t<li>SKITARII VANGUARD GUNNER equipped with: Gun Butt; Plasma Caliver</li>\n\t<li>SKITARII VANGUARD GUNNER equipped with: Gun Butt; Transuranic Arquebus</li>\n</ul>\nEach SKITARII VANGUARD fire team can only include up to two SKITARII VANGUARD GUNNER operatives, each of which must be equipped with different ranged weapons.\n<br/>\nIf your kill team does not include any other LEADER operatives, one SKITARII VANGUARD fire team can also include one SKITARII VANGUARD ALPHA operative equipped with one of the following options:\n<ul>\n\t<li>Gun Butt; Radium Carbine</li>\n\t<li>\n\t\tOne option from each of the following:\n\t\t<ul>\n\t\t\t<li>Gun Butt; Galvanic Rifle</li>\n\t\t\t<li>\n\t\t\t\tOne option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol, Phosphor Blast Pistol, or Radium Pistol</li>\n\t\t\t\t\t<li>Arc Maul, Power Weapon, or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n</ul>"
-          }
-        ]
-      },
-      {
-        "factionid": "IMP",
         "killteamid": "GK",
         "killteamname": "Grey Knights",
         "description": "The Grey Knights are a secret and mysterious Chapter of Space Marines specifically tasked with combating the dangerous daemonic entities of the Warp and all those who wield the corrupt power of the Chaos Gods.\n<br/><br/>\nThey were created by the Emperor Himself with the aid of Malcador the Sigillite at the time of the Horus Heresy to serve as Humanity's greatest weapon against the threat posed by the existence of Chaos. ",
@@ -10703,7 +8385,7 @@
             "eqpts": "3"
           }
         ],
-        "killteamcomp": "A GREY KNIGHT kill team includes one GREY KNIGHT JUSTICAR operative equipped with a Storm Bolter and one of the following options:\n <ul><li>Nemesis Daemon Hammer, Nemesis Falchions, Nemesis Force Weapon, or Nemesis Warding Stave</li></ul>\n It also includes four GREY KNIGHT operatives selected from the following list:\n <ul>\n <li>\n \tGREY KNIGHT WARRIOR equipped with a Storm Bolter and one of the following options:\n     <ul>\n \t\t<li>Nemesis Daemon Hammer, Nemesis Falchions, Nemesis Force Weapon, or Nemesis Warding Stave</li>\n     </ul>\n </li>\n \tGREY KNIGHT GUNNER equipped with Fists and one of the following options:\n     <ul>\n \t\t<li>Incinerator, Psilencer, or Psycannon</li>\n     </ul>\n </li>\n </ul>\n Your kill team can only include up to one GREY NIGHT GUNNER operative.\n ",
+        "killteamcomp": "A GREY KNIGHT kill team includes one GREY KNIGHT JUSTICAR operative equipped with a Storm Bolter and one of the following options:\n <ul><li>Nemesis Daemon Hammer, Nemesis Falchions, Nemesis Force Weapon, or Nemesis Warding Stave</li></ul>\n It also includes five GREY KNIGHT operatives selected from the following list:\n <ul>\n <li>\n        GREY KNIGHT WARRIOR equipped with a Storm Bolter and one of the following options:\n     <ul>\n                <li>Nemesis Daemon Hammer, Nemesis Falchions, Nemesis Force Weapon, or Nemesis Warding Stave</li>\n     </ul>\n </li>\n        GREY KNIGHT GUNNER equipped with Fists and one of the following options:\n     <ul>\n                <li>Incinerator, Psilencer, or Psycannon</li>\n     </ul>\n </li>\n </ul>\n Your kill team can only include up to one GREY NIGHT GUNNER operative.",
         "fireteams": [
           {
             "factionid": "IMP",
@@ -11204,7 +8886,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "A GREY KNIGHT kill team includes one GREY KNIGHT JUSTICAR operative equipped with a Storm Bolter and one of the following options:\n <ul><li>Nemesis Daemon Hammer, Nemesis Falchions, Nemesis Force Weapon, or Nemesis Warding Stave</li></ul>\n It also includes four GREY KNIGHT operatives selected from the following list:\n <ul>\n <li>\n \tGREY KNIGHT WARRIOR equipped with a Storm Bolter and one of the following options:\n     <ul>\n \t\t<li>Nemesis Daemon Hammer, Nemesis Falchions, Nemesis Force Weapon, or Nemesis Warding Stave</li>\n     </ul>\n </li>\n \tGREY KNIGHT GUNNER equipped with Fists and one of the following options:\n     <ul>\n \t\t<li>Incinerator, Psilencer, or Psycannon</li>\n     </ul>\n </li>\n </ul>\n Your kill team can only include up to one GREY NIGHT GUNNER operative.\n "
+            "fireteamcomp": "A GREY KNIGHT kill team includes one GREY KNIGHT JUSTICAR operative equipped with a Storm Bolter and one of the following options:\n <ul><li>Nemesis Daemon Hammer, Nemesis Falchions, Nemesis Force Weapon, or Nemesis Warding Stave</li></ul>\n It also includes five GREY KNIGHT operatives selected from the following list:\n <ul>\n <li>\n        GREY KNIGHT WARRIOR equipped with a Storm Bolter and one of the following options:\n     <ul>\n                <li>Nemesis Daemon Hammer, Nemesis Falchions, Nemesis Force Weapon, or Nemesis Warding Stave</li>\n     </ul>\n </li>\n        GREY KNIGHT GUNNER equipped with Fists and one of the following options:\n     <ul>\n                <li>Incinerator, Psilencer, or Psycannon</li>\n     </ul>\n </li>\n </ul>\n Your kill team can only include up to one GREY NIGHT GUNNER operative."
           }
         ]
       },
@@ -16698,7 +14380,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "An ASSAULT INTERCESSOR fire team includes one ASSAULT INTERCESSOR SERGEANT operative equipped with one option from each of the following:\n<ul>\n<li>Hand Flamer, Heavy Bolt Pistol, or Plasma Pistol</li>\n<li>Chainsword, Power Fist, Power Weapon, or Thunder Hammer</li>\n</ul>\nIt also includes four ASSAULT INTERCESSOR WARRIOR operatives"
+            "fireteamcomp": "An ASSAULT INTERCESSOR fire team includes one ASSAULT INTERCESSOR SERGEANT operative equipped with one option from each of the following:\n<ul>\n<li>Hand Flamer, Heavy Bolt Pistol, or Plasma Pistol</li>\n<li>Chainsword, Power Fist, Power Weapon, or Thunder Hammer</li>\n</ul>\nIt also includes five ASSAULT INTERCESSOR WARRIOR operatives"
           },
           {
             "factionid": "IMP",
@@ -18560,7 +16242,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "A DEATHWATCH VETERAN fire team includes one DEATHWATCH VETERAN WATCH SERGEANT operative equipped with one of the following options:\n <ul>\n \t<li>Deathwatch Boltgun; Power Weapon</li>\n \t<li>Heavy Thunder Hammer (max one per kill team)</li>\n     <li>Lightning Claws</li>\n     <li>\n \t\tFists and one of the following options:\n         <ul>\n \t\t\t<li>DeathWatch Boltgun, DeathWatch Shotgun, Combi-Flamer, Combi-Grav, Combi-Melta, Combi-Plasma, Flamer, Grav-Gun, Meltagun, Plasma Gun, Stalker Pattern Boltgun, or Storm Bolter</li>\n         </ul>\n \t</li>\n     <li>\n \t\tOne option from each of the following:\n         <ul>\n \t\t\t<li>Chainsword, Lightning Claw, Power Fist, Power Maul, Power Weapon, Thunder Hammer, or Xenophase Blade</li>\n             <li>Bolt Pistol, Grav-Pistol, Hand Flamer, Inferno Pistol, Plasma Pistol, or Storm Shield</li>\n         </ul>\n     </li>\n </ul>\n It also includes four DEATHWATCH VETERAN operatives selected from the following list:\n <ul>\n \t<li>\n \t\tDEATHWATCH VETERAN WARRIOR each separately equipped with one of the following options:\n         <ul>\n \t\t\t<li>DeathWatch Boltgun, Power Weapon</li>\n             <li>\n \t\t\t\tFists and one of the following options:\n                 <ul>\n \t\t\t\t\t<li>DeathWatch Shotgun, Stalker Pattern Boltgun, or Storm Bolter</li>\n                 </ul>\n             </li>\n         </ul>\n \t</li>\n     <li>\n \t\tDEATHWATCH VETERAN FIGHTER each separately equipped with one of the following options:\n         <ul>\n \t\t\t<li>Heavy Thunder Hammer (max one per kill team)</li>\n             <li>LIghtning Claws</li>\n             <li>\n \t\t\t\tOne option from each of the following:\n                 <ul>\n \t\t\t\t\t<li>Chainsword, Lightning Claw, Power Fist, Power Maul, Power Weapon, or Thunder Hammer</li>\n                     <li>Bolt Pistol, Grav-Pistol, Hand Flamer, Inferno Pistol, Plasma Pistol, or Storm Shield</li>\n                 </ul>\n \t\t\t</li>\n         </ul>\n     </li>\n     <li>\n \t\tDEATHWATCH VETERAN GUNNER each separately equipped with Fists and one of the following options:\n         <ul>\n \t\t\t<li>Combi-Flamer, Combi-Grav, Combi-Melta, Combi-Plasma, Flamer, Grav-Gun, Meltagun, or Plasma Gun</li>\n         </ul>\n     </li>\n     <li>\n \t\tDEATHWATCH VETERAN HEAVY GUNNER each separately equipped with Fists and one of the following options:\n         <ul>\n \t\t\t<li>Frag Cannon, Heavy Bolter, Heavy Flamer, Infernus Heavy Bolter, or Missile Launcher</li>\n         </ul>\n     </li>\n </ul>\n Other than DEATHWATCH VETERAN WARRIOR operatives, your kill team can only include each operative above once."
+            "fireteamcomp": "A DEATHWATCH VETERAN fire team includes one DEATHWATCH VETERAN WATCH SERGEANT operative equipped with one of the following options:\n <ul>\n        <li>Deathwatch Boltgun; Power Weapon</li>\n        <li>Heavy Thunder Hammer (max one per kill team)</li>\n     <li>Lightning Claws</li>\n     <li>\n                Fists and one of the following options:\n         <ul>\n                        <li>DeathWatch Boltgun, DeathWatch Shotgun, Combi-Flamer, Combi-Grav, Combi-Melta, Combi-Plasma, Flamer, Grav-Gun, Meltagun, Plasma Gun, Stalker Pattern Boltgun, or Storm Bolter</li>\n         </ul>\n        </li>\n     <li>\n                One option from each of the following:\n         <ul>\n                        <li>Chainsword, Lightning Claw, Power Fist, Power Maul, Power Weapon, Thunder Hammer, or Xenophase Blade</li>\n             <li>Bolt Pistol, Grav-Pistol, Hand Flamer, Inferno Pistol, Plasma Pistol, or Storm Shield</li>\n         </ul>\n     </li>\n </ul>\n It also includes five DEATHWATCH VETERAN operatives selected from the following list:\n <ul>\n        <li>\n                DEATHWATCH VETERAN WARRIOR each separately equipped with one of the following options:\n         <ul>\n                        <li>DeathWatch Boltgun, Power Weapon</li>\n             <li>\n                                Fists and one of the following options:\n                 <ul>\n                                        <li>DeathWatch Shotgun, Stalker Pattern Boltgun, or Storm Bolter</li>\n                 </ul>\n             </li>\n         </ul>\n        </li>\n     <li>\n                DEATHWATCH VETERAN FIGHTER each separately equipped with one of the following options:\n         <ul>\n                        <li>Heavy Thunder Hammer (max one per kill team)</li>\n             <li>Lightning Claws</li>\n             <li>\n                                One option from each of the following:\n                 <ul>\n                                        <li>Chainsword, Lightning Claw, Power Fist, Power Maul, Power Weapon, or Thunder Hammer</li>\n                     <li>Bolt Pistol, Grav-Pistol, Hand Flamer, Inferno Pistol, Plasma Pistol, or Storm Shield</li>\n                 </ul>\n                        </li>\n         </ul>\n     </li>\n     <li>\n                DEATHWATCH VETERAN GUNNER each separately equipped with Fists and one of the following options:\n         <ul>\n                        <li>Combi-Flamer, Combi-Grav, Combi-Melta, Combi-Plasma, Flamer, Grav-Gun, Meltagun, or Plasma Gun</li>\n         </ul>\n     </li>\n     <li>\n                DEATHWATCH VETERAN HEAVY GUNNER each separately equipped with Fists and one of the following options:\n         <ul>\n                        <li>Frag Cannon, Heavy Bolter, Heavy Flamer, Infernus Heavy Bolter, or Missile Launcher</li>\n         </ul>\n     </li>\n </ul>\n Other than DEATHWATCH VETERAN WARRIOR operatives, your kill team can only include each operative above once. "
           },
           {
             "factionid": "IMP",
@@ -18920,7 +16602,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "A HEAVY INTERCESSOR fire team includes one HEAVY INTERCESSOR SERGEANT operative equipped with Fists and one of the following options:\n<ul>\n<li>Executor Bolt Rifle, Heavy Bolt Rifle, or Hellstorm Bolt Rifle</li>\n</ul>\nIt also includes three HEAVY INTERCESSOR operatives selected from the following list:\n<ul>\n<li>\n\tHEAVY INTERCESSOR WARRIOR each separately equipped with Fists and one of the following options:\n    <ul>\n\t\t<li>Executor Bolt Rifle, Heavy Bolt Rifle, or Hellstorm Bolt Rifle</li>\n    </ul>\n</li>\n<li>\n\tHEAVY INTERCESSOR HEAVY GUNNER equipped with Fists and one of the following options:\n    <ul>\n\t\t<li>Executor Heavy Bolter, Heavy Bolter, or Hellstorm Heavy Bolter</li>\n    </ul>\n</li>\n</ul>\nYour kill team can only include up to one HEAVY INTERCESSOR HEAVY GUNNER operative."
+            "fireteamcomp": "A HEAVY INTERCESSOR fire team includes one HEAVY INTERCESSOR SERGEANT operative equipped with Fists and one of the following options:\n<ul>\n<li>Executor Bolt Rifle, Heavy Bolt Rifle, or Hellstorm Bolt Rifle</li>\n</ul>\nIt also includes four HEAVY INTERCESSOR operatives selected from the following list:\n<ul>\n<li>\n        HEAVY INTERCESSOR WARRIOR each separately equipped with Fists and one of the following options:\n    <ul>\n                <li>Executor Bolt Rifle, Heavy Bolt Rifle, or Hellstorm Bolt Rifle</li>\n    </ul>\n</li>\n<li>\n        HEAVY INTERCESSOR HEAVY GUNNER equipped with Fists and one of the following options:\n    <ul>\n                <li>Executor Heavy Bolter, Heavy Bolter, or Hellstorm Heavy Bolter</li>\n    </ul>\n</li>\n</ul>\nYour kill team can only include up to one HEAVY INTERCESSOR HEAVY GUNNER operative. "
           },
           {
             "factionid": "IMP",
@@ -19092,7 +16774,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "An INCURSOR fire team includes one INCURSOR SERGEANT operative.<br/>\nIt also includes four INCURSOR WARRIOR operatives"
+            "fireteamcomp": " An INCURSOR fire team includes one INCURSOR SERGEANT operative.<br/>\nIt also includes five INCURSOR WARRIOR operatives."
           },
           {
             "factionid": "IMP",
@@ -19240,7 +16922,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "An INFILTRATOR fire team includes one INFILTRATOR SERGEANT operative.<br/>\nIt also includes four INFILTRATOR WARRIOR operatives"
+            "fireteamcomp": "An INFILTRATOR fire team includes one INFILTRATOR SERGEANT operative.<br/>\nIt also includes five INFILTRATOR WARRIOR operatives."
           },
           {
             "factionid": "IMP",
@@ -19665,7 +17347,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "An INTERCESSOR fire team includes one INTERCESSOR SERGEANT operative equipped with one option from each of the following:\n<ul>\n<li>Auto Bolt Rifle, Bolt Pistol, Bolt Rifle, Hand Flamer, Plasma Pistol, or Stalker Bolt Rifle</li>\n<li>Chainsword, Fists, Power Fist, Power Weapon, or Thunder Hammer</li>\n</ul>\nIt also includes four INTERCESSOR WARRIOR operatives each separately equipped with Fists and one of the following options:\n<ul>\n<li>Auto Bolt Rifle, Bolt Rifle, or Stalker Bolt Rifle</li>\n</ul>"
+            "fireteamcomp": "An INTERCESSOR fire team includes one INTERCESSOR SERGEANT operative equipped with one option from each of the following:\n<ul>\n<li>Auto Bolt Rifle, Bolt Pistol, Bolt Rifle, Hand Flamer, Plasma Pistol, or Stalker Bolt Rifle</li>\n<li>Chainsword, Fists, Power Fist, Power Weapon, or Thunder Hammer</li>\n</ul>\nIt also includes five INTERCESSOR WARRIOR operatives each separately equipped with Fists and one of the following options:\n<ul>\n<li>Auto Bolt Rifle, Bolt Rifle, or Stalker Bolt Rifle</li>\n</ul>"
           },
           {
             "factionid": "IMP",
@@ -19919,7 +17601,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "A REIVER fire team includes one REIVER SERGEANT operative equipped with a Special Issue Bolt Pistol and one of the following options:\n<ul>\n<li>Bolt Carbine; Combat Knife</li>\n<li>Bolt Carbine; Fists</li>\n<li>Combat Knife</li>\n</ul>\nIt also includes four REIVER WARRIOR operatives each separately equipped with a Special Issue Bolt Pistol and one of the following options:\n<ul>\n<li>Bolt Carbine; Fists</li>\n<li>Combat Knife</li>\n</ul>"
+            "fireteamcomp": "A REIVER fire team includes one REIVER SERGEANT operative equipped with a Special Issue Bolt Pistol and one of the following options:\n<ul>\n<li>Bolt Carbine; Combat Knife</li>\n<li>Bolt Carbine; Fists</li>\n<li>Combat Knife</li>\n</ul>\nIt also includes five REIVER WARRIOR operatives each separately equipped with a Special Issue Bolt Pistol and one of the following options:\n<ul>\n<li>Bolt Carbine; Fists</li>\n<li>Combat Knife</li>\n</ul> "
           },
           {
             "factionid": "IMP",
@@ -23501,7 +21183,7 @@
               "ployid": "RP",
               "ployname": "Reanimation Protocols",
               "ploytype": "T",
-              "CP": "1",
+              "CP": "0",
               "description": "Use this Tactical Ploy when a friendly TOMB WORLD operative is incapacitated. Before removing that operative from the killzone, place a Reanimation token under its base and leave its order token next to it. In the Ready Operatives step of each Turning Point, before resolving the Living Metal ability, roll 1D6 for each of the Reanimation tokens. On a 3+ (or a 2+ if that operative is a NECRON WARRIOR): <ul><li>Set up the operative that Reanimation token was placed for</li><li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives</li><li>It has D3 wounds remaining</li><li>It has the order of the remaining Order token</li><li>Remove that Reanimation token.</li></ul>"
             }
           ]
@@ -23769,7 +21451,7 @@
                         "name": "Flayer Claws",
                         "A": "5",
                         "BS": "2+",
-                        "D": "3/4",
+                        "D": "4/5",
                         "SR": "Rending"
                       }
                     ]
@@ -23823,7 +21505,7 @@
                         "name": "Flayer Claws",
                         "A": "5",
                         "BS": "3+",
-                        "D": "3/4",
+                        "D": "4/5",
                         "SR": "Rending"
                       }
                     ]
@@ -25369,7 +23051,7 @@
             "factionid": "ORK",
             "killteamid": "KOM",
             "eqid": "DYN",
-            "eqname": "Dynamite",
+            "eqname": "Dynamite*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Dynamite</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>5/6</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Blast [CIRCLE], AP1, Indirect, Unwieldy, Lim</td>\n     </tr>\n </table>",
             "eqpts": "4"
           },
@@ -28344,8 +26026,8 @@
               "ployid": "AWC",
               "ployname": "A Worthy Cause",
               "ploytype": "T",
-              "CP": "1",
-              "description": "Use this Tactical Ploy at the start of the Firefight phase. Select one ready friendly PATHFINDER operative (excluding a DRONE operative) that is within [SQUARE] of any enemy operatives or within [CIRCLE] of the centre of an objective marker and activate it. Once that operative has completed its activation, the player who has the Initiative activates an operative as normal."
+              "CP": "2",
+              "description": "Use this Tactical Ploy at the start of the Firefight phase. Select one ready friendly PATHFINDER operative (excluding a DRONE operative) that is within [SQUARE] of any enemy operatives or within [CIRCLE] of the centre of an objective marker and activate it. Once that operative has completed its activation, the player who has the Initiative activates an operative as normal. This ploy can only be used once per battle, and only if you do not have the initiative."
             },
             {
               "factionid": "TAU",
@@ -28516,7 +26198,7 @@
                     "opid": "AG",
                     "uniqueactionid": "ML",
                     "title": "Markerlight",
-                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order.</td></tr>\n</table>\n\n",
+                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order unless it is in Cover provided by Heavy terrain.</td></tr>\n</table>\n\n",
                     "AP": 1
                   }
                 ],
@@ -28528,7 +26210,7 @@
                     "opid": "AG",
                     "abilityid": "GR",
                     "title": "Grenadier",
-                    "description": "This operative is equipped with EMP, fusion and photon grenades and they do not cost any equipment points. Those grenades that have the Limited special rule can be selected for this operative’s use twice, instead of once."
+                    "description": "This operative is equipped with EMP, fusion and photon grenades and they do not cost any equipment points."
                   },
                   {
                     "factionid": "TAU",
@@ -28614,7 +26296,7 @@
                     "opid": "BL",
                     "uniqueactionid": "ML",
                     "title": "Markerlight",
-                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order.</td></tr>\n</table>\n\n",
+                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order unless it is in Cover provided by Heavy terrain.</td></tr>\n</table>\n\n",
                     "AP": 1
                   }
                 ],
@@ -28693,7 +26375,7 @@
                     "opid": "COMMS",
                     "uniqueactionid": "ML",
                     "title": "Markerlight",
-                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order.</td></tr>\n</table>\n\n",
+                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order unless it is in Cover provided by Heavy terrain.</td></tr>\n</table>\n\n",
                     "AP": 1
                   },
                   {
@@ -28792,7 +26474,7 @@
                     "opid": "DC",
                     "uniqueactionid": "ML",
                     "title": "Markerlight",
-                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order.</td></tr>\n</table>\n\n",
+                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order unless it is in Cover provided by Heavy terrain.</td></tr>\n</table>\n\n",
                     "AP": 1
                   }
                 ],
@@ -28894,7 +26576,7 @@
                     "opid": "MARKS",
                     "uniqueactionid": "ML",
                     "title": "Markerlight",
-                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order.</td></tr>\n</table>\n\n",
+                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order unless it is in Cover provided by Heavy terrain.</td></tr>\n</table>\n\n",
                     "AP": 1
                   }
                 ],
@@ -29100,7 +26782,7 @@
                     "opid": "MDC",
                     "uniqueactionid": "ML",
                     "title": "Markerlight",
-                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order.</td></tr>\n</table>\n\n",
+                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order unless it is in Cover provided by Heavy terrain.</td></tr>\n</table>\n\n",
                     "AP": 1
                   }
                 ],
@@ -29479,7 +27161,7 @@
                     "opid": "MV7",
                     "uniqueactionid": "ML",
                     "title": "Markerlight",
-                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order.</td></tr>\n</table>\n\n",
+                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order unless it is in Cover provided by Heavy terrain.</td></tr>\n</table>\n\n",
                     "AP": 1
                   }
                 ],
@@ -29586,7 +27268,7 @@
                     "opid": "SL",
                     "uniqueactionid": "ML",
                     "title": "Markerlight",
-                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order.</td></tr>\n</table>\n\n",
+                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order unless it is in Cover provided by Heavy terrain.</td></tr>\n</table>\n\n",
                     "AP": 1
                   }
                 ],
@@ -29665,7 +27347,7 @@
                     "opid": "SU",
                     "uniqueactionid": "ML",
                     "title": "Markerlight",
-                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order.</td></tr>\n</table>\n\n",
+                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order unless it is in Cover provided by Heavy terrain.</td></tr>\n</table>\n\n",
                     "AP": 1
                   }
                 ],
@@ -29763,7 +27445,7 @@
                     "opid": "TSI",
                     "uniqueactionid": "ML",
                     "title": "Markerlight",
-                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order.</td></tr>\n</table>\n\n",
+                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order unless it is in Cover provided by Heavy terrain.</td></tr>\n</table>\n\n",
                     "AP": 1
                   },
                   {
@@ -32866,7 +30548,7 @@
             "eqpts": "3"
           }
         ],
-        "killteamcomp": "<ul>\n        <li>\n                1 NEOPHYTE LEADER operative equipped with one of the following options:\n                <ul>\n                        <li>Autogun; Gun Butt</li>\n                        <li>Shotgun; Gun Butt</li>\n                </ul>\n                or one option from each of the following:\n                <ul>\n                        <li>Master-Crafted AutoPistol, Bolt Pistol, or Web Pistol</li>\n                        <li>Chainsword, Power Maul, or Power Pick</li>\n                </ul>\n        </li>\n        <li>\n                13 WYRMBLADE operatives selected from the following list:\n                <ul>\n                        <li>KELERMORPH (counts as two selections</li>\n                        <li>LOCUS (counts as two selections</li>\n                        <li>\n                                NEOPHYTE BROOD-ADEPT equipped with a Gun Butt and one of the following options:\n                                <ul>\n                                        <li>Autogun or Shotgun</li>\n                                </ul>\n                        </li>\n                        <li>NEOPHYTE GUNNER equipped with a Gun Butt and a Flamer</li>\n                        <li>NEOPHYTE GUNNER equipped with a Gun Butt and a Grenade Launcher</li>\n                        <li>NEOPHYTE GUNNER equipped with a Gun Butt and a Webber</li>\n                        <li>NEOPHYTE HEAVY GUNNER equipped with a Gun Butt and a Heavy Stubber</li>\n                        <li>NEOPHYTE HEAVY GUNNER equipped with a Gun Butt and a Mining Laser</li>\n                        <li>NEOPHYTE HEAVY GUNNER equipped with a Gun Butt and a Seismic Cannon</li>\n                        <li>\n                                NEOPHYTE ICON BEARER equipped with a Gun Butt and one of the following options:\n                                <ul>\n                                        <li>Autogun or Shotgun</li>\n                                </ul>\n                        </li>\n                        <li>SANCTUS SNIPER (counts as two selections)</li>\n                        <li>SANCTUS TALON (counts as two selections</li>\n                </ul>\n        </li>\n</ul>\n\nOther than BROOD-ADEPT operatives, your KillTeam can only include each operative above once.\n<br/><br/>\nYour KillTeam can only inlcude up to two GUNNER operatives, up to two HEAVY GUNNER operatives, and up to two CULT AGENT operatives.",
+        "killteamcomp": "<ul>\n         <li>\n                 1 NEOPHYTE LEADER operative equipped with one of the following options:\n                 <ul>\n                         <li>Autogun; Gun Butt</li>\n                         <li>Shotgun; Gun Butt</li>\n                 </ul>\n                 or one option from each of the following:\n                 <ul>\n                         <li>Master-Crafted AutoPistol, Bolt Pistol, or Web Pistol</li>\n                         <li>Chainsword, Power Maul, or Power Pick</li>\n                 </ul>\n         </li>\n         <li>\n                 13 WYRMBLADE operatives selected from the following list:\n                 <ul>\n                         <li>KELERMORPH (counts as two selections)</li>\n                         <li>LOCUS (counts as two selections</li>\n                         <li>\n                                 NEOPHYTE BROOD-ADEPT equipped with a Gun Butt and one of the following options:\n                                 <ul>\n                                         <li>Autogun or Shotgun</li>\n                                 </ul>\n                         </li>\n                         <li>NEOPHYTE GUNNER equipped with a Gun Butt and a Flamer</li>\n                         <li>NEOPHYTE GUNNER equipped with a Gun Butt and a Grenade Launcher</li>\n                         <li>NEOPHYTE GUNNER equipped with a Gun Butt and a Webber</li>\n                         <li>NEOPHYTE HEAVY GUNNER equipped with a Gun Butt and a Heavy Stubber</li>\n                         <li>NEOPHYTE HEAVY GUNNER equipped with a Gun Butt and a Mining Laser</li>\n                         <li>NEOPHYTE HEAVY GUNNER equipped with a Gun Butt and a Seismic Cannon</li>\n                         <li>\n                                 NEOPHYTE ICON BEARER equipped with a Gun Butt and one of the following options:\n                                 <ul>\n                                         <li>Autogun or Shotgun</li>\n                                 </ul>\n                         </li>\n                         <li>SANCTUS SNIPER (counts as two selections)</li>\n                         <li>SANCTUS TALON (counts as two selections</li>\n                 </ul>\n         </li>\n </ul>\n \n Other than BROOD-ADEPT operatives, your KillTeam can only include each operative above once.\n <br/><br/>\n Your KillTeam can only inlcude up to two GUNNER operatives, up to two HEAVY GUNNER operatives, and up to two CULT AGENT operatives.",
         "fireteams": [
           {
             "factionid": "TYR",
@@ -32883,7 +30565,7 @@
                 "fireteamid": "WB",
                 "opid": "KLM",
                 "opname": "Kelermorph",
-                "description": "The Kellermorph is a third-generation cult hybrid, bred to exploit the hopes of the downtrodden and embody their kin's desire for rebellion. They are seen as inspirational folk heroes, and it is often on Wyrmblade missions that their legend as unnaturally agile, gunslinging revolutionaries is forged.",
+                "description": "The Kelermorph is a third-generation cult hybrid, bred to exploit the hopes of the downtrodden and embody their kin's desire for rebellion. They are seen as inspirational folk heroes, and it is often on Wyrmblade missions that their legend as unnaturally agile, gunslinging revolutionaries is forged.",
                 "M": "3[CIRCLE]",
                 "APL": "3",
                 "GA": "1",
@@ -34071,7 +31753,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "A WYRMBLADE kill team is composed of:\n<ul>\n        <li>\n                1 NEOPHYTE LEADER operative equipped with one of the following options:\n                <ul>\n                        <li>Autogun; Gun Butt</li>\n                        <li>Shotgun; Gun Butt</li>\n                </ul>\n                or one option from each of the following:\n                <ul>\n                        <li>Master-Crafted AutoPistol, Bolt Pistol, or Web Pistol</li>\n                        <li>Chainsword, Power Maul, or Power Pick</li>\n                </ul>\n        </li>\n        <li>\n                13 WYRMBLADE operatives selected from the following list:\n                <ul>\n                        <li>KELERMORPH (counts as two selections</li>\n                        <li>LOCUS (counts as two selections</li>\n                        <li>\n                                NEOPHYTE BROOD-ADEPT equipped with a Gun Butt and one of the following options:\n                                <ul>\n                                        <li>Autogun or Shotgun</li>\n                                </ul>\n                        </li>\n                        <li>NEOPHYTE GUNNER equipped with a Gun Butt and a Flamer</li>\n                        <li>NEOPHYTE GUNNER equipped with a Gun Butt and a Grenade Launcher</li>\n                        <li>NEOPHYTE GUNNER equipped with a Gun Butt and a Webber</li>\n                        <li>NEOPHYTE HEAVY GUNNER equipped with a Gun Butt and a Heavy Stubber</li>\n                        <li>NEOPHYTE HEAVY GUNNER equipped with a Gun Butt and a Mining Laser</li>\n                        <li>NEOPHYTE HEAVY GUNNER equipped with a Gun Butt and a Seismic Cannon</li>\n                        <li>\n                                NEOPHYTE ICON BEARER equipped with a Gun Butt and one of the following options:\n                                <ul>\n                                        <li>Autogun or Shotgun</li>\n                                </ul>\n                        </li>\n                        <li>SANCTUS SNIPER (counts as two selections)</li>\n                        <li>SANCTUS TALON (counts as two selections</li>\n                </ul>\n        </li>\n</ul>\n\nOther than BROOD-ADEPT operatives, your KillTeam can only include each operative above once.\n<br/><br/>\nYour KillTeam can only inlcude up to two GUNNER operatives, up to two HEAVY GUNNER operatives, and up to two CULT AGENT operatives."
+            "fireteamcomp": "A WYRMBLADE kill team is composed of:\n <ul>\n         <li>\n                 1 NEOPHYTE LEADER operative equipped with one of the following options:\n                 <ul>\n                         <li>Autogun; Gun Butt</li>\n                         <li>Shotgun; Gun Butt</li>\n                 </ul>\n                 or one option from each of the following:\n                 <ul>\n                         <li>Master-Crafted AutoPistol, Bolt Pistol, or Web Pistol</li>\n                         <li>Chainsword, Power Maul, or Power Pick</li>\n                 </ul>\n         </li>\n         <li>\n                 13 WYRMBLADE operatives selected from the following list:\n                 <ul>\n                         <li>KELERMORPH (counts as two selections)</li>\n                         <li>LOCUS (counts as two selections</li>\n                         <li>\n                                 NEOPHYTE BROOD-ADEPT equipped with a Gun Butt and one of the following options:\n                                 <ul>\n                                         <li>Autogun or Shotgun</li>\n                                 </ul>\n                         </li>\n                         <li>NEOPHYTE GUNNER equipped with a Gun Butt and a Flamer</li>\n                         <li>NEOPHYTE GUNNER equipped with a Gun Butt and a Grenade Launcher</li>\n                         <li>NEOPHYTE GUNNER equipped with a Gun Butt and a Webber</li>\n                         <li>NEOPHYTE HEAVY GUNNER equipped with a Gun Butt and a Heavy Stubber</li>\n                         <li>NEOPHYTE HEAVY GUNNER equipped with a Gun Butt and a Mining Laser</li>\n                         <li>NEOPHYTE HEAVY GUNNER equipped with a Gun Butt and a Seismic Cannon</li>\n                         <li>\n                                 NEOPHYTE ICON BEARER equipped with a Gun Butt and one of the following options:\n                                 <ul>\n                                         <li>Autogun or Shotgun</li>\n                                 </ul>\n                         </li>\n                         <li>SANCTUS SNIPER (counts as two selections)</li>\n                         <li>SANCTUS TALON (counts as two selections</li>\n                 </ul>\n         </li>\n </ul>\n \n Other than BROOD-ADEPT operatives, your KillTeam can only include each operative above once.\n <br/><br/>\n Your KillTeam can only inlcude up to two GUNNER operatives, up to two HEAVY GUNNER operatives, and up to two CULT AGENT operatives."
           }
         ]
       }
