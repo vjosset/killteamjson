@@ -2210,331 +2210,282 @@
       },
       {
         "factionid": "AEL",
-        "killteamid": "TRP",
-        "killteamname": "Troupe",
-        "description": "A Harlequin, known in the Aeldari Lexicon as a Rillietann, is a member of a very distinct sub-group of the Aeldari species who belongs to none of the existing Aeldari factions, including the Craftworld Asuryani, the Exodites or the Drukhari. They are the keepers of the Black Library and serve the enigmatic Aeldari deity called the Laughing God.\n<br/><br/>\nThe Harlequins see no distinction between art and war, and their outlook can best be explained by reference to the legend of the Fall; one of their self-appointed duties is to keep this legend alive through their performances. The central figure of Harlequin belief is Cegorach, the Great Harlequin -- also known as the Laughing God. ",
+        "killteamid": "VDT",
+        "killteamname": "Void-Dancer Troupe",
+        "description": " A Harlequin, known in the Aeldari Lexicon as a Rillietann, is a member of a very distinct sub-group of the Aeldari species who belongs to none of the existing Aeldari factions, including the Craftworld Asuryani, the Exodites or the Drukhari. They are the keepers of the Black Library and serve the enigmatic Aeldari deity called the Laughing God.\n<br/><br/>\nThe Harlequins see no distinction between art and war, and their outlook can best be explained by reference to the legend of the Fall; one of their self-appointed duties is to keep this legend alive through their performances. The central figure of Harlequin belief is Cegorach, the Great Harlequin -- also known as the Laughing God.",
         "ploys": {
           "strat": [
             {
               "factionid": "AEL",
-              "killteamid": "TRP",
+              "killteamid": "VDT",
+              "ployid": "BC",
+              "ployname": "Between Colours",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, friendly VOID-DANCER TROUPE operatives can perform\nShoot actions during Normal Move actions (any remaining increments of movements can be used after\nperforming the Shoot action). You cannot select a Shrieker Cannon for those shooting attacks"
+            },
+            {
+              "factionid": "AEL",
+              "killteamid": "VDT",
+              "ployid": "CJ",
+              "ployname": "Cegorach's Jest",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a friendly VOID-DANCER TROUPE operative\nfights in combat, once in the Resolve Successful Hits step of that combat,\nwhen your opponent strikes with a hit, you can roll 1D6.\nIf the result is equal to or less than the Weapon Skill characteristic of the enemy operative's\nselected melee weapon, treat that strike as a parry instead (the Brutal special rule has no effect for that parry)."
+            },
+            {
+              "factionid": "AEL",
+              "killteamid": "VDT",
               "ployid": "DF",
               "ployname": "Domino Field",
               "ploytype": "S",
               "CP": "1",
-              "description": "Until the end of the Turning Point, while a friendly TROUPE operative that has not made a shooting attack during the Turning Point is within [TRI] of a terrain feature that provides Cover, enemy operatives always treat it as having a Conceal order, regardless of other rules (e.g. Vantage Point)."
+              "description": "Until the end of the Turning Point or until it makes a shooting attack,\neach friendly VOID-DANCER TROUPE operative has a Domino Field.\nFor the purposes of determining Line of Sight, while a friendly operative with a Domino Field\nis within [TRI] of a terrain feature and more than [PENT] from the active operative,\nthe active operative always treats that friendly operative as having a Conceal order, regardless of other rules (e.g. Vantage Point)."
             },
             {
               "factionid": "AEL",
-              "killteamid": "TRP",
+              "killteamid": "VDT",
               "ployid": "PB",
               "ployname": "Prismatic Blur",
               "ploytype": "S",
               "CP": "1",
-              "description": "Until the end of the Turning Point, each time a friendly TROUPE operative performs a Normal Move, Fall Back, or Charge action, it is a Prismatic Blur. While it is a Prismatic Blur:\n<ul>\n\t<li>Each time a shooting attack is made against that operative, in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice</li>\n    <li>Each time that operative fights in combat, in the Resolve Successful Hits step of that combat, each time your opponent strikes with a normal hit, you can roll 1D6: on a 4+, treat that strike as a parry instead</li>\n</ul>"
-            },
-            {
-              "factionid": "AEL",
-              "killteamid": "TRP",
-              "ployid": "RC",
-              "ployname": "Rising Crescendo",
-              "ploytype": "S",
-              "CP": "1",
-              "description": "Until the end of the Turning Point, each time a friendly TROUPE operative is activated:\n<ul>\n\t<li>It can perform Dash and Charge actions while within Engagement Range of enemy operatives</li>\n    <li>Each time it performs a Normal Move, Fall Back, Dash, or Charge action during that activation, it can move an additional [TRI]</li>\n</ul>"
+              "description": "Until the end of the Turning Point, each time a friendly VOID-DANCER TROUPE operative\nperforms an action in which it moves, it is a Prismatic Blur until the end of the Turning Point.\nEach time a shooting attack is made against a friendly operative that is a Prismatic Blur,\nin the Roll Defence Dice step of that shooting attack, you can re-roll one of your Defence dice."
             }
           ],
           "tac": [
             {
               "factionid": "AEL",
-              "killteamid": "TRP",
-              "ployid": "HP",
-              "ployname": "Hero's Path",
+              "killteamid": "VDT",
+              "ployid": "CR",
+              "ployname": "Capricious Role",
               "ploytype": "T",
               "CP": "1",
-              "description": "Use this Tactical Ploy when a friendly TROUPE operative is activated.\nUntil the end of its activation, it can perform the following action:\n<br/>\n<strong>Hero's Path (3 AP):</strong> \nMove this operative anywhere in the kill zone that is more than [PENT] from enemy operatives."
+              "description": "Use this Tactical Ploy when a friendly VOID-DANCER TROUPE operative is activated.\nUntil the end of its activation, that operative can perform Dash and Charge actions while within\nEngagement Range of enemy operatives."
             },
             {
               "factionid": "AEL",
-              "killteamid": "TRP",
+              "killteamid": "VDT",
               "ployid": "ME",
               "ployname": "Murderous Entrance",
               "ploytype": "T",
               "CP": "1",
-              "description": "Use this Tactical Ploy in the Resolve Successful Hits step of a combat, after a friendly TROUPE operative that performed a Charge action during this activation strikes with a critical hit.\nYou can immediately select one of your remaining Attack dice and strike with it."
+              "description": "Use this Tactical Ploy in the Resolve Successful Hits step of a combat, after a friendly\nVOID-DANCER TROUPE operative that performed a Charge action during this activation strikes\nwith a Critical hit. You can immediately select one of your remaining Attack dice and strike with it."
             },
             {
               "factionid": "AEL",
-              "killteamid": "TRP",
+              "killteamid": "VDT",
+              "ployid": "RD",
+              "ployname": "Ruthless Derision",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy after rolling your Attack dice for a shooting attack made by a\nfriendly VOID-DANCER TROUPE operative in an activation in which it performed a Fall Back\naction. You can re-roll any or all of your Attack dice for that shooting attack."
+            },
+            {
+              "factionid": "AEL",
+              "killteamid": "VDT",
               "ployid": "TCF",
               "ployname": "The Curtain Falls",
               "ploytype": "T",
               "CP": "1",
-              "description": "Use this Tactical Ploy in the Resolve Successful Hits step of a combat, after an active friendly TROUPE operative strikes.\nImmediately end that combat and that friendly operative can perform a Fall Back action for 1 AP even if it has performed an action during that activation that prevents it from performing a Fall Back action (e.g. a Charge action)."
+              "description": "Use this Tactical Ploy in the Resolve Successful Hits step of a combat, after a friendly\nVOID-DANCER TROUPE operative strikes. Immediately end that combat and that friendle operative\ncan perform a Fall Back action for 1 AP, even if it has performed an action during that\nactivation that prevents it from performing a Fall Back action (e.g. a Charge action)."
             }
           ]
         },
         "equipments": [
           {
             "factionid": "AEL",
-            "killteamid": "TRP",
-            "eqid": "AMW",
+            "killteamid": "VDT",
+            "eqid": "AMFW",
             "eqname": "Accelerated Monofilament Wire",
-            "eqdescription": "Select one Harlequin's Embrace the operative is equipped with. That weapon fains the Reap 1 critical hit rule and Lethal 5+ special rule for the battle.",
+            "eqdescription": "Select one Embrace the operative is equipped with.\nThat weapoan gains the Reap 1 critical hit rule and Lethal 5+ special rule for the battle.",
             "eqpts": "3"
           },
           {
             "factionid": "AEL",
-            "killteamid": "TRP",
+            "killteamid": "VDT",
             "eqid": "DM",
             "eqname": "Death Mask*",
-            "eqdescription": "This operative gains the following ability for the battle:\n<br/>\n<strong>Death Mask:</strong>\nIf this operative is incapacitated, at the end of that activation, you gain 1 CP.",
+            "eqdescription": "This operative gains the following ability for the battle:<br/>\n<strong>Death Mask:</strong>\nIf this operative is incapacitated, at the end of that activation, you gain 1 CP.",
             "eqpts": "3"
           },
           {
             "factionid": "AEL",
-            "killteamid": "TRP",
+            "killteamid": "VDT",
             "eqid": "PG",
             "eqname": "Prismatic Grenade",
-            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Prismatic Grenade</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>3/4</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<td colspan=\"4\">\n\t\t\tRng [PENT], Limited, Blast [CIRCLE], Indirect, Stun\n        </td>\n    </tr>\n</table>",
+            "eqdescription": "The operative is equipped with the following rnged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n    <tbody><tr>\n        <th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n        <td>Prismatic Grenade</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>3/4</td>\n    </tr>\n    <tr>\n        <th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n        <td colspan=\"4\">\n            Rng [PENT], Limited, Blast [CIRCLE], Indirect, Stun\n        </td>\n    </tr>\n</tbody></table>",
             "eqpts": "3"
           },
           {
             "factionid": "AEL",
-            "killteamid": "TRP",
+            "killteamid": "VDT",
             "eqid": "PPC",
-            "eqname": "Pure PsychoCrystals",
-            "eqdescription": "Select one Neuro Disruptor the operative is equipped with. That weapon gains the Lethal 5+ special rule for the battle.",
+            "eqname": "Pure Psychocrystals*",
+            "eqdescription": "Select one Neuro Disruptor the operative is equipped with.\nThat weapon gains the Lethal 5+ special rule for the battle.",
             "eqpts": "3"
           },
           {
             "factionid": "AEL",
-            "killteamid": "TRP",
-            "eqid": "SMW",
+            "killteamid": "VDT",
+            "eqid": "SG",
+            "eqname": "Support Grip*",
+            "eqdescription": "DEATH JESTER operative only.\nRemove the Heavy special rule from the Shrieker Cannon that operative is equipped with for the battle.\nThat weapon gains the following special rule for the battle instead:<br/>\n<strong>Cumbersome:</strong> \nAn operative cannot move more than 3[CIRCLE] in the same activation in which it performs a Shoot action with this ranged weapon.",
+            "eqpts": "1"
+          },
+          {
+            "factionid": "AEL",
+            "killteamid": "VDT",
+            "eqid": "STMFW",
             "eqname": "Supertensile Monofilament Wire",
-            "eqdescription": "Select one Harlequin's Kiss the operative is equipped with. Add 1 to that weapon's Normal Damage characteristic for the battle.",
+            "eqdescription": "Select one Kiss the operative is equipped with.\nAdd 1 to that weapons's Normal Damage characteristic for the battle.",
             "eqpts": "3"
           },
           {
             "factionid": "AEL",
-            "killteamid": "TRP",
+            "killteamid": "VDT",
             "eqid": "STR",
             "eqname": "Shrieker Toxin Rounds",
-            "eqdescription": "Select one Shuriken Pistol the operative is equipped with. That weapon gains the MW1 critical hit rule for the battle.",
-            "eqpts": "3"
+            "eqdescription": "Select one Shuriken Pistol or Shrieker Cannon the operative is equipped with.\nThat weapon gains the MW1 critical hit rule for the battle.\nIf you selected a Shrieker Cannon, this equipment costs 4 EP, otherwise, it costs 3 EP.",
+            "eqpts": "3/4"
           },
           {
             "factionid": "AEL",
-            "killteamid": "TRP",
+            "killteamid": "VDT",
             "eqid": "WBT",
-            "eqname": "Wraithbone Tasliman",
-            "eqdescription": "The operative gains the following ability for the battle:\n<br/>\n<strong>Wraithbone Talisman:</strong>\nOnce per battle, when this operative is fighting in combat, making a shooting attack, or a shooting attack is made against it, you can use the Command Re-Roll Tactical Ploy without spending any CP.",
+            "eqname": "Wraithbone Talisman",
+            "eqdescription": "The operative gains the following ability for the battle:<br/>\n<strong>Wraithbone Talisman:</strong>\nOnce per battle, when this operative is fighting in combat, making a shooting attack, or a shooting attack is being made against it,\nyou can use the Command Re-Roll Tactical Ploy without spending any Command Points.",
             "eqpts": "3"
           }
         ],
-        "killteamcomp": "A TROUPE kill team includes 1 PLAYER LEADER operative equipped with one option from each of the following:\n<ul>\n        <li>Fusion Pistol, Neuro Disruptor, or Shuriken Pistol</li>\n        <li>Harlequin's Blade, Harlequin's Caress, Harlequin's Embrace, Harlequin's Kiss, or Power Weapon</li>\n</ul>\nIt also includes seven TROUPE operatives selected from the following list:\n<ul>\n        <li>\n                PLAYER WARRIOR each separately equipped with a Shuriken Pistol and one of the following options:\n                <ul>\n                        <li>Harlequin's Blade, Harlequin's Caress, Harlequin's Embrace, or Harlequin's Kiss</li>\n                </ul>\n        </li>\n        <li>\n                PLAYER GUNNER each separately equipped with one option from each of the following:\n                <ul>\n                        <li>Fusion Pistol or Neuro Disruptor</li>\n                        <li>Harlequin's Blade, Harlequin's Caress, Harlequin's Embrace, or Harlequin's Kiss</li>\n                </ul>\n        </li>\n</ul>\nYour kill team can only include up to two PLAYER GUNNER operatives.",
+        "killteamcomp": "A VOID-DANCER TROUPE kill team is composed of the following operatives:\n<ul>\n        <li>\n                1 LEAD PLAYER operative equipped with one options from each of the following:\n                <ul>\n                        <li>Fusion Pistol (max one per kill team), neuro disruptor (max one per kill team), or Shuriken Pistol</li>\n                        <li>Blade, Caress, Embrace, Kiss, or Power Weapon</li>\n                </ul>\n        </li>\n        <li>\n                7 VOID-DANCER TROUPE operatives selected from the following list:\n                <ul>\n                        <li>DEATH JESTER</li>\n                        <li>\n                                PLAYER equipped with one option from each of the following:\n                                <ul>\n                                        <li>Fusion Pistol (max one per kill team), neuro disruptor (max one per kill team), or Shuriken Pistol</li>\n                                        <li>Blade, Caress, Embrace, or Kiss</li>\n                                </ul>\n                        </li>\n                        <li>\n                                SHADOWSEER equipped with a Miststave and one of the following options:\n                                <ul>\n                                        <li>Neuro Disruptor (max one per kill team) or Shuriken Pistol</li>\n                                </ul>\n                        </li>\n                </ul>\n        </li>\n</ul>\nOther than PLAYER operatives, your kill team can only include each operative above once.",
         "fireteams": [
           {
             "factionid": "AEL",
-            "killteamid": "TRP",
-            "fireteamid": "TRP",
-            "fireteamname": "Troupe",
-            "archetype": "Seek And Destroy/Infiltration/Recon",
+            "killteamid": "VDT",
+            "fireteamid": "VDT",
+            "fireteamname": "Void-Dancer Troupe",
+            "archetype": "",
             "description": "",
             "killteammax": 0,
             "operatives": [
               {
                 "factionid": "AEL",
-                "killteamid": "TRP",
-                "fireteamid": "TRP",
-                "opid": "GNR",
-                "opname": "Player Gunner",
-                "description": "Some Harlequins wield esoteric and destructive ranged weapons. These include the Fusion Pistol, which can reduce heavily armoured warriors to molten slop, or Neuro Disruptors, which fire beams of energy capable of burning away nervous tissue in an agonising instant.",
-                "M": "3[CIRCLE]",
-                "APL": "3",
-                "GA": "1",
-                "DF": "3",
-                "SV": "6+",
-                "W": "8",
-                "keywords": "TROUPE, AELDARI, HARLEQUINS, <MASQUE>, PLAYER, GUNNER",
-                "weapons": [
-                  {
-                    "factionid": "AEL",
-                    "killteamid": "TRP",
-                    "fireteamid": "TRP",
-                    "opid": "GNR",
-                    "wepid": "FP",
-                    "wepname": "Fusion Pistol",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "AEL",
-                        "killteamid": "TRP",
-                        "fireteamid": "TRP",
-                        "opid": "GNR",
-                        "wepid": "FP",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "5/3",
-                        "SR": "Rng [SQUARE], AP2, MW3"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "AEL",
-                    "killteamid": "TRP",
-                    "fireteamid": "TRP",
-                    "opid": "GNR",
-                    "wepid": "ND",
-                    "wepname": "Neuro Disruptor",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "AEL",
-                        "killteamid": "TRP",
-                        "fireteamid": "TRP",
-                        "opid": "GNR",
-                        "wepid": "ND",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "4/5",
-                        "SR": "Rng [PENT], AP1, Stun"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "AEL",
-                    "killteamid": "TRP",
-                    "fireteamid": "TRP",
-                    "opid": "GNR",
-                    "wepid": "HB",
-                    "wepname": "Harlequin's Blade",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "AEL",
-                        "killteamid": "TRP",
-                        "fireteamid": "TRP",
-                        "opid": "GNR",
-                        "wepid": "HB",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "5",
-                        "BS": "3+",
-                        "D": "4/5",
-                        "SR": "Bal"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "AEL",
-                    "killteamid": "TRP",
-                    "fireteamid": "TRP",
-                    "opid": "GNR",
-                    "wepid": "HC",
-                    "wepname": "Harlequin's Caress",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "AEL",
-                        "killteamid": "TRP",
-                        "fireteamid": "TRP",
-                        "opid": "GNR",
-                        "wepid": "HC",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "5",
-                        "BS": "4+",
-                        "D": "5/6",
-                        "SR": ""
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "AEL",
-                    "killteamid": "TRP",
-                    "fireteamid": "TRP",
-                    "opid": "GNR",
-                    "wepid": "HE",
-                    "wepname": "Harlequin's Embrace",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "AEL",
-                        "killteamid": "TRP",
-                        "fireteamid": "TRP",
-                        "opid": "GNR",
-                        "wepid": "HE",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "5",
-                        "BS": "3+",
-                        "D": "4/5",
-                        "SR": "Brutal"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "AEL",
-                    "killteamid": "TRP",
-                    "fireteamid": "TRP",
-                    "opid": "GNR",
-                    "wepid": "HK",
-                    "wepname": "Harlequin's Kiss",
-                    "weptype": "M",
-                    "profiles": [
-                      {
-                        "factionid": "AEL",
-                        "killteamid": "TRP",
-                        "fireteamid": "TRP",
-                        "opid": "GNR",
-                        "wepid": "HK",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "5",
-                        "BS": "3+",
-                        "D": "3/7",
-                        "SR": ""
-                      }
-                    ]
-                  }
-                ],
-                "uniqueactions": [],
-                "abilities": [],
-                "fireteammax": 0
-              },
-              {
-                "factionid": "AEL",
-                "killteamid": "TRP",
-                "fireteamid": "TRP",
-                "opid": "LDR",
-                "opname": "Player Leader",
-                "description": "Choreographers of conflict and focal points of war by consent of their peers, senior Harlequins clad in extravagant robes direct their comrades' reactions to the fates of battle and ensure their warriors' performance in the theatre of war is as perfect as it can be.",
+                "killteamid": "VDT",
+                "fireteamid": "VDT",
+                "opid": "DJS",
+                "opname": "Death Jester",
+                "description": "The arrival of a Death Jester in a killzone is announced by a hissing storm of shrieker cannon fire. Enemy infantry are torn apart in sprays of blood and scalded flesh as the weapon's gene-toxins cause them to combust horrifically from within. Adding insult to injury, the Death Jester ensures every demise is as cruelly ironic as possible.",
                 "M": "3[CIRCLE]",
                 "APL": "3",
                 "GA": "1",
                 "DF": "3",
                 "SV": "6+",
                 "W": "9",
-                "keywords": "TROUPE, AELDARI, HARLEQUINS, <MASQUE>, PLAYER, LEADER",
+                "keywords": "VOID-DANCER TROUPE, AELDARI, HARLEQUINS, <MASQUE>, LEADER, FLY, DEATH JESTER",
                 "weapons": [
                   {
                     "factionid": "AEL",
-                    "killteamid": "TRP",
-                    "fireteamid": "TRP",
-                    "opid": "LDR",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "DJS",
+                    "wepid": "SC",
+                    "wepname": "Shrieker Cannon",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "VDT",
+                        "fireteamid": "VDT",
+                        "opid": "DJS",
+                        "wepid": "SC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "Fus, Heavy, Humbling Cruelty, Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "DJS",
+                    "wepid": "SB",
+                    "wepname": "Shrieker Blade",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "VDT",
+                        "fireteamid": "VDT",
+                        "opid": "DJS",
+                        "wepid": "SB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Reap 2"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "DJS",
+                    "uniqueactionid": "SH",
+                    "title": "Shrieking Harvest",
+                    "description": "Perform a free Shoot action with this operative using the Shrieker Cannon it is equipped with. The Shrieker Cannon has the Torrent [CIRCLE] special rule instead of the Fusillade special rule for that shooting attack.",
+                    "AP": 2
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "DJS",
+                    "abilityid": "HS",
+                    "title": "Holo-Suit",
+                    "description": "This operative has a 4+ Invulnerable Save"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "AEL",
+                "killteamid": "VDT",
+                "fireteamid": "VDT",
+                "opid": "LPL",
+                "opname": "Lead Player",
+                "description": "Choreographers of conflict, Lead Players are experienced Harlequins clad in extravagant garb. They direct their comrades' reactions to the fates of battle and ensure their warriors' performances in the theatre of war is as perfect as they can be.",
+                "M": "3[CIRCLE]",
+                "APL": "3",
+                "GA": "1",
+                "DF": "3",
+                "SV": "6+",
+                "W": "9",
+                "keywords": "VOID-DANCER TROUPE, AELDARI, HARLEQUINS, <MASQUE>, LEADER, FLY, LEAD PLAYER",
+                "weapons": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "LPL",
                     "wepid": "FP",
                     "wepname": "Fusion Pistol",
                     "weptype": "R",
                     "profiles": [
                       {
                         "factionid": "AEL",
-                        "killteamid": "TRP",
-                        "fireteamid": "TRP",
-                        "opid": "LDR",
+                        "killteamid": "VDT",
+                        "fireteamid": "VDT",
+                        "opid": "LPL",
                         "wepid": "FP",
                         "profileid": "0",
                         "name": "",
@@ -2547,18 +2498,18 @@
                   },
                   {
                     "factionid": "AEL",
-                    "killteamid": "TRP",
-                    "fireteamid": "TRP",
-                    "opid": "LDR",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "LPL",
                     "wepid": "ND",
                     "wepname": "Neuro Disruptor",
                     "weptype": "R",
                     "profiles": [
                       {
                         "factionid": "AEL",
-                        "killteamid": "TRP",
-                        "fireteamid": "TRP",
-                        "opid": "LDR",
+                        "killteamid": "VDT",
+                        "fireteamid": "VDT",
+                        "opid": "LPL",
                         "wepid": "ND",
                         "profileid": "0",
                         "name": "",
@@ -2571,18 +2522,18 @@
                   },
                   {
                     "factionid": "AEL",
-                    "killteamid": "TRP",
-                    "fireteamid": "TRP",
-                    "opid": "LDR",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "LPL",
                     "wepid": "SP",
                     "wepname": "Shuriken Pistol",
                     "weptype": "R",
                     "profiles": [
                       {
                         "factionid": "AEL",
-                        "killteamid": "TRP",
-                        "fireteamid": "TRP",
-                        "opid": "LDR",
+                        "killteamid": "VDT",
+                        "fireteamid": "VDT",
+                        "opid": "LPL",
                         "wepid": "SP",
                         "profileid": "0",
                         "name": "",
@@ -2595,19 +2546,19 @@
                   },
                   {
                     "factionid": "AEL",
-                    "killteamid": "TRP",
-                    "fireteamid": "TRP",
-                    "opid": "LDR",
-                    "wepid": "HB",
-                    "wepname": "Harlequin's Blade",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "LPL",
+                    "wepid": "B",
+                    "wepname": "Blade",
                     "weptype": "M",
                     "profiles": [
                       {
                         "factionid": "AEL",
-                        "killteamid": "TRP",
-                        "fireteamid": "TRP",
-                        "opid": "LDR",
-                        "wepid": "HB",
+                        "killteamid": "VDT",
+                        "fireteamid": "VDT",
+                        "opid": "LPL",
+                        "wepid": "B",
                         "profileid": "0",
                         "name": "",
                         "A": "5",
@@ -2619,43 +2570,43 @@
                   },
                   {
                     "factionid": "AEL",
-                    "killteamid": "TRP",
-                    "fireteamid": "TRP",
-                    "opid": "LDR",
-                    "wepid": "HC",
-                    "wepname": "Harlequin's Caress",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "LPL",
+                    "wepid": "C",
+                    "wepname": "Caress",
                     "weptype": "M",
                     "profiles": [
                       {
                         "factionid": "AEL",
-                        "killteamid": "TRP",
-                        "fireteamid": "TRP",
-                        "opid": "LDR",
-                        "wepid": "HC",
+                        "killteamid": "VDT",
+                        "fireteamid": "VDT",
+                        "opid": "LPL",
+                        "wepid": "C",
                         "profileid": "0",
                         "name": "",
                         "A": "5",
-                        "BS": "3+",
-                        "D": "5/6",
-                        "SR": ""
+                        "BS": "2+",
+                        "D": "4/5",
+                        "SR": "Rending"
                       }
                     ]
                   },
                   {
                     "factionid": "AEL",
-                    "killteamid": "TRP",
-                    "fireteamid": "TRP",
-                    "opid": "LDR",
-                    "wepid": "HE",
-                    "wepname": "Harlequin's Embrace",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "LPL",
+                    "wepid": "E",
+                    "wepname": "Embrace",
                     "weptype": "M",
                     "profiles": [
                       {
                         "factionid": "AEL",
-                        "killteamid": "TRP",
-                        "fireteamid": "TRP",
-                        "opid": "LDR",
-                        "wepid": "HE",
+                        "killteamid": "VDT",
+                        "fireteamid": "VDT",
+                        "opid": "LPL",
+                        "wepid": "E",
                         "profileid": "0",
                         "name": "",
                         "A": "5",
@@ -2667,19 +2618,19 @@
                   },
                   {
                     "factionid": "AEL",
-                    "killteamid": "TRP",
-                    "fireteamid": "TRP",
-                    "opid": "LDR",
-                    "wepid": "HK",
-                    "wepname": "Harlequin's Kiss",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "LPL",
+                    "wepid": "K",
+                    "wepname": "Kiss",
                     "weptype": "M",
                     "profiles": [
                       {
                         "factionid": "AEL",
-                        "killteamid": "TRP",
-                        "fireteamid": "TRP",
-                        "opid": "LDR",
-                        "wepid": "HK",
+                        "killteamid": "VDT",
+                        "fireteamid": "VDT",
+                        "opid": "LPL",
+                        "wepid": "K",
                         "profileid": "0",
                         "name": "",
                         "A": "5",
@@ -2691,18 +2642,18 @@
                   },
                   {
                     "factionid": "AEL",
-                    "killteamid": "TRP",
-                    "fireteamid": "TRP",
-                    "opid": "LDR",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "LPL",
                     "wepid": "PW",
                     "wepname": "Power Weapon",
                     "weptype": "M",
                     "profiles": [
                       {
                         "factionid": "AEL",
-                        "killteamid": "TRP",
-                        "fireteamid": "TRP",
-                        "opid": "LDR",
+                        "killteamid": "VDT",
+                        "fireteamid": "VDT",
+                        "opid": "LPL",
                         "wepid": "PW",
                         "profileid": "0",
                         "name": "",
@@ -2715,63 +2666,130 @@
                   }
                 ],
                 "uniqueactions": [],
-                "abilities": [],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "LPL",
+                    "abilityid": "HS",
+                    "title": "Holo-Suit",
+                    "description": "This operative has a 4+ Invulnerable Save"
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "LPL",
+                    "abilityid": "PL",
+                    "title": "Performance Lead",
+                    "description": "Once per battle, in the Strategy phase, when it is your turn to use a Strategic Ploy or pass, \nyou can use this ability instead. If you do so, select a different Allegory to be active for your kill team.\nYou can also select a different operative for the pivotal role.\nThe new pivotal role would therefore have the Accolade ability of the new active Allegory instead.\nYour Performance tally remains unchanged (therefore if the tally was four or more, all friendly VOID-DANCER TROUPE operatives have the Accolade ability of the new active Allegory instead)."
+                  }
+                ],
                 "fireteammax": 0
               },
               {
                 "factionid": "AEL",
-                "killteamid": "TRP",
-                "fireteamid": "TRP",
-                "opid": "WAR",
-                "opname": "Player Warrior",
-                "description": "Harlequin Players perform with breathtaking skill, whether their stage is a wraithbone-and-glass amphitheatre bathed in crystalline light or the firelit hell of the battlefield. They tumble, sprint, and leap, every trigger squeeze and blade slash bringing orchestrated death to the enemy.",
+                "killteamid": "VDT",
+                "fireteamid": "VDT",
+                "opid": "PLAY",
+                "opname": "Player",
+                "description": "Harlequin Players perform with breathtaking skill, whether their stage is a wraithbone-and-glass amphitheatre bathed in a crystalline light or the firelit hell of the battlefield. They tumble, sprint and leap, with every trigger squeeze and blade slash bringing orchestrated death to the enemy",
                 "M": "3[CIRCLE]",
                 "APL": "3",
                 "GA": "1",
                 "DF": "3",
                 "SV": "6+",
                 "W": "8",
-                "keywords": "TROUPE, AELDARI, HARLEQUINS, <MASQUE>, PLAYER, WARRIOR",
+                "keywords": "VOID-DANCER TROUPE, AELDARI, HARLEQUINS, <MASQUE>, LEADER, FLY, PLAYER",
                 "weapons": [
                   {
                     "factionid": "AEL",
-                    "killteamid": "TRP",
-                    "fireteamid": "TRP",
-                    "opid": "WAR",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "PLAY",
+                    "wepid": "FP",
+                    "wepname": "Fusion Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "VDT",
+                        "fireteamid": "VDT",
+                        "opid": "PLAY",
+                        "wepid": "FP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "5/3",
+                        "SR": "Rng [SQUARE], AP2, MW3"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "PLAY",
+                    "wepid": "ND",
+                    "wepname": "Neuro Disruptor",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "VDT",
+                        "fireteamid": "VDT",
+                        "opid": "PLAY",
+                        "wepid": "ND",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "Rng [PENT], AP1, Stun"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "PLAY",
                     "wepid": "SP",
                     "wepname": "Shuriken Pistol",
                     "weptype": "R",
                     "profiles": [
                       {
                         "factionid": "AEL",
-                        "killteamid": "TRP",
-                        "fireteamid": "TRP",
-                        "opid": "WAR",
+                        "killteamid": "VDT",
+                        "fireteamid": "VDT",
+                        "opid": "PLAY",
                         "wepid": "SP",
                         "profileid": "0",
                         "name": "",
                         "A": "4",
                         "BS": "3+",
-                        "D": "4/4",
+                        "D": "3/4",
                         "SR": "Rng [PENT], Rending"
                       }
                     ]
                   },
                   {
                     "factionid": "AEL",
-                    "killteamid": "TRP",
-                    "fireteamid": "TRP",
-                    "opid": "WAR",
-                    "wepid": "HB",
-                    "wepname": "Harlequin's Blade",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "PLAY",
+                    "wepid": "B",
+                    "wepname": "Blade",
                     "weptype": "M",
                     "profiles": [
                       {
                         "factionid": "AEL",
-                        "killteamid": "TRP",
-                        "fireteamid": "TRP",
-                        "opid": "WAR",
-                        "wepid": "HB",
+                        "killteamid": "VDT",
+                        "fireteamid": "VDT",
+                        "opid": "PLAY",
+                        "wepid": "B",
                         "profileid": "0",
                         "name": "",
                         "A": "5",
@@ -2783,43 +2801,43 @@
                   },
                   {
                     "factionid": "AEL",
-                    "killteamid": "TRP",
-                    "fireteamid": "TRP",
-                    "opid": "WAR",
-                    "wepid": "HC",
-                    "wepname": "Harlequin's Caress",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "PLAY",
+                    "wepid": "C",
+                    "wepname": "Caress",
                     "weptype": "M",
                     "profiles": [
                       {
                         "factionid": "AEL",
-                        "killteamid": "TRP",
-                        "fireteamid": "TRP",
-                        "opid": "WAR",
-                        "wepid": "HC",
+                        "killteamid": "VDT",
+                        "fireteamid": "VDT",
+                        "opid": "PLAY",
+                        "wepid": "C",
                         "profileid": "0",
                         "name": "",
                         "A": "5",
-                        "BS": "4+",
-                        "D": "5/6",
-                        "SR": ""
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "Rending"
                       }
                     ]
                   },
                   {
                     "factionid": "AEL",
-                    "killteamid": "TRP",
-                    "fireteamid": "TRP",
-                    "opid": "WAR",
-                    "wepid": "HE",
-                    "wepname": "Harlequin's Embrace",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "PLAY",
+                    "wepid": "E",
+                    "wepname": "Embrace",
                     "weptype": "M",
                     "profiles": [
                       {
                         "factionid": "AEL",
-                        "killteamid": "TRP",
-                        "fireteamid": "TRP",
-                        "opid": "WAR",
-                        "wepid": "HE",
+                        "killteamid": "VDT",
+                        "fireteamid": "VDT",
+                        "opid": "PLAY",
+                        "wepid": "E",
                         "profileid": "0",
                         "name": "",
                         "A": "5",
@@ -2831,19 +2849,19 @@
                   },
                   {
                     "factionid": "AEL",
-                    "killteamid": "TRP",
-                    "fireteamid": "TRP",
-                    "opid": "WAR",
-                    "wepid": "HK",
-                    "wepname": "Harlequin's Kiss",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "PLAY",
+                    "wepid": "K",
+                    "wepname": "Kiss",
                     "weptype": "M",
                     "profiles": [
                       {
                         "factionid": "AEL",
-                        "killteamid": "TRP",
-                        "fireteamid": "TRP",
-                        "opid": "WAR",
-                        "wepid": "HK",
+                        "killteamid": "VDT",
+                        "fireteamid": "VDT",
+                        "opid": "PLAY",
+                        "wepid": "K",
                         "profileid": "0",
                         "name": "",
                         "A": "5",
@@ -2855,11 +2873,164 @@
                   }
                 ],
                 "uniqueactions": [],
-                "abilities": [],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "PLAY",
+                    "abilityid": "HS",
+                    "title": "Holo-Suit",
+                    "description": "This operative has a 4+ Invulnerable Save"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "AEL",
+                "killteamid": "VDT",
+                "fireteamid": "VDT",
+                "opid": "SDS",
+                "opname": "Shadowseer",
+                "description": "Shadowseers can blind enemy operatives and drive them mad with their psychic powers. As they obscure their allies with illusions, they fire hallucinogenic grenades at the foe that cuase disorientation or death. In close combat, Shadowseers crush bones with strikes from their Miststaves, which also scramble the perceptions of those they hit.",
+                "M": "3[CIRCLE]",
+                "APL": "3",
+                "GA": "1",
+                "DF": "3",
+                "SV": "6+",
+                "W": "9",
+                "keywords": "VOID-DANCER TROUPE, AELDARI, HARLEQUINS, <MASQUE>, FLY, SHADOWSEER",
+                "weapons": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "SDS",
+                    "wepid": "ND",
+                    "wepname": "Neuro Disruptor",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "VDT",
+                        "fireteamid": "VDT",
+                        "opid": "SDS",
+                        "wepid": "ND",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "Rng [PENT], AP1, Stun"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "SDS",
+                    "wepid": "SP",
+                    "wepname": "Shuriken Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "VDT",
+                        "fireteamid": "VDT",
+                        "opid": "SDS",
+                        "wepid": "SP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT], Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "SDS",
+                    "wepid": "MS",
+                    "wepname": "Miststave",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "VDT",
+                        "fireteamid": "VDT",
+                        "opid": "SDS",
+                        "wepid": "MS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "Stun"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "SDS",
+                    "uniqueactionid": "FOD",
+                    "title": "Fog Of Dreams",
+                    "description": "(Psychic Power - Cannot be performed within Engagement Range of an enemy operative)<br/>\nSelect one ready enemy operative Visible to this operative and roll 1D6.\nUntil the end of the Turning Point, that enemy operative is treated as having a Group Activation characteristic of 1, and cannot be activated or perform actions until it is the last enemy operative to be activated, or a number of enemy operatives has been activated equal to the result of the D6 (whichever comes first).",
+                    "AP": 1
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "SDS",
+                    "uniqueactionid": "HG",
+                    "title": "Hallucinogenic Grenate",
+                    "description": "Select one point on the killzone within [PENT] of this operative.\nRoll 1D6 for each operative within [CIRCLE] of that point, subtracting 1 from the result if that operative is not Visible to this operative.\nOn a 4+, subtract 1 from that operative's APL; in addition, on a 6, that operative suffers 1 Mortal Wound.\nThis operative can only perform this action once per battle, and cannot perform this action\nwhile within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "SDS",
+                    "uniqueactionid": "MOM",
+                    "title": "Mirror Of Minds",
+                    "description": "(Psychic Power - Cannot be performed within Engagement Range of an enemy operative)<br/>\nSelect one enemy operative within this operative's Line of Sight.\nBoth players roll 6D6. Pair your dice with your opponent's dice based on matching results.\nFor each matching pair, that enemy operative suffers 1 Mortal Wound.\nFor example, if you roll 6, 5, 5, 4, 2, 1 and your opponent rolls 6, 5, 4, 4, 3, 1, \nthat enemy operative would suffer 4 Mortal Wounds.",
+                    "AP": 1
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "SDS",
+                    "uniqueactionid": "VOT",
+                    "title": "Veil Of Tears",
+                    "description": "(Psychic Power - Cannot be performed within Engagement Range of an enemy operative)<br/>\nSelect one friendly VOID-DANCER TROUPE operative Visible to this operative.\nUntil the end of the Turning Point:\n<ul>\n<li>For the purposes of determining Line of Sight, while that operative is more than [PENT] from the active operative, it is in Cover.</li>\n<li>Enemy operatives cannot end a Charge action within Engagement Range of that operative unless they began that action within [PENT] of it, or they would also end that action within Engagement Range of another friendly operative from your kill team.</li>\n</ul>",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "VDT",
+                    "fireteamid": "VDT",
+                    "opid": "SDS",
+                    "abilityid": "HS",
+                    "title": "Holo-Suit",
+                    "description": "This operative has a 4+ Invulnerable Save"
+                  }
+                ],
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "A TROUPE kill team includes 1 PLAYER LEADER operative equipped with one option from each of the following:\n<ul>\n        <li>Fusion Pistol, Neuro Disruptor, or Shuriken Pistol</li>\n        <li>Harlequin's Blade, Harlequin's Caress, Harlequin's Embrace, Harlequin's Kiss, or Power Weapon</li>\n</ul>\nIt also includes seven TROUPE operatives selected from the following list:\n<ul>\n        <li>\n                PLAYER WARRIOR each separately equipped with a Shuriken Pistol and one of the following options:\n                <ul>\n                        <li>Harlequin's Blade, Harlequin's Caress, Harlequin's Embrace, or Harlequin's Kiss</li>\n                </ul>\n        </li>\n        <li>\n                PLAYER GUNNER each separately equipped with one option from each of the following:\n                <ul>\n                        <li>Fusion Pistol or Neuro Disruptor</li>\n                        <li>Harlequin's Blade, Harlequin's Caress, Harlequin's Embrace, or Harlequin's Kiss</li>\n                </ul>\n        </li>\n</ul>\nYour kill team can only include up to two PLAYER GUNNER operatives."
+            "fireteamcomp": "A VOID-DANCER TROUPE kill team is composed of the following operatives:\n<ul>\n        <li>\n                1 LEAD PLAYER operative equipped with one options from each of the following:\n                <ul>\n                        <li>Fusion Pistol (max one per kill team), neuro disruptor (max one per kill team), or Shuriken Pistol</li>\n                        <li>Blade, Caress, Embrace, Kiss, or Power Weapon</li>\n                </ul>\n        </li>\n        <li>\n                7 VOID-DANCER TROUPE operatives selected from the following list:\n                <ul>\n                        <li>DEATH JESTER</li>\n                        <li>\n                                PLAYER equipped with one option from each of the following:\n                                <ul>\n                                        <li>Fusion Pistol (max one per kill team), neuro disruptor (max one per kill team), or Shuriken Pistol</li>\n                                        <li>Blade, Caress, Embrace, or Kiss</li>\n                                </ul>\n                        </li>\n                        <li>\n                                SHADOWSEER equipped with a Miststave and one of the following options:\n                                <ul>\n                                        <li>Neuro Disruptor (max one per kill team) or Shuriken Pistol</li>\n                                </ul>\n                        </li>\n                </ul>\n        </li>\n</ul>\nOther than PLAYER operatives, your kill team can only include each operative above once."
           }
         ]
       }
