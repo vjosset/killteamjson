@@ -2991,7 +2991,7 @@
                     "fireteamid": "VDT",
                     "opid": "SDS",
                     "uniqueactionid": "HG",
-                    "title": "Hallucinogenic Grenate",
+                    "title": "Hallucinogenic Grenade",
                     "description": "Select one point on the killzone within [PENT] of this operative.\nRoll 1D6 for each operative within [CIRCLE] of that point, subtracting 1 from the result if that operative is not Visible to this operative.\nOn a 4+, subtract 1 from that operative's APL; in addition, on a 6, that operative suffers 1 Mortal Wound.\nThis operative can only perform this action once per battle, and cannot perform this action\nwhile within Engagement Range of an enemy operative.",
                     "AP": 1
                   },
@@ -6025,7 +6025,7 @@
                         "A": "5",
                         "BS": "2+",
                         "D": "2/2",
-                        "SR": "Rng [PENT], Torrent [CIRCLE]"
+                        "SR": "Rng [PENT], Tor [CIRCLE]"
                       }
                     ]
                   },
