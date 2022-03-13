@@ -5151,6 +5151,1507 @@
       },
       {
         "factionid": "CHAOS",
+        "killteamid": "LEG",
+        "killteamname": "Legionaries",
+        "description": "Some Traitor Marines pledged their service to all four of the Dark Gods, a malevolent force known as Chaos Undivided, whilst others preferred to dedicate themselves to the worship of only one of the Ruinous Powers. The Traitor Legions were led by the Warmaster Horus, once a primarch of the Imperium and the Emperor's most trusted friend, son, and adviser before he was corrupted by the promises and lies of the Dark Gods and his own inner flaws and ambition.\n<br/><br/>\nThe Traitor Legions were the most powerful component of the forces of Chaos which fought during the Heresy, which also included the myriad Daemons of the Warp, Human Traitors from the Imperial Army, the potent infantry and combat walker forces of the Dark Mechanicum and Chaos Cultists drawn from across the galaxy.",
+        "ploys": {
+          "strat": [
+            {
+              "factionid": "CHAOS",
+              "killteamid": "LEG",
+              "ployid": "AW",
+              "ployname": "Aetheric Ward",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, friendly TZEENTCH operatives have a 4+ Invulnerable Save."
+            },
+            {
+              "factionid": "CHAOS",
+              "killteamid": "LEG",
+              "ployid": "BFTBG",
+              "ployname": "Blood For The Blood God",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a friendly KHORNE operative fights in combat, in the\nResolve Successful Hits step of that combat, if it performed a Charge action during that activation, \nthe first time it strikes, inflict one additional damage."
+            },
+            {
+              "factionid": "CHAOS",
+              "killteamid": "LEG",
+              "ployid": "DA",
+              "ployname": "Delicious Agony",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a friendly SLAANESH operative fights in combat,\nin the Resolve Successful Hits step of that combat, when you would resolve your first\nsuccessful hit, if the target is injured, you can resolve two of your successful hits (instead of one)."
+            },
+            {
+              "factionid": "CHAOS",
+              "killteamid": "LEG",
+              "ployid": "GK",
+              "ployname": "Graceful Killer",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, add 1 to the Critical Damage characteristic of \nfriendly SLAANESH operatives' melee weapons."
+            },
+            {
+              "factionid": "CHAOS",
+              "killteamid": "LEG",
+              "ployid": "HA",
+              "ployname": "Hateful Assault",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a friendly LEGIONARY operative is\nactivated, if it does not perform a Shoot action during that activation, it can\nperform two Fight actions during that activation."
+            },
+            {
+              "factionid": "CHAOS",
+              "killteamid": "LEG",
+              "ployid": "IMPL",
+              "ployname": "Implacable",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, friendly NURGLE operatives:\n<ul>\n<li>Are not treated as being injured</li>\n<li>Ignore all negative modifiers to their APL</li>\n<li>Ignore all worsening of their Ballistic Skill when performing an Overwatch action</li>\n</ul>"
+            },
+            {
+              "factionid": "CHAOS",
+              "killteamid": "LEG",
+              "ployid": "MGF",
+              "ployname": "Mutagenic Flesh",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time Normal Damage would be inflicted upon a\nfriendly NURGLE operative from an attack die, subtract 1 from the damage inflicted from that attack die \n(to a minimum of 2)."
+            },
+            {
+              "factionid": "CHAOS",
+              "killteamid": "LEG",
+              "ployid": "MV",
+              "ployname": "Malicious Volleys",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a friendly LEGIONARY operative is\nactivated, if it does not perform a Fight action during that activation, it can\nperform two Shoot actions during that activation if a bolt weapon is selected for each of the\nshooting attacks. A bolt weapon is a ranged weapon that includes the word \"bolt\" in its name (e.g. Boltgun, Heavy Bolter, etc.)."
+            },
+            {
+              "factionid": "CHAOS",
+              "killteamid": "LEG",
+              "ployid": "PA",
+              "ployname": "Perpetual Aggression",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time after a friendly KHORNE operative fights\nin combat, if it is not within Engagement Range of an enemy operative, it can make a \nmove following the same rules as a Normal Move action, with the following exceptions:\n<ul>\n<li>It can only move up to [SQUARE]</li>\n<li>It can move within Engagement Range of enemy operatives</li>\n<li>If it can, it must finish the move within Engagement Range of the closest Visible enemy operative</li>\n</ul>"
+            },
+            {
+              "factionid": "CHAOS",
+              "killteamid": "LEG",
+              "ployid": "PBF",
+              "ployname": "Protected By Fate",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a shooting attack is made against a TZEENTCH operative,\nin the Roll Defence Dice step of that shooting attack, if you retain any critical saves,\nyou can select one of your failed saved to be retained as a successful normal save."
+            }
+          ],
+          "tac": [
+            {
+              "factionid": "CHAOS",
+              "killteamid": "LEG",
+              "ployid": "MA",
+              "ployname": "Malignant Aura",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy during a friendly NURGLE operative's activation.\nUntil the end of the Turning Point, while an enemy operative is within [SQUARE] of \nthat NURGLE operative, subtract 1 from the Defence characteristic of that enemy operative."
+            },
+            {
+              "factionid": "CHAOS",
+              "killteamid": "LEG",
+              "ployid": "MAC",
+              "ployname": "Mutability And Change",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy during a friendly TZEENTCH operative's activation.\nAdd 1 to that operative's APL."
+            },
+            {
+              "factionid": "CHAOS",
+              "killteamid": "LEG",
+              "ployid": "SC",
+              "ployname": "Sickening Captivation",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy during a friendly SLAANESH operative's activation.\nSelect one enemy operative Visible to and within [SQUARE] of that SLAANESH operative.\nSubtract 1 from that enemy operative's APL."
+            },
+            {
+              "factionid": "CHAOS",
+              "killteamid": "LEG",
+              "ployid": "UEBS",
+              "ployname": "Unending Bloodshed",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy when a ready friendly KHORNE operative is incapacitated in \ncombat by an enemy operative.\nBefore that friendly operative is removed from the killzone, select one melee weapon\nit is equipped with and roll one attack die as if it is the attacker fighting in combat.\nIf the result is a successful hit, you can immediately strike an enemy operative within\nEngagement Range of it. Then remove that friendly operative from the killzone as normal."
+            },
+            {
+              "factionid": "CHAOS",
+              "killteamid": "LEG",
+              "ployid": "VOTW",
+              "ployname": "Veteran Of The Long War",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy during a friendly LEGIONARY operative's activation, after it\nfights in combat or makes a shooting attack. If the target did not lose any wounds as a\nresult of that combat or shooting attack, repeat that combat or shooting attack"
+            }
+          ]
+        },
+        "equipments": [
+          {
+            "factionid": "CHAOS",
+            "killteamid": "LEG",
+            "eqid": "AS",
+            "eqname": "Aggression Stimulants*",
+            "eqdescription": "The operative gains the following ability for the battle:<br/>\n<strong>Aggression Stimulants:</strong>\nEach time this operative fights in combat, in the Roll Attack Dice step of that combat,\nif this operative performed a Charge action during this Turning Point, you can re-roll one of your attack dice.",
+            "eqpts": "3"
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "LEG",
+            "eqid": "FG",
+            "eqname": "Frag Grenade",
+            "eqdescription": "The operative is equipped with the following melee weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n <tbody><tr>\n <th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n <td>Frag Grenade</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>2/3</td>\n     </tr>\n     <tr>\n <th colspan=\"4\">Special Rules</th>\n </tr>\n     <tr>\n <td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Indirect, Limited</td>\n </tr>\n </tbody></table>",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "LEG",
+            "eqid": "GT",
+            "eqname": "Grisly Trophy*",
+            "eqdescription": "The operative gains the following ability for the battle:<br/>\n<strong>Grisly Trophy:</strong>\nWhile this operative is Visible to and with [SQUARE] of an enemy operative, subtract 1\nfrom the Attacks characteristic of ranged and melee weapons that enemy operative is equipped with.",
+            "eqpts": "3"
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "LEG",
+            "eqid": "KG",
+            "eqname": "Krak Grenade",
+            "eqdescription": "The operative is equipped with the following melee weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n <tbody><tr>\n <th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n <td>Krak Grenade</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>4/5</td>\n     </tr>\n     <tr>\n <th colspan=\"4\">Special Rules</th>\n </tr>\n     <tr>\n <td colspan=\"4\">Rng [PENT], AP1, Indirect, Limited</td>\n </tr>\n </tbody></table>",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "LEG",
+            "eqid": "MB",
+            "eqname": "Malefic Blade",
+            "eqdescription": "The operative is equipped with the following melee weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n     <tbody><tr>\n         <th>Name</th>\n         <th>A</th>\n         <th>WS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n         <td>Malefic Blade</td>\n         <td>5</td>\n         <td>3+</td>\n         <td>3/5</td>\n     </tr>\n </tbody></table>",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "LEG",
+            "eqid": "MS",
+            "eqname": "Malign Scripture",
+            "eqdescription": "LEGIONARY BALEFIRE ACOLYTE operative only. The operative gains the following ability for the battle:<br/>\n<strong>Malign Scripture:</strong>\nOnce per battle, this operative can perform two Manifest Psychic Power actions during its activation.",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "LEG",
+            "eqid": "SS",
+            "eqname": "Suspensor System",
+            "eqdescription": "The operative gains the following ability for the battle:<br/>\n<strong>Suspensor System:</strong>\nThe Heavy special rule of ranged weapons the operative is equipped with is treated differently.\nInstead, an operative cannot move more than 3[CIRCLE] in the same activation in which it\nperforms a Shoot action with any of those ranged weapons.",
+            "eqpts": "3"
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "LEG",
+            "eqid": "TR",
+            "eqname": "Tainted Rounds*",
+            "eqdescription": "Select one Boltgun, Bolt Pistol, or Tainted Bolt Pistol the operative is equipped with.\nAdd 1 to both Damange characteristics of that weapon.",
+            "eqpts": "3"
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "LEG",
+            "eqid": "WA",
+            "eqname": "Warded Armour*",
+            "eqdescription": "Change the operative's Save characteristic to 2+ for the battle.\nIn the Resolve Successful Hits step of a combat or shooting attack, if an attack die inflicts damage on this operative,\nits Save characteristic is changed back to its normal characteristic for the rest of the battle.",
+            "eqpts": "3"
+          }
+        ],
+        "killteamcomp": "A LEGIONARY kill team consists of:\n<ul>\n    <li>\n        1 LEGIONARY operative selected from the following list:\n        <ul>\n            <li>\n                LEGIONARY CHOSEN operative equipped with one option from each of the following:\n                <ul>\n                    <li>Plasma Pistol or Tainted Bolt Pistol</li>\n                    <li>Daemon Blade</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY ASPIRING CHAMPION operative equipped with one option from each of the following:\n                <ul>\n                    <li>Plasma Pistol or Tainted Bolt Pistol</li>\n                    <li>Tainted Chainsword, Power Weapon, Power First, or Power Maul</li>\n                </ul>\n            </li>\n        </ul>\n    </li>\n    <li>\n        5 LEGIONARY operatives selected from the following list:\n        <ul>\n            <li>\n                LEGIONARY WARRIOR operative equipped with one of the following options:\n                <ul>\n                    <li>Boltgun and Fists</li>\n                    <li>Bolt Pistol and Chainsword</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY GUNNER operative equipped with one of the following options:\n                <ul>\n                    <li>Flamer and Fists</li>\n                    <li>Meltagun and Fists</li>\n                    <li>Plasma Gun and Fists</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY HEAVY GUNNER operative equipped with one of the following options:\n                <ul>\n                    <li>Heavy Bolter and Fists</li>\n                    <li>Missile Launcher and Fists</li>\n                    <li>Reaper Chaincannon and Fists</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY ICON BEARER operative equipped with one of the following options:\n                <ul>\n                    <li>Boltgun and Fists</li>\n                    <li>Bolt Pistol and Chainsword</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY ANOINTED\n            </li>\n            <li>\n                LEGIONARY BUTCHER\n            </li>\n            <li>\n                LEGIONARY BALEFIRE ACOLYTE\n            </li>\n            <li>\n                LEGIONARY SHRIVETALON\n            </li>\n        </ul>\n    </li>\n</ul>\n<br/>\nOther than WARRIOR operatives, your kill team can only include each operative above once.",
+        "fireteams": [
+          {
+            "factionid": "CHAOS",
+            "killteamid": "LEG",
+            "fireteamid": "LEG",
+            "fireteamname": "Legionary",
+            "archetype": "",
+            "description": "",
+            "killteammax": 0,
+            "operatives": [
+              {
+                "factionid": "CHAOS",
+                "killteamid": "LEG",
+                "fireteamid": "LEG",
+                "opid": "ANO",
+                "opname": "Legionary Anointed",
+                "description": "Some Heretic Astartes thirst for power and any cost, and offer themselves wholly to Chaos. They become willing hosts to the immaterial creatures of the Warp. This is a slow and painful process, and those in the early stages are known as Anointed due to their mutations.",
+                "M": "3[CIRCLE]",
+                "APL": "3",
+                "GA": "1",
+                "DF": "3",
+                "SV": "3+",
+                "W": "12",
+                "keywords": "LEGIONARY, CHAOS, HERETIC ASTARTES, <LEGION>, <MARK OF CHAOS>, LEGIONARY ANOINTED",
+                "weapons": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "ANO",
+                    "wepid": "BP",
+                    "wepname": "Bolt Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "ANO",
+                        "wepid": "BP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "ANO",
+                    "wepid": "DC",
+                    "wepname": "Daemonic Claw",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "ANO",
+                        "wepid": "DC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "Rending"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "ANO",
+                    "abilityid": "CB",
+                    "title": "Chaos Blessing",
+                    "description": "This operative gains one ability from those listed below.\nThe ability it gains depends on its MARK OF CHAOS keyword.<br/><br/>\n<strong>KHORNE - Wrathful Onslaught</strong><br/>\nEach time this operative fights in combat, in the Resolve Successful Hits step of that combat,\nif you did not retain any critical hits, you can strike with one normal hit as if it were a critical hit.\n<br/><br/>\n<strong>NURGLE - Disgusting Vigour</strong><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of\nthat shooing attack, you can retain one normal save as a critical save.\n<br/><br/>\n<strong>SLAANESH - Unnatural Agility</strong><br/>\nAdd [TRI] to this operative's Movement characteristic.\n<br/><br/>\n<strong>TZEENTCH - Empyreal Guidance</strong><br/>\nEach time this operative makes a shooting attack, in the Roll Attack Dice step of that\nshooting attack, you can retain one of your attack dice results of + that is a sucessful hit as a critical hit.\n<br/><br/>\n<strong>UNDIVIDED - Vicious Reavers</strong><br/>\nEach time this operative fights in combat or makes a shooting attack, in the Roll Attack Dice\nstep of that combat or shooting attack, if the target is within [PENT] of it, you can\nre-roll one of your attack dice."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "CHAOS",
+                "killteamid": "LEG",
+                "fireteamid": "LEG",
+                "opid": "AC",
+                "opname": "Legionary Aspiring Champion",
+                "description": "Aspiring Champions are the strongest and most merciless of their brothers. These blood-soaked warriors enforce their will through brutal acts of might, seeking to become favioured of the Dark Gods.",
+                "M": "3[CIRCLE]",
+                "APL": "3",
+                "GA": "1",
+                "DF": "3",
+                "SV": "3+",
+                "W": "13",
+                "keywords": "LEGIONARY, CHAOS, HERETIC ASTARTES, <LEGION>, <MARK OF CHAOS>, LEADER, LEGIONARY ASPIRING CHAMPION",
+                "weapons": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "AC",
+                    "wepid": "PP",
+                    "wepname": "Plasma Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "AC",
+                        "wepid": "PP",
+                        "profileid": "0",
+                        "name": "Standard",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "5/6",
+                        "SR": "Rng [PENT], AP1"
+                      },
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "AC",
+                        "wepid": "PP",
+                        "profileid": "1",
+                        "name": "Supercharge",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "5/6",
+                        "SR": "Rng [PENT], AP2, Hot"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "AC",
+                    "wepid": "TBP",
+                    "wepname": "Tainted Bolt Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "AC",
+                        "wepid": "TBP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT], Bal"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "AC",
+                    "wepid": "PF",
+                    "wepname": "Power Fist",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "AC",
+                        "wepid": "PF",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "3+",
+                        "D": "5/7",
+                        "SR": "Brutal"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "AC",
+                    "wepid": "PM",
+                    "wepname": "Power Maul",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "AC",
+                        "wepid": "PM",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "2+",
+                        "D": "4/6",
+                        "SR": "Stun"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "AC",
+                    "wepid": "PW",
+                    "wepname": "Power Weapon",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "AC",
+                        "wepid": "PW",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "2+",
+                        "D": "4/6",
+                        "SR": "Lethal 5+"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "AC",
+                    "wepid": "TCS",
+                    "wepname": "Tainted Chainsword",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "AC",
+                        "wepid": "TCS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "2+",
+                        "D": "4/5",
+                        "SR": "Parry Hook"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "AC",
+                    "abilityid": "CB",
+                    "title": "Chaos Blessing",
+                    "description": "This operative gains one ability from those listed below.\nThe ability it gains depends on its MARK OF CHAOS keyword.<br/><br/>\n<strong>KHORNE - Wrathful Onslaught</strong><br/>\nEach time this operative fights in combat, in the Resolve Successful Hits step of that combat,\nif you did not retain any critical hits, you can strike with one normal hit as if it were a critical hit.\n<br/><br/>\n<strong>NURGLE - Disgusting Vigour</strong><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of\nthat shooing attack, you can retain one normal save as a critical save.\n<br/><br/>\n<strong>SLAANESH - Unnatural Agility</strong><br/>\nAdd [TRI] to this operative's Movement characteristic.\n<br/><br/>\n<strong>TZEENTCH - Empyreal Guidance</strong><br/>\nEach time this operative makes a shooting attack, in the Roll Attack Dice step of that\nshooting attack, you can retain one of your attack dice results of + that is a sucessful hit as a critical hit.\n<br/><br/>\n<strong>UNDIVIDED - Vicious Reavers</strong><br/>\nEach time this operative fights in combat or makes a shooting attack, in the Roll Attack Dice\nstep of that combat or shooting attack, if the target is within [PENT] of it, you can\nre-roll one of your attack dice."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "AC",
+                    "abilityid": "FOTDG",
+                    "title": "Favoured Of The Dark Gods",
+                    "description": "Once per Turning Point, when it is your turn to use a Strategic Ploy, if any friendly\noperatives with this ability are in the killzone, you can use a Strategic Ploy without\nspending any CPs; that Strategic Ploy must have the same MARK OF CHAOS selectable keyword as one friendly operative with this ability.\nFor exmaple, if an operative with this ability has the KHORNE keyword, you could use the\nBlood For The Blood God Strategic Ploy. If an operative with this ability as the UNDIVIDED\nkeyword, you can use the following Strategic Ploys for this ability instead:\nHateful Assault, Malicious Volleys."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "AC",
+                    "abilityid": "ITEOTG",
+                    "title": "In The Eyes Of The Gods",
+                    "description": "Once per Turning Point, when this operative incapacitates an enemy operative, you can add 1 to this operative's APL."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "CHAOS",
+                "killteamid": "LEG",
+                "fireteamid": "LEG",
+                "opid": "BA",
+                "opname": "Legionary Balefire Acolyte",
+                "description": "Balefire Acolytes are psykers blessed by the Chaos Gods with the dark power of the empyrean, which they tunr indiscriminately upon the foe. Many also carry blades made even deadlier thanks to the power of the Warp they are infused with.",
+                "M": "3[CIRCLE]",
+                "APL": "3",
+                "GA": "1",
+                "DF": "3",
+                "SV": "3+",
+                "W": "12",
+                "keywords": "LEGIONARY, CHAOS, HERETIC ASTARTES, <LEGION>, <MARK OF CHAOS>, PSYKER, LEGIONARY BALEFIRE ACOLYTE",
+                "weapons": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "BA",
+                    "wepid": "TBP",
+                    "wepname": "Tainted Bolt Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "BA",
+                        "wepid": "TBP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT], Bal"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "BA",
+                    "wepid": "FD",
+                    "wepname": "Fell Dagger",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "BA",
+                        "wepid": "FD",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Daemonic Energies"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "BA",
+                    "uniqueactionid": "MPP",
+                    "title": "Manifest Psychic Power",
+                    "description": "Psychic Action. Resolve a LEGIONARY psychic power as specified below.\nThis operative cannot perform this action while within Engagement Range of an enemy operative.\n<br/><br/>The first time a friendly LEGIONARY PSYKER operative performs the Manifest Psychic Power action in each of its activations, select one psychis power from the list below to be resolved.<br/>\nIf a friendly LEGIONARY PSYKER operative can perform the Manifest Psychic Power action twice in its activation\n(e.g. it is equipped with the Pages or Scabrius), when it does so, roll 1D6: on a 1-2, that friendly operative suffers 3 Mortal Wounds; on a 3+ select one psychic power from the list below to be resolved.\nYou cannot select a psychic power that you have already resolved during this Turning Point.\n<br/><br/>\n<strong>Fireblast</strong><br/>\nPerform a free Shoot action using the following ranged weapon:<br/>\n<table class=\"eqtable\" width=\"100%\">\n <tbody><tr>\n <th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n <td>Fireblast</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>3/4</td>\n     </tr>\n     <tr>\n <th colspan=\"4\">Special Rules</th>\n </tr>\n     <tr>\n <td colspan=\"4\">No Cover, Blast [CIRCLE], Splash 1</td>\n </tr>\n </tbody></table>\n<br/><br/>\n<strong>Malign Influence</strong><br/>\nSelect one friendly LEGIONARY operative Visible to this operative.\nUntil the end of the Turning Point, weapons that operative is equipped with gain the\nLethal 5+, No Cover, and Brutal special rules.\n<br/><br/>\n<strong>Life Syphon</strong><br/>\nPerform a free Shoot action using the following ranged weapon:<br/>\n<table class=\"eqtable\" width=\"100%\">\n <tbody><tr>\n <th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n <td>LIfe Syphon</td>\n         <td>5</td>\n         <td>3+</td>\n         <td>3/3</td>\n     </tr>\n     <tr>\n <th colspan=\"4\">Special Rules</th>\n </tr>\n     <tr>\n <td colspan=\"4\">Siphon Life Force</td>\n </tr>\n </tbody></table>\n<strong>*Siphon Life Force: </strong>\nEach time a friendly operative makes a shooting attack with this weapon, in the Resolve Successful Hits step of that shooting attack,\nif you resolve two or more attack dice, you can select one friendly LEGIONARY operative within [PENT] of the target to regain D3 lost wounds.\n",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "BA",
+                    "abilityid": "CB",
+                    "title": "Chaos Blessing",
+                    "description": "This operative gains one ability from those listed below.\nThe ability it gains depends on its MARK OF CHAOS keyword.<br/><br/>\n<strong>KHORNE - Wrathful Onslaught</strong><br/>\nEach time this operative fights in combat, in the Resolve Successful Hits step of that combat,\nif you did not retain any critical hits, you can strike with one normal hit as if it were a critical hit.\n<br/><br/>\n<strong>NURGLE - Disgusting Vigour</strong><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of\nthat shooing attack, you can retain one normal save as a critical save.\n<br/><br/>\n<strong>SLAANESH - Unnatural Agility</strong><br/>\nAdd [TRI] to this operative's Movement characteristic.\n<br/><br/>\n<strong>TZEENTCH - Empyreal Guidance</strong><br/>\nEach time this operative makes a shooting attack, in the Roll Attack Dice step of that\nshooting attack, you can retain one of your attack dice results of + that is a sucessful hit as a critical hit.\n<br/><br/>\n<strong>UNDIVIDED - Vicious Reavers</strong><br/>\nEach time this operative fights in combat or makes a shooting attack, in the Roll Attack Dice\nstep of that combat or shooting attack, if the target is within [PENT] of it, you can\nre-roll one of your attack dice."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "BA",
+                    "abilityid": "HOS",
+                    "title": "Hatred Of Sorcery",
+                    "description": "This operative's MARK OF CHAOS keyword cannot be replaced with KHORNE."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "CHAOS",
+                "killteamid": "LEG",
+                "fireteamid": "LEG",
+                "opid": "BUT",
+                "opname": "Legionary Butcher",
+                "description": "Bloodthirsty madmen, Butchers are Heretic Astartes that fight without subtlety of any kind in combat. They deal furious strikes with their enormous Chain Axes, which can carve enemies to pieces.",
+                "M": "3[CIRCLE]",
+                "APL": "3",
+                "GA": "1",
+                "DF": "3",
+                "SV": "3+",
+                "W": "12",
+                "keywords": "LEGIONARY, CHAOS, HERETIC ASTARTES, <LEGION>, <MARK OF CHAOS>, LEGIONARY BUTCHER",
+                "weapons": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "BUT",
+                    "wepid": "BP",
+                    "wepname": "Bolt Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "BUT",
+                        "wepid": "BP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "BUT",
+                    "wepid": "DHCA",
+                    "wepname": "Double-Handed Chain Axe",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "BUT",
+                        "wepid": "DHCA",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "5/7",
+                        "SR": "Vicious Blows, Reap 2"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "BUT",
+                    "abilityid": "CB",
+                    "title": "Chaos Blessing",
+                    "description": "This operative gains one ability from those listed below.\nThe ability it gains depends on its MARK OF CHAOS keyword.<br/><br/>\n<strong>KHORNE - Wrathful Onslaught</strong><br/>\nEach time this operative fights in combat, in the Resolve Successful Hits step of that combat,\nif you did not retain any critical hits, you can strike with one normal hit as if it were a critical hit.\n<br/><br/>\n<strong>NURGLE - Disgusting Vigour</strong><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of\nthat shooing attack, you can retain one normal save as a critical save.\n<br/><br/>\n<strong>SLAANESH - Unnatural Agility</strong><br/>\nAdd [TRI] to this operative's Movement characteristic.\n<br/><br/>\n<strong>TZEENTCH - Empyreal Guidance</strong><br/>\nEach time this operative makes a shooting attack, in the Roll Attack Dice step of that\nshooting attack, you can retain one of your attack dice results of + that is a sucessful hit as a critical hit.\n<br/><br/>\n<strong>UNDIVIDED - Vicious Reavers</strong><br/>\nEach time this operative fights in combat or makes a shooting attack, in the Roll Attack Dice\nstep of that combat or shooting attack, if the target is within [PENT] of it, you can\nre-roll one of your attack dice."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "BUT",
+                    "abilityid": "DO",
+                    "title": "Devastating Onslaught",
+                    "description": "<ul>\n<li>Each time this operative fights in combat, enemy operatives within Engagement Range of it cannot provide combat support for that combat</li>\n<li>For the purposes of Dash, Fall Back, and Normal Move actions enemy operatives would perform, treat the distance of the operative's Engagement Range\nas [CIRCLE] for that action (instead of [TRI]).\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "CHAOS",
+                "killteamid": "LEG",
+                "fireteamid": "LEG",
+                "opid": "CHO",
+                "opname": "Legionary Chosen",
+                "description": "Chosen are amongst the most experienced and dedicated Heretic Astartes. They are favoured within their bitter brotherhoods, wearing baroque armour and equipped with the finest wargear. They are more hard-bitten and callous than even others of their kind.",
+                "M": "3[CIRCLE]",
+                "APL": "3",
+                "GA": "1",
+                "DF": "3",
+                "SV": "3+",
+                "W": "13",
+                "keywords": "LEGIONARY, CHAOS, HERETIC ASTARTES, <LEGION>, <MARK OF CHAOS>, LEADER, LEGIONARY CHOSEN",
+                "weapons": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "CHO",
+                    "wepid": "PP",
+                    "wepname": "Plasma Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "CHO",
+                        "wepid": "PP",
+                        "profileid": "0",
+                        "name": "Standard",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "5/6",
+                        "SR": "Rng [PENT], AP1"
+                      },
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "CHO",
+                        "wepid": "PP",
+                        "profileid": "1",
+                        "name": "Supercharge",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "5/6",
+                        "SR": "Rng [PENT], AP2, Hot"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "CHO",
+                    "wepid": "TBP",
+                    "wepname": "Tainted Bolt Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "CHO",
+                        "wepid": "TBP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT], Bal"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "CHO",
+                    "wepid": "DB",
+                    "wepname": "Daemonic Blade",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "CHO",
+                        "wepid": "DB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "2+",
+                        "D": "4/7",
+                        "SR": "Lethal 5+"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "CHO",
+                    "abilityid": "CB",
+                    "title": "Chaos Blessing",
+                    "description": "This operative gains one ability from those listed below.\nThe ability it gains depends on its MARK OF CHAOS keyword.<br/><br/>\n<strong>KHORNE - Wrathful Onslaught</strong><br/>\nEach time this operative fights in combat, in the Resolve Successful Hits step of that combat,\nif you did not retain any critical hits, you can strike with one normal hit as if it were a critical hit.\n<br/><br/>\n<strong>NURGLE - Disgusting Vigour</strong><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of\nthat shooing attack, you can retain one normal save as a critical save.\n<br/><br/>\n<strong>SLAANESH - Unnatural Agility</strong><br/>\nAdd [TRI] to this operative's Movement characteristic.\n<br/><br/>\n<strong>TZEENTCH - Empyreal Guidance</strong><br/>\nEach time this operative makes a shooting attack, in the Roll Attack Dice step of that\nshooting attack, you can retain one of your attack dice results of + that is a sucessful hit as a critical hit.\n<br/><br/>\n<strong>UNDIVIDED - Vicious Reavers</strong><br/>\nEach time this operative fights in combat or makes a shooting attack, in the Roll Attack Dice\nstep of that combat or shooting attack, if the target is within [PENT] of it, you can\nre-roll one of your attack dice."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "CHO",
+                    "abilityid": "DA",
+                    "title": "Daemonic Aura",
+                    "description": "Each time an enemy operative starts a Fall Back action while within Engagement Range of this operative,\nreduce the distance that enemy operative can move by 2 [CIRCLE] (to a minimum of [CIRCLE])."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "CHO",
+                    "abilityid": "FOTDG",
+                    "title": "Favoured Of The Dark Gods",
+                    "description": "Once per Turning Point, when it is your turn to use a Strategic Ploy, if any friendly\noperatives with this ability are in the killzone, you can use a Strategic Ploy without\nspending any CPs; that Strategic Ploy must have the same MARK OF CHAOS selectable keyword as one friendly operative with this ability.\nFor exmaple, if an operative with this ability has the KHORNE keyword, you could use the\nBlood For The Blood God Strategic Ploy. If an operative with this ability as the UNDIVIDED\nkeyword, you can use the following Strategic Ploys for this ability instead:\nHateful Assault, Malicious Volleys."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "CHO",
+                    "abilityid": "SF",
+                    "title": "Soul Feast",
+                    "description": "Each time this operative fights in combat, in the Resolve Successful Hits step of that combat, if any of their strikes\ninflict Critical Damage, this operative regains 2 lost wounds."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "CHAOS",
+                "killteamid": "LEG",
+                "fireteamid": "LEG",
+                "opid": "GNR",
+                "opname": "Legionary Gunner",
+                "description": "Armed with flamers, Heretic Astartes burn through swathes of light enemy infantry. With Meltaguns they destroy armoured bunkers and with Plasma Guns they pose a threat to the heaviest of enemy troops",
+                "M": "3[CIRCLE]",
+                "APL": "3",
+                "GA": "1",
+                "DF": "3",
+                "SV": "3+",
+                "W": "12",
+                "keywords": "LEGIONARY, CHAOS, HERETIC ASTARTES, <LEGION>, <MARK OF CHAOS>, LEGIONARY GUNNER",
+                "weapons": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "GNR",
+                    "wepid": "FL",
+                    "wepname": "Flamer",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "GNR",
+                        "wepid": "FL",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "2+",
+                        "D": "2/2",
+                        "SR": "Rng [PENT], Torrent [CIRCLE]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "GNR",
+                    "wepid": "MG",
+                    "wepname": "Meltagun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "GNR",
+                        "wepid": "MG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "6/3",
+                        "SR": "Rng [PENT], AP2, MW4"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "GNR",
+                    "wepid": "PG",
+                    "wepname": "Plasma Gun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "GNR",
+                        "wepid": "PG",
+                        "profileid": "0",
+                        "name": "Standard",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "5/6",
+                        "SR": "AP1"
+                      },
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "GNR",
+                        "wepid": "PG",
+                        "profileid": "1",
+                        "name": "Supercharge",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "5/6",
+                        "SR": "AP2, Hot"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "GNR",
+                    "wepid": "F",
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "GNR",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "GNR",
+                    "abilityid": "CB",
+                    "title": "Chaos Blessing",
+                    "description": "This operative gains one ability from those listed below.\nThe ability it gains depends on its MARK OF CHAOS keyword.<br/><br/>\n<strong>KHORNE - Wrathful Onslaught</strong><br/>\nEach time this operative fights in combat, in the Resolve Successful Hits step of that combat,\nif you did not retain any critical hits, you can strike with one normal hit as if it were a critical hit.\n<br/><br/>\n<strong>NURGLE - Disgusting Vigour</strong><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of\nthat shooing attack, you can retain one normal save as a critical save.\n<br/><br/>\n<strong>SLAANESH - Unnatural Agility</strong><br/>\nAdd [TRI] to this operative's Movement characteristic.\n<br/><br/>\n<strong>TZEENTCH - Empyreal Guidance</strong><br/>\nEach time this operative makes a shooting attack, in the Roll Attack Dice step of that\nshooting attack, you can retain one of your attack dice results of + that is a sucessful hit as a critical hit.\n<br/><br/>\n<strong>UNDIVIDED - Vicious Reavers</strong><br/>\nEach time this operative fights in combat or makes a shooting attack, in the Roll Attack Dice\nstep of that combat or shooting attack, if the target is within [PENT] of it, you can\nre-roll one of your attack dice."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "CHAOS",
+                "killteamid": "LEG",
+                "fireteamid": "LEG",
+                "opid": "HGNR",
+                "opname": "Legionary Heavy Gunner",
+                "description": "Heretic Astartes bearing heavy weapons provide devastating anti-infantry and anti-armour firepower, dominating large swathes of any killzone.",
+                "M": "3[CIRCLE]",
+                "APL": "3",
+                "GA": "1",
+                "DF": "3",
+                "SV": "3+",
+                "W": "12",
+                "keywords": "LEGIONARY, CHAOS, HERETIC ASTARTES, <LEGION>, <MARK OF CHAOS>, LEGIONARY HEAVY GUNNER",
+                "weapons": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "HGNR",
+                    "wepid": "HB",
+                    "wepname": "Heavy Bolter",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "HGNR",
+                        "wepid": "HB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "Hvy, Fus, P1"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "HGNR",
+                    "wepid": "ML",
+                    "wepname": "Missile Launcher",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "HGNR",
+                        "wepid": "ML",
+                        "profileid": "0",
+                        "name": "Frag",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/5",
+                        "SR": "Blast [CIRCLE], Hvy"
+                      },
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "HGNR",
+                        "wepid": "ML",
+                        "profileid": "1",
+                        "name": "Krak",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "5/7",
+                        "SR": "AP1, Hvy"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "HGNR",
+                    "wepid": "RCC",
+                    "wepname": "Reaper Chaincannon",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "HGNR",
+                        "wepid": "RCC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "6",
+                        "BS": "3+",
+                        "D": "3/5",
+                        "SR": "Ceaseless, Fus, Hvy"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "HGNR",
+                    "wepid": "F",
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "HGNR",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "HGNR",
+                    "abilityid": "CB",
+                    "title": "Chaos Blessing",
+                    "description": "This operative gains one ability from those listed below.\nThe ability it gains depends on its MARK OF CHAOS keyword.<br/><br/>\n<strong>KHORNE - Wrathful Onslaught</strong><br/>\nEach time this operative fights in combat, in the Resolve Successful Hits step of that combat,\nif you did not retain any critical hits, you can strike with one normal hit as if it were a critical hit.\n<br/><br/>\n<strong>NURGLE - Disgusting Vigour</strong><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of\nthat shooing attack, you can retain one normal save as a critical save.\n<br/><br/>\n<strong>SLAANESH - Unnatural Agility</strong><br/>\nAdd [TRI] to this operative's Movement characteristic.\n<br/><br/>\n<strong>TZEENTCH - Empyreal Guidance</strong><br/>\nEach time this operative makes a shooting attack, in the Roll Attack Dice step of that\nshooting attack, you can retain one of your attack dice results of + that is a sucessful hit as a critical hit.\n<br/><br/>\n<strong>UNDIVIDED - Vicious Reavers</strong><br/>\nEach time this operative fights in combat or makes a shooting attack, in the Roll Attack Dice\nstep of that combat or shooting attack, if the target is within [PENT] of it, you can\nre-roll one of your attack dice."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "CHAOS",
+                "killteamid": "LEG",
+                "fireteamid": "LEG",
+                "opid": "IB",
+                "opname": "Legionary Icon Bearer",
+                "description": "Many Heretic Astartes kill teams include Icon Bearers - warriors bearing totems, banners, or standards dedicated to the glory of the Dark Gods.",
+                "M": "3[CIRCLE]",
+                "APL": "3",
+                "GA": "1",
+                "DF": "3",
+                "SV": "3+",
+                "W": "12",
+                "keywords": "LEGIONARY, CHAOS, HERETIC ASTARTES, <LEGION>, <MARK OF CHAOS>, LEGIONARY ICON BEARER",
+                "weapons": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "IB",
+                    "wepid": "BP",
+                    "wepname": "Bolt PIstol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "IB",
+                        "wepid": "BP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "IB",
+                    "wepid": "BG",
+                    "wepname": "Boltgun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "IB",
+                        "wepid": "BG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "IB",
+                    "wepid": "CS",
+                    "wepname": "Chainsword",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "IB",
+                        "wepid": "CS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "IB",
+                    "wepid": "F",
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "IB",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "IB",
+                    "abilityid": "CB",
+                    "title": "Chaos Blessing",
+                    "description": "This operative gains one ability from those listed below.\nThe ability it gains depends on its MARK OF CHAOS keyword.<br/><br/>\n<strong>KHORNE - Wrathful Onslaught</strong><br/>\nEach time this operative fights in combat, in the Resolve Successful Hits step of that combat,\nif you did not retain any critical hits, you can strike with one normal hit as if it were a critical hit.\n<br/><br/>\n<strong>NURGLE - Disgusting Vigour</strong><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of\nthat shooing attack, you can retain one normal save as a critical save.\n<br/><br/>\n<strong>SLAANESH - Unnatural Agility</strong><br/>\nAdd [TRI] to this operative's Movement characteristic.\n<br/><br/>\n<strong>TZEENTCH - Empyreal Guidance</strong><br/>\nEach time this operative makes a shooting attack, in the Roll Attack Dice step of that\nshooting attack, you can retain one of your attack dice results of + that is a sucessful hit as a critical hit.\n<br/><br/>\n<strong>UNDIVIDED - Vicious Reavers</strong><br/>\nEach time this operative fights in combat or makes a shooting attack, in the Roll Attack Dice\nstep of that combat or shooting attack, if the target is within [PENT] of it, you can\nre-roll one of your attack dice."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "IB",
+                    "abilityid": "FOTDG",
+                    "title": "Favoured Of The Dark Gods",
+                    "description": "Once per Turning Point, when it is your turn to use a Strategic Ploy, if any friendly\noperatives with this ability are in the killzone, you can use a Strategic Ploy without\nspending any CPs; that Strategic Ploy must have the same MARK OF CHAOS selectable keyword as one friendly operative with this ability.\nFor exmaple, if an operative with this ability has the KHORNE keyword, you could use the\nBlood For The Blood God Strategic Ploy. If an operative with this ability as the UNDIVIDED\nkeyword, you can use the following Strategic Ploys for this ability instead:\nHateful Assault, Malicious Volleys."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "IB",
+                    "abilityid": "IB",
+                    "title": "Icon Bearer",
+                    "description": "When determining control of an objective marker, treat this operative's APL characteristic\nas being 1 higher. Note that this is not a modifier. In narrative play, this is cumulative\nwith the Focused Battle Honour."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "CHAOS",
+                "killteamid": "LEG",
+                "fireteamid": "LEG",
+                "opid": "STL",
+                "opname": "Legionary ShriveTalon",
+                "description": "Inflicting pain and torture becomes a near-addiction for some Heretic Astartes. Those who embrace this propensity become known as ShriveTalons, and they stalk the battlefield looking for enemies to torment.",
+                "M": "3[CIRCLE]",
+                "APL": "3",
+                "GA": "1",
+                "DF": "3",
+                "SV": "3+",
+                "W": "12",
+                "keywords": "LEGIONARY, CHAOS, HERETIC ASTARTES, <LEGION>, <MARK OF CHAOS>, LEGIONARY SHRIVETALON",
+                "weapons": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "STL",
+                    "wepid": "BP",
+                    "wepname": "Bolt PIstol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "STL",
+                        "wepid": "BP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "STL",
+                    "wepid": "FB",
+                    "wepname": "Flensing Blades",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "STL",
+                        "wepid": "FB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "3+",
+                        "D": "3/5",
+                        "SR": "Lethal 5+"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "STL",
+                    "uniqueactionid": "GM",
+                    "title": "Grisly Mark",
+                    "description": "Place a Grisly Mark token within [TRI] of this operative.\nThis operative can only perform this action once, and cannot perform this action if it is within Engagement Range of an enemy operative.<br/>\n<ul>\n<li>Each time an enemy operative would perform a mission action of the Pick Up action, if that enemy operative is within [SQUARE]\nof your Grisly Mark token, one additional action point must be subtracted to perform that action.</li>\n<li>When determining control of an objective marker that Grisly Mark token is within [SQUARE] of, treat\nenemy operative's APL as being 1 less. Note that this is not a modifier.</li>\n</ul>",
+                    "AP": 2
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "STL",
+                    "abilityid": "CB",
+                    "title": "Chaos Blessing",
+                    "description": "This operative gains one ability from those listed below.\nThe ability it gains depends on its MARK OF CHAOS keyword.<br/><br/>\n<strong>KHORNE - Wrathful Onslaught</strong><br/>\nEach time this operative fights in combat, in the Resolve Successful Hits step of that combat,\nif you did not retain any critical hits, you can strike with one normal hit as if it were a critical hit.\n<br/><br/>\n<strong>NURGLE - Disgusting Vigour</strong><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of\nthat shooing attack, you can retain one normal save as a critical save.\n<br/><br/>\n<strong>SLAANESH - Unnatural Agility</strong><br/>\nAdd [TRI] to this operative's Movement characteristic.\n<br/><br/>\n<strong>TZEENTCH - Empyreal Guidance</strong><br/>\nEach time this operative makes a shooting attack, in the Roll Attack Dice step of that\nshooting attack, you can retain one of your attack dice results of + that is a sucessful hit as a critical hit.\n<br/><br/>\n<strong>UNDIVIDED - Vicious Reavers</strong><br/>\nEach time this operative fights in combat or makes a shooting attack, in the Roll Attack Dice\nstep of that combat or shooting attack, if the target is within [PENT] of it, you can\nre-roll one of your attack dice."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "STL",
+                    "abilityid": "HDM",
+                    "title": "Horrifying Dismemberment",
+                    "description": "Each time this operative fights in combat, if it incapacitates an enemy operative, select one enemy operative within [SQUARE] of it.\nSubtract 1 from that enemy operative's APL."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "STL",
+                    "abilityid": "VR",
+                    "title": "Vicious Reflexes",
+                    "description": "Each time this operative fights in combat, in the Resolve Successful Hites step of that combat,\nif you are the Defender, then you start instead of the Attacker when resolving successful hits."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "CHAOS",
+                "killteamid": "LEG",
+                "fireteamid": "LEG",
+                "opid": "WAR",
+                "opname": "Legionary Warrior",
+                "description": "Heretic Astartes are posthuman warriors with the natural strength, speed, resilience, and mental acuity of such beings. Now they have turned against the Imperium.",
+                "M": "3[CIRCLE]",
+                "APL": "3",
+                "GA": "1",
+                "DF": "3",
+                "SV": "3+",
+                "W": "12",
+                "keywords": "LEGIONARY, CHAOS, HERETIC ASTARTES, <LEGION>, <MARK OF CHAOS>, LEGIONARY WARRIOR",
+                "weapons": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "WAR",
+                    "wepid": "BP",
+                    "wepname": "Bolt Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "WAR",
+                        "wepid": "BP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "WAR",
+                    "wepid": "BG",
+                    "wepname": "Boltgun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "WAR",
+                        "wepid": "BG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "WAR",
+                    "wepid": "CS",
+                    "wepname": "Chainsword",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "WAR",
+                        "wepid": "CS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "WAR",
+                    "wepid": "F",
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "WAR",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "WAR",
+                    "abilityid": "CB",
+                    "title": "Chaos Blessing",
+                    "description": "This operative gains one ability from those listed below.\nThe ability it gains depends on its MARK OF CHAOS keyword.<br/><br/>\n<strong>KHORNE - Wrathful Onslaught</strong><br/>\nEach time this operative fights in combat, in the Resolve Successful Hits step of that combat,\nif you did not retain any critical hits, you can strike with one normal hit as if it were a critical hit.\n<br/><br/>\n<strong>NURGLE - Disgusting Vigour</strong><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of\nthat shooing attack, you can retain one normal save as a critical save.\n<br/><br/>\n<strong>SLAANESH - Unnatural Agility</strong><br/>\nAdd [TRI] to this operative's Movement characteristic.\n<br/><br/>\n<strong>TZEENTCH - Empyreal Guidance</strong><br/>\nEach time this operative makes a shooting attack, in the Roll Attack Dice step of that\nshooting attack, you can retain one of your attack dice results of + that is a sucessful hit as a critical hit.\n<br/><br/>\n<strong>UNDIVIDED - Vicious Reavers</strong><br/>\nEach time this operative fights in combat or makes a shooting attack, in the Roll Attack Dice\nstep of that combat or shooting attack, if the target is within [PENT] of it, you can\nre-roll one of your attack dice."
+                  }
+                ],
+                "fireteammax": 0
+              }
+            ],
+            "fireteamcomp": "A LEGIONARY kill team consists of:\n<ul>\n    <li>\n        1 LEGIONARY operative selected from the following list:\n        <ul>\n            <li>\n                LEGIONARY CHOSEN operative equipped with one option from each of the following:\n                <ul>\n                    <li>Plasma Pistol or Tainted Bolt Pistol</li>\n                    <li>Daemon Blade</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY ASPIRING CHAMPION operative equipped with one option from each of the following:\n                <ul>\n                    <li>Plasma Pistol or Tainted Bolt Pistol</li>\n                    <li>Tainted Chainsword, Power Weapon, Power First, or Power Maul</li>\n                </ul>\n            </li>\n        </ul>\n    </li>\n    <li>\n        5 LEGIONARY operatives selected from the following list:\n        <ul>\n            <li>\n                LEGIONARY WARRIOR operative equipped with one of the following options:\n                <ul>\n                    <li>Boltgun and Fists</li>\n                    <li>Bolt Pistol and Chainsword</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY GUNNER operative equipped with one of the following options:\n                <ul>\n                    <li>Flamer and Fists</li>\n                    <li>Meltagun and Fists</li>\n                    <li>Plasma Gun and Fists</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY HEAVY GUNNER operative equipped with one of the following options:\n                <ul>\n                    <li>Heavy Bolter and Fists</li>\n                    <li>Missile Launcher and Fists</li>\n                    <li>Reaper Chaincannon and Fists</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY ICON BEARER operative equipped with one of the following options:\n                <ul>\n                    <li>Boltgun and Fists</li>\n                    <li>Bolt Pistol and Chainsword</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY ANOINTED\n            </li>\n            <li>\n                LEGIONARY BUTCHER\n            </li>\n            <li>\n                LEGIONARY BALEFIRE ACOLYTE\n            </li>\n            <li>\n                LEGIONARY SHRIVETALON\n            </li>\n        </ul>\n    </li>\n</ul>\n<br/>\nOther than WARRIOR operatives, your kill team can only include each operative above once."
+          }
+        ]
+      },
+      {
+        "factionid": "CHAOS",
         "killteamid": "CSM",
         "killteamname": "Traitor Space Marines",
         "description": "Chaos Space Marines, also sometimes called Traitor Marines, Renegade Marines, or Heretic Astartes, are former Space Marines of the Imperium of Man who have chosen to abandon the service of the Emperor of Mankind and dedicate themselves to Chaos to achieve their own ends.\n<br/><br/> \n Such corrupt Astartes usually belong to one of the nine original Traitor Legions that betrayed the Emperor during the ancient civil war called the Horus Heresy more than 10,000 standard years ago, while others come from Space Marine Chapters created long after the Heresy ended that have turned Renegade. Chaos can corrupt Astartes of any time and place just as its siren call leads many lesser men and women to their damnation.",
