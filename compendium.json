@@ -944,6 +944,1427 @@
       },
       {
         "factionid": "AEL",
+        "killteamid": "COR",
+        "killteamname": "Corsair Voidscarred",
+        "description": "Aeldari Corsairs or Anhrathe are bands of piratical Aeldari Outcasts. They are a constant threat to merchant shipping, though very rarely pose a threat to a major Imperial battlefleet.<br/><br/>\nThere are many bands of so-called Corsairs scattered across the galaxy, and all are savage and deadly raiders. Outcasts from the strict confines of the Craftworlds, the Corsairs live in self-imposed exile, seeking to explore the galaxy and experience the full gamut of emotion and sensation accessible to the Eldar’s sensitive psyche.",
+        "ploys": {
+          "strat": [
+            {
+              "factionid": "AEL",
+              "killteamid": "COR",
+              "ployid": "AA",
+              "ployname": "Aeldari Agility",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a friendly CORSAIR VOIDSCARRED operative is activated,\nit can use its Aeldari Agility. \nIf it does so, it cannot perform Fight or Shoot actions during that activation, but each time it performs a Dash, Fall Back, or Normal Move action during this activation,\nit can move an additional [TRI] for that action."
+            },
+            {
+              "factionid": "AEL",
+              "killteamid": "COR",
+              "ployid": "OC",
+              "ployname": "Outcasts",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a friendly CORSAIR VOIDSCARRED operative fights in combat or makes a shooting attack,\nin the Roll Attack Dice step of that combat or shooting attack, if it is more than [PENT] from friendly operatives,\nif you retain any critical hits, you can select one of your failed hits to be retained as a successful normal hit."
+            },
+            {
+              "factionid": "AEL",
+              "killteamid": "COR",
+              "ployid": "PL",
+              "ployname": "Plunderers",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Select up to three friendly CORSAIR VOIDSCARRED operatives.\nEach of those operatives can immediately perform a free Dash action.\nWhen doing so, if the mission you areplaying has any objective markers that are not\nbeing carried by operatives, each selected operative must end their Dash action closer\nto the nearest objective marker."
+            },
+            {
+              "factionid": "AEL",
+              "killteamid": "COR",
+              "ployid": "RS",
+              "ployname": "Rapid Strike",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a friendly CORSAIR VOIDSCARRED operative fights in combat,\nin the Roll Attack Dice step of that combat, if you are the Attacker and the target is not ready, you can select one of your normal hits to be retained as a critical hit."
+            }
+          ],
+          "tac": [
+            {
+              "factionid": "AEL",
+              "killteamid": "COR",
+              "ployid": "DA",
+              "ployname": "Deadly Ambush",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy after an enemy operative finishes an action in which it moved.\nSelect one friendly CORSAIR VOIDSCARRED operative that is not within Engagement Range of an enemy operative.\nThat friendly operative can immediately perform a free Charge action, but can only move up to [SQUARE] and must finish that move within Engagement Range of that enemy operative (otherwise it cannot move)."
+            },
+            {
+              "factionid": "AEL",
+              "killteamid": "COR",
+              "ployid": "LF",
+              "ployname": "Light Fingers",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy during a friendly CORSAIR VOIDSCARRED operative's activations.\nUntil the end of that activation, that operative can perform for free either one mission action or the Pick Up action,\neven if it is within Engagement Range of an enemy operative."
+            },
+            {
+              "factionid": "AEL",
+              "killteamid": "COR",
+              "ployid": "OF",
+              "ployname": "Opportunnity Fighters",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy when an enemy operative performs a Fall Back action.\nBefore it moves, that enemy operative suffers D3 Mortal Wounds for each friendly CORSAIR VOIDSCARRED operative within Engagement Range of it."
+            },
+            {
+              "factionid": "AEL",
+              "killteamid": "COR",
+              "ployid": "OSA",
+              "ployname": "One Step Ahead",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy at the end of the initiative phase of the first Turning Point.\nYou can redeploy up to two friendly CORSAIR VOIDSCARRED operatives.\nThey must be set up wholly within your deployment zone and you can change their order."
+            }
+          ]
+        },
+        "equipments": [
+          {
+            "factionid": "AEL",
+            "killteamid": "COR",
+            "eqid": "CB",
+            "eqname": "Corsair Blade",
+            "eqdescription": "The operative is equipped with the following melee weapon for the battle:<br/>\n<table class=\"eqtable\" width=\"100%\">\n<tbody><tr>\n<th>Name</th>\n<th>A</th>\n<th>BS</th>\n<th>D</th>\n</tr>\n<tr>\n<td>Corsair Blade</td>\n<td>3</td>\n<td>3+</td>\n<td>3/4</td>\n</tr>\n</tbody></table>",
+            "eqpts": "1"
+          },
+          {
+            "factionid": "AEL",
+            "killteamid": "COR",
+            "eqid": "DM",
+            "eqname": "Diuturnal Mantle",
+            "eqdescription": "The operative gains the following ability for the battle:<br/>\n<strong>Diuturnal Mantle:</strong>\nEach time a shooting attack is made against this operative, if the ranged weapon has the Torrent or Blast special rule, this operative is treated as having a Save characteristic of 3+ for that shooting attack.",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "AEL",
+            "killteamid": "COR",
+            "eqid": "LH",
+            "eqname": "Lodestar Helm*",
+            "eqdescription": "VOIDSCARRED WAY SEEKER operative only.<br/>\nThe operative gains the following ability for the battle:<br/>\n<strong>Lodestar Helm:</strong>\nThe second time this operative performs the Manifest Psychic Power action in each of its activations,\nit does not suffer any Mortal Wounds as a result of rolling a 1-2 (note this does not allow you to select a psychic power to be resolved).",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "AEL",
+            "killteamid": "COR",
+            "eqid": "MF",
+            "eqname": "Mistfield*",
+            "eqdescription": "VOIDSCARRED FELARCH operative only.<br/>\nThe operative gains the following ability for the battle:<br/>\n<strong>Mistfield:</strong>\nWhile a friendly CORSAIR VOIDSCARRED operative is within [CIRCLE] of this operative, that operative has a 5+ Invulnerable Save.",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "AEL",
+            "killteamid": "COR",
+            "eqid": "OS",
+            "eqname": "Ocular Scanner*",
+            "eqdescription": "The operative can performthe following action during the battle:<br/>\n<strong>Ocular Scanner (1 AP):</strong><br/>\nUntil the end of this operative's activation, the ranged weapons it is equipped with gain the No Cover special rule.",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "AEL",
+            "killteamid": "COR",
+            "eqid": "PC",
+            "eqname": "Pathfinder Cloak*",
+            "eqdescription": "VOIDSCARRED FATE DEALER operative only.<br/>\nThe operative gains the following ability for the battle:<br/>\n<strong>Pathfinder Cloak:</strong>\nWhile this operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).",
+            "eqpts": "2"
+          },
+          {
+            "factionid": "AEL",
+            "killteamid": "COR",
+            "eqid": "PG",
+            "eqname": "Plasma Grenade",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br/>\n<table class=\"eqtable\" width=\"100%\">\n<tbody><tr>\n<th>Name</th>\n<th>A</th>\n<th>BS</th>\n<th>D</th>\n</tr>\n<tr>\n<td>Plasma Grenade</td>\n<td>4</td>\n<td>3+</td>\n<td>3/4</td>\n</tr>\n<tr>\n<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n<td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Lim, Indirect</td>\n</tr>\n</tbody></table>",
+            "eqpts": "3"
+          },
+          {
+            "factionid": "AEL",
+            "killteamid": "COR",
+            "eqid": "ROP",
+            "eqname": "Runes Of Protection",
+            "eqdescription": "The operative gains the following ability for the battle:<br/>\n<strong>Runes Of Protection:</strong>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack,\nif that shooting attack was made as a result of the Manifest Psychic Power action, you can re-roll any or all of your defence dice.",
+            "eqpts": "2"
+          }
+        ],
+        "killteamcomp": "A CORSAIR VOIDSCARRED kill team consists of:\n<ul>\n    <li>\n        1 VOIDSCARRED FELARCH operative equipped with one of the following options:\n        <ul>\n            <li>Shuriken Rifle, Shuriken Pistol, Power Weapon</li>\n            <li>Neuro Disruptor, Power Weapon</li>\n        </ul>\n    </li>\n    <li>\n        8 CORSAIR VOIDSCARRED operatives selected from the following list:\n        <ul>\n            <li>\n                VOIDSCARRED WARRIOR equipped with one of the following options:\n                <ul>\n                    <li>Shuriken Pistol, Power Weapon</li>\n                    <li>Shuriken Rifle, Shuriken Pistol, Fists</li>\n                </ul>\n            </li>\n            <li>\n                VOIDSCARRED GUNNER equipped with a Shuriken Pistol, Fists, and one of the following options:\n                <ul>\n                    <li>Blaster or Shredded</li>\n                </ul>\n            </li>\n            <li>\n                VOIDSCARRED HEAVY GUNNER equipped with a Shuriken Pistol, Fists, and one of the following options:\n                <ul>\n                    <li>Shuriken Cannon or Wraithcannon</li>\n                </ul>\n            </li>\n            <li>\n                VOIDSCARRED STARSTORM DUELLIST\n            </li>\n            <li>\n                VOIDSCARRED KURNITE HUNTER\n            </li>\n            <li>\n                VOIDSCARRED SHADE RUNNER\n            </li>\n            <li>\n                VOIDSCARRED KURNATHI\n            </li>\n            <li>\n                VOIDSCARRED FATE DEALER\n            </li>\n            <li>\n                VOIDSCARRED WAY SEEKER\n            </li>\n            <li>\n                VOIDSCARRED SOUL WEAVER\n            </li>\n        </ul>\n    </li>\n</ul>\nOther than VOIDSCARRED WARRIOR operatives, your kill team can only include each operative above once.\nYour kill team cannot include both a VOIDSCARRED GUNNER and a VOIDSCARRED HEAVY GUNNER operative.",
+        "fireteams": [
+          {
+            "factionid": "AEL",
+            "killteamid": "COR",
+            "fireteamid": "COR",
+            "fireteamname": "Corsair Voidscarred",
+            "archetype": "",
+            "description": "",
+            "killteammax": 0,
+            "operatives": [
+              {
+                "factionid": "AEL",
+                "killteamid": "COR",
+                "fireteamid": "COR",
+                "opid": "FD",
+                "opname": "Voidscarred Fate Dealer",
+                "description": "Once a Fate Dealer has an enemy in their sights, it is the mark of the unfortunate soul's death. Expert infiltrators, they hide in positions with greatest oversight of the whole battlefield, and are rendered all but invisible by camo cloaks.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "CORSAIR VOIDSCARRED, AELDARI, ANHRATHE, VOIDSCARRED FATE DEALER",
+                "weapons": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "FD",
+                    "wepid": "RLR",
+                    "wepname": "Ranger Long Rifle",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "FD",
+                        "wepid": "RLR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "3/3",
+                        "SR": "Hvy, Silent, MW3"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "FD",
+                    "wepid": "SP",
+                    "wepname": "Shuriken Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "FD",
+                        "wepid": "SP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT], Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "FD",
+                    "wepid": "F",
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "FD",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "FD",
+                    "uniqueactionid": "TA",
+                    "title": "Take Aim",
+                    "description": "Until the end of this operative's activation, the Ranger Long Rifle this operative is equipped with gains the Balanced special rule.\nThis operative cannot perform this action if it is within [SQUARE] of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "FD",
+                    "abilityid": "AR",
+                    "title": "Aeldari Raiders",
+                    "description": "Each time this operative is activated, it can perform a free Dash action during that activation."
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "FD",
+                    "abilityid": "CC",
+                    "title": "Camo Cloak",
+                    "description": "Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice, if it is in Cover, one additional die can be retained as a successful normal save as a result of Cover."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "AEL",
+                "killteamid": "COR",
+                "fireteamid": "COR",
+                "opid": "FA",
+                "opname": "Voidscarred Felarch",
+                "description": "Felarchs are veteran Corsairs, with centuries or even millenia of experience reaving the starts. They have fought countless different races and mastered numerous weapons, making them deadly enemies for any who face them.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "9",
+                "keywords": "CORSAIR VOIDSCARRED, AELDARI, ANHRATHE, LEADER, VOIDSCARRED FELARCH",
+                "weapons": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "FA",
+                    "wepid": "ND",
+                    "wepname": "Neuro Disruptor",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "FA",
+                        "wepid": "ND",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "4/5",
+                        "SR": "Rng [PENT], AP1, Stun"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "FA",
+                    "wepid": "SP",
+                    "wepname": "Shuriken Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "FA",
+                        "wepid": "SP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT], Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "FA",
+                    "wepid": "SR",
+                    "wepname": "Shuriken Rifle",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "FA",
+                        "wepid": "SR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "3/4",
+                        "SR": "Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "FA",
+                    "wepid": "PW",
+                    "wepname": "Power Weapon",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "FA",
+                        "wepid": "PW",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "4/6",
+                        "SR": "Lethal 5+"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "FA",
+                    "uniqueactionid": "TA",
+                    "title": "Take Aim",
+                    "description": "Until the end of this operative's activation, the Shuriken Rifle this operative is equipped with gains the Balanced special rule.\nThis operative cannot perform this action if it is within [SQUARE] of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "FA",
+                    "abilityid": "AR",
+                    "title": "Aeldari Raiders",
+                    "description": "Each time this operative is activated, it can perform a free Dash action during that activation."
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "FA",
+                    "abilityid": "CS",
+                    "title": "Coordinated Strike",
+                    "description": "Each time this operative is activated, you can select one ready friendly CORSAIR VOIDSCARRED operative Visible to and within [SQUARE] of this operative.\nAfter this operative's activation ends, you can activate that ready friendly operative."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "AEL",
+                "killteamid": "COR",
+                "fireteamid": "COR",
+                "opid": "GNR",
+                "opname": "Voidscarred Gunner",
+                "description": "Corsairs utilise weapons hailing from every Aeldari society. Shredders unleash an expanding mesh of monofilament, entangling foes in a net and slicing them apart, while Blasters use mysterious darklight technology, lethal even to the most armoured foe.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "CORSAIR VOIDSCARRED, AELDARI, ANHRATHE, VOIDSCARRED GUNNER",
+                "weapons": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "GNR",
+                    "wepid": "BL",
+                    "wepname": "Blaster",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "GNR",
+                        "wepid": "BL",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "5/6",
+                        "SR": "AP2"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "GNR",
+                    "wepid": "SH",
+                    "wepname": "Shredder",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "GNR",
+                        "wepid": "SH",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Blast [CIRCLE]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "GNR",
+                    "wepid": "SP",
+                    "wepname": "Shuriken Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "GNR",
+                        "wepid": "SP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT], Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "GNR",
+                    "wepid": "F",
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "GNR",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "GNR",
+                    "abilityid": "AR",
+                    "title": "Aeldari Raiders",
+                    "description": "Each time this operative is activated, it can perform a free Dash action during that activation."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "AEL",
+                "killteamid": "COR",
+                "fireteamid": "COR",
+                "opid": "HGNR",
+                "opname": "Voidscarred Heavy Gunner",
+                "description": "With rapid volleys of Shuriken fire, Corsairs can shred enemy infantry and provide cover for their coterie. Some Corsairs wield Wraithcannons. These weapons tear rifts between Warp and Realspace, ripping apart targets caught in the vortex.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "CORSAIR VOIDSCARRED, AELDARI, ANHRATHE, VOIDSCARRED HEAVY GUNNER",
+                "weapons": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "HGNR",
+                    "wepid": "SC",
+                    "wepname": "Shuriken Cannon",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "HGNR",
+                        "wepid": "SC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "Fus, Hvy, Unwieldy, Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "HGNR",
+                    "wepid": "SP",
+                    "wepname": "Shuriken PIstol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "HGNR",
+                        "wepid": "SP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT], Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "HGNR",
+                    "wepid": "WC",
+                    "wepname": "Wraithcannon",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "HGNR",
+                        "wepid": "WC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "6/3",
+                        "SR": "AP2, Hvy, Unwieldy, MW4"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "HGNR",
+                    "wepid": "F",
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "HGNR",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "HGNR",
+                    "abilityid": "AR",
+                    "title": "Aeldari Raiders",
+                    "description": "Each time this operative is activated, it can perform a free Dash action during that activation."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "AEL",
+                "killteamid": "COR",
+                "fireteamid": "COR",
+                "opid": "KU",
+                "opname": "Voidscarred Kurnathi",
+                "description": "The Kurnathi are true blademasters. Assassins all, they have learned their bloody trade in Asuryani Aspect Shrines, in the arenas of Commorragh, or even alongside the Harlequins. Now they put their skills to work however they see fit.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "CORSAIR VOIDSCARRED, AELDARI, ANHRATHE, VOIDSCARRED KURNATHI",
+                "weapons": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "KU",
+                    "wepid": "SP",
+                    "wepname": "Shuriken Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "KU",
+                        "wepid": "SP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT], Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "KU",
+                    "wepid": "DPW",
+                    "wepname": "Dual Power Weapons",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "KU",
+                        "wepid": "DPW",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/6",
+                        "SR": "Lethal 5+, Relentless"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "KU",
+                    "abilityid": "AR",
+                    "title": "Aeldari Raiders",
+                    "description": "Each time this operative is activated, it can perform a free Dash action during that activation."
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "KU",
+                    "abilityid": "BS",
+                    "title": "Bladed Stance",
+                    "description": "Each time this operative fights in combat, in the Resolve Successful Hits step of that combat, you can resolve one successful hit before the Attacker. If you do so, that successful hit must be used to parry."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "AEL",
+                "killteamid": "COR",
+                "fireteamid": "COR",
+                "opid": "KH",
+                "opname": "Voidscarred Kurnite Hunter",
+                "description": "These Corsairs known as Kurnite Hunters are followers of Kurnous, Aeldari god of the hunt. Their bond with creatures of the hunt, such as the Faolchú, is often stronger than that with their fellow Corsairs.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "CORSAIR VOIDSCARRED, AELDARI, ANHRATHE, VOIDSCARRED KURNITE HUNTER",
+                "weapons": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "KH",
+                    "wepid": "SP",
+                    "wepname": "Shuriken Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "KH",
+                        "wepid": "SP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT], Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "KH",
+                    "wepid": "PW",
+                    "wepname": "Power Weapon",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "KH",
+                        "wepid": "PW",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/6",
+                        "SR": "Lethal 5+"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "KH",
+                    "uniqueactionid": "FA",
+                    "title": "Faolchú",
+                    "description": "Select one enemy operative with a Conceal order that is Visible to this operative and roll 1D6, adding 1 to the result for each of the following:\n<ul>\n<li>That enemy operative is within [PENT] of this operative</li>\n<li>That enemy operative is not ready</li>\n<li>That enemy operative is not within [TRI] of Heavy cover</li>\n</ul>\nOn a 6+, until the end of the Turning Point, friendly CORSAIR VOIDSCARRED operatives\ntreat that enemy operative as if it has an Engage order. This operative cannot perform this action\nif it is within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "KH",
+                    "abilityid": "AR",
+                    "title": "Aeldari Raiders",
+                    "description": "Each time this operative is activated, it can perform a free Dash action during that activation."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "AEL",
+                "killteamid": "COR",
+                "fireteamid": "COR",
+                "opid": "SR",
+                "opname": "Voidscarred Shade Runner",
+                "description": "Shade Runners are experts at the surprise attack. Utilising their blink packs - which function in a similar manner to the Warp jump generators used by Warp Spiders of the Asuryani - they flank their enemies, striking with the swift, savage blows of their Hekatarii Blades.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "CORSAIR VOIDSCARRED, AELDARI, ANHRATHE, FLY, VOIDSCARRED SHADE RUNNER",
+                "weapons": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "SR",
+                    "wepid": "SP",
+                    "wepname": "Shuriken Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "SR",
+                        "wepid": "SP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT], Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "SR",
+                    "wepid": "TB",
+                    "wepname": "Throwing Blades",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "SR",
+                        "wepid": "TB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2/4",
+                        "SR": "Rng [PENT], Silent"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "SR",
+                    "wepid": "HB",
+                    "wepname": "Hekatarii Blades",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "SR",
+                        "wepid": "HB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/5",
+                        "SR": "Lethal 5+, Relentless"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "SR",
+                    "uniqueactionid": "SA",
+                    "title": "Slicing Attack",
+                    "description": "Perform a free Normal move action with this operative. Select one enemy operative this operative moved within Engagement Range of during that move.\nRoll one attack die as if this operative is fighting in combat (that die can be re-rolled as a result of the Relentless special rule). \nIf the result is a successful hit, you can immediately strike that enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "SR",
+                    "abilityid": "AR",
+                    "title": "Aeldari Raiders",
+                    "description": "Each time this operative is activated, it can perform a free Dash action during that activation."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "AEL",
+                "killteamid": "COR",
+                "fireteamid": "COR",
+                "opid": "SW",
+                "opname": "Voidscarred Soul Weaver",
+                "description": "Spiritual mystics, Soul Weavers utilise the power and knowledge of the Aeldari souls in the spirit stones they carry. With this energy they can enhance warrior's abilities in combat or heal the wounded.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "CORSAIR VOIDSCARRED, AELDARI, ANHRATHE, PSYKER, MEDIC, VOIDSCARRED SOUL WEAVER",
+                "weapons": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "SW",
+                    "wepid": "SP",
+                    "wepname": "Shuriken Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "SW",
+                        "wepid": "SP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT], Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "SW",
+                    "wepid": "PW",
+                    "wepname": "Power Weapon",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "SW",
+                        "wepid": "PW",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/6",
+                        "SR": "Lethal 5+"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "SW",
+                    "uniqueactionid": "SC",
+                    "title": "Soul Channel",
+                    "description": "Psychic Action.<br/>\nSelect one friendly CORSAIR VOIDSCARRED operative Visible to and within [PENT] of this operative.\nAdd 1 to that operative's APL. This operative cannot perform this action if it is within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "SW",
+                    "uniqueactionid": "SH",
+                    "title": "Soul Heal",
+                    "description": "Psychic Action.<br/>\nSelect one friendly CORSAIR VOIDSCARRED operative Visible to and within [PENT] of this operative.\nThat operative regain D3 lost wounds. This operative can perform this action twice during its activation, but cannot perform this action if it is within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "SW",
+                    "abilityid": "AR",
+                    "title": "Aeldari Raiders",
+                    "description": "Each time this operative is activated, it can perform a free Dash action during that activation."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "AEL",
+                "killteamid": "COR",
+                "fireteamid": "COR",
+                "opid": "SSD",
+                "opname": "Voidscarred Starstorm Duellist",
+                "description": "Brash and arrogant, Starstorm Duellists are expert pistol wielders who dive through the fray to deliver salvoes of pinpoint fire at close range.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "CORSAIR VOIDSCARRED, AELDARI, ANHRATHE, VOIDSCARRED STARSTORM DUELLIST",
+                "weapons": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "SSD",
+                    "wepid": "FP",
+                    "wepname": "Fusion Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "SSD",
+                        "wepid": "FP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "5/3",
+                        "SR": "Rng [SQUARE], AP2, MW3"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "SSD",
+                    "wepid": "SP",
+                    "wepname": "Shuriken Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "SSD",
+                        "wepid": "SP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT], Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "SSD",
+                    "wepid": "F",
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "SSD",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "SSD",
+                    "uniqueactionid": "TA",
+                    "title": "Pistol Barrage",
+                    "description": "Make a shooting attack with the Fusion Pistol and make a shooting attack with the Shuriken Pistol this operative is equipped with (in any order).\nThis action is treated as a Shoot action. This operative cannot perform this action if it has a Conceal order.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "SSD",
+                    "abilityid": "AR",
+                    "title": "Aeldari Raiders",
+                    "description": "Each time this operative is activated, it can perform a free Dash action during that activation."
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "SSD",
+                    "abilityid": "QOTT",
+                    "title": "Quick on The Trigger",
+                    "description": "This operative can perform the Pistol Barrage and Shoot actions while within Engagement Range of an enemy operative.\nIf it does, in the Select Valid Target step of that shooting attack, you can only select enemy operatives within this operative's Engagement Range as the target(s)."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "AEL",
+                "killteamid": "COR",
+                "fireteamid": "COR",
+                "opid": "WAR",
+                "opname": "Voidscarred Warrior",
+                "description": "Corsairs are lithe and nimble warriors, skilled marksmen and bladesmen both. Swift fighters, they make up for lack of physical strength with sheer agility.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "CORSAIR VOIDSCARRED, AELDARI, ANHRATHE, VOIDSCARRED WARRIOR",
+                "weapons": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "WAR",
+                    "wepid": "SP",
+                    "wepname": "Shuriken Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "WAR",
+                        "wepid": "SP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT], Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "WAR",
+                    "wepid": "SR",
+                    "wepname": "Shuriken Rifle",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "WAR",
+                        "wepid": "SR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "WAR",
+                    "wepid": "F",
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "WAR",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "WAR",
+                    "wepid": "PW",
+                    "wepname": "Power Weapon",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "WAR",
+                        "wepid": "PW",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/6",
+                        "SR": "Lethal 5+"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "WAR",
+                    "uniqueactionid": "TA",
+                    "title": "Take Aim",
+                    "description": "Until the end of this operative's activation, the Shuriken Rifle this operative is equipped with gains the Balanced special rule. This operative cannot perform this action if it is within [SQUARE] of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "WAR",
+                    "abilityid": "AR",
+                    "title": "Aeldari Raiders",
+                    "description": "Each time this operative is activated, it can perform a free Dash action during that activation."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "AEL",
+                "killteamid": "COR",
+                "fireteamid": "COR",
+                "opid": "WS",
+                "opname": "Voidscarred Way Seeker",
+                "description": "It is the role of the Way Seekers to guide and steer smaller Corsair ships on their travels. They are also powerful battlefield psykers who work closely with Fate Dealers and Kurnathi, identifying targets for these assassins as they would identify obstacles to their craft.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "CORSAIR VOIDSCARRED, AELDARI, ANHRATHE, PSYKER, VOIDSCARRED WAY SEEKER",
+                "weapons": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "WS",
+                    "wepid": "SP",
+                    "wepname": "Shuriken Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "WS",
+                        "wepid": "SP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT], Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "WS",
+                    "wepid": "WS",
+                    "wepname": "Witch Staff",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "WS",
+                        "wepid": "WS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/5",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "WS",
+                    "uniqueactionid": "MPP",
+                    "title": "Manifest Psychic Power",
+                    "description": "Psychic Action<br/>\nThis operative cano perform this action twice during its activation.\nThis operative cannot perform this action while within Engagement Range of an enemy operative.\n<br/><br/>\nThe first time a friendly CORSAIR VOIDSCARRED PSYKER operative performs the Manifest Psychic Power action in each of its activations, select one psychic power from the list below to be resolved.<br/>\nThe second time a friendly CORSAIR VOIDSCARRED PSYKER operative performs the Manifest Psychic Power action in each of its activations, roll 1D6. On a 1-2, that operative suffers 3 Mortal Wounds. On a 3+, select another psychic power from the list below to be resolved.<br/>\n<br/>\n<strong>Lightning Strike</strong><br/>\nPerform a free Shoot action using the following ranged weapon:<br/>\n<table class=\"eqtable\" width=\"100%\">\n    <tbody><tr>\n        <th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n        <td>Lightning Strike</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>4/5</td>\n    </tr>\n    <tr>\n        <th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n        <td colspan=\"4\">\n            AP1\n        </td>\n    </tr>\n</tbody></table>\n<br/><br/>\n<strong>Warding Shield</strong><br/>\nSelect one friendlt CORSAIR VOIDSCARRED operative Visible to and within [PENT] of this operative.\nUntil the end of the Turning Point, that operative has a 3+ Invulnerable Save.\n<br/><br/>\n<strong>Freezing Grasp</strong><br/>\nSelect one enemy operative Visible to this operative.\nUntil the end of the Turning Point, subtract [CIRCLE] from that enemy operative's Movement characteristic and it cannot perform the Dash action.\n<br/><br/>\n<strong>Warp Fold</strong><br/>\nSelect one other friendly CORSAIR VOIDSCARRED operative visible to and with [PENT] of this operative.\nThat friendly operative and this operative both drop any objective markers they are carrying.\nThat friendly operative then swaps positions with this operative; remove both operatives from the killzone and set them back up in their new positions.\n",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "WS",
+                    "abilityid": "AR",
+                    "title": "Aeldari Raiders",
+                    "description": "Each time this operative is activated, it can perform a free Dash action during that activation."
+                  }
+                ],
+                "fireteammax": 0
+              }
+            ],
+            "fireteamcomp": "A CORSAIR VOIDSCARRED kill team consists of:\n<ul>\n    <li>\n        1 VOIDSCARRED FELARCH operative equipped with one of the following options:\n        <ul>\n            <li>Shuriken Rifle, Shuriken Pistol, Power Weapon</li>\n            <li>Neuro Disruptor, Power Weapon</li>\n        </ul>\n    </li>\n    <li>\n        8 CORSAIR VOIDSCARRED operatives selected from the following list:\n        <ul>\n            <li>\n                VOIDSCARRED WARRIOR equipped with one of the following options:\n                <ul>\n                    <li>Shuriken Pistol, Power Weapon</li>\n                    <li>Shuriken Rifle, Shuriken Pistol, Fists</li>\n                </ul>\n            </li>\n            <li>\n                VOIDSCARRED GUNNER equipped with a Shuriken Pistol, Fists, and one of the following options:\n                <ul>\n                    <li>Blaster or Shredded</li>\n                </ul>\n            </li>\n            <li>\n                VOIDSCARRED HEAVY GUNNER equipped with a Shuriken Pistol, Fists, and one of the following options:\n                <ul>\n                    <li>Shuriken Cannon or Wraithcannon</li>\n                </ul>\n            </li>\n            <li>\n                VOIDSCARRED STARSTORM DUELLIST\n            </li>\n            <li>\n                VOIDSCARRED KURNITE HUNTER\n            </li>\n            <li>\n                VOIDSCARRED SHADE RUNNER\n            </li>\n            <li>\n                VOIDSCARRED KURNATHI\n            </li>\n            <li>\n                VOIDSCARRED FATE DEALER\n            </li>\n            <li>\n                VOIDSCARRED WAY SEEKER\n            </li>\n            <li>\n                VOIDSCARRED SOUL WEAVER\n            </li>\n        </ul>\n    </li>\n</ul>\nOther than VOIDSCARRED WARRIOR operatives, your kill team can only include each operative above once.\nYour kill team cannot include both a VOIDSCARRED GUNNER and a VOIDSCARRED HEAVY GUNNER operative."
+          }
+        ]
+      },
+      {
+        "factionid": "AEL",
         "killteamid": "CW",
         "killteamname": "Craftworld",
         "description": "A craftworld is a vast, planetoid-sized spacecraft populated by the Asuryani faction of the highly advanced humanoid species known as the Aeldari. The craftworlds travel through the void of space at sublight speeds, carrying the greater remnant of the Aeldari species after their Fall.\n <br/></br>\n Every craftworld is built upon a skeleton of psychoactive, crystalline wraithbone whose structure extends throughout the gigantic voidcraft. A similar skeletal core lies at the heart of most Asuryani constructions and every one of their spacecraft. ",
@@ -16402,6 +17823,30 @@
                         "SR": "Stun"
                       }
                     ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "SM",
+                    "fireteamid": "DW",
+                    "opid": "FTR",
+                    "wepid": "SS",
+                    "wepname": "Storm Shield",
+                    "weptype": "A",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "SM",
+                        "fireteamid": "DW",
+                        "opid": "FTR",
+                        "wepid": "SS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "-",
+                        "BS": "-",
+                        "D": "-",
+                        "SR": "Storm Shield"
+                      }
+                    ]
                   }
                 ],
                 "uniqueactions": [],
@@ -17676,6 +19121,30 @@
                         "BS": "2+",
                         "D": "4/6",
                         "SR": "Brutal, Lethal 5+"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "SM",
+                    "fireteamid": "DW",
+                    "opid": "SGT",
+                    "wepid": "SS",
+                    "wepname": "Storm Shield",
+                    "weptype": "A",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "SM",
+                        "fireteamid": "DW",
+                        "opid": "SGT",
+                        "wepid": "SS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "-",
+                        "BS": "-",
+                        "D": "-",
+                        "SR": "Storm Shield"
                       }
                     ]
                   }
