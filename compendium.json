@@ -6875,6 +6875,15 @@
                     "abilityid": "CB",
                     "title": "Chaos Blessing",
                     "description": "This operative gains one ability from those listed below.\nThe ability it gains depends on its MARK OF CHAOS keyword.<br/><br/>\n<strong>KHORNE - Wrathful Onslaught</strong><br/>\nEach time this operative fights in combat, in the Resolve Successful Hits step of that combat,\nif you did not retain any critical hits, you can strike with one normal hit as if it were a critical hit.\n<br/><br/>\n<strong>NURGLE - Disgusting Vigour</strong><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of\nthat shooing attack, you can retain one normal save as a critical save.\n<br/><br/>\n<strong>SLAANESH - Unnatural Agility</strong><br/>\nAdd [TRI] to this operative's Movement characteristic.\n<br/><br/>\n<strong>TZEENTCH - Empyreal Guidance</strong><br/>\nEach time this operative makes a shooting attack, in the Roll Attack Dice step of that\nshooting attack, you can retain one of your attack dice results of + that is a sucessful hit as a critical hit.\n<br/><br/>\n<strong>UNDIVIDED - Vicious Reavers</strong><br/>\nEach time this operative fights in combat or makes a shooting attack, in the Roll Attack Dice\nstep of that combat or shooting attack, if the target is within [PENT] of it, you can\nre-roll one of your attack dice."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "ANO",
+                    "abilityid": "UD",
+                    "title": "Unleash Daemon",
+                    "description": "Once per battle, when this operative is activated, the daemon can take control.\nIf it does, until the end of the battle:\n<ul>\n<li>This operative cannot perform Overwatch, Pick Up, Shoot, or mission actions.</li>\n<li>Each time this operative would lose a wound, roll 1D6: on e 5+, that wound is not lost.</li>\n<li>Its Daemonic Claw gains the Ceaseless and Lethal 5+ special rules.</li>\n<li>Each time this operative is activated, it can perfrom two Fight actions during that activation.</li>\n</ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -17831,7 +17840,7 @@
                     "opid": "FTR",
                     "wepid": "SS",
                     "wepname": "Storm Shield",
-                    "weptype": "A",
+                    "weptype": "E",
                     "profiles": [
                       {
                         "factionid": "IMP",
@@ -19131,7 +19140,7 @@
                     "opid": "SGT",
                     "wepid": "SS",
                     "wepname": "Storm Shield",
-                    "weptype": "A",
+                    "weptype": "E",
                     "profiles": [
                       {
                         "factionid": "IMP",
@@ -25564,7 +25573,7 @@
                     "opid": "GNR",
                     "wepid": "F",
                     "wepname": "Fists",
-                    "weptype": "F",
+                    "weptype": "M",
                     "profiles": [
                       {
                         "factionid": "ORK",
