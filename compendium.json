@@ -4975,7 +4975,7 @@
                 "DF": "3",
                 "SV": "6+",
                 "W": "9",
-                "keywords": "VOID-DANCER TROUPE, AELDARI, HARLEQUINS, <MASQUE>, FLY, SHADOWSEER",
+                "keywords": "VOID-DANCER TROUPE, AELDARI, HARLEQUINS, <MASQUE>, FLY, SHADOWSEER, PSYKER",
                 "weapons": [
                   {
                     "factionid": "AEL",
@@ -7311,7 +7311,7 @@
               "ployname": "Perpetual Aggression",
               "ploytype": "S",
               "CP": "1",
-              "description": "Until the end of the Turning Point, each time after a friendly KHORNE operative fights\nin combat, if it is not within Engagement Range of an enemy operative, it can make a \nmove following the same rules as a Normal Move action, with the following exceptions:\n<ul>\n<li>It can only move up to [SQUARE]</li>\n<li>It can move within Engagement Range of enemy operatives</li>\n<li>If it can, it must finish the move within Engagement Range of the closest Visible enemy operative</li>\n</ul>"
+              "description": "Until the end of the Turning Point, each time after a friendly KHORNE operative fights\n in combat, if it is not within Engagement Range of an enemy operative, it can make a \n move following the same rules as a Normal Move action, with the following exceptions:\n <ul>\n <li>It can only move up to [SQUARE]</li>\n <li>It can move within Engagement Range of enemy operatives</li>\n <li>If it can, it must finish the move within Engagement Range of the closest Visible enemy operative</li>\n <li>It can do so even if it’s performed a Normal Move or Charge action during the activation, and vice versa, doing so doesn't prevent it from subsequently performing a Normal Move or Charge action during that activation in the normal manner.</li>\n </ul>"
             },
             {
               "factionid": "CHAOS",
@@ -7340,7 +7340,7 @@
               "ployname": "Mutability And Change",
               "ploytype": "T",
               "CP": "1",
-              "description": "Use this Tactical Ploy during a friendly TZEENTCH operative's activation.\nAdd 1 to that operative's APL."
+              "description": "Use this Tactical Ploy when a friendly TZEENTCH operative is activated. Add 1 to that operative's APL."
             },
             {
               "factionid": "CHAOS",
@@ -7743,7 +7743,7 @@
                     "opid": "AC",
                     "abilityid": "ITEOTG",
                     "title": "In The Eyes Of The Gods",
-                    "description": "Once per Turning Point, when this operative incapacitates an enemy operative, you can add 1 to this operative's APL."
+                    "description": "Once per Turning Point, during this operative's activation, if it\nincapacitates an enemy operative, it can perform one free action\nduring that activation.’"
                   }
                 ],
                 "fireteammax": 0
@@ -8070,7 +8070,7 @@
                     "opid": "CHO",
                     "abilityid": "SF",
                     "title": "Soul Feast",
-                    "description": "Each time this operative fights in combat, in the Resolve Successful Hits step of that combat, if any of their strikes\ninflict Critical Damage, this operative regains 2 lost wounds."
+                    "description": "Each time this operative fights in combat, at the end of the Resolve\nSuccessful Hits step of that combat, if this operative has not been\nincapacitated and any of their strikes inflicted Critical Damage, this\noperative regains 2 lost wounds."
                   }
                 ],
                 "fireteammax": 0
@@ -16802,7 +16802,7 @@
             "killteamid": "IG",
             "eqid": "MK",
             "eqname": "MediKit",
-            "eqdescription": "The operative can perform the following action during the battle:\n<br/>\n<strong>MediKit (1 AP):</strong>\nSelect one friendly IMPERIAL GUARD operative within [TRI] of and Visible to this operative.\nThat operative regains 2D3 lost wounds.\nThis operative cannot perform this action while within Engagement Range of enemy operatives",
+            "eqdescription": "The operative gains the MEDIC keyword until the start of the next battle and can perform the following action during the battle:\n <br/>\n <strong>MediKit (1 AP):</strong>\n Select one friendly IMPERIAL GUARD operative within [TRI] of and Visible to this operative.\n That operative regains 2D3 lost wounds.\n This operative cannot perform this action while within Engagement Range of enemy operatives",
             "eqpts": "2"
           },
           {
@@ -17897,7 +17897,7 @@
               "ployname": "Defenders Of The Faith",
               "ploytype": "S",
               "CP": "2",
-              "description": "At the start of the Firefight phase, one friendly NOVITIATE operative that is within of the centre of each objective marker can:\n<li>Perform a free Shoot action if it has an Engage order.</li>\n<li>Perform a free Fight action if it has an Engage order.</li>"
+              "description": "At the start of the Firefight phase, one friendly NOVITIATE operative that is within of the centre of each objective marker can do one of the following (the don't have to do the same):\n <li>Perform a free Shoot action if it has an Engage order.</li>\n <li>Perform a free Fight action if it has an Engage order.</li>"
             },
             {
               "factionid": "IMP",
@@ -19044,7 +19044,7 @@
                     "opid": "PEN",
                     "uniqueactionid": "ATD",
                     "title": "Absolution Through Destruction",
-                    "description": "Perform a Fight action with this operative, then perform another Fight action.",
+                    "description": "Perform a free Fight action with this\noperative. After completing that action’s fight sequence, if this\noperative is still within Engagement Range of an enemy operative,\nyou can immediately fight in combat with this operative again (for\nthe second combat, you do not have to select the same target and\nthe Zealous Rage ability has no effect).",
                     "AP": 1
                   }
                 ],
@@ -25205,6 +25205,30 @@
                         "SR": "Lethal 5+"
                       }
                     ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "TOE",
+                    "fireteamid": "CG",
+                    "opid": "LDR",
+                    "wepid": "SS",
+                    "wepname": "Storm Shield",
+                    "weptype": "E",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "TOE",
+                        "fireteamid": "CG",
+                        "opid": "LDR",
+                        "wepid": "SS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "-",
+                        "BS": "-",
+                        "D": "-",
+                        "SR": "Storm Shield"
+                      }
+                    ]
                   }
                 ],
                 "uniqueactions": [],
@@ -25329,6 +25353,30 @@
                         "BS": "2+",
                         "D": "4/6",
                         "SR": "Lethal 5+"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "TOE",
+                    "fireteamid": "CG",
+                    "opid": "WAR",
+                    "wepid": "SS",
+                    "wepname": "Storm Shield",
+                    "weptype": "E",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "TOE",
+                        "fireteamid": "CG",
+                        "opid": "WAR",
+                        "wepid": "SS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "-",
+                        "BS": "-",
+                        "D": "-",
+                        "SR": "Storm Shield"
                       }
                     ]
                   }
@@ -26211,7 +26259,7 @@
                     "opid": "CNF",
                     "abilityid": "DIR",
                     "title": "Directive",
-                    "description": "Each time this operative is activated, if it has not been nominated for command, you can select one ready friendly VETERAN GUARDSMAN operative within [PENT] of and Visible to it. After this operative’s activation ends, activate that operative, and treat its Group Activation characteristic as 1 for that activation."
+                    "description": "Each time this operative is activated, if it has not been nominated for command, you can select one other ready friendly VETERAN GUARDSMAN operative within [PENT] of and Visible to it. After this operative’s activation ends, activate that operative, and treat its Group Activation characteristic as 1 for that activation."
                   },
                   {
                     "factionid": "IMP",
@@ -30665,7 +30713,7 @@
             "eqpts": "3"
           }
         ],
-        "killteamcomp": "A HUNTER CADRE kill team consists of two fire teams selected from the following list: \n<ul>\n<li>FIRE WARRIOR</li>\n<li>PATHFINDER</li>\n<li>STEALTH BATTLESUIT</li>\n</ul>\n<br/><br/>\n<strong>DRONES</strong>\n<br/><br/>\nInstead of selecting a SHAS'LA operative for a FIRE \nWARRIOR or PATHFINDER fire team, you can select \none DRONE operative from the list below.  Instead of \nselecting a STEALTH BATILESUIT SHAS'UI operative \nfor a STEALTH BATILESUIT fire team, you can select \ntwo DRONE operatives from the list below. Each \nDRONE operative still counts as one selection for a \nFIRE WARRIOR or PATHFINDER fire team, and every \ntwo DRONE operatives count as one selection for a \nSTEALTH BATILESUIT fire team. The total number of \nDRONE operatives in that fire team cannot exceed the \ntotal number of other operatives in that fire team. \n<ul>\n<li>MV1 GUN DRONE</li>\n<li>MV4 SHIELD DRONE</li>\n<li>MV7 MARKER DRONE</li>\n<li>MB3 RECON DRONE (counts as two selections)</li>\n<li>MV31 PULSE ACCELERATOR DRONE</li>\n<li>MV33 GRAV-INHIBITOR DRONE</li>\n<li>MV36 GUARDIAN DRONE</li>\n<li>DSB TACTICAL SUPPORT TURRET</li>\n</ul>\nYour kill team can only include each operative \nabove once.  MB3 RECON DRONE, MV31 PULSE \nACCELERATOR DRONE and MV33 GRAV-INHIBITOR \nDRONE operatives can only be selected for a \nPATHFINDER fire team. MV36 GUARDIAN DRONE and \nDSB TACTICAL SUPPORT TURRET operatives can only \nbe selected for a FIRE WARRIOR fire team.",
+        "killteamcomp": "A HUNTER CADRE kill team consists of two fire teams selected from the following list: \n<ul>\n<li>FIRE WARRIOR</li>\n<li>PATHFINDER</li>\n<li>STEALTH BATTLESUIT</li>\n</ul>\n<br/><br/>\n<strong>DRONES</strong>\n<br/><br/>\nInstead of selecting a SHAS'LA operative for a FIRE \nWARRIOR or PATHFINDER fire team, you can select \none DRONE operative from the list below.  Instead of \nselecting a STEALTH BATILESUIT SHAS'UI operative \nfor a STEALTH BATILESUIT fire team, you can select \ntwo DRONE operatives from the list below. Each \nDRONE operative still counts as one selection for a \nFIRE WARRIOR or PATHFINDER fire team, and every \ntwo DRONE operatives count as one selection for a \nSTEALTH BATILESUIT fire team. The total number of \nDRONE operatives in that fire team cannot exceed the \ntotal number of other operatives in that fire team. \n<ul>\n<li>MV1 GUN DRONE</li>\n<li>MV4 SHIELD DRONE</li>\n<li>MV7 MARKER DRONE</li>\n<li>MB3 RECON DRONE (counts as two selections)</li>\n<li>MV31 PULSE ACCELERATOR DRONE</li>\n<li>MV33 GRAV-INHIBITOR DRONE</li>\n<li>MV36 GUARDIAN DRONE</li>\n<li>DS8 TACTICAL SUPPORT TURRET equipped with a missile pod or smart missile system</li>\n</ul>\nYour kill team can only include each operative \nabove once.  MB3 RECON DRONE, MV31 PULSE \nACCELERATOR DRONE and MV33 GRAV-INHIBITOR \nDRONE operatives can only be selected for a \nPATHFINDER fire team. MV36 GUARDIAN DRONE and \nDS8 TACTICAL SUPPORT TURRET equipped with a missile pod or smart missile system operatives can only \nbe selected for a FIRE WARRIOR fire team.",
         "fireteams": [
           {
             "factionid": "TAU",
@@ -30758,7 +30806,7 @@
                     "opid": "DS8",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
+                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint or until they are no longer within [CIRCLE] of each other (whichever comes first), each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -30856,7 +30904,7 @@
                     "opid": "MB3",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
+                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint or until they are no longer within [CIRCLE] of each other (whichever comes first), each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -30943,7 +30991,7 @@
                     "opid": "MV1",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
+                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint or until they are no longer within [CIRCLE] of each other (whichever comes first), each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -31015,7 +31063,7 @@
                     "opid": "MV31",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
+                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint or until they are no longer within [CIRCLE] of each other (whichever comes first), each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -31098,7 +31146,7 @@
                     "opid": "MV33",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
+                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint or until they are no longer within [CIRCLE] of each other (whichever comes first), each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -31181,7 +31229,7 @@
                     "opid": "MV36",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
+                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint or until they are no longer within [CIRCLE] of each other (whichever comes first), each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -31253,7 +31301,7 @@
                     "opid": "MV4",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
+                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint or until they are no longer within [CIRCLE] of each other (whichever comes first), each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -31327,13 +31375,13 @@
                     "opid": "MV7",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint, each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
+                    "description": "Each time a friendly HUNTER CADRE operative (excluding DRONE operatives) is selected as the target of a shooting \nattack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement \nRange of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it  can protect \nthat friendly HUNTER CADRE operative until the end of the Turning Point.  If it does so,  until  the end of the Turning \nPoint or until they are no longer within [CIRCLE] of each other (whichever comes first), each time a shooting attack is made against that friendly HUNTER CADRE operative, make that shooting \nattack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step \nof that shooting attack, defence dice cannot be automatically retained as a result of Cover. <br/>\nFriendly HUNTER CADRE operatives cannot be protected\nby Saviour Protocols from shooting attacks made against each\noperative within range of a specified point (e.g. remote mine, see Kill\nTeam: Octarius). Note that this also means they cannot be protected\nfrom the subsequent shooting attacks made as a result of the Blast\nX or Torrent X special rules."
                   }
                 ],
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "Instead of selecting a SHAS'LA operative for a FIRE \nWARRIOR or PATHFINDER fire team, you can select \none DRONE operative from the list below.  Instead of \nselecting a STEALTH BATILESUIT SHAS'UI operative \nfor a STEALTH BATILESUIT fire team, you can select \ntwo DRONE operatives from the list below. Each \nDRONE operative still counts as one selection for a \nFIRE WARRIOR or PATHFINDER fire team, and every \ntwo DRONE operatives count as one selection for a \nSTEALTH BATILESUIT fire team. The total number of \nDRONE operatives in that fire team cannot exceed the \ntotal number of other operatives in that fire team. \n<ul>\n<li>MV1 GUN DRONE</li>\n<li>MV4 SHIELD DRONE</li>\n<li>MV7 MARKER DRONE</li>\n<li>MB3 RECON DRONE (counts as two selections)</li>\n<li>MV31 PULSE ACCELERATOR DRONE</li>\n<li>MV33 GRAV-INHIBITOR DRONE</li>\n<li>MV36 GUARDIAN DRONE</li>\n<li>DSB TACTICAL SUPPORT TURRET equipped with a missile pod or smart missile system</li>\n</ul>\nYour kill team can only include each operative \nabove once.  MB3 RECON DRONE, MV31 PULSE \nACCELERATOR DRONE and MV33 GRAV-INHIBITOR \nDRONE operatives can only be selected for a \nPATHFINDER fire team. MV36 GUARDIAN DRONE and \nDSB TACTICAL SUPPORT TURRET operatives can only \nbe selected for a FIRE WARRIOR fire team."
+            "fireteamcomp": "Instead of selecting a SHAS'LA operative for a FIRE \nWARRIOR or PATHFINDER fire team, you can select \none DRONE operative from the list below.  Instead of \nselecting a STEALTH BATILESUIT SHAS'UI operative \nfor a STEALTH BATILESUIT fire team, you can select \ntwo DRONE operatives from the list below. Each \nDRONE operative still counts as one selection for a \nFIRE WARRIOR or PATHFINDER fire team, and every \ntwo DRONE operatives count as one selection for a \nSTEALTH BATILESUIT fire team. The total number of \nDRONE operatives in that fire team cannot exceed the \ntotal number of other operatives in that fire team. \n<ul>\n<li>MV1 GUN DRONE</li>\n<li>MV4 SHIELD DRONE</li>\n<li>MV7 MARKER DRONE</li>\n<li>MB3 RECON DRONE (counts as two selections)</li>\n<li>MV31 PULSE ACCELERATOR DRONE</li>\n<li>MV33 GRAV-INHIBITOR DRONE</li>\n<li>MV36 GUARDIAN DRONE</li>\n<li>DS8 TACTICAL SUPPORT TURRET equipped with a missile pod or smart missile system</li>\n</ul>\nYour kill team can only include each operative \nabove once.  MB3 RECON DRONE, MV31 PULSE \nACCELERATOR DRONE and MV33 GRAV-INHIBITOR \nDRONE operatives can only be selected for a \nPATHFINDER fire team. MV36 GUARDIAN DRONE and \nDS8 TACTICAL SUPPORT TURRET equipped with a missile pod or smart missile system operatives can only \nbe selected for a FIRE WARRIOR fire team."
           },
           {
             "factionid": "TAU",
@@ -32818,7 +32866,7 @@
                     "opid": "MB3",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover.<br/>\nFriendly PATHFINDER operatives cannot be protected by Saviour\nProtocols from shooting attacks made against each operative\nwithin range of a specified point (e.g. remote mine, see Kill Team:\nOctarius). Note that this also means they cannot be protected from\nthe subsequent shooting attacks made as a result of the Blast X or\nTorrent X special rules."
+                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point or until they are no longer within [CIRCLE] of each other (whichever comes first), each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover.<br/>\nFriendly PATHFINDER operatives cannot be protected by Saviour\nProtocols from shooting attacks made against each operative\nwithin range of a specified point (e.g. remote mine, see Kill Team:\nOctarius). Note that this also means they cannot be protected from\nthe subsequent shooting attacks made as a result of the Blast X or\nTorrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -32980,7 +33028,7 @@
                         "name": "",
                         "A": "3",
                         "BS": "5+",
-                        "D": "3/4",
+                        "D": "2/3",
                         "SR": ""
                       }
                     ]
@@ -33004,7 +33052,7 @@
                     "opid": "MV1",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover.<br/>\nFriendly PATHFINDER operatives cannot be protected by Saviour\nProtocols from shooting attacks made against each operative\nwithin range of a specified point (e.g. remote mine, see Kill Team:\nOctarius). Note that this also means they cannot be protected from\nthe subsequent shooting attacks made as a result of the Blast X or\nTorrent X special rules."
+                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point or until they are no longer within [CIRCLE] of each other (whichever comes first), each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover.<br/>\nFriendly PATHFINDER operatives cannot be protected by Saviour\nProtocols from shooting attacks made against each operative\nwithin range of a specified point (e.g. remote mine, see Kill Team:\nOctarius). Note that this also means they cannot be protected from\nthe subsequent shooting attacks made as a result of the Blast X or\nTorrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -33076,7 +33124,7 @@
                     "opid": "MV31",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover.<br/>\nFriendly PATHFINDER operatives cannot be protected by Saviour\nProtocols from shooting attacks made against each operative\nwithin range of a specified point (e.g. remote mine, see Kill Team:\nOctarius). Note that this also means they cannot be protected from\nthe subsequent shooting attacks made as a result of the Blast X or\nTorrent X special rules."
+                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point or until they are no longer within [CIRCLE] of each other (whichever comes first), each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover.<br/>\nFriendly PATHFINDER operatives cannot be protected by Saviour\nProtocols from shooting attacks made against each operative\nwithin range of a specified point (e.g. remote mine, see Kill Team:\nOctarius). Note that this also means they cannot be protected from\nthe subsequent shooting attacks made as a result of the Blast X or\nTorrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -33159,7 +33207,7 @@
                     "opid": "MV33",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover.<br/>\nFriendly PATHFINDER operatives cannot be protected by Saviour\nProtocols from shooting attacks made against each operative\nwithin range of a specified point (e.g. remote mine, see Kill Team:\nOctarius). Note that this also means they cannot be protected from\nthe subsequent shooting attacks made as a result of the Blast X or\nTorrent X special rules."
+                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point or until they are no longer within [CIRCLE] of each other (whichever comes first), each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover.<br/>\nFriendly PATHFINDER operatives cannot be protected by Saviour\nProtocols from shooting attacks made against each operative\nwithin range of a specified point (e.g. remote mine, see Kill Team:\nOctarius). Note that this also means they cannot be protected from\nthe subsequent shooting attacks made as a result of the Blast X or\nTorrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -33231,7 +33279,7 @@
                     "opid": "MV4",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover.<br/>\nFriendly PATHFINDER operatives cannot be protected by Saviour\nProtocols from shooting attacks made against each operative\nwithin range of a specified point (e.g. remote mine, see Kill Team:\nOctarius). Note that this also means they cannot be protected from\nthe subsequent shooting attacks made as a result of the Blast X or\nTorrent X special rules."
+                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point or until they are no longer within [CIRCLE] of each other (whichever comes first), each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover.<br/>\nFriendly PATHFINDER operatives cannot be protected by Saviour\nProtocols from shooting attacks made against each operative\nwithin range of a specified point (e.g. remote mine, see Kill Team:\nOctarius). Note that this also means they cannot be protected from\nthe subsequent shooting attacks made as a result of the Blast X or\nTorrent X special rules."
                   }
                 ],
                 "fireteammax": 0
@@ -33314,7 +33362,7 @@
                     "opid": "MV7",
                     "abilityid": "SP",
                     "title": "Saviour Protocols",
-                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point, each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover.<br/>\nFriendly PATHFINDER operatives cannot be protected by Saviour\nProtocols from shooting attacks made against each operative\nwithin range of a specified point (e.g. remote mine, see Kill Team:\nOctarius). Note that this also means they cannot be protected from\nthe subsequent shooting attacks made as a result of the Blast X or\nTorrent X special rules."
+                    "description": "Each time a friendly PATHFINDER operative (excluding DRONE operatives) is selected as the target of a shooting attack, if there is a friendly DRONE operative with this ability Visible to and within [CIRCLE] of it and not within Engagement Range of an enemy operative, if that friendly DRONE operative is not protecting any other operatives, it can protect that friendly PATHFINDER operative until the end of the Turning Point. If it does so, until the end of the Turning Point or until they are no longer within [CIRCLE] of each other (whichever comes first), each time a shooting attack is made against that friendly PATHFINDER operative, make that shooting attack against that friendly DRONE operative instead, even if it would not be a valid target. In the Roll Defence Dice step of that shooting attack, defence dice cannot be automatically retained as a result of Cover.<br/>\nFriendly PATHFINDER operatives cannot be protected by Saviour\nProtocols from shooting attacks made against each operative\nwithin range of a specified point (e.g. remote mine, see Kill Team:\nOctarius). Note that this also means they cannot be protected from\nthe subsequent shooting attacks made as a result of the Blast X or\nTorrent X special rules."
                   }
                 ],
                 "fireteammax": 0
