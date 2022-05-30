@@ -6087,7 +6087,7 @@
                     "opid": "ENF",
                     "uniqueactionid": "ENF",
                     "title": "Enforce",
-                    "description": "Select one friendly BLOODED operative that is not Ready and is Visible to and within [SQUARE] of this operative, then select one of the following:\n<ul>\n<li>That oeprative can immediately perfom a free Dash action</li>\n<li>If that operative has an Engage order, it can perform an Overwatch action</li>\n</ul>\nThis operative cannot perform this action while within Engagement Range of an enemy operative.",
+                    "description": "Select one friendly BLOODED operative that is not Ready and is Visible to and within [SQUARE] of this operative, then select one of the following:\n<ul>\n<li>That operative can immediately perfom a free Dash action</li>\n<li>If that operative has an Engage order, it can perform an Overwatch action</li>\n</ul>\nThis operative cannot perform this action while within Engagement Range of an enemy operative.",
                     "AP": 1
                   }
                 ],
@@ -18559,7 +18559,7 @@
                     "opid": "COMMS",
                     "uniqueactionid": "SIG",
                     "title": "Signal",
-                    "description": "Select one friendly GUARDSMAN operative within [PENT] and Visible to this operative.\nAdd 1 to the friendly oeprative's APL. This operative cannot perform this action while within Engagement Range of enemy operatives.",
+                    "description": "Select one friendly GUARDSMAN operative within [PENT] and Visible to this operative.\nAdd 1 to the friendly operative's APL. This operative cannot perform this action while within Engagement Range of enemy operatives.",
                     "AP": 1
                   }
                 ],
@@ -19258,7 +19258,7 @@
                     "opid": "COMMS",
                     "uniqueactionid": "SIG",
                     "title": "Signal",
-                    "description": "Select one friendly TEMPESTUS SCION operative within [PENT] and Visible to this operative.\nAdd 1 to the friendly oeprative's APL. This operative cannot perform this action while within Engagement Range of enemy operatives.",
+                    "description": "Select one friendly TEMPESTUS SCION operative within [PENT] and Visible to this operative.\nAdd 1 to the friendly operative's APL. This operative cannot perform this action while within Engagement Range of enemy operatives.",
                     "AP": 1
                   }
                 ],
@@ -21870,7 +21870,7 @@
                     "opid": "INCMRK",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis oeprative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -21880,7 +21880,7 @@
                     "opid": "INCMRK",
                     "uniqueactionid": "TT",
                     "title": "Track Target",
-                    "description": "Once this Turning Point during an enemy oeprative's activation, after that enemy operative performs an action, you can interrupt that activation.\nIf you do so, this operative can perform an Overwatch action (if it has a Conceal order, change it to an Engage order to do so).\nIt must make that shooting attack against the enemy operative using its Stalker Marksman Bolt Carbine (if it is a valid target).\nIf that enemy operative is not incapacitated or revived as a result, finish its activation.\nThis actionis treated as a Shoot action with a Bolt weapon for the purposes of action restrictions, although this operative can perform this action if it has a Conceal order.",
+                    "description": "Once this Turning Point during an enemy operative's activation, after that enemy operative performs an action, you can interrupt that activation.\nIf you do so, this operative can perform an Overwatch action (if it has a Conceal order, change it to an Engage order to do so).\nIt must make that shooting attack against the enemy operative using its Stalker Marksman Bolt Carbine (if it is a valid target).\nIf that enemy operative is not incapacitated or revived as a result, finish its activation.\nThis actionis treated as a Shoot action with a Bolt weapon for the purposes of action restrictions, although this operative can perform this action if it has a Conceal order.",
                     "AP": 1
                   }
                 ],
@@ -21993,7 +21993,7 @@
                     "opid": "INCML",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis oeprative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -22101,7 +22101,7 @@
                     "opid": "INCSGT",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis oeprative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -22200,7 +22200,7 @@
                     "opid": "INCWAR",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis oeprative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   }
                 ],
@@ -22299,7 +22299,7 @@
                     "opid": "INFCOM",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis oeprative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   }
                 ],
@@ -22388,7 +22388,7 @@
                     "opid": "INFHEL",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis oeprative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -22520,7 +22520,7 @@
                     "opid": "INFSAB",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis oeprative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -22628,7 +22628,7 @@
                     "opid": "INFSGT",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis oeprative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -22727,7 +22727,7 @@
                     "opid": "INFVET",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis oeprative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   }
                 ],
@@ -22835,7 +22835,7 @@
                     "opid": "INFVOX",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis oeprative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -22934,7 +22934,7 @@
                     "opid": "INFWAR",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis oeprative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   }
                 ],
@@ -23071,7 +23071,7 @@
                     "opid": "RVRSGT",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis oeprative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -23091,7 +23091,7 @@
                     "opid": "RVRSGT",
                     "uniqueactionid": "TR",
                     "title": "Terror",
-                    "description": "\n<i>Exposed to the counter-sensory barrage unleashed by Primaris Reivers, even the staunchest enemy is likely to back fearfully away, or fumble for weapons and wargear with shaking fingers.</i>\n<br/><br/>\n<strong>Terror (1 AP)</strong><br/>\nUntil the end of the Turning Point:\n<ul>\n<li>Each time an enemy operative would perform a mission action or the Pick Up action, if any friendly oepratives that performed this action during this Turning Point are within [SQUARE] of that enemy operative, one additional action point must be subtracted for that enemy operative to perform that action.</li>\n<li>When determining control of an objective marker that any friendly operatives that performs this action during this Turning Point are within range of, treat enemy operatives' total APL as being 1 less. Note that this is not a modifier.</li>\n</ul>",
+                    "description": "\n<i>Exposed to the counter-sensory barrage unleashed by Primaris Reivers, even the staunchest enemy is likely to back fearfully away, or fumble for weapons and wargear with shaking fingers.</i>\n<br/><br/>\n<strong>Terror (1 AP)</strong><br/>\nUntil the end of the Turning Point:\n<ul>\n<li>Each time an enemy operative would perform a mission action or the Pick Up action, if any friendly operatives that performed this action during this Turning Point are within [SQUARE] of that enemy operative, one additional action point must be subtracted for that enemy operative to perform that action.</li>\n<li>When determining control of an objective marker that any friendly operatives that performs this action during this Turning Point are within range of, treat enemy operatives' total APL as being 1 less. Note that this is not a modifier.</li>\n</ul>",
                     "AP": 1
                   }
                 ],
@@ -23218,7 +23218,7 @@
                     "opid": "RVRWAR",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis oeprative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -23228,7 +23228,7 @@
                     "opid": "RVRWAR",
                     "uniqueactionid": "TR",
                     "title": "Terror",
-                    "description": "\n<i>Exposed to the counter-sensory barrage unleashed by Primaris Reivers, even the staunchest enemy is likely to back fearfully away, or fumble for weapons and wargear with shaking fingers.</i>\n<br/><br/>\n<strong>Terror (1 AP)</strong><br/>\nUntil the end of the Turning Point:\n<ul>\n<li>Each time an enemy operative would perform a mission action or the Pick Up action, if any friendly oepratives that performed this action during this Turning Point are within [SQUARE] of that enemy operative, one additional action point must be subtracted for that enemy operative to perform that action.</li>\n<li>When determining control of an objective marker that any friendly operatives that performs this action during this Turning Point are within range of, treat enemy operatives' total APL as being 1 less. Note that this is not a modifier.</li>\n</ul>",
+                    "description": "\n<i>Exposed to the counter-sensory barrage unleashed by Primaris Reivers, even the staunchest enemy is likely to back fearfully away, or fumble for weapons and wargear with shaking fingers.</i>\n<br/><br/>\n<strong>Terror (1 AP)</strong><br/>\nUntil the end of the Turning Point:\n<ul>\n<li>Each time an enemy operative would perform a mission action or the Pick Up action, if any friendly operatives that performed this action during this Turning Point are within [SQUARE] of that enemy operative, one additional action point must be subtracted for that enemy operative to perform that action.</li>\n<li>When determining control of an objective marker that any friendly operatives that performs this action during this Turning Point are within range of, treat enemy operatives' total APL as being 1 less. Note that this is not a modifier.</li>\n</ul>",
                     "AP": 1
                   }
                 ],
