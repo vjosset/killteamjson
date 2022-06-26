@@ -146,7 +146,7 @@
             "factionid": "AEL",
             "killteamid": "COM",
             "eqid": "PG",
-            "eqname": "Plasma Grenade",
+            "eqname": "Plasma Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Plasma Grenade</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>3/4</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Lim, Indirect</td>\n    </tr>\n</table>",
             "eqpts": "2"
           },
@@ -1078,7 +1078,7 @@
             "factionid": "AEL",
             "killteamid": "COR",
             "eqid": "PG",
-            "eqname": "Plasma Grenade",
+            "eqname": "Plasma Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br/>\n<table class=\"eqtable\" width=\"100%\">\n<tbody><tr>\n<th>Name</th>\n<th>A</th>\n<th>BS</th>\n<th>D</th>\n</tr>\n<tr>\n<td>Plasma Grenade</td>\n<td>4</td>\n<td>3+</td>\n<td>3/4</td>\n</tr>\n<tr>\n<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n<td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Lim, Indirect</td>\n</tr>\n</tbody></table>",
             "eqpts": "3"
           },
@@ -2457,7 +2457,7 @@
             "factionid": "AEL",
             "killteamid": "CW",
             "eqid": "PG",
-            "eqname": "Plasma Grenade",
+            "eqname": "Plasma Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Plasma Grenade</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>3/4</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Lim, Indirect</td>\n    </tr>\n</table>",
             "eqpts": "2"
           },
@@ -3715,7 +3715,7 @@
             "factionid": "AEL",
             "killteamid": "TRP",
             "eqid": "PG",
-            "eqname": "Prismatic Grenade",
+            "eqname": "Prismatic Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Prismatic Grenade</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>3/4</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<td colspan=\"4\">\n\t\t\tRng [PENT], Limited, Blast [CIRCLE], Indirect, Stun\n        </td>\n    </tr>\n</table>",
             "eqpts": "3"
           },
@@ -4307,7 +4307,7 @@
               "ployname": "Cegorach's Jest",
               "ploytype": "S",
               "CP": "1",
-              "description": "Until the end of the Turning Point, each time a friendly VOID-DANCER TROUPE operative\nfights in combat, once in the Resolve Successful Hits step of that combat,\nwhen your opponent strikes with a hit, you can roll 1D6.\nIf the result is equal to or less than the Weapon Skill characteristic of the enemy operative's\nselected melee weapon, treat that strike as a parry instead (the Brutal special rule has no effect for that parry)."
+              "description": "Until the end of the Turning Point, each time a friendly VOID-DANCER TROUPE operative\n fights in combat, once in the Resolve Successful Hits step of that combat,\n when your opponent strikes with a normal hit, you can roll 1D6.<br/>\n If the result is equal to or less than the Weapon Skill characteristic of the enemy operative's\n selected melee weapon, treat that strike as a parry instead (the Brutal special rule has no effect for that parry)."
             },
             {
               "factionid": "AEL",
@@ -4388,7 +4388,7 @@
             "factionid": "AEL",
             "killteamid": "VDT",
             "eqid": "PG",
-            "eqname": "Prismatic Grenade",
+            "eqname": "Prismatic Grenade*",
             "eqdescription": "The operative is equipped with the following rnged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n    <tbody><tr>\n        <th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n        <td>Prismatic Grenade</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>3/4</td>\n    </tr>\n    <tr>\n        <th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n        <td colspan=\"4\">\n            Rng [PENT], Limited, Blast [CIRCLE], Indirect, Stun\n        </td>\n    </tr>\n</tbody></table>",
             "eqpts": "3"
           },
@@ -5229,7 +5229,7 @@
             "factionid": "CHAOS",
             "killteamid": "BLD",
             "eqid": "FG",
-            "eqname": "Frag Grenade",
+            "eqname": "Frag Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n  <tbody><tr>\n  <th>Name</th>\n          <th>A</th>\n          <th>BS</th>\n          <th>D</th>\n      </tr>\n      <tr>\n  <td>Frag Grenade</td>\n          <td>4</td>\n          <td>3+</td>\n          <td>2/3</td>\n      </tr>\n      <tr>\n  <th colspan=\"4\">Special Rules</th>\n  </tr>\n      <tr>\n  <td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Indirect, Limited</td>\n  </tr>\n  </tbody></table>",
             "eqpts": "2"
           },
@@ -5245,7 +5245,7 @@
             "factionid": "CHAOS",
             "killteamid": "BLD",
             "eqid": "KG",
-            "eqname": "Krak Grenade",
+            "eqname": "Krak Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n  <table class=\"eqtable\" width=\"100%\">\n  \t<tr>\n  \t\t<th>Name</th>\n          <th>A</th>\n          <th>BS</th>\n          <th>D</th>\n      </tr>\n      <tr>\n  \t\t<td>Krak Grenade</td>\n          <td>4</td>\n          <td>3+</td>\n          <td>4/5</td>\n      </tr>\n      <tr>\n  \t\t<th colspan=\"4\">Special Rules</th>\n  \t</tr>\n      <tr>\n  \t\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n  \t</tr>\n  </table>",
             "eqpts": "3"
           },
@@ -6697,7 +6697,7 @@
                 "description": "Even the troopers of the Blooded are hardened killers, tempered amidst the fires of heresy and consumed by a selfish desire to claw their way to power. Cruel and driven, they will risk everything to catch the eye of a Dark God.",
                 "M": "3[CIRCLE]",
                 "APL": "2",
-                "GA": "1",
+                "GA": "2",
                 "DF": "3",
                 "SV": "5+",
                 "W": "7",
@@ -7957,7 +7957,7 @@
             "factionid": "CHAOS",
             "killteamid": "DG",
             "eqid": "BG",
-            "eqname": "Blight Grenade",
+            "eqname": "Blight Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Blight Grenade</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>2/3</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n \t</tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Lim, Indirect, Ceaseless</td>\n \t</tr>\n </table>",
             "eqpts": "2"
           },
@@ -7973,7 +7973,7 @@
             "factionid": "CHAOS",
             "killteamid": "DG",
             "eqid": "KG",
-            "eqname": "Krak Grenade",
+            "eqname": "Krak Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Krak Grenade</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>4/5</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n \t</tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n \t</tr>\n </table>",
             "eqpts": "3"
           },
@@ -9038,7 +9038,7 @@
             "factionid": "CHAOS",
             "killteamid": "LEG",
             "eqid": "FG",
-            "eqname": "Frag Grenade",
+            "eqname": "Frag Grenade*",
             "eqdescription": "The operative is equipped with the following melee weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n <tbody><tr>\n <th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n <td>Frag Grenade</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>2/3</td>\n     </tr>\n     <tr>\n <th colspan=\"4\">Special Rules</th>\n </tr>\n     <tr>\n <td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Indirect, Limited</td>\n </tr>\n </tbody></table>",
             "eqpts": "2"
           },
@@ -9054,7 +9054,7 @@
             "factionid": "CHAOS",
             "killteamid": "LEG",
             "eqid": "KG",
-            "eqname": "Krak Grenade",
+            "eqname": "Krak Grenade*",
             "eqdescription": "The operative is equipped with the following melee weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n <tbody><tr>\n <th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n <td>Krak Grenade</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>4/5</td>\n     </tr>\n     <tr>\n <th colspan=\"4\">Special Rules</th>\n </tr>\n     <tr>\n <td colspan=\"4\">Rng [PENT], AP1, Indirect, Limited</td>\n </tr>\n </tbody></table>",
             "eqpts": "2"
           },
@@ -11452,7 +11452,7 @@
             "factionid": "CHAOS",
             "killteamid": "CSM",
             "eqid": "FG",
-            "eqname": "Frag Grenade",
+            "eqname": "Frag Grenade*",
             "eqdescription": "Excludes CHAOS CULTIST operatives. The operative is equipped with the following ranged weapon for the battle:<br />\n <table width=\"100%\" class=\"eqtable\">\n <tr>\n \t<th>Name</th>\n     <th>A</th>\n     <th>BS</th>\n     <th>D</th>\n </tr>\n <tr>\n \t<td>Frag Grenade</td>\n     <td>4</td>\n     <td>3+</td>\n     <td>2/3</td>\n </tr>\n <tr>\n \t<th colspan=\"4\">Special Rules</th>\n </tr>\n <tr>\n \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n </tr>\n </table>",
             "eqpts": "2"
           },
@@ -11468,7 +11468,7 @@
             "factionid": "CHAOS",
             "killteamid": "CSM",
             "eqid": "KG",
-            "eqname": "Krak Grenade",
+            "eqname": "Krak Grenade*",
             "eqdescription": "Excludes CHAOS CULTIST operatives. The operative is equipped with the following ranged weapon for the battle:<br />\n<table width=\"100%\" class=\"eqtable\">\n<tr>\n\t<th>Name</th>\n    <th>A</th>\n    <th>BS</th>\n    <th>D</th>\n</tr>\n<tr>\n\t<td>Krak Grenade</td>\n    <td>4</td>\n    <td>3+</td>\n    <td>4/5</td>\n</tr>\n<tr>\n\t<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n</tr>\n</table>",
             "eqpts": "3"
           },
@@ -13663,7 +13663,7 @@
             "factionid": "IMP",
             "killteamid": "ECC",
             "eqid": "FG",
-            "eqname": "Frag Grenade",
+            "eqname": "Frag Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n <table width=\"100%\" class=\"eqtable\">\n <tr>\n \t<th>Name</th>\n     <th>A</th>\n     <th>BS</th>\n     <th>D</th>\n </tr>\n <tr>\n \t<td>Frag Grenade</td>\n     <td>4</td>\n     <td>3+</td>\n     <td>2/3</td>\n </tr>\n <tr>\n \t<th colspan=\"4\">Special Rules</th>\n </tr>\n <tr>\n \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n </tr>\n </table>",
             "eqpts": "2"
           },
@@ -13671,7 +13671,7 @@
             "factionid": "IMP",
             "killteamid": "ECC",
             "eqid": "KG",
-            "eqname": "Krak Grenade",
+            "eqname": "Krak Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n<table width=\"100%\" class=\"eqtable\">\n<tr>\n\t<th>Name</th>\n    <th>A</th>\n    <th>BS</th>\n    <th>D</th>\n</tr>\n<tr>\n\t<td>Krak Grenade</td>\n    <td>4</td>\n    <td>3+</td>\n    <td>4/5</td>\n</tr>\n<tr>\n\t<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n</tr>\n</table>",
             "eqpts": "3"
           },
@@ -16085,7 +16085,7 @@
             "factionid": "IMP",
             "killteamid": "GK",
             "eqid": "POG",
-            "eqname": "Psyk-Out Grenade",
+            "eqname": "Psyk-Out Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br/>\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Psyk-Out Grenade</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>1/1</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect, Psyk-Out*</td>\n     </tr>\n </table>\n * <strong>Psyk-Out:</strong> \n Each time a shooting attack is made with this weapon, if the target has the PSYKER or DAEMON keyword, for that shooting attack, change its Damage characteristic to 3/5 and it has the Lethal 5+ Special Rule.",
             "eqpts": "2"
           },
@@ -16768,7 +16768,7 @@
             "eqpts": "1"
           }
         ],
-        "killteamcomp": "A HUNTER CLADE kill team includes the following operatives:\n<ul>\n\t<li>\n\t\tOne HUNTER CLADE operative selected from the following list:\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\tSKITARII RANGER ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Galvanic Rifle; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSKITARII VANGUARD ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Radium Carbine; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER PRINCEPS\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR PRINCEPS operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n\t<li>\n\t\tTen HUNTER CLADE operatives selected from the following list:\n\t\t<ul>\n\t\t\t<li>SKITARII RANGER MARKSMAN</li>\n\t\t\t<li>SKITARII RANGER DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII RANGER GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII RANGER SURVEYOR</li>\n\t\t\t<li>SKITARII VANGUARD SHOCKTROOPER</li>\n\t\t\t<li>SKITARII VANGUARD DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII VANGUARD GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII VANGUARD SURVEYOR</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER ASSASSIN operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Chordclaw and Transonic Razor or Transonic Blades</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR TRACKER operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n</ul>\n\nYour Kill Team must include more SKITARII RANGER and SKITARII VANGUARD operatives that it does SICARIAN operatives.\n<br/><br/>\nYour Kill Team can only include up to three GUNNER operatives.\nEach GUNNER operative must be equipped with different ranged weapons.\n<br/><br/>\nYour Kill Team can only include up to one DIKTAT and one SURVEYOR operative.",
+        "killteamcomp": "A HUNTER CLADE fire team includes the following operatives:\n<ul>\n\t<li>\n\t\tOne HUNTER CLADE operative selected from the following list:\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\tSKITARII RANGER ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Galvanic Rifle; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSKITARII VANGUARD ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Radium Carbine; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER PRINCEPS\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR PRINCEPS operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n\t<li>\n\t\tTen HUNTER CLADE operatives selected from the following list:\n\t\t<ul>\n\t\t\t<li>SKITARII RANGER MARKSMAN</li>\n\t\t\t<li>SKITARII RANGER DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII RANGER GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII RANGER SURVEYOR</li>\n\t\t\t<li>SKITARII VANGUARD SHOCKTROOPER</li>\n\t\t\t<li>SKITARII VANGUARD DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII VANGUARD GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII VANGUARD SURVEYOR</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER ASSASSIN operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Chordclaw and Transonic Razor or Transonic Blades</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR TRACKER operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n</ul>\n\nYour Kill Team must include more SKITARII RANGER and SKITARII VANGUARD operatives that it does SICARIAN operatives.\n<br/><br/>\nYour Kill Team can only include up to three GUNNER operatives.\nEach FUNNER operative must be equipped with different ranged weapons.\n<br/><br/>\nYour Kill Team can only include up to one DIKTAT and one SURVEYOR operative.",
         "fireteams": [
           {
             "factionid": "IMP",
@@ -17077,7 +17077,7 @@
                         "wepid": "TB",
                         "profileid": "0",
                         "name": "",
-                        "A": "5",
+                        "A": "3",
                         "BS": "3+",
                         "D": "4/6",
                         "SR": "Rending"
@@ -18439,7 +18439,7 @@
             "factionid": "IMP",
             "killteamid": "IG",
             "eqid": "FG",
-            "eqname": "Frag Grenade",
+            "eqname": "Frag Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n <table width=\"100%\" class=\"eqtable\">\n <tr>\n \t<th>Name</th>\n     <th>A</th>\n     <th>BS</th>\n     <th>D</th>\n </tr>\n <tr>\n \t<td>Frag Grenade</td>\n     <td>4</td>\n     <td>3+</td>\n     <td>2/3</td>\n </tr>\n <tr>\n \t<th colspan=\"4\">Special Rules</th>\n </tr>\n <tr>\n \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n </tr>\n </table>",
             "eqpts": "2"
           },
@@ -18447,7 +18447,7 @@
             "factionid": "IMP",
             "killteamid": "IG",
             "eqid": "KG",
-            "eqname": "Krak Grenade",
+            "eqname": "Krak Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n<table width=\"100%\" class=\"eqtable\">\n<tr>\n\t<th>Name</th>\n    <th>A</th>\n    <th>BS</th>\n    <th>D</th>\n</tr>\n<tr>\n\t<td>Krak Grenade</td>\n    <td>4</td>\n    <td>3+</td>\n    <td>4/5</td>\n</tr>\n<tr>\n\t<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n</tr>\n</table>",
             "eqpts": "3"
           },
@@ -19631,7 +19631,7 @@
             "factionid": "IMP",
             "killteamid": "NOV",
             "eqid": "FG",
-            "eqname": "Frag Grenade",
+            "eqname": "Frag Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n  <table width=\"100%\" class=\"eqtable\">\n  <tr>\n  \t<th>Name</th>\n      <th>A</th>\n      <th>BS</th>\n      <th>D</th>\n  </tr>\n  <tr>\n  \t<td>Frag Grenade</td>\n      <td>4</td>\n      <td>3+</td>\n      <td>2/3</td>\n  </tr>\n  <tr>\n  \t<th colspan=\"4\">Special Rules</th>\n  </tr>\n  <tr>\n  \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n  </tr>\n  </table>",
             "eqpts": "2"
           },
@@ -19647,7 +19647,7 @@
             "factionid": "IMP",
             "killteamid": "NOV",
             "eqid": "KG",
-            "eqname": "Krak Grenade",
+            "eqname": "Krak Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n <table width=\"100%\" class=\"eqtable\">\n <tr>\n \t<th>Name</th>\n     <th>A</th>\n     <th>BS</th>\n     <th>D</th>\n </tr>\n <tr>\n \t<td>Krak Grenade</td>\n     <td>4</td>\n     <td>3+</td>\n     <td>4/5</td>\n </tr>\n <tr>\n \t<th colspan=\"4\">Special Rules</th>\n </tr>\n <tr>\n \t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n </tr>\n </table>",
             "eqpts": "3"
           },
@@ -21726,7 +21726,7 @@
             "factionid": "IMP",
             "killteamid": "PHO",
             "eqid": "FG",
-            "eqname": "Frag Grenade",
+            "eqname": "Frag Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n  <table width=\"100%\" class=\"eqtable\">\n  <tr>\n  \t<th>Name</th>\n      <th>A</th>\n      <th>BS</th>\n      <th>D</th>\n  </tr>\n  <tr>\n  \t<td>Frag Grenade</td>\n      <td>4</td>\n      <td>3+</td>\n      <td>2/3</td>\n  </tr>\n  <tr>\n  \t<th colspan=\"4\">Special Rules</th>\n  </tr>\n  <tr>\n  \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n  </tr>\n  </table>\n",
             "eqpts": "2"
           },
@@ -21750,7 +21750,7 @@
             "factionid": "IMP",
             "killteamid": "PHO",
             "eqid": "KG",
-            "eqname": "Krak Grenade",
+            "eqname": "Krak Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle. It cannot make a shooting attack with this weapon by performing an Overwatch action.\n <br/>\n <table class=\"eqtable\" width=\"100%\">\n  \t<tr>\n  \t\t<th>Name</th>\n          <th>A</th>\n          <th>BS</th>\n          <th>D</th>\n      </tr>\n      <tr>\n  \t\t<td>Krak Grenade</td>\n          <td>4</td>\n          <td>3+</td>\n          <td>4/5</td>\n      </tr>\n      <tr>\n  \t\t<th colspan=\"4\">Special Rules</th>\n      </tr>\n      <tr>\n  \t\t<td colspan=\"4\">Rng [PENT], Lim, Indirect, AP1</td>\n      </tr>\n  </table>",
             "eqpts": "3"
           },
@@ -23337,7 +23337,7 @@
             "factionid": "IMP",
             "killteamid": "SM",
             "eqid": "AGL",
-            "eqname": "Auxiliary Grenade Launcher",
+            "eqname": "Auxiliary Grenade Launcher*",
             "eqdescription": "INTERCESSOR operative only. The operative gains the following ability for the battle:<br/>\n <strong>Auxiliary Grenade Launcher:</strong> \n Frag and Krak Grenades the operative is equipped with can be selected for use twice, instead of once.\n Each time the operative performs a Shoot action, if a Frag or Krak Grenade is selected as the ranged weapon an Auxiliary Grenade Launcher can also be selected. \n If it is, for that action's shooting attack(s), Frag or Krak Grenades are treated as not having the Rng [PENT] and indirect Special Rule.",
             "eqpts": "1"
           },
@@ -23353,7 +23353,7 @@
             "factionid": "IMP",
             "killteamid": "SM",
             "eqid": "FG",
-            "eqname": "Frag Grenade",
+            "eqname": "Frag Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n <table width=\"100%\" class=\"eqtable\">\n <tr>\n \t<th>Name</th>\n     <th>A</th>\n     <th>BS</th>\n     <th>D</th>\n </tr>\n <tr>\n \t<td>Frag Grenade</td>\n     <td>4</td>\n     <td>3+</td>\n     <td>2/3</td>\n </tr>\n <tr>\n \t<th colspan=\"4\">Special Rules</th>\n </tr>\n <tr>\n \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n </tr>\n </table>",
             "eqpts": "2"
           },
@@ -23393,7 +23393,7 @@
             "factionid": "IMP",
             "killteamid": "SM",
             "eqid": "KG",
-            "eqname": "Krak Grenade",
+            "eqname": "Krak Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n<table width=\"100%\" class=\"eqtable\">\n<tr>\n\t<th>Name</th>\n    <th>A</th>\n    <th>BS</th>\n    <th>D</th>\n</tr>\n<tr>\n\t<td>Krak Grenade</td>\n    <td>4</td>\n    <td>3+</td>\n    <td>4/5</td>\n</tr>\n<tr>\n\t<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n</tr>\n</table>",
             "eqpts": "3"
           },
@@ -28319,7 +28319,7 @@
             "factionid": "IMP",
             "killteamid": "TOE",
             "eqid": "POG",
-            "eqname": "Psyk-Out Grenade",
+            "eqname": "Psyk-Out Grenade*",
             "eqdescription": "ANATHEMA PSYKANA operative only. The operative is equipped with the following ranged weapon for the battle:<br/>\n  <table class=\"eqtable\" width=\"100%\">\n  \t<tr>\n  \t\t<th>Name</th>\n          <th>A</th>\n          <th>BS</th>\n          <th>D</th>\n      </tr>\n      <tr>\n  \t\t<td>Psyk-Out Grenade</td>\n          <td>4</td>\n          <td>3+</td>\n          <td>1/1</td>\n      </tr>\n      <tr>\n  \t\t<th colspan=\"4\">Special Rules</th>\n      </tr>\n      <tr>\n  \t\t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect, Psyk-Out*</td>\n      </tr>\n  </table>\n  * <strong>Psyk-Out:</strong> \n  Each time a shooting attack is made with this weapon, if the target has the PSYKER or DAEMON keyword, for that shooting attack, change its Damage characteristic to 3/5 and it has the Lethal 5+ Special Rule.",
             "eqpts": "2"
           },
@@ -29091,7 +29091,7 @@
             "factionid": "IMP",
             "killteamid": "VG",
             "eqid": "FG",
-            "eqname": "Frag Grenade",
+            "eqname": "Frag Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<br/>\n<table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Frag Grenade</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>2/3</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n     </tr>\n </table>",
             "eqpts": "2"
           },
@@ -29115,7 +29115,7 @@
             "factionid": "IMP",
             "killteamid": "VG",
             "eqid": "KG",
-            "eqname": "Krak Grenade",
+            "eqname": "Krak Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle. It cannot make a shooting attack with this weapon by performing an Overwatch action.\n<br/>\n<table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Krak Grenade</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>4/5</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Lim, Indirect, AP1</td>\n     </tr>\n </table>",
             "eqpts": "3"
           },
@@ -30620,7 +30620,7 @@
             "factionid": "NEC",
             "killteamid": "TW",
             "eqid": "DNS",
-            "eqname": "Devourer Nanoscarabs",
+            "eqname": "Devourer Nanoscarabs*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n\n<table width=\"100%\" class=\"eqtable\">\n<tr>\n\t<th>Name</th>\n\t <th>A</th>\n\t <th>BS</th>\n\t <th>D</th>\n </tr>\n <tr>\n\t<td>Devourer Nanoscarabs</td>\n\t <td>4</td>\n\t <td>3+</td>\n\t <td>3/4</td>\n </tr>\n <tr>\n\t<th colspan=\"4\">Special Rules</th>\n </tr>\n <tr>\n\t<td colspan=\"4\">\n\t\tRng [PENT], Lim, Indirect, Lethal 5+\n\t </td>\n </tr>\n</table>",
             "eqpts": "3"
           },
@@ -31404,7 +31404,7 @@
             "factionid": "ORK",
             "killteamid": "GSK",
             "eqid": "SB",
-            "eqname": "Stikkbomb",
+            "eqname": "Stikkbomb*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Stikkbomb</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>2/4</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n     </tr>\n </table>",
             "eqpts": "2"
           },
@@ -32526,7 +32526,7 @@
             "factionid": "ORK",
             "killteamid": "KOM",
             "eqid": "STB",
-            "eqname": "Stikkbomb",
+            "eqname": "Stikkbomb*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Stikkbomb</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>2/4</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Indirect, Lim</td>\n     </tr>\n </table>",
             "eqpts": "2"
           },
@@ -35497,7 +35497,7 @@
             "factionid": "TAU",
             "killteamid": "PF",
             "eqid": "EMP",
-            "eqname": "EMP Grenade",
+            "eqname": "EMP Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<br/>\n<table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n \t\t<th>A</th>\n \t\t<th>BS</th>\n \t\t<th>D</th>\n \t</tr>\n \t<tr>\n \t\t<td>EMP Grenade</td>\n \t\t<td>4</td>\n \t\t<td>2+</td>\n \t\t<td>2/3</td>\n \t</tr>\n \t<tr>\n \t\t<th colspan=\"4\">\n \t\t\tSpecial Rules\n \t\t</th>\n \t</tr>\n \t<tr>\n \t\t<td colspan=\"4\">\n \t\t\tRng [PENT], Blast [CIRCLE], Indirect, EMP*, Lim\n \t\t</td>\n \t</tr>\n </table>\n<strong>*EMP:</strong> Each time a friendly operative makes a shooting attack with this weapon, this weapon has the Lethal X special rule for that shooting attack. X is the target’s unmodified Save characteristic.",
             "eqpts": "2"
           },
@@ -35505,7 +35505,7 @@
             "factionid": "TAU",
             "killteamid": "PF",
             "eqid": "FG",
-            "eqname": "Fusion Grenade",
+            "eqname": "Fusion Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle. It cannot make a shooting attack with this weapon by performing an Overwatch action.\n<br/>\n<table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n \t\t<th>A</th>\n \t\t<th>BS</th>\n \t\t<th>D</th>\n \t</tr>\n \t<tr>\n \t\t<td>Fusion Grenade</td>\n \t\t<td>4</td>\n \t\t<td>3+</td>\n \t\t<td>4/3</td>\n \t</tr>\n \t<tr>\n \t\t<th colspan=\"4\">\n \t\t\tSpecial Rules\n \t\t</th>\n \t</tr>\n \t<tr>\n \t\t<td colspan=\"4\">\n \t\t\tRng [PENT], Indirect, AP2, Lim\n \t\t</td>\n \t</tr>\n </table>\n",
             "eqpts": "4"
           },
@@ -37144,7 +37144,7 @@
             "factionid": "TYR",
             "killteamid": "BC",
             "eqid": "BC",
-            "eqname": "Blasting Charge",
+            "eqname": "Blasting Charge*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Blasting Charge</td>\n\t\t<td>4</td>\n        <td>3+</td>\n        <td>2/3</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">\n\t\t\tRng [PENT], Blast [CIRCLE], Indirect, Lim\n        </th>\n    </tr>\n</table>",
             "eqpts": "2"
           },
@@ -37152,7 +37152,7 @@
             "factionid": "TYR",
             "killteamid": "BC",
             "eqid": "DC",
-            "eqname": "Demolition Charge",
+            "eqname": "Demolition Charge*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Demolition Charge</td>\n\t\t<td>4</td>\n        <td>3+</td>\n        <td>5/6</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">\n\t\t\tRng [PENT], Blast [CIRCLE], AP1, Indirect, Unwieldy, Lim\n        </th>\n    </tr>\n</table>",
             "eqpts": "4"
           },
@@ -39989,7 +39989,7 @@
             "factionid": "TYR",
             "killteamid": "WB",
             "eqid": "BC",
-            "eqname": "Blasting Charge",
+            "eqname": "Blasting Charge*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n<tr>\n<th>Name</th>\n<th>A</th>\n<th>BS</th>\n<th>D</th>\n</tr>\n<tr>\n<td>Blasting Charge</td>\n<td>4</td>\n<td>3+</td>\n<td>3/4</td>\n<tr><th colspan=\"4\">Special Rules</th></td>\n<tr><th colspan=\"4\">Rng [PENT], Blast [TRI], Indirect, Limited</th></td>\n</tr>\n</table>",
             "eqpts": "3"
           },
@@ -40021,7 +40021,7 @@
             "factionid": "TYR",
             "killteamid": "WB",
             "eqid": "FG",
-            "eqname": "Frag Grenade",
+            "eqname": "Frag Grenade*",
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n<tr>\n<th>Name</th>\n<th>A</th>\n<th>BS</th>\n<th>D</th>\n</tr>\n<tr>\n<td>Frag Grenade</td>\n<td>4</td>\n<td>3+</td>\n<td>2/3</td>\n<tr><th colspan=\"4\">Special Rules</th></td>\n<tr><th colspan=\"4\">Rng [PENT], Blast [CIRCLE], Indirect, Limited</th></td>\n</tr>\n</table>",
             "eqpts": "2"
           },
