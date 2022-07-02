@@ -1237,7 +1237,7 @@
             "killteamid": "COR",
             "fireteamid": "COR",
             "fireteamname": "Corsair Voidscarred",
-            "archetype": "",
+            "archetype": "Seek And Destroy/Recon",
             "description": "",
             "killteammax": 0,
             "operatives": [
@@ -4697,7 +4697,7 @@
             "killteamid": "VDT",
             "fireteamid": "VDT",
             "fireteamname": "Void-Dancer Troupe",
-            "archetype": "",
+            "archetype": "Seek And Destroy/Infiltration/Recon",
             "description": "",
             "killteammax": 0,
             "operatives": [
@@ -9683,7 +9683,7 @@
             "killteamid": "LEG",
             "fireteamid": "LEG",
             "fireteamname": "Legionary",
-            "archetype": "",
+            "archetype": "Seek And Destroy/Security",
             "description": "",
             "killteammax": 0,
             "operatives": [
@@ -41763,7 +41763,7 @@
             "killteamid": "WB",
             "fireteamid": "WB",
             "fireteamname": "WyrmBlade",
-            "archetype": "",
+            "archetype": "Seek And Destroy/Infiltration",
             "description": "",
             "killteammax": 0,
             "operatives": [
