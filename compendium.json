@@ -86,7 +86,7 @@
             "eqname": "Agonite*",
             "eqdescription": "KABALITE operative only. Select one Splinter Cannon, Splinter Pistol, or Splinter Rifle the operative is equipped with.\nThat weapon gains the Relentless special rule for the battle.",
             "eqpts": "3",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "AEL",
@@ -95,7 +95,7 @@
             "eqname": "DeathBloom*",
             "eqdescription": "KABALITE operative only. Select one Splinter Cannon, Splinter Pistol, or Splinter Rifle the operative is equipped with. \nThat weapon gains the Rending critical hit rule for the battle.",
             "eqpts": "3",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "AEL",
@@ -104,7 +104,7 @@
             "eqname": "Feralex*",
             "eqdescription": "KABALITE operative only. Select one Splinter Cannon, Splinter Pistol, or Splinter Rifle the operative is equipped with. \nThat weapon gains the Splash 1 critical hit rule for the battle.",
             "eqpts": "3",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "AEL",
@@ -123,7 +123,7 @@
             "eqdescription": "WYCH operative only. The operative is equipped with the following ranged weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Haywire Grenade</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>2/3</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Lim, Haywire*</td>\n     </tr>\n </table>\n <strong>Haywire:</strong> Each time a friendly operative makes a shooting attack with this weapon, if the target has a Save characteristic of 3+ or better, this weapon has the Lethal 4+ special rule for that shooting attack.",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "AEL",
               "killteamid": "COM",
               "fireteamid": "EQ",
@@ -155,7 +155,7 @@
             "eqname": "Hypex*",
             "eqdescription": "WYCH operative only. Add [TRI] to this operative's Movement characteristic for the battle.",
             "eqpts": "2",
-            "eqtype": null
+            "eqtype": "OpMod"
           },
           {
             "factionid": "AEL",
@@ -183,7 +183,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Plasma Grenade</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>3/4</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Lim, Indirect</td>\n    </tr>\n</table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "AEL",
               "killteamid": "COM",
               "fireteamid": "EQ",
@@ -216,7 +216,7 @@
             "eqdescription": "LEADER operative only. The operative is equipped with the following ranged weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Phantasm Grenade Launcher</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>1/2</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Blast [TRI], Lethal 5+, Stun</td>\n     </tr>\n </table>",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "AEL",
               "killteamid": "COM",
               "fireteamid": "EQ",
@@ -1117,7 +1117,7 @@
             "eqdescription": "The operative is equipped with the following melee weapon for the battle:<br/>\n<table class=\"eqtable\" width=\"100%\">\n<tr>\n<th>Name</th>\n<th>A</th>\n<th>BS</th>\n<th>D</th>\n</tr>\n<tr>\n<td>Corsair Blade</td>\n<td>3</td>\n<td>3+</td>\n<td>3/4</td>\n</tr>\n</table>",
             "eqpts": "1",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "AEL",
               "killteamid": "COR",
               "fireteamid": "EQ",
@@ -1195,7 +1195,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br/>\n<table class=\"eqtable\" width=\"100%\">\n<tr>\n<th>Name</th>\n<th>A</th>\n<th>BS</th>\n<th>D</th>\n</tr>\n<tr>\n<td>Plasma Grenade</td>\n<td>4</td>\n<td>3+</td>\n<td>3/4</td>\n</tr>\n<tr>\n<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n<td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Lim, Indirect</td>\n</tr>\n</table>",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "AEL",
               "killteamid": "COR",
               "fireteamid": "EQ",
@@ -2603,7 +2603,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Plasma Grenade</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>3/4</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Lim, Indirect</td>\n    </tr>\n</table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "AEL",
               "killteamid": "CW",
               "fireteamid": "EQ",
@@ -2635,7 +2635,7 @@
             "eqname": "Ranger Scope",
             "eqdescription": "Select one Ranger Long Rifle the operative is equipped with. That weapon gains the Lethal 5+ special rule for the battle.",
             "eqpts": "3",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "AEL",
@@ -2654,7 +2654,7 @@
             "eqdescription": "DIRE AVENGER operative only. The operative is equipped with the following melee weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>WS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Weaponised Panoply</td>\n        <td>3</td>\n        <td>3+</td>\n        <td>3/4</td>\n    </tr>\n</table>",
             "eqpts": "1",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "AEL",
               "killteamid": "CW",
               "fireteamid": "EQ",
@@ -3896,7 +3896,7 @@
             "eqname": "Accelerated Monofilament Wire",
             "eqdescription": "Select one Harlequin's Embrace the operative is equipped with. That weapon fains the Reap 1 critical hit rule and Lethal 5+ special rule for the battle.",
             "eqpts": "3",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "AEL",
@@ -3915,7 +3915,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Prismatic Grenade</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>3/4</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<td colspan=\"4\">\n\t\t\tRng [PENT], Limited, Blast [CIRCLE], Indirect, Stun\n        </td>\n    </tr>\n</table>",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "AEL",
               "killteamid": "TRP",
               "fireteamid": "EQ",
@@ -3947,7 +3947,7 @@
             "eqname": "Pure PsychoCrystals",
             "eqdescription": "Select one Neuro Disruptor the operative is equipped with. That weapon gains the Lethal 5+ special rule for the battle.",
             "eqpts": "3",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "AEL",
@@ -3956,7 +3956,7 @@
             "eqname": "Supertensile Monofilament Wire",
             "eqdescription": "Select one Harlequin's Kiss the operative is equipped with. Add 1 to that weapon's Normal Damage characteristic for the battle.",
             "eqpts": "3",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "AEL",
@@ -3965,7 +3965,7 @@
             "eqname": "Shrieker Toxin Rounds",
             "eqdescription": "Select one Shuriken Pistol the operative is equipped with. That weapon gains the MW1 critical hit rule for the battle.",
             "eqpts": "3",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "AEL",
@@ -4600,7 +4600,7 @@
             "eqname": "Accelerated Monofilament Wire",
             "eqdescription": "Select one Embrace the operative is equipped with.\nThat weapoan gains the Reap 1 critical hit rule and Lethal 5+ special rule for the battle.",
             "eqpts": "3",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "AEL",
@@ -4619,7 +4619,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n    <tr>\n        <th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n        <td>Prismatic Grenade</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>3/4</td>\n    </tr>\n    <tr>\n        <th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n        <td colspan=\"4\">\n            Rng [PENT], Limited, Blast [CIRCLE], Indirect, Stun\n        </td>\n    </tr>\n</table>",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "AEL",
               "killteamid": "VDT",
               "fireteamid": "EQ",
@@ -4651,7 +4651,7 @@
             "eqname": "Pure Psychocrystals*",
             "eqdescription": "Select one Neuro Disruptor the operative is equipped with.\nThat weapon gains the Lethal 5+ special rule for the battle.",
             "eqpts": "3",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "AEL",
@@ -4660,7 +4660,7 @@
             "eqname": "Support Grip*",
             "eqdescription": "DEATH JESTER operative only.\nRemove the Heavy special rule from the Shrieker Cannon that operative is equipped with for the battle.\nThat weapon gains the following special rule for the battle instead:<br/>\n<strong>Cumbersome:</strong> \nAn operative cannot move more than 3[CIRCLE] in the same activation in which it performs a Shoot action with this ranged weapon.",
             "eqpts": "1",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "AEL",
@@ -4669,7 +4669,7 @@
             "eqname": "Supertensile Monofilament Wire",
             "eqdescription": "Select one Kiss the operative is equipped with.\nAdd 1 to that weapons's Normal Damage characteristic for the battle.",
             "eqpts": "3",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "AEL",
@@ -4678,7 +4678,7 @@
             "eqname": "Shrieker Toxin Rounds",
             "eqdescription": "Select one Shuriken Pistol or Shrieker Cannon the operative is equipped with.\nThat weapon gains the MW1 critical hit rule for the battle.\nIf you selected a Shrieker Cannon, this equipment costs 4 EP, otherwise, it costs 3 EP.",
             "eqpts": "3/4",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "AEL",
@@ -5493,7 +5493,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n  <tr>\n  <th>Name</th>\n          <th>A</th>\n          <th>BS</th>\n          <th>D</th>\n      </tr>\n      <tr>\n  <td>Frag Grenade</td>\n          <td>4</td>\n          <td>3+</td>\n          <td>2/3</td>\n      </tr>\n      <tr>\n  <th colspan=\"4\">Special Rules</th>\n  </tr>\n      <tr>\n  <td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Indirect, Limited</td>\n  </tr>\n  </table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "CHAOS",
               "killteamid": "BLD",
               "fireteamid": "EQ",
@@ -5525,7 +5525,7 @@
             "eqname": "Incendiary Shells",
             "eqdescription": "TRAITOR TRENCH SWEEPER operative only. A shotgun the operative is equipped with gains the following special rule for the battle:<br/>\n<strong>Incendiary Shells:</strong> Each time this weapon is selected to shoot with, you can choose to fire incendiary shells. If you do so, for that shooting attack:\n<ul>\n<li>This weapon gains the Blast [TRI] special rule.</li>\n<li>Subtract 1 from this weapon's Normal Damage characteristic.</li>\n</ul>",
             "eqpts": "2",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "CHAOS",
@@ -5535,7 +5535,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n  <table class=\"eqtable\" width=\"100%\">\n  \t<tr>\n  \t\t<th>Name</th>\n          <th>A</th>\n          <th>BS</th>\n          <th>D</th>\n      </tr>\n      <tr>\n  \t\t<td>Krak Grenade</td>\n          <td>4</td>\n          <td>3+</td>\n          <td>4/5</td>\n      </tr>\n      <tr>\n  \t\t<th colspan=\"4\">Special Rules</th>\n  \t</tr>\n      <tr>\n  \t\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n  \t</tr>\n  </table>",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "CHAOS",
               "killteamid": "BLD",
               "fireteamid": "EQ",
@@ -5576,7 +5576,7 @@
             "eqname": "Wicked Blades",
             "eqdescription": "Select a Bayonet, Bayonet and Shield, or Improvised Blade the operative is equipped with. Add 1 to that weapon's Normal Damage characteristic. If you selected a Bayonet and Shield, this equipment costs 2 EP, otherwise it costs 1 EP.",
             "eqpts": "1/2",
-            "eqtype": null
+            "eqtype": "WepMod"
           }
         ],
         "killteamcomp": "A BLOODED KillTeam is composed of:\n<ul>\n        <li>\n                1 BLOODED TRAITOR CHIEFTAIN operative equipped with one of the following options:\n                <ul>\n                        <li>Autopistol or Laspistol; Chainsword or Power Weapon</li>\n                        <li>Bolt Pistol; Chainsword</li>\n                        <li>Boltgun; Bayonet</li>\n                        <li>Plasma Pistol; Improvised Blade</li>\n                </ul>\n        </li>\n        <li>\n                9 BLOODED operatives selected from the following list:\n                <ul>\n                        <li>TRAITOR BRIMSTONE GRENADIER</li>\n                        <li>TRAITOR BUTCHER</li>\n                        <li>TRAITOR COMMSMAN</li>\n                        <li>TRAITOR CORPSEMAN</li>\n                        <li>TRAITOR FLENSER</li>\n                        <li>TRAITOR GUNNER equipped with a Bayonet and a Flamer</li>\n                        <li>TRAITOR GUNNER equipped with a Bayonet and a Grenade Launcher</li>\n                        <li>TRAITOR GUNNER equipped with a Bayonet and a Meltagun</li>\n                        <li>TRAITOR GUNNER equipped with a Bayonet and a Plasma Gun</li>\n                        <li>TRAITOR SHARPSHOOTER</li>\n                        <li>TRAITOR THUG</li>\n                        <li>TRAITOR TRENCH SWEEPER</li>\n                        <li>TRAITOR TROOPER</li>\n                </ul>\n        </li>\n        <li>\n                4 BLOODED operatives selected from the following list:\n                <ul>\n                        <li>TRAITOR ENFORCER (counts as two selections)</li>\n                        <li>TRAITOR OGRYN (counts as two selections)</li>\n                        <li>TRAITOR TROOPER</li>\n                </ul>\n        </li>\n</ul>\n\nOther than TRAITOR TROOPER operatives, your KillTeam can only include each operative above once.<br/>\nYour KillTeam can only include up to two TRAITOR GUNNER operatives.",
@@ -7167,7 +7167,7 @@
             "eqdescription": "SLAANESH operative only. The operative is equipped with the following ranged weapon for the battle:\n<table width=\"100%\" class=\"eqtable\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n\t</tr>\n    <tr>\n\t\t<td>Alluring Musk</td>\n        <td>5</td>\n        <td>2+</td>\n        <td>1/1</td>\n\t</tr>\n    <tr><th colspan=\"4\">Special Rules</th></tr>\n    <tr><td colspan=\"4\">Rng [PENT], Stun</td></tr>\n</table>",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "CHAOS",
               "killteamid": "DAEM",
               "fireteamid": "EQ",
@@ -7209,7 +7209,7 @@
             "eqdescription": "NURGLE operative only. The operative is equipped with the following ranged weapon for the battle:\n<table width=\"100%\" class=\"eqtable\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n\t</tr>\n    <tr>\n\t\t<td>Death's Heads</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>3/5</td>\n\t</tr>\n    <tr><th colspan=\"4\">Special Rules</th></tr>\n    <tr><td colspan=\"4\">Rng [PENT]</td></tr>\n</table>",
             "eqpts": "1",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "CHAOS",
               "killteamid": "DAEM",
               "fireteamid": "EQ",
@@ -7241,7 +7241,7 @@
             "eqname": "Piercing Claws",
             "eqdescription": "SLAANESH operative only.\nSelect one Claws the operative is equipped with. Add 1 to that weapon's Critical Damage characteristic and it gains the Rending Special Rule for the battle.",
             "eqpts": "2",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "CHAOS",
@@ -7251,7 +7251,7 @@
             "eqdescription": "PINK HORROR or BLUE HORROR operative only. The operative is equipped with the following melee weapon for the battle:\n<table width=\"100%\" class=\"eqtable\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n\t</tr>\n    <tr>\n\t\t<td>Ritual Dagger</td>\n        <td>3</td>\n        <td>4+</td>\n        <td>3/6</td>\n\t</tr>\n    <tr><th colspan=\"4\">Special Rules</th></tr>\n    <tr><td colspan=\"4\">Balanced</td></tr>\n</table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "CHAOS",
               "killteamid": "DAEM",
               "fireteamid": "EQ",
@@ -7284,7 +7284,7 @@
             "eqdescription": "NURGLE operative only. The operative is equipped with the following ranged weapon for the battle:\n<table width=\"100%\" class=\"eqtable\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n\t</tr>\n    <tr>\n\t\t<td>Rancid Vomit</td>\n        <td>5</td>\n        <td>2+</td>\n        <td>2/3</td>\n\t</tr>\n    <tr><th colspan=\"4\">Special Rules</th></tr>\n    <tr><td colspan=\"4\">Rng [PENT], Tor [TRI]</td></tr>\n</table>",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "CHAOS",
               "killteamid": "DAEM",
               "fireteamid": "EQ",
@@ -7317,7 +7317,7 @@
             "eqdescription": "KHORNE operative only. The operative is equipped with the following ranged weapon for the battle:\n<table width=\"100%\" class=\"eqtable\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n\t</tr>\n    <tr>\n\t\t<td>Scorched Skull</td>\n        <td>4</td>\n        <td>4+</td>\n        <td>4/5</td>\n\t</tr>\n    <tr><th colspan=\"4\">Special Rules</th></tr>\n    <tr><td colspan=\"4\">AP1</td></tr>\n</table>",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "CHAOS",
               "killteamid": "DAEM",
               "fireteamid": "EQ",
@@ -7349,7 +7349,7 @@
             "eqname": "Trinket Of Flux",
             "eqdescription": "PINK HORROR or BLUE HORROR operative only.\nSelect one Coruscating Flames or Fizzing Flames the operative is equipped with. Add 1 to that weapon's Damage characteristic for the battle.",
             "eqpts": "2",
-            "eqtype": null
+            "eqtype": "WepMod"
           }
         ],
         "killteamcomp": "A CHAOS DAEMON kill team consists of two fireteams selected from the following list:\n <ul>\n <li>BLOODLETTER</li>\n <li>DAEMONETTE</li>\n <li>PLAGUEBEARER</li>\n <li>PINK HORROR</li>\n <li>BLUE HORROR (max one per kill team)</li>\n </ul>\n ",
@@ -8402,7 +8402,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Blight Grenade</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>2/3</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n \t</tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Lim, Indirect, Ceaseless</td>\n \t</tr>\n </table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "CHAOS",
               "killteamid": "DG",
               "fireteamid": "EQ",
@@ -8444,7 +8444,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Krak Grenade</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>4/5</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n \t</tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n \t</tr>\n </table>",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "CHAOS",
               "killteamid": "DG",
               "fireteamid": "EQ",
@@ -8476,7 +8476,7 @@
             "eqname": "Mephitic Toxin",
             "eqdescription": "Select one Plague Knife or Plague Knives the operative is equipped with. Add 1 to that weapon's Normal Damage characteristic.",
             "eqpts": "1",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "CHAOS",
@@ -8503,7 +8503,7 @@
             "eqname": "Virulent Rounds",
             "eqdescription": "Select one Boltgun or Bolt Pistol the operative is equipped with. Add 1 to that weapon's Critical Damage characteristic.",
             "eqpts": "1",
-            "eqtype": null
+            "eqtype": "WepMod"
           }
         ],
         "killteamcomp": "A DEATH GUARD kill team consists of two fire teams selected from the following list:\n<ul>\n\t<li>PLAGUE MARINE</li>\n    <li>POXWALKER (max one per kill team)</li>\n</ul>",
@@ -9539,7 +9539,7 @@
             "eqdescription": "The operative is equipped with the following melee weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n <tr>\n <th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n <td>Frag Grenade</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>2/3</td>\n     </tr>\n     <tr>\n <th colspan=\"4\">Special Rules</th>\n </tr>\n     <tr>\n <td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Indirect, Limited</td>\n </tr>\n </table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "CHAOS",
               "killteamid": "LEG",
               "fireteamid": "EQ",
@@ -9581,7 +9581,7 @@
             "eqdescription": "The operative is equipped with the following melee weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n <tr>\n <th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n <td>Krak Grenade</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>4/5</td>\n     </tr>\n     <tr>\n <th colspan=\"4\">Special Rules</th>\n </tr>\n     <tr>\n <td colspan=\"4\">Rng [PENT], AP1, Indirect, Limited</td>\n </tr>\n </table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "CHAOS",
               "killteamid": "LEG",
               "fireteamid": "EQ",
@@ -9614,7 +9614,7 @@
             "eqdescription": "The operative is equipped with the following melee weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n     <tr>\n         <th>Name</th>\n         <th>A</th>\n         <th>WS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n         <td>Malefic Blade</td>\n         <td>5</td>\n         <td>3+</td>\n         <td>3/5</td>\n     </tr>\n </table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "CHAOS",
               "killteamid": "LEG",
               "fireteamid": "EQ",
@@ -9664,7 +9664,7 @@
             "eqname": "Tainted Rounds*",
             "eqdescription": "Select one Boltgun, Bolt Pistol, or Tainted Bolt Pistol the operative is equipped with.\nAdd 1 to both Damange characteristics of that weapon.",
             "eqpts": "3",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "CHAOS",
@@ -11048,7 +11048,7 @@
             "eqname": "Ensorcelled Rounds",
             "eqdescription": "TZAANGOR operative only. Select one autopistol the\noperative is equipped with. Add 1 to that weapon's Damage\ncharacteristics for the battle.",
             "eqpts": "2",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "CHAOS",
@@ -11058,7 +11058,7 @@
             "eqdescription": "The operative is equipped with the following melee weapon\nfor the battle:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>WS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Gargoyle Bayonet</td>\n        <td>3</td>\n        <td>3+</td>\n        <td>4/4</td>\n    </tr>\n</table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "CHAOS",
               "killteamid": "TS",
               "fireteamid": "EQ",
@@ -12047,7 +12047,7 @@
             "eqname": "Belt Feed",
             "eqdescription": "Excludes CHAOS CULTIST operatives. Select one Boltgun, Bolt Pistol, or Heavy Bolter the operative is equipped with.\nThat weapon gains the Ceaseless Special Rule for the battle. If you select a Heavy Bolter, this equipment costs 3 EP, otherwise it costs 2 EP.",
             "eqpts": "2/3",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "CHAOS",
@@ -12056,7 +12056,7 @@
             "eqname": "Dark Blessing",
             "eqdescription": "Excludes CHAOS CULTIST operatives. Select one melee weapon the operative is equipped with.\nAdd 1 to that weapon's Attack characteristic for the battle.",
             "eqpts": "3",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "CHAOS",
@@ -12066,7 +12066,7 @@
             "eqdescription": "Excludes CHAOS CULTIST operatives. The operative is equipped with the following ranged weapon for the battle:<br />\n <table width=\"100%\" class=\"eqtable\">\n <tr>\n \t<th>Name</th>\n     <th>A</th>\n     <th>BS</th>\n     <th>D</th>\n </tr>\n <tr>\n \t<td>Frag Grenade</td>\n     <td>4</td>\n     <td>3+</td>\n     <td>2/3</td>\n </tr>\n <tr>\n \t<th colspan=\"4\">Special Rules</th>\n </tr>\n <tr>\n \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n </tr>\n </table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "CHAOS",
               "killteamid": "CSM",
               "fireteamid": "EQ",
@@ -12108,7 +12108,7 @@
             "eqdescription": "Excludes CHAOS CULTIST operatives. The operative is equipped with the following ranged weapon for the battle:<br />\n<table width=\"100%\" class=\"eqtable\">\n<tr>\n\t<th>Name</th>\n    <th>A</th>\n    <th>BS</th>\n    <th>D</th>\n</tr>\n<tr>\n\t<td>Krak Grenade</td>\n    <td>4</td>\n    <td>3+</td>\n    <td>4/5</td>\n</tr>\n<tr>\n\t<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n</tr>\n</table>",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "CHAOS",
               "killteamid": "CSM",
               "fireteamid": "EQ",
@@ -12140,7 +12140,7 @@
             "eqname": "Malefic Rounds",
             "eqdescription": "Select one Boltgun, Bolt Pistol, or Heavy Bolter the operative is equipped with.\nThat weapon gains the P1 Special Rule for the battle. If it already has the P1 Special Rule, it gains the AP1 Special Rule instead.",
             "eqpts": "2",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "CHAOS",
@@ -13325,7 +13325,7 @@
             "eqname": "Ensorcelled Rounds",
             "eqdescription": "TZAANGOR FIGHTER operative only. Select one autopistol the operative is equipped with. Add 1 to that weapon’s Damage characteristics for the battle.",
             "eqpts": "2",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "CHAOS",
@@ -13335,7 +13335,7 @@
             "eqdescription": "RUBRIC MARINE operative only. The operative is equipped with the following melee weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Gargoyle Bayonet</td>\n        <td>3</td>\n        <td>3+</td>\n        <td>4/4</td>\n    </tr>\n</table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "CHAOS",
               "killteamid": "WC",
               "fireteamid": "EQ",
@@ -13376,7 +13376,7 @@
             "eqname": "High-Capacity Magazine",
             "eqdescription": "Select one autopistol, inferno bolt pistol or inferno boltgun the operative is equipped with. That weapon gains the Ceaseless special rule for the battle. If you selected an autopistol, this equipment costs 1 EP; otherwise, it costs 3EP.",
             "eqpts": "1/3",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "CHAOS",
@@ -14362,7 +14362,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n <table width=\"100%\" class=\"eqtable\">\n <tr>\n \t<th>Name</th>\n     <th>A</th>\n     <th>BS</th>\n     <th>D</th>\n </tr>\n <tr>\n \t<td>Frag Grenade</td>\n     <td>4</td>\n     <td>3+</td>\n     <td>2/3</td>\n </tr>\n <tr>\n \t<th colspan=\"4\">Special Rules</th>\n </tr>\n <tr>\n \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n </tr>\n </table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "IMP",
               "killteamid": "ECC",
               "fireteamid": "EQ",
@@ -14395,7 +14395,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n<table width=\"100%\" class=\"eqtable\">\n<tr>\n\t<th>Name</th>\n    <th>A</th>\n    <th>BS</th>\n    <th>D</th>\n</tr>\n<tr>\n\t<td>Krak Grenade</td>\n    <td>4</td>\n    <td>3+</td>\n    <td>4/5</td>\n</tr>\n<tr>\n\t<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n</tr>\n</table>",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "IMP",
               "killteamid": "ECC",
               "fireteamid": "EQ",
@@ -16836,7 +16836,7 @@
             "eqname": "Psybolt Ammnunition*",
             "eqdescription": "Select one Storm Bolter this operative is equipped with. Add 1 that that weapon's Damage characteristic for the battle.",
             "eqpts": "3",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "IMP",
@@ -16846,7 +16846,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br/>\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Psyk-Out Grenade</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>1/1</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect, Psyk-Out*</td>\n     </tr>\n </table>\n * <strong>Psyk-Out:</strong> \n Each time a shooting attack is made with this weapon, if the target has the PSYKER or DAEMON keyword, for that shooting attack, change its Damage characteristic to 3/5 and it has the Lethal 5+ Special Rule.",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "IMP",
               "killteamid": "GK",
               "fireteamid": "EQ",
@@ -16896,7 +16896,7 @@
             "eqname": "Truesilver Armour*",
             "eqdescription": "This operative has a Save characteristic of 2+ for the battle.",
             "eqpts": "3",
-            "eqtype": null
+            "eqtype": "OpMod"
           }
         ],
         "killteamcomp": "A GREY KNIGHT kill team includes one GREY KNIGHT JUSTICAR operative equipped with a Storm Bolter and one of the following options:\n <ul><li>Nemesis Daemon Hammer, Nemesis Falchions, Nemesis Force Weapon, or Nemesis Warding Stave</li></ul>\n It also includes five GREY KNIGHT operatives selected from the following list:\n <ul>\n <li>\n        GREY KNIGHT WARRIOR equipped with a Storm Bolter and one of the following options:\n     <ul>\n                <li>Nemesis Daemon Hammer, Nemesis Falchions, Nemesis Force Weapon, or Nemesis Warding Stave</li>\n     </ul>\n </li>\n        GREY KNIGHT GUNNER equipped with Fists and one of the following options:\n     <ul>\n                <li>Incinerator, Psilencer, or Psycannon</li>\n     </ul>\n </li>\n </ul>\n Your kill team can only include up to one GREY NIGHT GUNNER operative.",
@@ -17513,7 +17513,7 @@
             "eqname": "Enriched Rounds",
             "eqdescription": "Select one Radium Carbine or Mastercrafted Radium Pistol the operative is equipped with. \nAdd 1 to that weapon's Normal Damage characteristic for the battle.",
             "eqpts": "2",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "IMP",
@@ -19227,7 +19227,7 @@
             "eqname": "Carapace Armour",
             "eqdescription": "GUARDSMAN operative only.\nThe operative has a 4+ Save characteristic for the battle.",
             "eqpts": "3",
-            "eqtype": null
+            "eqtype": "OpMod"
           },
           {
             "factionid": "IMP",
@@ -19237,7 +19237,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n <table width=\"100%\" class=\"eqtable\">\n <tr>\n \t<th>Name</th>\n     <th>A</th>\n     <th>BS</th>\n     <th>D</th>\n </tr>\n <tr>\n \t<td>Frag Grenade</td>\n     <td>4</td>\n     <td>3+</td>\n     <td>2/3</td>\n </tr>\n <tr>\n \t<th colspan=\"4\">Special Rules</th>\n </tr>\n <tr>\n \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n </tr>\n </table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "IMP",
               "killteamid": "IG",
               "fireteamid": "EQ",
@@ -19270,7 +19270,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n<table width=\"100%\" class=\"eqtable\">\n<tr>\n\t<th>Name</th>\n    <th>A</th>\n    <th>BS</th>\n    <th>D</th>\n</tr>\n<tr>\n\t<td>Krak Grenade</td>\n    <td>4</td>\n    <td>3+</td>\n    <td>4/5</td>\n</tr>\n<tr>\n\t<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n</tr>\n</table>",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "IMP",
               "killteamid": "IG",
               "fireteamid": "EQ",
@@ -19321,7 +19321,7 @@
             "eqdescription": "TEMPESTUS SCION operative only.\nThe operative is equipped with the following melee weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>WS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Scion Blade</td>\n        <td>3</td>\n        <td>3+</td>\n        <td>3/4</td>\n    </tr>\n</table>",
             "eqpts": "1",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "IMP",
               "killteamid": "IG",
               "fireteamid": "EQ",
@@ -20509,7 +20509,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n  <table width=\"100%\" class=\"eqtable\">\n  <tr>\n  \t<th>Name</th>\n      <th>A</th>\n      <th>BS</th>\n      <th>D</th>\n  </tr>\n  <tr>\n  \t<td>Frag Grenade</td>\n      <td>4</td>\n      <td>3+</td>\n      <td>2/3</td>\n  </tr>\n  <tr>\n  \t<th colspan=\"4\">Special Rules</th>\n  </tr>\n  <tr>\n  \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n  </tr>\n  </table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "IMP",
               "killteamid": "NOV",
               "fireteamid": "EQ",
@@ -20551,7 +20551,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n <table width=\"100%\" class=\"eqtable\">\n <tr>\n \t<th>Name</th>\n     <th>A</th>\n     <th>BS</th>\n     <th>D</th>\n </tr>\n <tr>\n \t<td>Krak Grenade</td>\n     <td>4</td>\n     <td>3+</td>\n     <td>4/5</td>\n </tr>\n <tr>\n \t<th colspan=\"4\">Special Rules</th>\n </tr>\n <tr>\n \t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n </tr>\n </table>",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "IMP",
               "killteamid": "NOV",
               "fireteamid": "EQ",
@@ -22656,7 +22656,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n  <table width=\"100%\" class=\"eqtable\">\n  <tr>\n  \t<th>Name</th>\n      <th>A</th>\n      <th>BS</th>\n      <th>D</th>\n  </tr>\n  <tr>\n  \t<td>Frag Grenade</td>\n      <td>4</td>\n      <td>3+</td>\n      <td>2/3</td>\n  </tr>\n  <tr>\n  \t<th colspan=\"4\">Special Rules</th>\n  </tr>\n  <tr>\n  \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n  </tr>\n  </table>\n",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "IMP",
               "killteamid": "PHO",
               "fireteamid": "EQ",
@@ -22707,7 +22707,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle. It cannot make a shooting attack with this weapon by performing an Overwatch action.\n <br/>\n <table class=\"eqtable\" width=\"100%\">\n  \t<tr>\n  \t\t<th>Name</th>\n          <th>A</th>\n          <th>BS</th>\n          <th>D</th>\n      </tr>\n      <tr>\n  \t\t<td>Krak Grenade</td>\n          <td>4</td>\n          <td>3+</td>\n          <td>4/5</td>\n      </tr>\n      <tr>\n  \t\t<th colspan=\"4\">Special Rules</th>\n      </tr>\n      <tr>\n  \t\t<td colspan=\"4\">Rng [PENT], Lim, Indirect, AP1</td>\n      </tr>\n  </table>",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "IMP",
               "killteamid": "PHO",
               "fireteamid": "EQ",
@@ -22767,7 +22767,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle.\n <br/>\n <table class=\"eqtable\" width=\"100%\">\n  \t<tr>\n  \t\t<th>Name</th>\n          <th>A</th>\n          <th>BS</th>\n          <th>D</th>\n      </tr>\n      <tr>\n  \t\t<td>Throwing Knife</td>\n          <td>4</td>\n          <td>3+</td>\n          <td>2/5</td>\n      </tr>\n      <tr>\n  \t\t<th colspan=\"4\">Special Rules</th>\n      </tr>\n      <tr>\n  \t\t<td colspan=\"4\">Rng [PENT], Lim, Silent</td>\n      </tr>\n  </table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "IMP",
               "killteamid": "PHO",
               "fireteamid": "EQ",
@@ -24365,7 +24365,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n <table width=\"100%\" class=\"eqtable\">\n <tr>\n \t<th>Name</th>\n     <th>A</th>\n     <th>BS</th>\n     <th>D</th>\n </tr>\n <tr>\n \t<td>Frag Grenade</td>\n     <td>4</td>\n     <td>3+</td>\n     <td>2/3</td>\n </tr>\n <tr>\n \t<th colspan=\"4\">Special Rules</th>\n </tr>\n <tr>\n \t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n </tr>\n </table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "IMP",
               "killteamid": "SM",
               "fireteamid": "EQ",
@@ -24425,7 +24425,7 @@
             "eqdescription": "INCURSOR WARRIOR operative only. The operative can perform the following action during the battle:\n <br/>\n   <strong>Haywire Mine (1 AP):</strong> \n   Place a Haywire Mine token within [TRI] of this operative.\n   This operative can only perform this action once, and cannot perform this action while within Engagement Range of enemy operatives. \n   If this operative is incapacitated and removed from the killzone, remove its Haywire Mine token. \n <br/><br/>\n   The operative is equipped with the following ranged weapon:\n   <table width=\"100%\" class=\"eqtable\">\n   \t<tr>\n   \t\t<th>Name</th>\n           <th>A</th>\n           <th>BS</th>\n           <th>D</th>\n       </tr>\n       <tr>\n   \t\t<td>Haywire Mine</td>\n           <td>4</td>\n           <td>2+</td>\n           <td>4/5</td>\n       </tr>\n       <tr>\n   \t\t<th colspan=\"4\">Special Rules</th>\n       </tr>\n       <tr>\n   \t\t<td colspan=\"4\">\n   \t\t\tDetonate*, Silent\n           </td>\n       </tr>\n   </table>\n<strong>Detonate:</strong> \nEach time this operative makes a Shoot action using its Haywire Mine, make a shooting attack against each operative within [SQUARE] of the centre of its Haywire Mine token with that weapon.\nWhen making those shooting attacks, each operative is treated as being Visible, but when determining if it is in Cover, treat this operative's Haywire Mine token as the active operative. \nThen remove this operative's Haywire Mine token. \nAn operative cannot make a shooting attack with this weapon by performing an Overwatch action, or if its Haywire Mine token is not in the killzone.",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "IMP",
               "killteamid": "SM",
               "fireteamid": "EQ",
@@ -24458,7 +24458,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br />\n<table width=\"100%\" class=\"eqtable\">\n<tr>\n\t<th>Name</th>\n    <th>A</th>\n    <th>BS</th>\n    <th>D</th>\n</tr>\n<tr>\n\t<td>Krak Grenade</td>\n    <td>4</td>\n    <td>3+</td>\n    <td>4/5</td>\n</tr>\n<tr>\n\t<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect</td>\n</tr>\n</table>",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "IMP",
               "killteamid": "SM",
               "fireteamid": "EQ",
@@ -26729,8 +26729,8 @@
                 "opid": "HGNR",
                 "opname": "Heavy Intercessor Heavy Gunner",
                 "description": "Heavy Intercessors are assigned even more powerful bolt weapons than their brothers. They are enormous, rapid-firing guns that leave a bloody trail of destruction.",
-                "M": "2[CIRCLE]",
-                "APL": "3",
+                "M": "3[CIRCLE]",
+                "APL": "2",
                 "GA": "1",
                 "DF": "3",
                 "SV": "3+",
@@ -26845,8 +26845,8 @@
                 "opid": "SGT",
                 "opname": "Heavy Intercessor Sergeant",
                 "description": "Assigning target priorities and monitoring fire lanes, Heavy Intercessor Sergeants are always ready for any sign of enemy counter-attack.",
-                "M": "2[CIRCLE]",
-                "APL": "3",
+                "M": "3[CIRCLE]",
+                "APL": "2",
                 "GA": "1",
                 "DF": "3",
                 "SV": "3+",
@@ -26961,8 +26961,8 @@
                 "opid": "WAR",
                 "opname": "Heavy Intercessor Warrior",
                 "description": "Shielded by extremely thick armour, Heavy Intercessors are capable of securing key objectives and holding them against an onslaught of foes. They are immovable in defence, and their volleys of heavy firepower keep all but the most foolhardy enemies at bay.",
-                "M": "2[CIRCLE]",
-                "APL": "3",
+                "M": "3[CIRCLE]",
+                "APL": "2",
                 "GA": "1",
                 "DF": "3",
                 "SV": "3+",
@@ -29415,7 +29415,7 @@
             "eqdescription": "ANATHEMA PSYKANA operative only. The operative is equipped with the following ranged weapon for the battle:<br/>\n  <table class=\"eqtable\" width=\"100%\">\n  \t<tr>\n  \t\t<th>Name</th>\n          <th>A</th>\n          <th>BS</th>\n          <th>D</th>\n      </tr>\n      <tr>\n  \t\t<td>Psyk-Out Grenade</td>\n          <td>4</td>\n          <td>3+</td>\n          <td>1/1</td>\n      </tr>\n      <tr>\n  \t\t<th colspan=\"4\">Special Rules</th>\n      </tr>\n      <tr>\n  \t\t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect, Psyk-Out*</td>\n      </tr>\n  </table>\n  * <strong>Psyk-Out:</strong> \n  Each time a shooting attack is made with this weapon, if the target has the PSYKER or DAEMON keyword, for that shooting attack, change its Damage characteristic to 3/5 and it has the Lethal 5+ Special Rule.",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "IMP",
               "killteamid": "TOE",
               "fireteamid": "EQ",
@@ -30215,7 +30215,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<br/>\n<table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Frag Grenade</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>2/3</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n     </tr>\n </table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "IMP",
               "killteamid": "VG",
               "fireteamid": "EQ",
@@ -30248,7 +30248,7 @@
             "eqdescription": "The operative is equipped with the following melee weapon for the battle:\n<br/>\n<table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Hand Axe</td>\n         <td>3</td>\n         <td>4+</td>\n         <td>3/5</td>\n     </tr>\n </table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "IMP",
               "killteamid": "VG",
               "fireteamid": "EQ",
@@ -30280,7 +30280,7 @@
             "eqname": "Hot-Shot Capacitor Pack",
             "eqdescription": "Modify the operative’s ranged weapons for the battle as follows:\n<li>Add 1 to both Damage characteristics of lasguns and laspistols this operative is equipped with.</li>",
             "eqpts": "2",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "IMP",
@@ -30290,7 +30290,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle. It cannot make a shooting attack with this weapon by performing an Overwatch action.\n<br/>\n<table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Krak Grenade</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>4/5</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Lim, Indirect, AP1</td>\n     </tr>\n </table>",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "IMP",
               "killteamid": "VG",
               "fireteamid": "EQ",
@@ -31823,7 +31823,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n\n<table width=\"100%\" class=\"eqtable\">\n<tr>\n\t<th>Name</th>\n\t <th>A</th>\n\t <th>BS</th>\n\t <th>D</th>\n </tr>\n <tr>\n\t<td>Devourer Nanoscarabs</td>\n\t <td>4</td>\n\t <td>3+</td>\n\t <td>3/4</td>\n </tr>\n <tr>\n\t<th colspan=\"4\">Special Rules</th>\n </tr>\n <tr>\n\t<td colspan=\"4\">\n\t\tRng [PENT], Lim, Indirect, Lethal 5+\n\t </td>\n </tr>\n</table>",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "NEC",
               "killteamid": "TW",
               "fireteamid": "EQ",
@@ -31855,7 +31855,7 @@
             "eqname": "Hyperphase Blade",
             "eqdescription": "Select one Bayonet the operative is equipped with. That weapon gains the Lethal 5+ special rule for the battle.",
             "eqpts": "2",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "NEC",
@@ -31873,7 +31873,7 @@
             "eqname": "Starfire Core",
             "eqdescription": "Select one Gauss Flayer, Gauss Reaper, or Gauss Blaster the operative is equipped with. That weapon gains the following special rule for the battle:\n<br/>\n<strong>Starfire Core:</strong> \nEach time a friendly operative makes a shooting attack with this weapon, in the Roll Attack Dice step of that shooting attack, if you retain any critical hits, you can retain one of your failed hits as a successful normal hit.",
             "eqpts": "2",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "NEC",
@@ -31882,7 +31882,7 @@
             "eqname": "Sempiternal Weave*",
             "eqdescription": "DEATHMARK LEADER or IMMORTAL LEADER operative only. \nThe operative has a Save characteristic of 2+ for the battle",
             "eqpts": "3",
-            "eqtype": null
+            "eqtype": "OpMod"
           },
           {
             "factionid": "NEC",
@@ -32596,7 +32596,7 @@
             "eqname": "Bosspole*",
             "eqdescription": "BOSS NOB or KOMMANDO NOB operative only. Add 1  to \nthe operative's APL for the battle.",
             "eqpts": "3",
-            "eqtype": null
+            "eqtype": "OpMod"
           },
           {
             "factionid": "ORK",
@@ -32606,7 +32606,7 @@
             "eqdescription": "BURNA BOY operative only. The operative is equipped with \nthe following melee weapon for the battle: \n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>WS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Cuttin' Nozzle</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>3/5</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<td colspan=\"4\">\n\t\t\tLethal 5+\n        </td>\n    </tr>\n</table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "ORK",
               "killteamid": "GSK",
               "fireteamid": "EQ",
@@ -32638,7 +32638,7 @@
             "eqname": "Drum Mag",
             "eqdescription": "Select one shoota or big shoota this operative is equipped \nwith. That weapon gains the Ceaseless special rule for \nthe battle. ",
             "eqpts": "2",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "ORK",
@@ -32647,7 +32647,7 @@
             "eqname": "'Eavy armour",
             "eqdescription": "Operative with a 5+ Save characteristic only. Change the \noperative's Save characteristic to 4+ for the battle. ",
             "eqpts": "2",
-            "eqtype": null
+            "eqtype": "OpMod"
           },
           {
             "factionid": "ORK",
@@ -32666,7 +32666,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Stikkbomb</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>2/4</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Lim, Blast [CIRCLE], Indirect</td>\n     </tr>\n </table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "ORK",
               "killteamid": "GSK",
               "fireteamid": "EQ",
@@ -32698,7 +32698,7 @@
             "eqname": "Targetin' Fing",
             "eqdescription": "Select one ranged weapon this operative is equipped \nwith (excluding a burna or a ranged weapon with the \nkombi special rule). Improve that weapon's Ballistic Skill \ncharacteristic by  1  for the battle (to a maximum of 4+).",
             "eqpts": "3",
-            "eqtype": null
+            "eqtype": "WepMod"
           }
         ],
         "killteamcomp": "A GREENSKIN kill team consists of two fire teams selected from the following list: \n<ul>\n<li>BOY</li>\n<li>CLAN KOMMANDO</li>\n<li>SPESHULIST (max one per kill team)</li>\n</ul>",
@@ -33767,7 +33767,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Dynamite</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>5/6</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Blast [CIRCLE], AP1, Indirect, Unwieldy, Lim</td>\n     </tr>\n </table>",
             "eqpts": "4",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "ORK",
               "killteamid": "KOM",
               "fireteamid": "EQ",
@@ -33800,7 +33800,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Harpoon</td>\n         <td>4</td>\n         <td>4+</td>\n         <td>4/5</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Stun</td>\n     </tr>\n </table>",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "ORK",
               "killteamid": "KOM",
               "fireteamid": "EQ",
@@ -33851,7 +33851,7 @@
             "eqdescription": "The operative is equipped with the following melee weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Sledgehammer</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>4/4</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Stun</td>\n     </tr>\n </table>",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "ORK",
               "killteamid": "KOM",
               "fireteamid": "EQ",
@@ -33893,7 +33893,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Stikkbomb</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>2/4</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Indirect, Lim</td>\n     </tr>\n </table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "ORK",
               "killteamid": "KOM",
               "fireteamid": "EQ",
@@ -34924,7 +34924,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle: \n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n\t\t<th>A</th>\n\t\t<th>BS</th>\n\t\t<th>D</th>\n\t</tr>\n\t<tr>\n\t\t<td>Kroot Hunting Rifle</td>\n\t\t<td>4</td>\n\t\t<td>4+</td>\n\t\t<td>3/3</td>\n\t</tr>\n\t<tr>\n\t\t<th colspan=\"4\">\n\t\t\tSpecial Rules\n\t\t</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"4\">\n\t\t\tHeavy, Silent, MW1\n\t\t</td>\n\t</tr>\n</table>",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "TAU",
               "killteamid": "CM",
               "fireteamid": "EQ",
@@ -34957,7 +34957,7 @@
             "eqdescription": "The operative is equipped with the following melee weapon for the battle: \n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n\t\t<th>A</th>\n\t\t<th>WS</th>\n\t\t<th>D</th>\n\t</tr>\n\t<tr>\n\t\t<td>Skinning Blade</td>\n\t\t<td>4</td>\n\t\t<td>3+</td>\n\t\t<td>3/5</td>\n\t</tr>\n</table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "TAU",
               "killteamid": "CM",
               "fireteamid": "EQ",
@@ -34999,7 +34999,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle: \n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n\t\t<th>A</th>\n\t\t<th>BS</th>\n\t\t<th>D</th>\n\t</tr>\n\t<tr>\n\t\t<td>Trophy Pistol</td>\n\t\t<td>4</td>\n\t\t<td>4+</td>\n\t\t<td>3/4</td>\n\t</tr>\n\t<tr>\n\t\t<th colspan=\"4\">\n\t\t\tSpecial Rules\n\t\t</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"4\">\n\t\t\tBal, Blast [TRI], Rng [PENT]\n\t\t</td>\n\t</tr>\n</table>",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "TAU",
               "killteamid": "CM",
               "fireteamid": "EQ",
@@ -36974,7 +36974,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<br/>\n<table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n \t\t<th>A</th>\n \t\t<th>BS</th>\n \t\t<th>D</th>\n \t</tr>\n \t<tr>\n \t\t<td>EMP Grenade</td>\n \t\t<td>4</td>\n \t\t<td>2+</td>\n \t\t<td>2/3</td>\n \t</tr>\n \t<tr>\n \t\t<th colspan=\"4\">\n \t\t\tSpecial Rules\n \t\t</th>\n \t</tr>\n \t<tr>\n \t\t<td colspan=\"4\">\n \t\t\tRng [PENT], Blast [CIRCLE], Indirect, EMP*, Lim\n \t\t</td>\n \t</tr>\n </table>\n<strong>*EMP:</strong> Each time a friendly operative makes a shooting attack with this weapon, this weapon has the Lethal X special rule for that shooting attack. X is the target’s unmodified Save characteristic.",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "TAU",
               "killteamid": "PF",
               "fireteamid": "EQ",
@@ -37007,7 +37007,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle. It cannot make a shooting attack with this weapon by performing an Overwatch action.\n<br/>\n<table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n \t\t<th>A</th>\n \t\t<th>BS</th>\n \t\t<th>D</th>\n \t</tr>\n \t<tr>\n \t\t<td>Fusion Grenade</td>\n \t\t<td>4</td>\n \t\t<td>3+</td>\n \t\t<td>4/3</td>\n \t</tr>\n \t<tr>\n \t\t<th colspan=\"4\">\n \t\t\tSpecial Rules\n \t\t</th>\n \t</tr>\n \t<tr>\n \t\t<td colspan=\"4\">\n \t\t\tRng [PENT], Indirect, AP2, Lim\n \t\t</td>\n \t</tr>\n </table>\n",
             "eqpts": "4",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "TAU",
               "killteamid": "PF",
               "fireteamid": "EQ",
@@ -38675,7 +38675,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Blasting Charge</td>\n\t\t<td>4</td>\n        <td>3+</td>\n        <td>2/3</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">\n\t\t\tRng [PENT], Blast [CIRCLE], Indirect, Lim\n        </th>\n    </tr>\n</table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "TYR",
               "killteamid": "BC",
               "fireteamid": "EQ",
@@ -38708,7 +38708,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Demolition Charge</td>\n\t\t<td>4</td>\n        <td>3+</td>\n        <td>5/6</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">\n\t\t\tRng [PENT], Blast [CIRCLE], AP1, Indirect, Unwieldy, Lim\n        </th>\n    </tr>\n</table>",
             "eqpts": "4",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "TYR",
               "killteamid": "BC",
               "fireteamid": "EQ",
@@ -38749,7 +38749,7 @@
             "eqname": "Heavy Weapon Bipod",
             "eqdescription": "Select one ranged weapon the NEOPHYTE HYBRID HEAVY GUNNER operative is equipped with that has the Heavy special rule. That weapon gains the following special rule for the battle:\n <br/>\n <strong>Heavy Weapon Bipod:</strong>\n Each time this operative makes a shooting attack with this weapon, in the Roll Attack Dice step of that shooting attack, if the operative has not moved during the Turning Point, you can re-roll one of your Attack dice.",
             "eqpts": "2",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "TYR",
@@ -38758,7 +38758,7 @@
             "eqname": "Mining Tool Rig",
             "eqdescription": "Select one Heavy Rock Cutter, Heavy Rock Drill, or Heavy Rock Saw the ACOLYTE HYBRID FIGHTER operative is equipped with.\nThat weapon gains the Relentless special rule for the battle.",
             "eqpts": "3",
-            "eqtype": null
+            "eqtype": "WepMod"
           },
           {
             "factionid": "TYR",
@@ -40414,7 +40414,7 @@
             "eqname": "Adrenal Glands",
             "eqdescription": "Add [TRI] to the operative's Movement characteristic for the battle.",
             "eqpts": "2",
-            "eqtype": null
+            "eqtype": "OpMod"
           },
           {
             "factionid": "TYR",
@@ -40424,7 +40424,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br/>\n<table width=\"100%\" class=\"eqtable\">\n\t<tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Acid Maw</td>\n        <td>4</td>\n        <td>2+</td>\n        <td>3/3</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n    </tr>\n    <tr>\n\t\t<td colspan=\"4\">Rng [PENT], Splash 1</td>\n    </tr>\n</table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "TYR",
               "killteamid": "HF",
               "fireteamid": "EQ",
@@ -40466,7 +40466,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:<br/>\n <table width=\"100%\" class=\"eqtable\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Flesh Hooks</td>\n         <td>4</td>\n         <td>2+</td>\n         <td>3/4</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [SQUARE], Lethal 5+</td>\n     </tr>\n </table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "TYR",
               "killteamid": "HF",
               "fireteamid": "EQ",
@@ -41628,7 +41628,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n<tr>\n<th>Name</th>\n<th>A</th>\n<th>BS</th>\n<th>D</th>\n</tr>\n<tr>\n<td>Blasting Charge</td>\n<td>4</td>\n<td>3+</td>\n<td>3/4</td>\n<tr><th colspan=\"4\">Special Rules</th></td>\n<tr><th colspan=\"4\">Rng [PENT], Blast [TRI], Indirect, Limited</th></td>\n</tr>\n</table>",
             "eqpts": "3",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "TYR",
               "killteamid": "WB",
               "fireteamid": "EQ",
@@ -41670,7 +41670,7 @@
             "eqdescription": "The operative is equipped with the following melee weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n<tr>\n<th>Name</th>\n<th>A</th>\n<th>BS</th>\n<th>D</th>\n</tr>\n<tr>\n<td>Cult Knife</td>\n<td>4</td>\n<td>4+</td>\n<td>2/3</td>\n</tr>\n</table>",
             "eqpts": "1",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "TYR",
               "killteamid": "WB",
               "fireteamid": "EQ",
@@ -41712,7 +41712,7 @@
             "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n<tr>\n<th>Name</th>\n<th>A</th>\n<th>BS</th>\n<th>D</th>\n</tr>\n<tr>\n<td>Frag Grenade</td>\n<td>4</td>\n<td>3+</td>\n<td>2/3</td>\n<tr><th colspan=\"4\">Special Rules</th></td>\n<tr><th colspan=\"4\">Rng [PENT], Blast [CIRCLE], Indirect, Limited</th></td>\n</tr>\n</table>",
             "eqpts": "2",
             "eqtype": "Weapon",
-            "Weapon": {
+            "weapon": {
               "factionid": "TYR",
               "killteamid": "WB",
               "fireteamid": "EQ",
