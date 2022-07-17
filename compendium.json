@@ -17803,7 +17803,7 @@
             "eqvar2": null
           }
         ],
-        "killteamcomp": "A HUNTER CLADE fire team includes the following operatives:\n<ul>\n\t<li>\n\t\tOne HUNTER CLADE operative selected from the following list:\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\tSKITARII RANGER ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Galvanic Rifle; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSKITARII VANGUARD ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Radium Carbine; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER PRINCEPS\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR PRINCEPS operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n\t<li>\n\t\tTen HUNTER CLADE operatives selected from the following list:\n\t\t<ul>\n\t\t\t<li>SKITARII RANGER MARKSMAN</li>\n\t\t\t<li>SKITARII RANGER DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII RANGER GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII RANGER SURVEYOR</li>\n\t\t\t<li>SKITARII VANGUARD SHOCKTROOPER</li>\n\t\t\t<li>SKITARII VANGUARD DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII VANGUARD GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII VANGUARD SURVEYOR</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER ASSASSIN operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Chordclaw and Transonic Razor or Transonic Blades</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR TRACKER operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n</ul>\n\nYour Kill Team must include more SKITARII RANGER and SKITARII VANGUARD operatives that it does SICARIAN operatives.\n<br/><br/>\nYour Kill Team can only include up to three GUNNER operatives.\nEach FUNNER operative must be equipped with different ranged weapons.\n<br/><br/>\nYour Kill Team can only include up to one DIKTAT and one SURVEYOR operative.",
+        "killteamcomp": "A HUNTER CLADE fire team includes the following operatives:\n<ul>\n\t<li>\n\t\tOne HUNTER CLADE operative selected from the following list:\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\tSKITARII RANGER ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Galvanic Rifle; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSKITARII VANGUARD ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Radium Carbine; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER PRINCEPS\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR PRINCEPS operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n\t<li>\n\t\tTen HUNTER CLADE operatives selected from the following list:\n\t\t<ul>\n\t\t\t<li>SKITARII RANGER MARKSMAN</li>\n\t\t\t<li>SKITARII RANGER DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII RANGER GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII RANGER SURVEYOR</li>\n\t\t\t<li>SKITARII VANGUARD SHOCKTROOPER</li>\n\t\t\t<li>SKITARII VANGUARD DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII VANGUARD GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII VANGUARD SURVEYOR</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER ASSASSIN operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Chordclaw and Transonic Razor or Transonic Blades</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR TRACKER operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n</ul>\n\nYour Kill Team must include more SKITARII RANGER and SKITARII VANGUARD operatives that it does SICARIAN operatives.\n<br/><br/>\nYour Kill Team can only include up to three GUNNER operatives.\nEach GUNNER operative must be equipped with different ranged weapons.\n<br/><br/>\nYour Kill Team can only include up to one DIKTAT and one SURVEYOR operative.",
         "fireteams": [
           {
             "factionid": "IMP",
@@ -19392,7 +19392,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "A HUNTER CLADE fire team includes the following operatives:\n<ul>\n\t<li>\n\t\tOne HUNTER CLADE operative selected from the following list:\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\tSKITARII RANGER ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Galvanic Rifle; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSKITARII VANGUARD ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Radium Carbine; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER PRINCEPS\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR PRINCEPS operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n\t<li>\n\t\tTen HUNTER CLADE operatives selected from the following list:\n\t\t<ul>\n\t\t\t<li>SKITARII RANGER MARKSMAN</li>\n\t\t\t<li>SKITARII RANGER DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII RANGER GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII RANGER SURVEYOR</li>\n\t\t\t<li>SKITARII VANGUARD SHOCKTROOPER</li>\n\t\t\t<li>SKITARII VANGUARD DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII VANGUARD GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII VANGUARD SURVEYOR</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER ASSASSIN operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Chordclaw and Transonic Razor or Transonic Blades</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR TRACKER operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n</ul>\n\nYour Kill Team must include more SKITARII RANGER and SKITARII VANGUARD operatives that it does SICARIAN operatives.\n<br/><br/>\nYour Kill Team can only include up to three GUNNER operatives.\nEach FUNNER operative must be equipped with different ranged weapons.\n<br/><br/>\nYour Kill Team can only include up to one DIKTAT and one SURVEYOR operative."
+            "fireteamcomp": "A HUNTER CLADE fire team includes the following operatives:\n<ul>\n\t<li>\n\t\tOne HUNTER CLADE operative selected from the following list:\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\tSKITARII RANGER ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Galvanic Rifle; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSKITARII VANGUARD ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Radium Carbine; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER PRINCEPS\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR PRINCEPS operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n\t<li>\n\t\tTen HUNTER CLADE operatives selected from the following list:\n\t\t<ul>\n\t\t\t<li>SKITARII RANGER MARKSMAN</li>\n\t\t\t<li>SKITARII RANGER DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII RANGER GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII RANGER SURVEYOR</li>\n\t\t\t<li>SKITARII VANGUARD SHOCKTROOPER</li>\n\t\t\t<li>SKITARII VANGUARD DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII VANGUARD GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII VANGUARD SURVEYOR</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER ASSASSIN operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Chordclaw and Transonic Razor or Transonic Blades</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR TRACKER operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n</ul>\n\nYour Kill Team must include more SKITARII RANGER and SKITARII VANGUARD operatives that it does SICARIAN operatives.\n<br/><br/>\nYour Kill Team can only include up to three GUNNER operatives.\nEach GUNNER operative must be equipped with different ranged weapons.\n<br/><br/>\nYour Kill Team can only include up to one DIKTAT and one SURVEYOR operative."
           }
         ]
       },
@@ -20936,63 +20936,9 @@
                     "killteamid": "NOV",
                     "fireteamid": "NOV",
                     "opid": "CON",
-                    "abilityid": "AOC",
-                    "title": "Armour Of Contempt (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "CON",
-                    "abilityid": "BA",
-                    "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "CON",
-                    "abilityid": "BR",
-                    "title": "Blessed Rejuvenation (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "CON",
-                    "abilityid": "DS",
-                    "title": "Divine Shield (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "CON",
-                    "abilityid": "EP",
-                    "title": "Emperor's Protection (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "CON",
-                    "abilityid": "FB",
-                    "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "CON",
-                    "abilityid": "GL",
-                    "title": "Guiding Light (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
+                    "abilityid": "AOF",
+                    "title": "Act Of Faith",
+                    "description": "<b>Armour Of Contempt</b> (2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead.\n<br/><br/>\n<b>Blinding Aura</b> (2 Faith Points)\n<br/>\nWhen an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>\n<br/><br/>\n<b>Blessed Rejuvenation</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation.\n<br/><br/>\n<b>Divine Shield</b>(2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save.\n<br/><br/>\n<b>Emperor's Protection</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation.\n<br/><br/>\n<b>Faithful Blessing</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\nre-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith.\n<br/><br/>\n<b>Guiding Light</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit.\n<br/><br/>\n<b>Vengeful Strike</b> (3 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
                   },
                   {
                     "factionid": "IMP",
@@ -21002,15 +20948,6 @@
                     "abilityid": "NR",
                     "title": "Null Rod",
                     "description": "Each time an enemy operative is activated, if it is within [PENT] of this operative for that activation, its APL characteristic cannot be higher than 2. Each time an enemy operative would perform a psychic action, if it is within [PENT] of this operative, 1 additional AP must be subtracted to perform that action."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "CON",
-                    "abilityid": "VS",
-                    "title": "Vengeful Strike (3 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
                   }
                 ],
                 "fireteammax": 0
@@ -21107,72 +21044,9 @@
                     "killteamid": "NOV",
                     "fireteamid": "NOV",
                     "opid": "DIA",
-                    "abilityid": "AOC",
-                    "title": "Armour Of Contempt (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "DIA",
-                    "abilityid": "BA",
-                    "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "DIA",
-                    "abilityid": "BR",
-                    "title": "Blessed Rejuvenation (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "DIA",
-                    "abilityid": "DS",
-                    "title": "Divine Shield (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "DIA",
-                    "abilityid": "EP",
-                    "title": "Emperor's Protection (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "DIA",
-                    "abilityid": "FB",
-                    "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "DIA",
-                    "abilityid": "GL",
-                    "title": "Guiding Light (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "DIA",
-                    "abilityid": "VS",
-                    "title": "Vengeful Strike (3 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
+                    "abilityid": "AOF",
+                    "title": "Act Of Faith",
+                    "description": "<b>Armour Of Contempt</b> (2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead.\n<br/><br/>\n<b>Blinding Aura</b> (2 Faith Points)\n<br/>\nWhen an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>\n<br/><br/>\n<b>Blessed Rejuvenation</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation.\n<br/><br/>\n<b>Divine Shield</b>(2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save.\n<br/><br/>\n<b>Emperor's Protection</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation.\n<br/><br/>\n<b>Faithful Blessing</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\nre-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith.\n<br/><br/>\n<b>Guiding Light</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit.\n<br/><br/>\n<b>Vengeful Strike</b> (3 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
                   }
                 ],
                 "fireteammax": 0
@@ -21248,72 +21122,9 @@
                     "killteamid": "NOV",
                     "fireteamid": "NOV",
                     "opid": "DUE",
-                    "abilityid": "AOC",
-                    "title": "Armour Of Contempt (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "DUE",
-                    "abilityid": "BA",
-                    "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "DUE",
-                    "abilityid": "BR",
-                    "title": "Blessed Rejuvenation (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "DUE",
-                    "abilityid": "DS",
-                    "title": "Divine Shield (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "DUE",
-                    "abilityid": "EP",
-                    "title": "Emperor's Protection (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "DUE",
-                    "abilityid": "FB",
-                    "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "DUE",
-                    "abilityid": "GL",
-                    "title": "Guiding Light (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "DUE",
-                    "abilityid": "VS",
-                    "title": "Vengeful Strike (3 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
+                    "abilityid": "AOF",
+                    "title": "Act Of Faith",
+                    "description": "<b>Armour Of Contempt</b> (2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead.\n<br/><br/>\n<b>Blinding Aura</b> (2 Faith Points)\n<br/>\nWhen an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>\n<br/><br/>\n<b>Blessed Rejuvenation</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation.\n<br/><br/>\n<b>Divine Shield</b>(2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save.\n<br/><br/>\n<b>Emperor's Protection</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation.\n<br/><br/>\n<b>Faithful Blessing</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\nre-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith.\n<br/><br/>\n<b>Guiding Light</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit.\n<br/><br/>\n<b>Vengeful Strike</b> (3 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
                   }
                 ],
                 "fireteammax": 0
@@ -21400,72 +21211,9 @@
                     "killteamid": "NOV",
                     "fireteamid": "NOV",
                     "opid": "EXA",
-                    "abilityid": "AOC",
-                    "title": "Armour Of Contempt (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "EXA",
-                    "abilityid": "BA",
-                    "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "EXA",
-                    "abilityid": "BR",
-                    "title": "Blessed Rejuvenation (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "EXA",
-                    "abilityid": "DS",
-                    "title": "Divine Shield (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "EXA",
-                    "abilityid": "EP",
-                    "title": "Emperor's Protection (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "EXA",
-                    "abilityid": "FB",
-                    "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "EXA",
-                    "abilityid": "GL",
-                    "title": "Guiding Light (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "EXA",
-                    "abilityid": "VS",
-                    "title": "Vengeful Strike (3 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
+                    "abilityid": "AOF",
+                    "title": "Act Of Faith",
+                    "description": "<b>Armour Of Contempt</b> (2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead.\n<br/><br/>\n<b>Blinding Aura</b> (2 Faith Points)\n<br/>\nWhen an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>\n<br/><br/>\n<b>Blessed Rejuvenation</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation.\n<br/><br/>\n<b>Divine Shield</b>(2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save.\n<br/><br/>\n<b>Emperor's Protection</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation.\n<br/><br/>\n<b>Faithful Blessing</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\nre-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith.\n<br/><br/>\n<b>Guiding Light</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit.\n<br/><br/>\n<b>Vengeful Strike</b> (3 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
                   }
                 ],
                 "fireteammax": 0
@@ -21552,63 +21300,9 @@
                     "killteamid": "NOV",
                     "fireteamid": "NOV",
                     "opid": "HOS",
-                    "abilityid": "AOC",
-                    "title": "Armour Of Contempt (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "HOS",
-                    "abilityid": "BA",
-                    "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "HOS",
-                    "abilityid": "BR",
-                    "title": "Blessed Rejuvenation (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "HOS",
-                    "abilityid": "DS",
-                    "title": "Divine Shield (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "HOS",
-                    "abilityid": "EP",
-                    "title": "Emperor's Protection (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "HOS",
-                    "abilityid": "FB",
-                    "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "HOS",
-                    "abilityid": "GL",
-                    "title": "Guiding Light (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
+                    "abilityid": "AOF",
+                    "title": "Act Of Faith",
+                    "description": "<b>Armour Of Contempt</b> (2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead.\n<br/><br/>\n<b>Blinding Aura</b> (2 Faith Points)\n<br/>\nWhen an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>\n<br/><br/>\n<b>Blessed Rejuvenation</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation.\n<br/><br/>\n<b>Divine Shield</b>(2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save.\n<br/><br/>\n<b>Emperor's Protection</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation.\n<br/><br/>\n<b>Faithful Blessing</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\nre-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith.\n<br/><br/>\n<b>Guiding Light</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit.\n<br/><br/>\n<b>Vengeful Strike</b> (3 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
                   },
                   {
                     "factionid": "IMP",
@@ -21618,15 +21312,6 @@
                     "abilityid": "MOR",
                     "title": "Mantra Of Restoration",
                     "description": "Once per Turning Point, the first time another friendly NOVITIATE operative would be incapacitated while Visible to and within [SQUARE] of this operative and not within Engagement Range of an enemy operative, if this operative is not within Engagement Range of an enemy operative, this operative can revive it. That operative is not incapacitated, has 1 wound remaining, and if it would have been incapacitated by a shooting attack, any remaining attack dice are discarded. That other friendly operative can then perform a free Dash action, but must finish that move within [TRI] of this operative. Subtract 1 from both operatives’ APL."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "HOS",
-                    "abilityid": "VS",
-                    "title": "Vengeful Strike (3 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
                   }
                 ],
                 "fireteammax": 0
@@ -21750,72 +21435,9 @@
                     "killteamid": "NOV",
                     "fireteamid": "NOV",
                     "opid": "MIL",
-                    "abilityid": "AOC",
-                    "title": "Armour Of Contempt (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "MIL",
-                    "abilityid": "BA",
-                    "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "MIL",
-                    "abilityid": "BR",
-                    "title": "Blessed Rejuvenation (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "MIL",
-                    "abilityid": "DS",
-                    "title": "Divine Shield (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "MIL",
-                    "abilityid": "EP",
-                    "title": "Emperor's Protection (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "MIL",
-                    "abilityid": "FB",
-                    "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "MIL",
-                    "abilityid": "GL",
-                    "title": "Guiding Light (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "MIL",
-                    "abilityid": "VS",
-                    "title": "Vengeful Strike (3 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
+                    "abilityid": "AOF",
+                    "title": "Act Of Faith",
+                    "description": "<b>Armour Of Contempt</b> (2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead.\n<br/><br/>\n<b>Blinding Aura</b> (2 Faith Points)\n<br/>\nWhen an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>\n<br/><br/>\n<b>Blessed Rejuvenation</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation.\n<br/><br/>\n<b>Divine Shield</b>(2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save.\n<br/><br/>\n<b>Emperor's Protection</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation.\n<br/><br/>\n<b>Faithful Blessing</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\nre-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith.\n<br/><br/>\n<b>Guiding Light</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit.\n<br/><br/>\n<b>Vengeful Strike</b> (3 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
                   }
                 ],
                 "fireteammax": 0
@@ -21902,72 +21524,9 @@
                     "killteamid": "NOV",
                     "fireteamid": "NOV",
                     "opid": "PEN",
-                    "abilityid": "AOC",
-                    "title": "Armour Of Contempt (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PEN",
-                    "abilityid": "BA",
-                    "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PEN",
-                    "abilityid": "BR",
-                    "title": "Blessed Rejuvenation (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PEN",
-                    "abilityid": "DS",
-                    "title": "Divine Shield (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PEN",
-                    "abilityid": "EP",
-                    "title": "Emperor's Protection (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PEN",
-                    "abilityid": "FB",
-                    "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PEN",
-                    "abilityid": "GL",
-                    "title": "Guiding Light (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PEN",
-                    "abilityid": "VS",
-                    "title": "Vengeful Strike (3 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
+                    "abilityid": "AOF",
+                    "title": "Act Of Faith",
+                    "description": "<b>Armour Of Contempt</b> (2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead.\n<br/><br/>\n<b>Blinding Aura</b> (2 Faith Points)\n<br/>\nWhen an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>\n<br/><br/>\n<b>Blessed Rejuvenation</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation.\n<br/><br/>\n<b>Divine Shield</b>(2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save.\n<br/><br/>\n<b>Emperor's Protection</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation.\n<br/><br/>\n<b>Faithful Blessing</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\nre-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith.\n<br/><br/>\n<b>Guiding Light</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit.\n<br/><br/>\n<b>Vengeful Strike</b> (3 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
                   },
                   {
                     "factionid": "IMP",
@@ -22039,63 +21598,9 @@
                     "killteamid": "NOV",
                     "fireteamid": "NOV",
                     "opid": "PRE",
-                    "abilityid": "AOC",
-                    "title": "Armour Of Contempt (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PRE",
-                    "abilityid": "BA",
-                    "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PRE",
-                    "abilityid": "BR",
-                    "title": "Blessed Rejuvenation (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PRE",
-                    "abilityid": "DS",
-                    "title": "Divine Shield (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PRE",
-                    "abilityid": "EP",
-                    "title": "Emperor's Protection (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PRE",
-                    "abilityid": "FB",
-                    "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PRE",
-                    "abilityid": "GL",
-                    "title": "Guiding Light (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
+                    "abilityid": "AOF",
+                    "title": "Act Of Faith",
+                    "description": "<b>Armour Of Contempt</b> (2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead.\n<br/><br/>\n<b>Blinding Aura</b> (2 Faith Points)\n<br/>\nWhen an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>\n<br/><br/>\n<b>Blessed Rejuvenation</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation.\n<br/><br/>\n<b>Divine Shield</b>(2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save.\n<br/><br/>\n<b>Emperor's Protection</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation.\n<br/><br/>\n<b>Faithful Blessing</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\nre-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith.\n<br/><br/>\n<b>Guiding Light</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit.\n<br/><br/>\n<b>Vengeful Strike</b> (3 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
                   },
                   {
                     "factionid": "IMP",
@@ -22105,15 +21610,6 @@
                     "abilityid": "UD",
                     "title": "Unflinching Determination",
                     "description": "Each time a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, if this operative is Visible to and within [SQAURE] of it, you can re-roll one of your defence dice."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PRE",
-                    "abilityid": "VS",
-                    "title": "Vengeful Strike (3 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
                   }
                 ],
                 "fireteammax": 0
@@ -22200,63 +21696,9 @@
                     "killteamid": "NOV",
                     "fireteamid": "NOV",
                     "opid": "PRO",
-                    "abilityid": "AOC",
-                    "title": "Armour Of Contempt (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PRO",
-                    "abilityid": "BA",
-                    "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PRO",
-                    "abilityid": "BR",
-                    "title": "Blessed Rejuvenation (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PRO",
-                    "abilityid": "DS",
-                    "title": "Divine Shield (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PRO",
-                    "abilityid": "EP",
-                    "title": "Emperor's Protection (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PRO",
-                    "abilityid": "FB",
-                    "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PRO",
-                    "abilityid": "GL",
-                    "title": "Guiding Light (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
+                    "abilityid": "AOF",
+                    "title": "Act Of Faith",
+                    "description": "<b>Armour Of Contempt</b> (2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead.\n<br/><br/>\n<b>Blinding Aura</b> (2 Faith Points)\n<br/>\nWhen an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>\n<br/><br/>\n<b>Blessed Rejuvenation</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation.\n<br/><br/>\n<b>Divine Shield</b>(2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save.\n<br/><br/>\n<b>Emperor's Protection</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation.\n<br/><br/>\n<b>Faithful Blessing</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\nre-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith.\n<br/><br/>\n<b>Guiding Light</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit.\n<br/><br/>\n<b>Vengeful Strike</b> (3 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
                   },
                   {
                     "factionid": "IMP",
@@ -22266,15 +21708,6 @@
                     "abilityid": "RS",
                     "title": "Relic Seeker",
                     "description": "Each time this operative is activated, it can perform one mission action at any point during its activation without subtracting any action points."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PRO",
-                    "abilityid": "VS",
-                    "title": "Vengeful Strike (3 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
                   }
                 ],
                 "fireteammax": 0
@@ -22361,72 +21794,9 @@
                     "killteamid": "NOV",
                     "fireteamid": "NOV",
                     "opid": "PUR",
-                    "abilityid": "AOC",
-                    "title": "Armour Of Contempt (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PUR",
-                    "abilityid": "BA",
-                    "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PUR",
-                    "abilityid": "BR",
-                    "title": "Blessed Rejuvenation (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PUR",
-                    "abilityid": "DS",
-                    "title": "Divine Shield (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PUR",
-                    "abilityid": "EP",
-                    "title": "Emperor's Protection (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PUR",
-                    "abilityid": "FB",
-                    "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PUR",
-                    "abilityid": "GL",
-                    "title": "Guiding Light (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "PUR",
-                    "abilityid": "VS",
-                    "title": "Vengeful Strike (3 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
+                    "abilityid": "AOF",
+                    "title": "Act Of Faith",
+                    "description": "<b>Armour Of Contempt</b> (2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead.\n<br/><br/>\n<b>Blinding Aura</b> (2 Faith Points)\n<br/>\nWhen an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>\n<br/><br/>\n<b>Blessed Rejuvenation</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation.\n<br/><br/>\n<b>Divine Shield</b>(2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save.\n<br/><br/>\n<b>Emperor's Protection</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation.\n<br/><br/>\n<b>Faithful Blessing</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\nre-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith.\n<br/><br/>\n<b>Guiding Light</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit.\n<br/><br/>\n<b>Vengeful Strike</b> (3 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
                   }
                 ],
                 "fireteammax": 0
@@ -22513,63 +21883,9 @@
                     "killteamid": "NOV",
                     "fireteamid": "NOV",
                     "opid": "REL",
-                    "abilityid": "AOC",
-                    "title": "Armour Of Contempt (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "REL",
-                    "abilityid": "BA",
-                    "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "REL",
-                    "abilityid": "BR",
-                    "title": "Blessed Rejuvenation (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "REL",
-                    "abilityid": "DS",
-                    "title": "Divine Shield (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "REL",
-                    "abilityid": "EP",
-                    "title": "Emperor's Protection (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "REL",
-                    "abilityid": "FB",
-                    "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "REL",
-                    "abilityid": "GL",
-                    "title": "Guiding Light (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
+                    "abilityid": "AOF",
+                    "title": "Act Of Faith",
+                    "description": "<b>Armour Of Contempt</b> (2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead.\n<br/><br/>\n<b>Blinding Aura</b> (2 Faith Points)\n<br/>\nWhen an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>\n<br/><br/>\n<b>Blessed Rejuvenation</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation.\n<br/><br/>\n<b>Divine Shield</b>(2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save.\n<br/><br/>\n<b>Emperor's Protection</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation.\n<br/><br/>\n<b>Faithful Blessing</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\nre-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith.\n<br/><br/>\n<b>Guiding Light</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit.\n<br/><br/>\n<b>Vengeful Strike</b> (3 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
                   },
                   {
                     "factionid": "IMP",
@@ -22579,15 +21895,6 @@
                     "abilityid": "IOP",
                     "title": "Icon Of Purity",
                     "description": "Each time a friendly NOVITIATE operative is incapacitated, if this operative is within [PENT] of and Visible to it, roll one D6: on a 4+, that operative can immediately perform a free Shoot action."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "REL",
-                    "abilityid": "VS",
-                    "title": "Vengeful Strike (3 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
                   }
                 ],
                 "fireteammax": 0
@@ -22748,63 +22055,9 @@
                     "killteamid": "NOV",
                     "fireteamid": "NOV",
                     "opid": "SUP",
-                    "abilityid": "AOC",
-                    "title": "Armour Of Contempt (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "SUP",
-                    "abilityid": "BA",
-                    "title": "Blinding Aura (2 Faith Points)",
-                    "description": "When an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>"
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "SUP",
-                    "abilityid": "BR",
-                    "title": "Blessed Rejuvenation (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "SUP",
-                    "abilityid": "DS",
-                    "title": "Divine Shield (2 Faith Points)",
-                    "description": "When a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "SUP",
-                    "abilityid": "EP",
-                    "title": "Emperor's Protection (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "SUP",
-                    "abilityid": "FB",
-                    "title": "Faithful Blessing (1 Faith Point)",
-                    "description": "When a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\n re-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "SUP",
-                    "abilityid": "GL",
-                    "title": "Guiding Light (2 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit."
+                    "abilityid": "AOF",
+                    "title": "Act Of Faith",
+                    "description": "<b>Armour Of Contempt</b> (2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your successful normal saves as a critical save instead.\n<br/><br/>\n<b>Blinding Aura</b> (2 Faith Points)\n<br/>\nWhen an enemy operative performs a shooting attack, select one friendly NOVITIATE operative. Until the end of that activation, while that friendly operative is more than ⬤ from that enemy operative:\n<ul>\n<li>That friendly operative is treated as being in Cover.</li>\n<li>While that friendly operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point).</li>\n</ul>\n<br/><br/>\n<b>Blessed Rejuvenation</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative is activated, it regains D3 lost wounds. This Act of Faith can be used a maximum of two times in each activation.\n<br/><br/>\n<b>Divine Shield</b>(2 Faith Points)\n<br/>\nWhen a shooting attack is made against a friendly NOVITIATE operative, in the Roll Defence Dice step of that shooting attack, retain one of your failed saves as a successful normal save.\n<br/><br/>\n<b>Emperor's Protection</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative suffers a mortal wound, ignore that mortal wound. This Act of Faith can be used more than once in each activation.\n<br/><br/>\n<b>Faithful Blessing</b> (1 Faith Point)\n<br/>\nWhen a friendly NOVITIATE operative is fighting in combat or\nmaking a shooting attack, or a shooting attack is being made\nagainst it, in the Roll Attack Dice step (for the former) or the Roll\nDefence Dice step (for the latter) of that combat or shooting attack,\nre-roll one of your attack or defence dice. This Act of Faith can be used more than once in each activation, and can be used with other Acts of Faith.\n<br/><br/>\n<b>Guiding Light</b> (2 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your failed hits as a successful normal hit.\n<br/><br/>\n<b>Vengeful Strike</b> (3 Faith Points)\n<br/>\nWhen a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
                   },
                   {
                     "factionid": "IMP",
@@ -22814,15 +22067,6 @@
                     "abilityid": "LBE",
                     "title": "Lead By Example",
                     "description": "Each time this operative is activated, if it performs any mission actions or if any enemy operatives are incapacitated as a result of any actions it performs during that activation, you can select one Ready friendly NOVITIATE operative Visible to and within [PENT] of it. After this operative’s activation ends, you can activate that operative."
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "NOV",
-                    "fireteamid": "NOV",
-                    "opid": "SUP",
-                    "abilityid": "VS",
-                    "title": "Vengeful Strike (3 Faith Points)",
-                    "description": "When a friendly NOVITIATE operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack, retain one of your successful normal hits as a critical hit instead."
                   }
                 ],
                 "fireteammax": 0
@@ -22956,7 +22200,7 @@
             "killteamid": "PHO",
             "eqid": "GC",
             "eqname": "Grav-Chute",
-            "eqdescription": "REIVER operative only. The operative gains the following ability for the battle:<br/><br/>\n<strong>Grapnel-Chute</strong><br/>\n<ul>\n<li>During the mission sequence, after resolving your selected option in the Scouting step, if this operative is wholly within your drop zone, it can perform a Grav-Chute insertion.\nIf it does so, you can perform a free Normal Move action with this operative.\nFor that action, it has a Movement characteristic of 2[CIRCLE] and can FLY.</li>\n<li>Each time this operative moves off a Vantage Point, for that move, it can move as though it can FLY, so long as it does not move higher than that Vantage Point and ends that move lower than that Vantage Point.</li>\n</ul>",
+            "eqdescription": "REIVER operative only. The operative gains the following ability for the battle:<br/><br/>\n<strong>Grav-Chute</strong><br/>\n<ul>\n<li>During the mission sequence, after resolving your selected option in the Scouting step, if this operative is wholly within your drop zone, it can perform a Grav-Chute insertion.\nIf it does so, you can perform a free Normal Move action with this operative.\nFor that action, it has a Movement characteristic of 2[CIRCLE] and can FLY.</li>\n<li>Each time this operative moves off a Vantage Point, for that move, it can move as though it can FLY, so long as it does not move higher than that Vantage Point and ends that move lower than that Vantage Point.</li>\n</ul>",
             "eqpts": "2",
             "eqtype": "Ability",
             "eqvar1": null,
@@ -26540,7 +25784,7 @@
                         "A": "4",
                         "BS": "2+",
                         "D": "3/4",
-                        "SR": ""
+                        "SR": "Relentless"
                       }
                     ]
                   },
@@ -26961,7 +26205,7 @@
                         "A": "4",
                         "BS": "3+",
                         "D": "3/4",
-                        "SR": ""
+                        "SR": "Relentless"
                       }
                     ]
                   },
