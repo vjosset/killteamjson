@@ -8131,7 +8131,17 @@
                   }
                 ],
                 "uniqueactions": [],
-                "abilities": [],
+                "abilities": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "DAEM",
+                    "fireteamid": "DETTE",
+                    "opid": "AL",
+                    "abilityid": "DM",
+                    "title": "Daemon",
+                    "description": "This operative has a 5+ invulnerable save."
+                  }
+                ],
                 "fireteammax": 0
               },
               {
@@ -8177,7 +8187,17 @@
                   }
                 ],
                 "uniqueactions": [],
-                "abilities": [],
+                "abilities": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "DAEM",
+                    "fireteamid": "DETTE",
+                    "opid": "AL",
+                    "abilityid": "DM",
+                    "title": "Daemon",
+                    "description": "This operative has a 5+ invulnerable save."
+                  }
+                ],
                 "fireteammax": 0
               },
               {
@@ -8222,8 +8242,29 @@
                     ]
                   }
                 ],
-                "uniqueactions": [],
-                "abilities": [],
+                "uniqueactions": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "DAEM",
+                    "fireteamid": "DETTE",
+                    "opid": "FTR",
+                    "uniqueactionid": "IC",
+                    "title": "Instrument of Chaos",
+                    "description": "Until the end of the Turning Point, each time a friendly DAEMONETTE operative performs a Normal Move or Charge action, it can move an additional [TRIANGLE].",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "DAEM",
+                    "fireteamid": "DETTE",
+                    "opid": "AL",
+                    "abilityid": "DM",
+                    "title": "Daemon",
+                    "description": "This operative has a 5+ invulnerable save."
+                  }
+                ],
                 "fireteammax": 0
               },
               {
@@ -8268,7 +8309,18 @@
                     ]
                   }
                 ],
-                "uniqueactions": [],
+                "uniqueactions": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "DAEM",
+                    "fireteamid": "DETTE",
+                    "opid": "FTR",
+                    "uniqueactionid": "DI",
+                    "title": "Daemonic Icon",
+                    "description": "Until the end of the Turning Point, while this operative is within [SQUARE] of a friendly DAEMONETTE operative, that friendly operative is invigorated by Chaos. While an operative is invigorated by Chaos, improve its invulnerable save by 1.",
+                    "AP": 1
+                  }
+                ],
                 "abilities": [],
                 "fireteammax": 0
               }
