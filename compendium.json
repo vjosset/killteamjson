@@ -10071,6 +10071,1048 @@
       },
       {
         "factionid": "CHAOS",
+        "killteamid": "GPI",
+        "killteamname": "Gellerpox Infected",
+        "description": "<em>\"We come from the dark, a-writhe, a-squirm, we lurch and we limp, we leer and we groan,\nfires fill our beliies and rot fills our brains, and fear fills the ones that we hunt in the gloom.\nRun, run, you shan't escape. We're coming...\"</em><br/>\n<span class=\"text-end\">- Chant of the Gibberslop Butcher</span>",
+        "ploys": {
+          "strat": [
+            {
+              "factionid": "CHAOS",
+              "killteamid": "GPI",
+              "ployid": "BOI",
+              "ployname": "Blessings Of Infection",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a friendly GELLERPOX INFECTED operative fights in combat, at the end of the Roll Attack Dice step of that combat,\nif the total results of your discarded failed hits is 3 or more, you can retain one failed hit as a successful Normal hit instead."
+            },
+            {
+              "factionid": "CHAOS",
+              "killteamid": "GPI",
+              "ployid": "BOP",
+              "ployname": "Blessings Of Pox",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a shooting attack is made against a friendly GELLERPOX INFECTED operative,\nat the end of the Roll Defence Dice step of that shooting attack, if the total results of your discarded failed saves is 7 or more,\nyou can retain one failed save as a successful Normal save instead."
+            },
+            {
+              "factionid": "CHAOS",
+              "killteamid": "GPI",
+              "ployid": "DTTH",
+              "ployname": "Drawn To The Hum",
+              "ploytype": "S",
+              "CP": "1+",
+              "description": "Select one objective marker. Each friendly GELLERPOX INFECTED operative within [PENT] of it can immediately perform a free Dash action,\nbut must finish that move closer to it. This Strategic Ploy costs 1 additional Command Point for each previous time you have used it during the battle\n(e.g. 1 CP the first time you would use it, 2 CP the second time etc.)."
+            },
+            {
+              "factionid": "CHAOS",
+              "killteamid": "GPI",
+              "ployid": "RE",
+              "ployname": "Rust Emanations",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, while an enemy operative is within Engagement Range of friendly GELLERPOX INFECTED operatives (excluding MUTOID VERMIN operatives),\nthat enemy operative is treated as being injured.\nOnly subtract [CIRCLE] from their Movement characteristic as a result of being injured if they are activated within Engagement Range of that friendly operative."
+            }
+          ],
+          "tac": [
+            {
+              "factionid": "CHAOS",
+              "killteamid": "GPI",
+              "ployid": "BG",
+              "ployname": "Barge",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy when a friendly NIGHTMARE HULK operative is activated.\nUntil the end of the activation, that operative can move around, across, and over other operatives (and their bases) as if they were not there,\nand can perform Charge and Normal Move actions while within Engagement Range of enemy operatives, but must finish moves following all requirements specified by that move, \nand cannot finish moevs on top of other operatives (or their bases)."
+            },
+            {
+              "factionid": "CHAOS",
+              "killteamid": "GPI",
+              "ployid": "FO",
+              "ployname": "Frightening Onslaught",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy after a friendly NIGHTMARE HULK operative performs a Fight action.\nIf that operative is still within Engagement Range of an enemy operative, you can immediately fight in combat with it again\n(this does not cost any Action points and you do not have to select the same target)."
+            },
+            {
+              "factionid": "CHAOS",
+              "killteamid": "GPI",
+              "ployid": "PD",
+              "ployname": "Putrescent Demise",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy when a friendly GELLERPOX INFECTED operative (excluding MUTOID VERMIN operatives) is incapacitated.\nInflict 1 Mortal Wound (or D3 Mortal Wounds if that friendly operative is a NIGHTMARE HULK operative) on each enemy operative Visible To and Within [CIRCLE] of that friendly operative."
+            },
+            {
+              "factionid": "CHAOS",
+              "killteamid": "GPI",
+              "ployid": "PSP",
+              "ployname": "Pollute Stockpile",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy at the start of the Select Equipment step.\nSelect one item of equipment from your opponent's faction army list, then select one of the following effects:\n<ul>\n<li>Your opponent must spend one additional Equipment Point each time they select that item of Equipment for the battle.</li>\n<li>Your opponent can only select that item of equipment for the battle a maximum of once.</li>\n</ul>"
+            }
+          ]
+        },
+        "equipments": [
+          {
+            "factionid": "CHAOS",
+            "killteamid": "GPI",
+            "eqid": "CM",
+            "eqname": "Cursemite",
+            "eqdescription": "You gain a CURSEMITE operative for the battle.\nThe first time you select this equipment for each battle, it costs 3EP; otherwise, it costs 2EP.",
+            "eqpts": "2/3",
+            "eqseq": 0,
+            "eqtype": "Ability",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "GPI",
+            "eqid": "ESS",
+            "eqname": "Eyestinger Swarm",
+            "eqdescription": "You gain an EYESTINGER SWARM operative for the battle.\nThe first time you select this equipment for each battle, it costs 3EP; otherwise, it costs 2EP.",
+            "eqpts": "2/3",
+            "eqseq": 1,
+            "eqtype": "Ability",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "GPI",
+            "eqid": "SG",
+            "eqname": "Sludge-Grub",
+            "eqdescription": "You gain a SLUDGE-GRUB operative for the battle.\nThe first time you select this equipment for each battle, it costs 3EP; otherwise, it costs 2EP.",
+            "eqpts": "2/3",
+            "eqseq": 2,
+            "eqtype": "Ability",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          }
+        ],
+        "killteamcomp": "A GELLERPOX INFECTED kill team is composed of:\n<ul>\n<li>1 VULGRAR THRICE-CURSED</li>\n<li>1 BLOATSPAWN</li>\n<li>1 FLESHSCREAMER</li>\n<li>1 LUMBERGHAST</li>\n<li>1 GELLERPOX MUTANT equipped with Frag Grenade and Heavy Axe</li>\n<li>2 GELLERPOX MUTANTS equipped with Frag Grenade, Improvised Weapon, and Mutated Limb</li>\n<li>4 GLITCHLINGS</li>\n</ul>\nNote that, unlike other kill teams, you do not select your operatives from a list.\nInstead, this kill team's operatives are specified.",
+        "fireteams": [
+          {
+            "factionid": "CHAOS",
+            "killteamid": "GPI",
+            "fireteamid": "GPI",
+            "fireteamname": "Gellerpox Infected",
+            "archetype": "",
+            "description": "Security/Seek And Destroy",
+            "killteammax": 0,
+            "operatives": [
+              {
+                "factionid": "CHAOS",
+                "killteamid": "GPI",
+                "fireteamid": "GPI",
+                "opid": "VTC",
+                "opseq": 0,
+                "opname": "Vulgrar Thrice-Cursed",
+                "description": "Once, this hulking horror was the master of the New Dawn's boilermen. Now, he and others like him have become bloated monsters, melded with those who trusted them and the tainted machines that were once in their care.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "19",
+                "keywords": "GELLERPOX INFECTED, CHAOS, NURGLE, NIGHTMARE HULK, LEADER, VULGRAR THRICE-CURSED",
+                "weapons": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "VTC",
+                    "wepid": "PG",
+                    "wepseq": 0,
+                    "wepname": "Pyregut",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "GPI",
+                        "fireteamid": "GPI",
+                        "opid": "VTC",
+                        "wepid": "PG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "6",
+                        "BS": "2+",
+                        "D": "3/3",
+                        "SR": "Rng [PENT], Tor [CIRCLE]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "VTC",
+                    "wepid": "FMW",
+                    "wepseq": 0,
+                    "wepname": "Fleshmelded Weapons",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "GPI",
+                        "fireteamid": "GPI",
+                        "opid": "VTC",
+                        "wepid": "FMW",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "*Engineered"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "VTC",
+                    "abilityid": "ENG",
+                    "title": "*Engineered",
+                    "description": "When this operative is selected for deployment, select up to two of the following improvements for this weapon to gain for the battle:\n<ul>\n<li>Add 1 to the Normal Damage</li>\n<li>Add 1 to the Critical Damage</li>\n<li>Gain the Balanced special rule</li>\n<li>Gain the Brutal special rule</li>\n<li>Gain the Lethal 5+ special rule</li>\n<li>Gain the Rending critical hit rule</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "VTC",
+                    "abilityid": "LTI",
+                    "title": "Lead The Infection",
+                    "description": "In the Generate Command Points step of each Strategy Phase, if this operative is within [CIRCLE] of an objective marker it has not tainted, it taints that objective marker and you gain 1 CP."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "VTC",
+                    "abilityid": "RR",
+                    "title": "Revoltingly Resilient",
+                    "description": "<em>So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.</em><br/><br/>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "VTC",
+                    "abilityid": "TC",
+                    "title": "Techno-Curse",
+                    "description": "<em>Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.</em><br/><br/>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "VTC",
+                    "abilityid": "TCH",
+                    "title": "Thrice-Cursed Hulk",
+                    "description": "LIght terrain and operatives with a Wounds characteristic of 15 or less do not provide Cover for this operative."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "CHAOS",
+                "killteamid": "GPI",
+                "fireteamid": "GPI",
+                "opid": "BS",
+                "opseq": 1,
+                "opname": "Bloatspawn",
+                "description": "Said to be things born our of darkest nightmare, Bloatspawn drip watery slime with every thudding step. Their writing masses of tentacles grasp and tear at everything around them, dragging wailing victims into the foetid prisons of their bloated bodies.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "18",
+                "keywords": "GELLERPOX INFECTED, CHAOS, NURGLE, NIGHTMARE HULK,  BLOATSPAWN",
+                "weapons": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "BS",
+                    "wepid": "MT",
+                    "wepseq": 0,
+                    "wepname": "Mutant Tentacles",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "GPI",
+                        "fireteamid": "GPI",
+                        "opid": "BS",
+                        "wepid": "MT",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "6",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": "Rng [SQUARE], Fus"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "BS",
+                    "wepid": "MCT",
+                    "wepseq": 0,
+                    "wepname": "Mutant Claws & Tentacles",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "GPI",
+                        "fireteamid": "GPI",
+                        "opid": "BS",
+                        "wepid": "MCT",
+                        "profileid": "0",
+                        "name": "Grasp and Slash",
+                        "A": "6",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": ""
+                      },
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "GPI",
+                        "fireteamid": "GPI",
+                        "opid": "BS",
+                        "wepid": "MCT",
+                        "profileid": "1",
+                        "name": "Writhing Swipe",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": "*Swipe"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "BS",
+                    "abilityid": "NH",
+                    "title": "Nightmare Hulk",
+                    "description": "Each time this operative would perform a mission action or the Pick Up action, you must subtract one additional action point to do so.\nLight terrain and operatives with a Wounds characteristic of 15 or less do not provide Cover for this operative."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "BS",
+                    "abilityid": "RR",
+                    "title": "Revoltingly Resilient",
+                    "description": "<em>So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.</em><br/><br/>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "BS",
+                    "abilityid": "SW",
+                    "title": "*Swipe",
+                    "description": "Each time after this operative fights in combat with this profile, if it has not been incapacitated, you can fight in combat with this weapon profile against another enemy operative within Engagement Range of it that has not fought during the action.\nNote that this means each enemy operative within this operative's Engagement Range can only be fought once per action."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "BS",
+                    "abilityid": "TC",
+                    "title": "Techno-Curse",
+                    "description": "<em>Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.</em><br/><br/>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "BS",
+                    "abilityid": "TG",
+                    "title": "Tentacled Grasp",
+                    "description": "Each time an enemy operative would perform a Fall Back action while within Engagement Range of this operative, roll 1D6, adding 1 to the result if that enemy operative has a Wounds characteristic of 8 or less.\nOn a 4+, that enemy operative cannot Fall Back, but the action points subtracted are not refunded."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "CHAOS",
+                "killteamid": "GPI",
+                "fireteamid": "GPI",
+                "opid": "FS",
+                "opseq": 2,
+                "opname": "Fleshscreamer",
+                "description": "Clutching implements of brutal butchery, the chorus of dozens of wailing mouths accompanies Fleshscreamers into the fight. Ever ravenous to fill their many maws with rotting flesh and sparking machinery, they wade into the foe like nightmares given form.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "18",
+                "keywords": "GELLERPOX INFECTED, CHAOS, NURGLE, NIGHTMARE HULK,  FLESHSCREAMER",
+                "weapons": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "FS",
+                    "wepid": "MFC",
+                    "wepseq": 0,
+                    "wepname": "Mutant Fist & Cleaver",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "GPI",
+                        "fireteamid": "GPI",
+                        "opid": "FS",
+                        "wepid": "MFC",
+                        "profileid": "0",
+                        "name": "Bash and Slash",
+                        "A": "5",
+                        "BS": "4+",
+                        "D": "5/6",
+                        "SR": ""
+                      },
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "GPI",
+                        "fireteamid": "GPI",
+                        "opid": "FS",
+                        "wepid": "MFC",
+                        "profileid": "1",
+                        "name": "Lopping Blow",
+                        "A": "1",
+                        "BS": "3+",
+                        "D": "8/9",
+                        "SR": "Lethal 5+"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "FS",
+                    "abilityid": "HS",
+                    "title": "Horrifyingly Shrieking",
+                    "description": "Each time an enemy operative would perform a mission action or the Pick Up action while within [SQUARE] of this operative, one additional action point must be subtracted for that enemy operative to perform that action.\nWhen determining control of an objective marker this operative is within [CIRCLE] of, treat enemy operatives' total APL as being 1 less. Note that this is not a modifier."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "FS",
+                    "abilityid": "NH",
+                    "title": "Nightmare Hulk",
+                    "description": "Each time this operative would perform a mission action or the Pick Up action, you must subtract one additional action point to do so.\nLight terrain and operatives with a Wounds characteristic of 15 or less do not provide Cover for this operative."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "FS",
+                    "abilityid": "RR",
+                    "title": "Revoltingly Resilient",
+                    "description": "<em>So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.</em><br/><br/>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "FS",
+                    "abilityid": "TC",
+                    "title": "Techno-Curse",
+                    "description": "<em>Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.</em><br/><br/>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "CHAOS",
+                "killteamid": "GPI",
+                "fireteamid": "GPI",
+                "opid": "LG",
+                "opseq": 3,
+                "opname": "Lumberghast",
+                "description": "These Nightmare Hulks bear gruesome signs of verminous corruption. Insectile limbs and heads sprout frrom their mutant bodies, twitching with their own ghastly life. It is death to stand before such a resilient monster, for they attack with febrile savagery.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "18",
+                "keywords": "GELLERPOX INFECTED, CHAOS, NURGLE, NIGHTMARE HULK,  LUMBERGHAST",
+                "weapons": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "LG",
+                    "wepid": "MCT",
+                    "wepseq": 0,
+                    "wepname": "Mutant Claw",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "GPI",
+                        "fireteamid": "GPI",
+                        "opid": "LG",
+                        "wepid": "MCT",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "6/7",
+                        "SR": "Brutal"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "LG",
+                    "uniqueactionid": "SC",
+                    "title": "Spiked Charge",
+                    "description": "Perform a free Charge action with this operative. When it finishes that action, each enemy operative within its Engagement Range suffers D3 Mortal Wounds (roll separately for each).",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "LG",
+                    "abilityid": "NH",
+                    "title": "Nightmare Hulk",
+                    "description": "Each time this operative would perform a mission action or the Pick Up action, you must subtract one additional action point to do so.\nLight terrain and operatives with a Wounds characteristic of 15 or less do not provide Cover for this operative."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "LG",
+                    "abilityid": "RR",
+                    "title": "Revoltingly Resilient",
+                    "description": "<em>So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.</em><br/><br/>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "LG",
+                    "abilityid": "TC",
+                    "title": "Techno-Curse",
+                    "description": "<em>Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.</em><br/><br/>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "CHAOS",
+                "killteamid": "GPI",
+                "fireteamid": "GPI",
+                "opid": "GM",
+                "opseq": 4,
+                "opname": "Gellerpox Mutant",
+                "description": "The Gellerpox works nightmare changes upon its victims, deadening their nerves and twisting their bodies into gross and dangerous new forms. Melded with lumps of malfunctioning technology and stolen metalwork, they lurch into the fight with static-laced groans.",
+                "M": "2[CIRCLE]",
+                "APL": "2",
+                "GA": "2",
+                "DF": "3",
+                "SV": "5+",
+                "W": "7",
+                "keywords": "GELLERPOX INFECTED, CHAOS, NURGLE, GELLERPOX MUTANT",
+                "weapons": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "GM",
+                    "wepid": "FG",
+                    "wepseq": 0,
+                    "wepname": "Frag Grenade",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "GPI",
+                        "fireteamid": "GPI",
+                        "opid": "GM",
+                        "wepid": "FG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2/3",
+                        "SR": "Rng [PENT], Blast [CIRCLE], Ind, Lim"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "GM",
+                    "wepid": "HA",
+                    "wepseq": 0,
+                    "wepname": "Heavy Axe",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "GPI",
+                        "fireteamid": "GPI",
+                        "opid": "GM",
+                        "wepid": "HA",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "4/5",
+                        "SR": "Brutal"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "GM",
+                    "wepid": "IWML",
+                    "wepseq": 0,
+                    "wepname": "Improvised Weapon & Mutated Limb",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "GPI",
+                        "fireteamid": "GPI",
+                        "opid": "GM",
+                        "wepid": "IWML",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": "Relentless"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "GM",
+                    "abilityid": "GM",
+                    "title": "Gellercaust Masks",
+                    "description": "Each time this operative fights in combat or a shooting attack is made against it, in the Resolve Successful Hits step of that combat or shooting attack, each time an attack die would inflict Critical Damage on this operative, you can choose for that attack die to inflict Normal Damage instead."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "GM",
+                    "abilityid": "RR",
+                    "title": "Revoltingly Resilient",
+                    "description": "<em>So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.</em><br/><br/>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "GM",
+                    "abilityid": "TC",
+                    "title": "Techno-Curse",
+                    "description": "<em>Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.</em><br/><br/>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "CHAOS",
+                "killteamid": "GPI",
+                "fireteamid": "GPI",
+                "opid": "GL",
+                "opseq": 5,
+                "opname": "Glitchling",
+                "description": "These deviant plague mites caper and giggle as they infest enemy lines. They delight in the technological mayhem their presense spreads, and are all too happy to bury their victims in a clawing, biting mass for the glory of Grandfather Nurgle.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "2",
+                "DF": "2",
+                "SV": "5+",
+                "W": "3",
+                "keywords": "GELLERPOX INFECTED, CHAOS, NURGLE, GLITCHLING",
+                "weapons": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "GL",
+                    "wepid": "DE",
+                    "wepseq": 0,
+                    "wepname": "Diseased Effluence",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "GPI",
+                        "fireteamid": "GPI",
+                        "opid": "GL",
+                        "wepid": "DE",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "1/2",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "GL",
+                    "wepid": "DN",
+                    "wepseq": 0,
+                    "wepname": "Diseased Nippers",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "GPI",
+                        "fireteamid": "GPI",
+                        "opid": "GL",
+                        "wepid": "DN",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "1/2",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "GL",
+                    "abilityid": "RR",
+                    "title": "Revoltingly Resilient",
+                    "description": "<em>So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.</em><br/><br/>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "GL",
+                    "abilityid": "SM",
+                    "title": "Small",
+                    "description": "This operative cannot be equipped with any equipment. \nWhile this operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point)."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "GPI",
+                    "opid": "GL",
+                    "abilityid": "TC",
+                    "title": "Techno-Curse",
+                    "description": "<em>Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.</em><br/><br/>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
+                  }
+                ],
+                "fireteammax": 0
+              }
+            ],
+            "fireteamcomp": "A GELLERPOX INFECTED kill team is composed of:\n<ul>\n<li>1 VULGRAR THRICE-CURSED</li>\n<li>1 BLOATSPAWN</li>\n<li>1 FLESHSCREAMER</li>\n<li>1 LUMBERGHAST</li>\n<li>1 GELLERPOX MUTANT equipped with Frag Grenade and Heavy Axe</li>\n<li>2 GELLERPOX MUTANTS equipped with Frag Grenade, Improvised Weapon, and Mutated Limb</li>\n<li>4 GLITCHLINGS</li>\n</ul>\nNote that, unlike other kill teams, you do not select your operatives from a list.\nInstead, this kill team's operatives are specified."
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "GPI",
+            "fireteamid": "MV",
+            "fireteamname": "Mutoid Vermin",
+            "archetype": "",
+            "description": "",
+            "killteammax": 0,
+            "operatives": [
+              {
+                "factionid": "CHAOS",
+                "killteamid": "GPI",
+                "fireteamid": "MV",
+                "opid": "CM",
+                "opseq": 0,
+                "opname": "Cursemite",
+                "description": "These revolting creatures were once simple fleas, of the sort that infest every pilgrim's robes and labourer's shift. Grown monstrous, they can spring through the air as fast as a bullet frrom an autogun, and drain a grown Human of blood in moments.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "2",
+                "DF": "2",
+                "SV": "5+",
+                "W": "2",
+                "keywords": "GELLERPOX INFECTED, CHAOS, NURGLE, MUTOID VERMIN, FLY, CURSEMITE",
+                "weapons": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "MV",
+                    "opid": "CM",
+                    "wepid": "BSP",
+                    "wepseq": 0,
+                    "wepname": "Bloodsucking Proboscis",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "GPI",
+                        "fireteamid": "MV",
+                        "opid": "CM",
+                        "wepid": "BSP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "2",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": "*Feast, Rending"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "MV",
+                    "opid": "CM",
+                    "abilityid": "F",
+                    "title": "*Feast",
+                    "description": "Each time this operative fights in combat with this weapon against an enemy operative that has fewer than its starting number of Wounds, this weapon gains the following improvements for that combat:\n<ul>\n<li>Add 1 to its Attacks characteristic</li>\n<li>Gain the Lethal 5+ special rule</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "MV",
+                    "opid": "CM",
+                    "abilityid": "MV",
+                    "title": "Mutoid Vermin",
+                    "description": "<em>Swollen to huge size and afforded gruesome lethality by the Gellerpox, shipboard vermin fight alongside their master.</em><br/><br/>\nThis operative can only perform universal actions (excluding the Pick Up action), and can perform the Fall Back action for one less action point (to a minimum of 1 AP).\nIt cannot perform any other actions.<br/>\nAll other operatives can perform the Fall Back acton for one less action point (to a minimum of 1 AP) if they are within Engagement Range of enemy MUTOID VERMIN operatives.<br/>\nThis operative cannot control objective markers or tokens and cannot score you or your opponent Victory Points (it is ignored for these purposes, e.g. when determining a condition for a Tac Op).<br/>\nThis operative cannot be equipped with equipment. It is not added to your roster or dataslate, therefore in narrative play, it cannot earn (or lose) experience and does not take Casualty tests."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "CHAOS",
+                "killteamid": "GPI",
+                "fireteamid": "MV",
+                "opid": "ESS",
+                "opseq": 1,
+                "opname": "Eyestinger Swarm",
+                "description": "The shrill whine of insectile wings warns of the approach of the Eyestinger Swarms. Not only are there freakish insects dangerous in their own right, but they also lay their eggs in their victims' eyes, where they swiftly gestate and burst forth in fresh swarms.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "2",
+                "DF": "2",
+                "SV": "5+",
+                "W": "2",
+                "keywords": "GELLERPOX INFECTED, CHAOS, NURGLE, MUTOID VERMIN, FLY, EYESTINGER SWARM",
+                "weapons": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "MV",
+                    "opid": "ESS",
+                    "wepid": "SW",
+                    "wepseq": 0,
+                    "wepname": "Swarm",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "GPI",
+                        "fireteamid": "MV",
+                        "opid": "ESS",
+                        "wepid": "SW",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "6+",
+                        "D": "0/0",
+                        "SR": "Rng [PENT], No Cover, Stun"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "MV",
+                    "opid": "ESS",
+                    "wepid": "ST",
+                    "wepseq": 0,
+                    "wepname": "Sting",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "GPI",
+                        "fireteamid": "MV",
+                        "opid": "ESS",
+                        "wepid": "ST",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "5+",
+                        "D": "1/2",
+                        "SR": "Stun"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "MV",
+                    "opid": "ESS",
+                    "abilityid": "MV",
+                    "title": "Mutoid Vermin",
+                    "description": "<em>Swollen to huge size and afforded gruesome lethality by the Gellerpox, shipboard vermin fight alongside their master.</em><br/><br/>\nThis operative can only perform universal actions (excluding the Pick Up action), and can perform the Fall Back action for one less action point (to a minimum of 1 AP).\nIt cannot perform any other actions.<br/>\nAll other operatives can perform the Fall Back acton for one less action point (to a minimum of 1 AP) if they are within Engagement Range of enemy MUTOID VERMIN operatives.<br/>\nThis operative cannot control objective markers or tokens and cannot score you or your opponent Victory Points (it is ignored for these purposes, e.g. when determining a condition for a Tac Op).<br/>\nThis operative cannot be equipped with equipment. It is not added to your roster or dataslate, therefore in narrative play, it cannot earn (or lose) experience and does not take Casualty tests."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "CHAOS",
+                "killteamid": "GPI",
+                "fireteamid": "MV",
+                "opid": "SG",
+                "opseq": 2,
+                "opname": "Sludge-Grub",
+                "description": "Fatted with pus and slime, these noxious worms can spit gobbets of corrosive bile over great distances to blind and maim their prey. Should they get close, they latch on with savage tenacity and force their victims to tear and burst them, dousing the foe in acidic filth.",
+                "M": "2[CIRCLE]",
+                "APL": "2",
+                "GA": "2",
+                "DF": "2",
+                "SV": "5+",
+                "W": "2",
+                "keywords": "GELLERPOX INFECTED, CHAOS, NURGLE, MUTOID VERMIN, SLUDGE-GRUB",
+                "weapons": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "MV",
+                    "opid": "SG",
+                    "wepid": "AS",
+                    "wepseq": 0,
+                    "wepname": "Acid Spit",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "GPI",
+                        "fireteamid": "MV",
+                        "opid": "SG",
+                        "wepid": "AS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "2/2",
+                        "SR": "Rng [PENT], AP1, Splash 1"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "MV",
+                    "opid": "SG",
+                    "wepid": "FM",
+                    "wepseq": 0,
+                    "wepname": "Fanged Maw",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "GPI",
+                        "fireteamid": "MV",
+                        "opid": "SG",
+                        "wepid": "FM",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "2",
+                        "BS": "4+",
+                        "D": "1/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "MV",
+                    "opid": "SG",
+                    "abilityid": "CS",
+                    "title": "Caustic Demise",
+                    "description": "If this operative is incapacitated, roll 1D6 for each enemy operative Visible To and within [CIRCLE] of it: \non a 4+, that enemy operative suffers 1 Mortal Wound."
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "GPI",
+                    "fireteamid": "MV",
+                    "opid": "SG",
+                    "abilityid": "MV",
+                    "title": "Mutoid Vermin",
+                    "description": "<em>Swollen to huge size and afforded gruesome lethality by the Gellerpox, shipboard vermin fight alongside their master.</em><br/><br/>\nThis operative can only perform universal actions (excluding the Pick Up action), and can perform the Fall Back action for one less action point (to a minimum of 1 AP).\nIt cannot perform any other actions.<br/>\nAll other operatives can perform the Fall Back acton for one less action point (to a minimum of 1 AP) if they are within Engagement Range of enemy MUTOID VERMIN operatives.<br/>\nThis operative cannot control objective markers or tokens and cannot score you or your opponent Victory Points (it is ignored for these purposes, e.g. when determining a condition for a Tac Op).<br/>\nThis operative cannot be equipped with equipment. It is not added to your roster or dataslate, therefore in narrative play, it cannot earn (or lose) experience and does not take Casualty tests."
+                  }
+                ],
+                "fireteammax": 0
+              }
+            ],
+            "fireteamcomp": ""
+          }
+        ]
+      },
+      {
+        "factionid": "CHAOS",
         "killteamid": "LEG",
         "killteamname": "Legionaries",
         "description": "Some Traitor Marines pledged their service to all four of the Dark Gods, a malevolent force known as Chaos Undivided, whilst others preferred to dedicate themselves to the worship of only one of the Ruinous Powers. The Traitor Legions were led by the Warmaster Horus, once a primarch of the Imperium and the Emperor's most trusted friend, son, and adviser before he was corrupted by the promises and lies of the Dark Gods and his own inner flaws and ambition.\n<br/><br/>\nThe Traitor Legions were the most powerful component of the forces of Chaos which fought during the Heresy, which also included the myriad Daemons of the Warp, Human Traitors from the Imperial Army, the potent infantry and combat walker forces of the Dark Mechanicum and Chaos Cultists drawn from across the galaxy.",
@@ -21764,6 +22806,1619 @@
       },
       {
         "factionid": "IMP",
+        "killteamid": "INB",
+        "killteamname": "Imperial Navy Breachers",
+        "description": "",
+        "ploys": {
+          "strat": [
+            {
+              "factionid": "IMP",
+              "killteamid": "INB",
+              "ployid": "AO",
+              "ployname": "Attack Order",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Place one of your Attack Order tokens anywhere in the killzone.\nEach time a friendly IMPERIAL NAVY BREACHER operative fights in combat or makes a shooting attack while within [SQUARE] of that token,\nin the Roll Attack Dice step of that combat or shooting attack, you can re-roll any or all of your attack dice results of one result (e.g. results of 2).\nAt the end of the Turning Point, remove that Attack Order token.\nYou cannot use this Strategic Ploy in the same Turning Point in which you use the Defence Order Strategic Ploy."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "INB",
+              "ployid": "BFCA",
+              "ployname": "Brace For Counter-Attack",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time an enemy operative fights in combat or makes a shooting attack against a friendly IMPERIAL NAVY BREACHER operative that hsa not performed a Charge, Fall Back, or Normal Move action during this Turning Point,\nsubtract 1 frrom both Damage characteristics of weapons that enemy operative is equipped with for that combat or shooting attack (to a minimum of 2)."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "INB",
+              "ployid": "CA",
+              "ployname": "Close Assault",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a friendly IMPERIAL NAVY BREACHER operative fights in combat or makes a shooting attack against a target within [SQUARE] of it, \nin the Roll Attack Dice step of that combat or shooting attack, if you retain two or more successful hits, you can retain one of your failed hits as a successful normal hit instead."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "INB",
+              "ployid": "DO",
+              "ployname": "Defence Order",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Place one of your Defence Order tokens anywhere in the killzone.\nEach time a shooting attack is made against a friendly IMPERIAL NAVY BREACHER operative that is within [SQUARE] of that token, in the Roll Defence Dice step of that shooting attack, you can re-roll any or all of your Defence Dice results of one result (e.g. results of 2).\nAt the end of the Turning Point, remove that Defence Order token.\nYou cannot use this Strategic Ploy in the same Turning Point in which you use the Attack Order Strategic Ploy."
+            }
+          ],
+          "tac": [
+            {
+              "factionid": "IMP",
+              "killteamid": "INB",
+              "ployid": "BLITZ",
+              "ployname": "Blitz",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy when a friendly IMPERIAL NAVY BREACHER operative performs a Fight or Shoot action against a target within [PENT] of it.\nIn the Roll Attack Dice step of that combat or shooting attack, before rolling your attack dice:\n<ul>\n<li>If it is the first friendly operative to be activated this Turning Point, you can retain one attack die as a critical hit without rolling it.</li>\n<li>If it is the first friendly operative to perform either of those actions this Turning Point, you can retain one attack die as a successful normal hit without rolling it.</li>\n</ul>"
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "INB",
+              "ployid": "CH",
+              "ployname": "Calm Head",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy when a friendly IMPERIAL NAVY BREACHER operative is activated.\nUntil the end of the battle, you can ignore any or all modifiers to that operative's Movement characteristic and to the BS and WS characteristics of the weapons it is equipped with."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "INB",
+              "ployid": "LID",
+              "ployname": "Lock it Down",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy when a friendly IMPERIAL NAVY BREACHER operative is activated.\nSelect one objective marker. \nUntil the end of the battle, when determining control of that objective marker, treat that operative's APL as being 1 higher.\nNote that this is not a modifier.\nIn narrative play, this is cumulative with the Focused Battle Honour. \nYou can only use this Tactical Ploy for each friendly operative once."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "INB",
+              "ployid": "PT",
+              "ployname": "Overwhelm Target",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy when you use the Breach And Clear ability.\nSelect one of those friendly IMPERIAL NAVY BREACHER operatives. Add 1 to its APL."
+            }
+          ]
+        },
+        "equipments": [
+          {
+            "factionid": "IMP",
+            "killteamid": "INB",
+            "eqid": "FG",
+            "eqname": "Frag Grenade",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n   <tr>\n   <th>Name</th>\n           <th>A</th>\n           <th>BS</th>\n           <th>D</th>\n       </tr>\n       <tr>\n   <td>Frag Grenade</td>\n           <td>4</td>\n           <td>3+</td>\n           <td>2/3</td>\n       </tr>\n       <tr>\n   <th colspan=\"4\">Special Rules</th>\n   </tr>\n       <tr>\n   <td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Indirect, Limited</td>\n   </tr>\n   </table>",
+            "eqpts": "2",
+            "eqseq": 0,
+            "eqtype": "Weapon",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "INB",
+            "eqid": "KG",
+            "eqname": "Krak Grenade",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n   \t<tr>\n   \t\t<th>Name</th>\n           <th>A</th>\n           <th>BS</th>\n           <th>D</th>\n       </tr>\n       <tr>\n   \t\t<td>Krak Grenade</td>\n           <td>4</td>\n           <td>3+</td>\n           <td>4/5</td>\n       </tr>\n       <tr>\n   \t\t<th colspan=\"4\">Special Rules</th>\n   \t</tr>\n       <tr>\n   \t\t<td colspan=\"4\">Rng [PENT], Lim, AP1, Indirect, No Overwatch</td>\n   \t</tr>\n   </table>",
+            "eqpts": "3",
+            "eqseq": 0,
+            "eqtype": "Weapon",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "INB",
+            "eqid": "RB",
+            "eqname": "Rebreather",
+            "eqdescription": "The operative gains the following ability for the battle:<br/>\n<strong>Rebreather:</strong>\nYou can ignore any or all modifiers to this operative's APL and it is not affected by the Stun critical hit rule.",
+            "eqpts": "1",
+            "eqseq": 0,
+            "eqtype": "Ability",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "INB",
+            "eqid": "SLUGS",
+            "eqname": "Slugs",
+            "eqdescription": "Operative equipped with a Navis Shotgun only.\nIn the Set Up operatives step, select a type of ammunition for this operative to have loaded into its Navis Shotgun for the battle: cartridges or slugs.\nIf it has loaded cartridges, it uses either profile of its Navis Shotgun as normal.\nIf it has loaded slugs, it can only use the Long Range profile of its Navis Shotgun, but add 1 to both Damage Characteristics of that profile and improve its BS characteristic by 1 for that operative.<br/><br/>\nThe operative can perform the following action during the battle:<br/>\n<strong>Load Shotgun (1 AP):</strong>\nChange the type of ammunition loaded into the Navis Shotgun this operative is equipped with.",
+            "eqpts": "1",
+            "eqseq": 0,
+            "eqtype": "Action",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "INB",
+            "eqid": "ST",
+            "eqname": "Stimm",
+            "eqdescription": "Add 1 to this operative's Wounds characteristic for the battle.",
+            "eqpts": "1",
+            "eqseq": 0,
+            "eqtype": "OpMod",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "INB",
+            "eqid": "SG",
+            "eqname": "Stun Grenade",
+            "eqdescription": "The operative can perform the following action during the battle:<br/>\n<strong>Stun Grenade (1 AP):</strong>\nSelect one point on the kllzone within [PENT] of this operative.\nRoll 1D6 for each operative within [CIRCLE] of that point, subtracting 1 from the result if that operative is not Visible To this operative.\nOn a 4+, subtract 1 from that operative's APL.\nThis operative can only perform this action once, and cannot perform this action while within Engagement Range of an enemy operative.",
+            "eqpts": "2",
+            "eqseq": 0,
+            "eqtype": "Action",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "INB",
+            "eqid": "SOD",
+            "eqname": "System Override Device*",
+            "eqdescription": "The ooperative gains the following ability for the battle:<br/>\n<strong>System Override Device:</strong>\nIn the Scouting step, after resolving your selection, you can open one Hatchway.\nIf both players have this or a similar ability, the Defender resolves this ability first.",
+            "eqpts": "2",
+            "eqseq": 0,
+            "eqtype": "Abiity",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          }
+        ],
+        "killteamcomp": "An IMPERIAL NAVY BREACHERS kill team is composed of:\n<ul>\n        <li>\n                1 NAVIS SERGEANT-AT-ARMS operative equipped with the following:\n                <ul>\n                        <li>Navis shotgun; Navis hatchet</li>\n                        <li>\n                                One option from each of the following:\n                                <ul>\n                                        <li>Bolt pistol or heirloom autopistol</li>\n                                        <li>Chainsword or power weapon</li>\n                                </ul>\n                        <li>\n                </ul>\n        </li>\n        <li>\n                11 IMPERIAL NAVY BREACHER operatives selected fromthe following list:\n                <ul>\n                        <li>NAVIS ARMSMAN\n                        <li>NAVIS AXEJACK\n                        <li>NAVIS CAT. UNIT\n                        <li>NAVIS ENDURANT\n                        <li>NAVIS GHEISTSKULL\n                        <li>NAVIS GRENADIER\n                        <li>\n                                NAVIS GUNNER equipped with one of the following options:\n                                <ul>\n                                        <li>Meltagun (max one per kill team); gun butt\n                                        <li>Plasma gun (max one per kill team); gun butt\n                                </ul>\n                        <li>NAVIS HATCHCUTTER\n                        <li>NAVIS SURVEYOR\n                        <li>NAVIS VOID-JAMMER        \n                </ul>\n        </li>\n</ul>\n\nYour kill team can only include up to two NAVIS GUNNER operatives.\nOther than NAVIS ARMSMAN and NAVIS GUNNER operatives, your kill team can only include each operative above once.\n\nYour kill team can only include a NAVY GHEISTSKULL operative if it also includes a NAVIS VOID JAMMER operative,\nand it can only include a NAVIS C.A.T. UNIT operative if it also includes a NAVIS SURVEYOR operative",
+        "fireteams": [
+          {
+            "factionid": "IMP",
+            "killteamid": "INB",
+            "fireteamid": "INB",
+            "fireteamname": "Imperial Navy Breachers",
+            "archetype": "",
+            "description": "Security/Seek And Destroy",
+            "killteammax": 0,
+            "operatives": [
+              {
+                "factionid": "IMP",
+                "killteamid": "INB",
+                "fireteamid": "INB",
+                "opid": "SGT",
+                "opseq": 0,
+                "opname": "Navis Sergeant-At-Arms",
+                "description": "As disciplined fighters, often with years of experience at the mast, the leaders of Imperial Navy Breacher squads are as skilled in close-quarter fighting as they are in devising battle-winning tactics on the move.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "IMPERIAL NAVY BREACHER, IMPERIUM, LEADER, NAVIS, SERGEANT-AT-ARMS",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "SGT",
+                    "wepid": "BP",
+                    "wepseq": 0,
+                    "wepname": "Bolt Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "SGT",
+                        "wepid": "BP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "SGT",
+                    "wepid": "HAP",
+                    "wepseq": 0,
+                    "wepname": "Heirloom Autopistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "SGT",
+                        "wepid": "HAP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2/3",
+                        "SR": "Rng [PENT], Bal, Lethal 5+"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "SGT",
+                    "wepid": "NS",
+                    "wepseq": 0,
+                    "wepname": "Navis Shotgun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "SGT",
+                        "wepid": "NS",
+                        "profileid": "0",
+                        "name": "Close Range",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "3/3",
+                        "SR": "Rng [PENT]"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "SGT",
+                        "wepid": "NS",
+                        "profileid": "1",
+                        "name": "Long Range",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "1/2",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "SGT",
+                    "wepid": "CS",
+                    "wepseq": 0,
+                    "wepname": "Chainsword",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "SGT",
+                        "wepid": "CS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "Ceaseless"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "SGT",
+                    "wepid": "NH",
+                    "wepseq": 0,
+                    "wepname": "Navis Hatchet",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "SGT",
+                        "wepid": "NH",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "SGT",
+                    "wepid": "PW",
+                    "wepseq": 0,
+                    "wepname": "Power Weapon",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "SGT",
+                        "wepid": "PW",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/6",
+                        "SR": "Lethal 5+"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "SGT",
+                    "abilityid": "BAC",
+                    "title": "Breach And Clear",
+                    "description": "<i>Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.</i><br/><br/>\nOnce per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\nIf you do so:\n<ul>\n<li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n<li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n<li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "SGT",
+                    "abilityid": "CB",
+                    "title": "Command Breach",
+                    "description": "At the start of the first Strategy phase, select the Attack Order or Defence Order Strategic Ploy.\nUntil the end of the battle, while this operative is in the killzone, you can use that Strategic Ploy without spending any Command Points."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "SGT",
+                    "abilityid": "VA",
+                    "title": "Void Armour",
+                    "description": "<i>The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.</i><br/><br/>\n<ul>\n<li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n<li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "INB",
+                "fireteamid": "INB",
+                "opid": "ARM",
+                "opseq": 1,
+                "opname": "Navis Armsman",
+                "description": "Well-trained, well-drilled and well-equipped, the Armsmen of Imperial Navy Breacher kill teams are formidable troops in the close confines of ship-to-ship combat. Any foe they cannot blast aside with their powerful shotguns they hack down with vicious blows from their hatchets.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "2",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "IMPERIAL NAVY BREACHER, IMPERIUM, NAVIS, ARMSMAN",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "ARM",
+                    "wepid": "NS",
+                    "wepseq": 0,
+                    "wepname": "Navis Shotgun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "ARM",
+                        "wepid": "NS",
+                        "profileid": "0",
+                        "name": "Close Range",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/3",
+                        "SR": "Rng [PENT]"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "ARM",
+                        "wepid": "NS",
+                        "profileid": "1",
+                        "name": "Long Range",
+                        "A": "4",
+                        "BS": "5+",
+                        "D": "1/2",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "ARM",
+                    "wepid": "NH",
+                    "wepseq": 0,
+                    "wepname": "Navis Hatchet",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "ARM",
+                        "wepid": "NH",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "ARM",
+                    "abilityid": "BAC",
+                    "title": "Breach And Clear",
+                    "description": "<i>Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.</i><br/><br/>\nOnce per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\nIf you do so:\n<ul>\n<li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n<li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n<li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "ARM",
+                    "abilityid": "VA",
+                    "title": "Void Armour",
+                    "description": "<i>The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.</i><br/><br/>\n<ul>\n<li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n<li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "INB",
+                "fireteamid": "INB",
+                "opid": "AXE",
+                "opseq": 2,
+                "opname": "Navis Axejack",
+                "description": "Sometimes, the only solution to a problem toced by Imperial Navy Breachers is a heavy, two-handed axe. The Axejacks who carry these weapons can not only smash through blocked doorways and obstacles, they are also formidable fighters who hack apart any enemy in their way.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "2",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "IMPERIAL NAVY BREACHER, IMPERIUM, NAVIS, AXEJACK",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "AXE",
+                    "wepid": "AP",
+                    "wepseq": 0,
+                    "wepname": "Autopist0l",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "AXE",
+                        "wepid": "AP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "AXE",
+                    "wepid": "PW",
+                    "wepseq": 0,
+                    "wepname": "Power Weapon",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "AXE",
+                        "wepid": "PW",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/6",
+                        "SR": "Lethal 5+"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "AXE",
+                    "uniqueactionid": "WI",
+                    "title": "Wade In",
+                    "description": "Perform a free Charge action with this operative.\nThen perform a free Fight action with this operative.\nIf this operative performs both actions, its power weapon gains the Reap 2 critical hit rule for that combat.",
+                    "AP": 2
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "AXE",
+                    "abilityid": "BAC",
+                    "title": "Breach And Clear",
+                    "description": "<i>Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.</i><br/><br/>\nOnce per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\nIf you do so:\n<ul>\n<li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n<li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n<li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "AXE",
+                    "abilityid": "EMB",
+                    "title": "Emboldened",
+                    "description": "If this operative performs a Charge action, it is emboldened until the end of the Turning Point.\nWhile this operative is emboldened, each time it would lose a wound, roll one D6: on a 5+, that wound is not lost."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "AXE",
+                    "abilityid": "VA",
+                    "title": "Void Armour",
+                    "description": "<i>The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.</i><br/><br/>\n<ul>\n<li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n<li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "INB",
+                "fireteamid": "INB",
+                "opid": "CAT",
+                "opseq": 3,
+                "opname": "Navis C.A.T. Unit",
+                "description": "Cyber-altered Task Units are tracked reconnaissance vehicles that have served the Imperium for millenia. Fitted with pict-recording equipment and frequency scanning augurs, they can be remotely operated to provide vital tactical information for their kill team.",
+                "M": "4[CIRCLE]",
+                "APL": "1",
+                "GA": "1",
+                "DF": "2",
+                "SV": "5+",
+                "W": "5",
+                "keywords": "IMPERIAL NAVY BREACHER, IMPERIUM, NAVIS, C.A.T. UNIT",
+                "weapons": [],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "CAT",
+                    "abilityid": "BAC",
+                    "title": "Breach And Clear",
+                    "description": "<i>Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.</i><br/><br/>\nOnce per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\nIf you do so:\n<ul>\n<li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n<li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n<li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "CAT",
+                    "abilityid": "MACH",
+                    "title": "Machine",
+                    "description": "<ul>\n<li>When drawing a Visibility line from this operative, draw it from any part of the miniature.</li>\n<li>This operative cannot earn (or lose) experience points and automatically passes Casualty tests.</li>\n<li>This operative's APL cannot be modified.</li>\n<li>This operative can perform the Fall Back action for one less Action Point (to a minimum or 1 AP).</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "CAT",
+                    "abilityid": "REC",
+                    "title": "Recon",
+                    "description": "In the scouting step, after resolving your selection, you can perform a free Dash action with this operative if it is wholly within your Drop Zone."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "CAT",
+                    "abilityid": "SU",
+                    "title": "Support Unit",
+                    "description": "This operative cannot:\n<ul>\n<li>Perform any actions other than Dash, Fall Back, Normal Move, or Pass</li>\n<li>Climb, Jump, or Traverse</li>\n<li>Make shooting attacks, fight in combat (do not select a weapon or roll any attack dice for it) or provide combat support.</li>\n<li>Be equipped with equipment or carry anything</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "INB",
+                "fireteamid": "INB",
+                "opid": "END",
+                "opseq": 4,
+                "opname": "Navis Endurant",
+                "description": "Only the biggest Armsmen in a squad become known as Endurants. To them falls the task of carrying an Endurant shield and heavy shotgun while either taking point or guarding the rear of the squad. Their sheer bulk makes them highly intimidating to their enemies.",
+                "M": "2[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "2+",
+                "W": "10",
+                "keywords": "IMPERIAL NAVY BREACHER, IMPERIUM, NAVIS, ENDURANT",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "END",
+                    "wepid": "NHS",
+                    "wepseq": 0,
+                    "wepname": "Navis Heavy Shotgun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "END",
+                        "wepid": "NHS",
+                        "profileid": "0",
+                        "name": "Close Range",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/3",
+                        "SR": "Rng [PENT], Relentless"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "END",
+                        "wepid": "NHS",
+                        "profileid": "1",
+                        "name": "Long Range",
+                        "A": "4",
+                        "BS": "5+",
+                        "D": "1/2",
+                        "SR": "Relentless"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "END",
+                    "wepid": "SB",
+                    "wepseq": 0,
+                    "wepname": "Shield Bash",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "END",
+                        "wepid": "SB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "1/1",
+                        "SR": "Brutal, *Shield"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "END",
+                    "uniqueactionid": "DIS",
+                    "title": "Disengage",
+                    "description": "Perform a free Fall Back action with this operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "END",
+                    "abilityid": "BAC",
+                    "title": "Breach And Clear",
+                    "description": "<i>Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.</i><br/><br/>\nOnce per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\nIf you do so:\n<ul>\n<li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n<li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n<li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "END",
+                    "abilityid": "BW",
+                    "title": "Breachwall",
+                    "description": "Each time another friendly IMPERIAL NAVY BREACHER operative finishes an action in which it moved and ended that move with its base touching this operatives', if this operative has an Engage order and is not already shielding a friendly operative, it can shield that friendly operative until their bases are no longer touching or this operative no longer has an Engage order.\nWhile a friendly operative is shielded, it is not in an enemy operative's Line of Sight if a Cover line drawn to it crosses this operative's base, unless the enemy operative is on a Vantage Point."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "END",
+                    "abilityid": "SH",
+                    "title": "*Shield",
+                    "description": "Each time this operative fights in combat with this weapon, in the Resolve Successful Hits step of that combat, each time it parries, two of your opponent's successful hits are discarded (instead of one)."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "END",
+                    "abilityid": "VA",
+                    "title": "Void Armour",
+                    "description": "<i>The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.</i><br/><br/>\n<ul>\n<li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n<li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "INB",
+                "fireteamid": "INB",
+                "opid": "GS",
+                "opseq": 5,
+                "opname": "Navis Gheistskull",
+                "description": "These servo-skulls are often made from the heads of former Imperial Navy Breachers. As a result, they are often named \"DeadMan's Revenge\" or regarded as the perished soldier's \"Last Laugh\" for their ability to detonate and kill all around them in a final act of defiance to the enemy.",
+                "M": "4[CIRCLE]",
+                "APL": "1",
+                "GA": "1",
+                "DF": "2",
+                "SV": "5+",
+                "W": "5",
+                "keywords": "IMPERIAL NAVY BREACHER, IMPERIUM, FLY, NAVIS, GHEISTSKULL",
+                "weapons": [],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "GS",
+                    "uniqueactionid": "BOOST",
+                    "title": "Boost",
+                    "description": "Select a point in the killzone that is Visible to this operative (treat that point as an intended target).\nPerform a free Normal Move action with this operative, moving in a single straight line with an unlimited Movement.\nIt must finish that move with [TRI] of the selected point.\nThis operative can only perform this action once, and cannot perform it during the first Turning Point.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "GS",
+                    "abilityid": "BAC",
+                    "title": "Breach And Clear",
+                    "description": "<i>Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.</i><br/><br/>\nOnce per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\nIf you do so:\n<ul>\n<li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n<li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n<li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "GS",
+                    "abilityid": "MACH",
+                    "title": "Machine",
+                    "description": "<ul>\n<li>This operative cannot earn (or lose) experience points and automatically passes Casualty tests.</li>\n<li>This operative's APL cannot be modified.</li>\n<li>This operative can perform the Fall Back action for one less Action Point (to a minimum or 1 AP).</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "GS",
+                    "abilityid": "SU",
+                    "title": "Support Unit",
+                    "description": "This operative cannot:\n<ul>\n<li>Perform any actions other than Boost, Dash, Fall Back, Normal Move, or Pass</li>\n<li>Make shooting attacks, fight in combat (do not select a weapon or roll any attack dice for it) or provide combat support.</li>\n<li>Be equipped with equipment or carry anything</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "INB",
+                "fireteamid": "INB",
+                "opid": "GRN",
+                "opseq": 6,
+                "opname": "Navis Grenadier",
+                "description": "It is the life of an Imperial Navy Breacher to become very accustomed to explosions. Even more so for the Grenadiers, These Armsmen carry demolition charges designed to crack through bulkheads and sealed doors enabling their squadmates to keep moving and reach their objectives.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "IMPERIAL NAVY BREACHER, IMPERIUM, NAVIS, GRENADIER",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "GRN",
+                    "wepid": "DC",
+                    "wepseq": 0,
+                    "wepname": "Demolition Charge",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "GRN",
+                        "wepid": "DC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/6",
+                        "SR": "Rng 2[CIRCLE], Blast [CIRCLE], AP1, Indirect, Lim"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "GRN",
+                    "wepid": "NS",
+                    "wepseq": 0,
+                    "wepname": "Navis Shotgun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "GRN",
+                        "wepid": "NS",
+                        "profileid": "0",
+                        "name": "Close Range",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/3",
+                        "SR": "Rng [PENT]"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "GRN",
+                        "wepid": "NS",
+                        "profileid": "1",
+                        "name": "Long Range",
+                        "A": "4",
+                        "BS": "5+",
+                        "D": "1/2",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "GRN",
+                    "wepid": "NH",
+                    "wepseq": 0,
+                    "wepname": "Navis Hatchet",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "GRN",
+                        "wepid": "NH",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "GRN",
+                    "wepid": "FG",
+                    "wepseq": 0,
+                    "wepname": "Frag Grenade",
+                    "weptype": "E",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "GRN",
+                        "wepid": "FG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2/3",
+                        "SR": "Rng [PENT], Blast [CIRCLE], Ind, Lim"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "GRN",
+                    "wepid": "KG",
+                    "wepseq": 0,
+                    "wepname": "Krak Grenade",
+                    "weptype": "E",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "GRN",
+                        "wepid": "KG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "Rng [PENT], AP1, Ind, Lim"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "GRN",
+                    "abilityid": "BAC",
+                    "title": "Breach And Clear",
+                    "description": "<i>Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.</i><br/><br/>\nOnce per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\nIf you do so:\n<ul>\n<li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n<li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n<li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "GRN",
+                    "abilityid": "GRN",
+                    "title": "Grenadier",
+                    "description": "This operative is equipped with Frag, Krak, and Stun grenades and they do not cost any equipment points. Those grenades that have the Limited special rule can be selected for this operative's use twice instead of once."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "GRN",
+                    "abilityid": "VA",
+                    "title": "Void Armour",
+                    "description": "<i>The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.</i><br/><br/>\n<ul>\n<li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n<li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "INB",
+                "fireteamid": "INB",
+                "opid": "GNR",
+                "opseq": 7,
+                "opname": "Navis Gunner",
+                "description": "The largest troops in the squad who don't fulfil the role of Endurants carry their squad's heaviest ranged weapons. A las-volley unleashes devastating salvoes, the searing heat of a meltagun shot burns through a reinforced bulkhead, and even heavily-armoured enemies cannot withstand a plasma gun.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "IMPERIAL NAVY BREACHER, IMPERIUM, NAVIS, GUNNER",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "GNR",
+                    "wepid": "NLV",
+                    "wepseq": 0,
+                    "wepname": "Navis Las-Volley",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "GNR",
+                        "wepid": "NLV",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "6",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": "Fus, Hvy, Relentless"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "GNR",
+                    "wepid": "MG",
+                    "wepseq": 0,
+                    "wepname": "Meltagun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "GNR",
+                        "wepid": "MG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "6/3",
+                        "SR": "Rng [PENT], AP2, MW4"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "GNR",
+                    "wepid": "PG",
+                    "wepseq": 0,
+                    "wepname": "Plasma Gun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "GNR",
+                        "wepid": "PG",
+                        "profileid": "0",
+                        "name": "Standard",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "5/6",
+                        "SR": "AP1"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "GNR",
+                        "wepid": "PG",
+                        "profileid": "1",
+                        "name": "Supercharge",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "5/6",
+                        "SR": "AP2, Hot"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "GNR",
+                    "wepid": "GB",
+                    "wepseq": 0,
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "GNR",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/2",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "GNR",
+                    "abilityid": "BAC",
+                    "title": "Breach And Clear",
+                    "description": "<i>Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.</i><br/><br/>\nOnce per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\nIf you do so:\n<ul>\n<li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n<li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n<li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "GNR",
+                    "abilityid": "VA",
+                    "title": "Void Armour",
+                    "description": "<i>The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.</i><br/><br/>\n<ul>\n<li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n<li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "INB",
+                "fireteamid": "INB",
+                "opid": "HC",
+                "opseq": 8,
+                "opname": "Navis Hatchcutter",
+                "description": "It is vital for the Imperial Navy Breachers to be able to move through enemy ships quickly to reach their objectives. Hatchcutters can not only cut through barricades with their chainfists and plasma torches, they can use the latter to seal shut paths the foe might otherwise use.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "IMPERIAL NAVY BREACHER, IMPERIUM, NAVIS, HATCHCUTTER",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "HC",
+                    "wepid": "AP",
+                    "wepseq": 0,
+                    "wepname": "Autopistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "HC",
+                        "wepid": "AP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "HC",
+                    "wepid": "CF",
+                    "wepseq": 0,
+                    "wepname": "Chainfist",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "HC",
+                        "wepid": "CF",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "5/6",
+                        "SR": "Brutal, Rending"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "HC",
+                    "uniqueactionid": "BP",
+                    "title": "Breach Point",
+                    "description": "Place your Breach Point token so it is within [TRI] of this operative and a terrain feature no more than [TRI] thick.\nFriendly IMPERIAL NAVY BREACHER operatives can move throught parts of that terrain feature that are no more than [TRI] thick as if they were not there, so long as they do so within [TRI] of that token.",
+                    "AP": 1
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "HC",
+                    "uniqueactionid": "WELD",
+                    "title": "Weld Shut",
+                    "description": "This oeprative can perform this action while within [TRI] of a closed Hatchway.\nUntil it is opened, that Hatchway is welded shut.\nWhile a Hatchway is welded shut, operatives must subtract 1 additional action point to perform the Operate Hatch action on that Hatchway.\nThis operative cannot perform this action while within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "HC",
+                    "abilityid": "BAC",
+                    "title": "Breach And Clear",
+                    "description": "<i>Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.</i><br/><br/>\nOnce per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\nIf you do so:\n<ul>\n<li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n<li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n<li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "HC",
+                    "abilityid": "HC",
+                    "title": "Hatchcutter",
+                    "description": "Each time this operative would perform the Operate Hatch action, no more than one action point needs to be subtracted."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "HC",
+                    "abilityid": "VA",
+                    "title": "Void Armour",
+                    "description": "<i>The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.</i><br/><br/>\n<ul>\n<li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n<li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "INB",
+                "fireteamid": "INB",
+                "opid": "SRV",
+                "opseq": 9,
+                "opname": "Navis Surveyor",
+                "description": "Knowing what is around a corner can mean life or detah for Imperial Navy Breachers. By using a C.A.T. unit, which is capable of navigating narrow tunnels and holes, a Surveyor can investigate and prepare their squad for what might be ahead.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "IMPERIAL NAVY BREACHER, IMPERIUM, NAVIS, SURVEYOR",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "SRV",
+                    "wepid": "NS",
+                    "wepseq": 0,
+                    "wepname": "Navis Shotgun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "SRV",
+                        "wepid": "NS",
+                        "profileid": "0",
+                        "name": "Close Range",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/3",
+                        "SR": "Rng [PENT]"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "SRV",
+                        "wepid": "NS",
+                        "profileid": "1",
+                        "name": "Long Range",
+                        "A": "4",
+                        "BS": "5+",
+                        "D": "1/2",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "SRV",
+                    "wepid": "NH",
+                    "wepseq": 0,
+                    "wepname": "Navis Hatchet",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "SRV",
+                        "wepid": "NH",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "SRV",
+                    "uniqueactionid": "SRV",
+                    "title": "Surveillance",
+                    "description": "Place your Surveillance token within [PENT] of a friendly NAVIS C.A.T. UNIT operative.\nUntil the end of the Turning Point, while an enemy operative is Visible To a friendly NAVIS C.A.T. UNIT operative and within [SQUARE] of that token,\nthat enemy operative is under surveillance.\nEach time a friendly IMPERIAL NAVY BREACHER operative makes a shooting attack, enemy operatives under surveillance are treated as having an Engage ORder for that shooting attack.\nThis operative cannot perform this action while within Engagement Range of an enemy operative or if a friendly NAVIS C.A.T. UNIT operative is not in the killzone.",
+                    "AP": 1
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "SRV",
+                    "uniqueactionid": "WF",
+                    "title": "Wayfind",
+                    "description": "Select one friendly IMPERIAL NAVY BREACHER operative with [PENT] of either this operative of a friendly NAVIS C.A.T. UNIT operative.\nAdd 1 to its APL. \nThis operative cannot perform this action while within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "SRV",
+                    "abilityid": "BAC",
+                    "title": "Breach And Clear",
+                    "description": "<i>Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.</i><br/><br/>\nOnce per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\nIf you do so:\n<ul>\n<li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n<li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n<li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "SRV",
+                    "abilityid": "VA",
+                    "title": "Void Armour",
+                    "description": "<i>The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.</i><br/><br/>\n<ul>\n<li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n<li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "INB",
+                "fireteamid": "INB",
+                "opid": "VJ",
+                "opseq": 10,
+                "opname": "Navis Void-Jammer",
+                "description": "It falls to the Void-Jammers in an Imperial Navy Breachers kill team to operate Gheistskulls - servo-skulls fitted with an explosive device and an electro-magnetic pulse emitter. These devices can move quickly, fly through the air and navigate terrain far too dense for the Armsmen in order to reach the foe.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "IMPERIAL NAVY BREACHER, IMPERIUM, NAVIS, VOID-JAMMER",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "VJ",
+                    "wepid": "GD",
+                    "wepseq": 0,
+                    "wepname": "Gheistskull Detonator",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "VJ",
+                        "wepid": "GD",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2/3",
+                        "SR": "*Detonate, *EMP, Silent, No Overwatch"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "VJ",
+                    "wepid": "NS",
+                    "wepseq": 0,
+                    "wepname": "Navis Shotgun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "VJ",
+                        "wepid": "NS",
+                        "profileid": "0",
+                        "name": "Close Range",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/3",
+                        "SR": "Rng [PENT]"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "VJ",
+                        "wepid": "NS",
+                        "profileid": "1",
+                        "name": "Long Range",
+                        "A": "4",
+                        "BS": "5+",
+                        "D": "1/2",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "VJ",
+                    "wepid": "NH",
+                    "wepseq": 0,
+                    "wepname": "Navis Hatchet",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INB",
+                        "fireteamid": "INB",
+                        "opid": "VJ",
+                        "wepid": "NH",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "VJ",
+                    "uniqueactionid": "INTP",
+                    "title": "Interference Pulse",
+                    "description": "Select one enemy operative Visible To and within [PENT] of a friendly NAVIS GHEISTSKULL operative.\nRoll 1D6, adding 1 to the result if that enemy operative is in that friendly NAVIS GHEISTSKULL operative's Line Of Sight.\nOn a 3+, subtract 1 from that enemy operative's APL.\nThis operative cannot perform this action while within Engagement Range of an enemy operative or if a friendly NAVIS GHEISTSKULL operative is not in the killzone.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "VJ",
+                    "abilityid": "BAC",
+                    "title": "Breach And Clear",
+                    "description": "<i>Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.</i><br/><br/>\nOnce per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\nIf you do so:\n<ul>\n<li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n<li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n<li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "VJ",
+                    "abilityid": "DET",
+                    "title": "*Detonate",
+                    "description": "Each time this operative performs a Shoot action with this weapon, make a shooting attack against each operative within [CIRCLE] of a friendly NAVIS GHEISTSKULL operative (they are all valid targets).\nAfter all of those shooting attacks have been made, that friendly NAVIS GHEISTSKULL operative is incapacitated.\nThis operative cannot make a shooting attack with this weapon by performing an Overwatch action or if a friendly NAVIS GHEISTSKULL operative is not in the killzone."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "VJ",
+                    "abilityid": "EMP",
+                    "title": "*EMP",
+                    "description": "Each time a friendly operative makes a shooting attack with this weapon, this weapon has the Lethal X special rule for that attack.\n is the target's unmodified Save characteristic."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INB",
+                    "fireteamid": "INB",
+                    "opid": "VJ",
+                    "abilityid": "VA",
+                    "title": "Void Armour",
+                    "description": "<i>The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.</i><br/><br/>\n<ul>\n<li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n<li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              }
+            ],
+            "fireteamcomp": "An IMPERIAL NAVY BREACHERS kill team is composed of:\n<ul>\n        <li>\n                1 NAVIS SERGEANT-AT-ARMS operative equipped with the following:\n                <ul>\n                        <li>Navis shotgun; Navis hatchet</li>\n                        <li>\n                                One option from each of the following:\n                                <ul>\n                                        <li>Bolt pistol or heirloom autopistol</li>\n                                        <li>Chainsword or power weapon</li>\n                                </ul>\n                        <li>\n                </ul>\n        </li>\n        <li>\n                11 IMPERIAL NAVY BREACHER operatives selected fromthe following list:\n                <ul>\n                        <li>NAVIS ARMSMAN\n                        <li>NAVIS AXEJACK\n                        <li>NAVIS CAT. UNIT\n                        <li>NAVIS ENDURANT\n                        <li>NAVIS GHEISTSKULL\n                        <li>NAVIS GRENADIER\n                        <li>\n                                NAVIS GUNNER equipped with one of the following options:\n                                <ul>\n                                        <li>Meltagun (max one per kill team); gun butt\n                                        <li>Plasma gun (max one per kill team); gun butt\n                                </ul>\n                        <li>NAVIS HATCHCUTTER\n                        <li>NAVIS SURVEYOR\n                        <li>NAVIS VOID-JAMMER        \n                </ul>\n        </li>\n</ul>\n\nYour kill team can only include up to two NAVIS GUNNER operatives.\nOther than NAVIS ARMSMAN and NAVIS GUNNER operatives, your kill team can only include each operative above once.\n\nYour kill team can only include a NAVY GHEISTSKULL operative if it also includes a NAVIS VOID JAMMER operative,\nand it can only include a NAVIS C.A.T. UNIT operative if it also includes a NAVIS SURVEYOR operative"
+          }
+        ]
+      },
+      {
+        "factionid": "IMP",
         "killteamid": "INTS",
         "killteamname": "Intercession Squad",
         "description": "Intercession Squads are one of the most common kill\nteams deployed by Space Marines accompanying the\nIndomitus Crusade Fleets. Intended as a standard\npattern for Adeptus Astartes kill teams, Intercession\nSquad protocols are disseminated to every fleet.\nThese specialist groups of Intercessors and Assault\nIntercessors were first formulated by the Primarch\nRoboute Guilliman and have proven brutally effective.\nThe Lord Commander planned them as tactically\nadaptable teams that could respond to the needs of\nall manner of missions, for even his strategic genius\ncould not foresee all the manifold threats that the\nfleets would encounter out in the galaxy's darkness.\n",
@@ -23061,44 +25716,6 @@
                     "killteamid": "INTS",
                     "fireteamid": "INTS",
                     "opid": "IGNR",
-                    "wepid": "AGL",
-                    "wepseq": 0,
-                    "wepname": "Auxiliary Grenade Launcher",
-                    "weptype": "R",
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "INTS",
-                        "fireteamid": "INTS",
-                        "opid": "IGNR",
-                        "wepid": "AGL",
-                        "profileid": "0",
-                        "name": "Frag",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "2/4",
-                        "SR": "Blast [CIRCLE], No Overwatch"
-                      },
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "INTS",
-                        "fireteamid": "INTS",
-                        "opid": "IGNR",
-                        "wepid": "AGL",
-                        "profileid": "1",
-                        "name": "Krak",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "4/5",
-                        "SR": "AP1, No Overwatch"
-                      }
-                    ]
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "INTS",
-                    "fireteamid": "INTS",
-                    "opid": "IGNR",
                     "wepid": "BR",
                     "wepseq": 0,
                     "wepname": "Bolt Rifle",
@@ -23141,6 +25758,44 @@
                         "BS": "3+",
                         "D": "3/4",
                         "SR": "AP1, Heavy"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "INTS",
+                    "fireteamid": "INTS",
+                    "opid": "IGNR",
+                    "wepid": "AGL",
+                    "wepseq": 0,
+                    "wepname": "Auxiliary Grenade Launcher",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INTS",
+                        "fireteamid": "INTS",
+                        "opid": "IGNR",
+                        "wepid": "AGL",
+                        "profileid": "0",
+                        "name": "Frag",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2/4",
+                        "SR": "Blast [CIRCLE], No Overwatch"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "INTS",
+                        "fireteamid": "INTS",
+                        "opid": "IGNR",
+                        "wepid": "AGL",
+                        "profileid": "1",
+                        "name": "Krak",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "AP1, No Overwatch"
                       }
                     ]
                   },
