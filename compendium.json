@@ -40886,6 +40886,1535 @@
       },
       {
         "factionid": "TAU",
+        "killteamid": "FSKB",
+        "killteamname": "Farstalker Kinband",
+        "description": "",
+        "ploys": {
+          "strat": [
+            {
+              "factionid": "TAU",
+              "killteamid": "FSKB",
+              "ployid": "BND",
+              "ployname": "Bound",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, friendly FARSTALKER KINBAND operatives:\n<ul>\n<li>Ignore the first distance of [CIRCLE] they travel each time they Climb, Drop, or Traverse</li>\n<li>Automatically pass Jump tests</li>\n</ul>"
+            },
+            {
+              "factionid": "TAU",
+              "killteamid": "FSKB",
+              "ployid": "CT",
+              "ployname": "Cut-Throats",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, add 1 to the Attacks characteristic of melee weapons friendly FARSTALKER KINBAND operatives are equipped with (to a maximum of 4)."
+            },
+            {
+              "factionid": "TAU",
+              "killteamid": "FSKB",
+              "ployid": "FS",
+              "ployname": "Farstalk",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Immediately change the order of up to three friendly FARSTALKER KINBAND operatives that are more than [SQUARE] from enemy operatives."
+            },
+            {
+              "factionid": "TAU",
+              "killteamid": "FSKB",
+              "ployid": "PR",
+              "ployname": "Prey",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, friendly FARSTALKER KINBAND operatives gain the following ability:<br/><br/>\n<strong>Prey:</strong>\nEach time this operative is activated, you can use this ability.\nIf you do so, until the end of the Turning Point, ranged weapons this operative is equipped with (excluding Quill Grenages) gain the Balanced and Heavy special rules."
+            }
+          ],
+          "tac": [
+            {
+              "factionid": "TAU",
+              "killteamid": "FSKB",
+              "ployid": "MC",
+              "ployname": "Mercenary Contract",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy in the Select Tac Ops step, when building your Tac Ops deck.\nInstead of adding one card to your deck from your selected archetype, you can add one from an archetype you did not choose (you must still have a six-card deck)."
+            },
+            {
+              "factionid": "TAU",
+              "killteamid": "FSKB",
+              "ployid": "PCH",
+              "ployname": "Poach",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy when a friendly FARSTALKER KINBAND operative is activated.\nUntil the end of its activation, that operative only needs to be within the required range of an object marker or token to perform mission actions and the Pick Up action associated with that objective marker (they do not need to control it).\nIn addition, they can do so while within Engagement Range of an enemy operative."
+            },
+            {
+              "factionid": "TAU",
+              "killteamid": "FSKB",
+              "ployid": "SA",
+              "ployname": "Slip Away",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy when a friendly FARSTALKER KINBAND operative is activated.\nUntil the end of its activation, that operative can perform a Fall Back action for one less Action point (to a minimum of 0 AP)."
+            },
+            {
+              "factionid": "TAU",
+              "killteamid": "FSKB",
+              "ployid": "VFTKB",
+              "ployname": "Vengeance For The Kinband",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy when a friendly FARSTALKER KINBAND operative is incapacitated by an enemy operative.\nUntil the end of the battle, each time another friendly FARSTALKER KINBAND operative fights in combat or makes a shooting attack against that enemy operative,\nin the Roll Attack Dice step of that combat or shooting attack, you can re-roll any or all of your attack dice.\nYou cannot use this Tactical Ploy in the battle again until that enemy operative is incapacitated."
+            }
+          ]
+        },
+        "equipments": [
+          {
+            "factionid": "TAU",
+            "killteamid": "FSKB",
+            "eqid": "QG",
+            "eqname": "Quill Grenade",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Quill Grenade</td>\n         <td>4</td>\n         <td>3+</td>\n         <td>2/3</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Lim, Indirect</td>\n     </tr>\n </table>",
+            "eqpts": "2",
+            "eqseq": 0,
+            "eqtype": "Weapon",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "weapon": {
+              "factionid": "TAU",
+              "killteamid": "FSKB",
+              "fireteamid": "EQ",
+              "opid": "EQ",
+              "wepid": "QG",
+              "wepseq": 0,
+              "wepname": "Quill Grenade",
+              "weptype": "E",
+              "profiles": [
+                {
+                  "factionid": "TAU",
+                  "killteamid": "FSKB",
+                  "fireteamid": "EQ",
+                  "opid": "EQ",
+                  "wepid": "QG",
+                  "profileid": "0",
+                  "name": "",
+                  "A": "4",
+                  "BS": "3+",
+                  "D": "2/3",
+                  "SR": "Rng [PENT], Blast [CIRCLE], Indirect, Lim"
+                }
+              ]
+            }
+          },
+          {
+            "factionid": "TAU",
+            "killteamid": "FSKB",
+            "eqid": "PS",
+            "eqname": "Piercing Shot",
+            "eqdescription": "Operative equipped with a Kroot Rifle, Kroot Pistol, or Dual Kroot Pistols only.\nThe operative is equipped with the following ranged weapon for the battle (its BS characteristic is the same as the Kroot Rifle or Kroot Pistol the operative is equipped with):\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Piercing Shot</td>\n         <td>4</td>\n         <td>*</td>\n         <td>3/4</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">AP1, Limited</td>\n     </tr>\n </table>",
+            "eqpts": "2",
+            "eqseq": 1,
+            "eqtype": "Weapon",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "weapon": {
+              "factionid": "TAU",
+              "killteamid": "FSKB",
+              "fireteamid": "EQ",
+              "opid": "EQ",
+              "wepid": "PS",
+              "wepseq": 0,
+              "wepname": "Piercing Shot",
+              "weptype": "E",
+              "profiles": [
+                {
+                  "factionid": "TAU",
+                  "killteamid": "FSKB",
+                  "fireteamid": "EQ",
+                  "opid": "EQ",
+                  "wepid": "PS",
+                  "profileid": "0",
+                  "name": "",
+                  "A": "4",
+                  "BS": "*",
+                  "D": "3/4",
+                  "SR": "AP1, Lim"
+                }
+              ]
+            }
+          },
+          {
+            "factionid": "TAU",
+            "killteamid": "FSKB",
+            "eqid": "TS",
+            "eqname": "Toxin Shot",
+            "eqdescription": "Operative equipped with a Kroot Rifle, Kroot Pistol, or Dual Kroot Pistols only.\nThe operative is equipped with the following ranged weapon for the battle (its BS characteristic is the same as the Kroot Rifle or Kroot Pistol the operative is equipped with):\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Toxin Shot</td>\n         <td>4</td>\n         <td>*</td>\n         <td>2/2</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Lethal 5+, Limited, Stun</td>\n     </tr>\n </table>",
+            "eqpts": "2",
+            "eqseq": 2,
+            "eqtype": "Weapon",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "weapon": {
+              "factionid": "TAU",
+              "killteamid": "FSKB",
+              "fireteamid": "EQ",
+              "opid": "EQ",
+              "wepid": "TS",
+              "wepseq": 0,
+              "wepname": "Toxin Shot",
+              "weptype": "E",
+              "profiles": [
+                {
+                  "factionid": "TAU",
+                  "killteamid": "FSKB",
+                  "fireteamid": "EQ",
+                  "opid": "EQ",
+                  "wepid": "TS",
+                  "profileid": "0",
+                  "name": "",
+                  "A": "4",
+                  "BS": "*",
+                  "D": "2/2",
+                  "SR": "Lethal 5+, Lim, Stun"
+                }
+              ]
+            }
+          },
+          {
+            "factionid": "TAU",
+            "killteamid": "FSKB",
+            "eqid": "MEAT",
+            "eqname": "Meat",
+            "eqdescription": "The operative gains the following ability for the battle:<br/><br/>\n<strong>Meat:</strong>\nOnce during the battle, when this operative is activated, you can use this ability. \nIf you do so, this operative regains D3+1 lost wounds.",
+            "eqpts": "3",
+            "eqseq": 3,
+            "eqtype": "Ability",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "TAU",
+            "killteamid": "FSKB",
+            "eqid": "TROPHY",
+            "eqname": "Trophy",
+            "eqdescription": "The operative gains the following ability for the battle:<br/><br/>\n<strong>Trophy:</strong>\nOnce during the battle, when this operative is activated, you can use this ability. \nIf you do so, add 1 to this operative's APL.\nEach Turning Point, only one friendly operative can use this ability.",
+            "eqpts": "4",
+            "eqseq": 4,
+            "eqtype": "Ability",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "TAU",
+            "killteamid": "FSKB",
+            "eqid": "RB",
+            "eqname": "Ritual Blade*",
+            "eqdescription": "KROOT KILL-BROKER operative only.\nInstead of its Blade, the operative is equipped with the following melee weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Ritual Blade</td>\n         <td>3</td>\n         <td>2+</td>\n         <td>4/5</td>\n     </tr>\n </table>",
+            "eqpts": "2",
+            "eqseq": 5,
+            "eqtype": "Weapon",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "weapon": {
+              "factionid": "TAU",
+              "killteamid": "FSKB",
+              "fireteamid": "EQ",
+              "opid": "EQ",
+              "wepid": "RB",
+              "wepseq": 0,
+              "wepname": "Ritual Blade",
+              "weptype": "E",
+              "profiles": [
+                {
+                  "factionid": "TAU",
+                  "killteamid": "FSKB",
+                  "fireteamid": "EQ",
+                  "opid": "EQ",
+                  "wepid": "RB",
+                  "profileid": "0",
+                  "name": "",
+                  "A": "3",
+                  "BS": "2+",
+                  "D": "4/5",
+                  "SR": ""
+                }
+              ]
+            }
+          },
+          {
+            "factionid": "TAU",
+            "killteamid": "FSKB",
+            "eqid": "KP",
+            "eqname": "Kroot Pistol",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Kroot Pistol</td>\n         <td>4</td>\n         <td>4+</td>\n         <td>3/4</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Rng [PENT]</td>\n     </tr>\n </table>",
+            "eqpts": "1",
+            "eqseq": 6,
+            "eqtype": "Weapon",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "weapon": {
+              "factionid": "TAU",
+              "killteamid": "FSKB",
+              "fireteamid": "EQ",
+              "opid": "EQ",
+              "wepid": "KP",
+              "wepseq": 0,
+              "wepname": "Kroot Pistol",
+              "weptype": "E",
+              "profiles": [
+                {
+                  "factionid": "TAU",
+                  "killteamid": "FSKB",
+                  "fireteamid": "EQ",
+                  "opid": "EQ",
+                  "wepid": "KP",
+                  "profileid": "0",
+                  "name": "",
+                  "A": "4",
+                  "BS": "4+",
+                  "D": "3/4",
+                  "SR": "Rng [PENT]"
+                }
+              ]
+            }
+          }
+        ],
+        "killteamcomp": "A FARSTALKER KINBAND kill team is composed of:\n<ul>\n        <li>\n                1 KROOT KILL-BROKER operative equipped with one of the following options:\n                <ul>\n                        <li>Kroot Rifle; Blade</li>\n                        <li>Pulse Carbine; Blade</li>\n                        <li>Pulse Rifle; Blade</li>\n                </ul>\n        </li>\n        <li>\n                10 FARSTALKER KINBAND operatives selected from the following list:\n                <ul>\n                        <li>KROOT BOW-HUNTER</li>\n                        <li>KROOT COLD-BLOOD</li>\n                        <li>KROOT CUT-SKIN</li>\n                        <li>\n                                KROOT HEAVY GUNNER equipped with one of the following options:\n                                <ul>\n                                        <li>Dvorgite Skinner; Blade</li>\n                                        <li>Londaxi Tribalest; Blade</li>\n                                </ul>\n                        </li>\n                        <li>KROOT HOUND</li>\n                        <li>KROOT LONG-SIGHT</li>\n                        <li>KROOT PISTOLIER</li>\n                        <li>KROOT STALKER</li>\n                        <li>KROOT TRACKER</li>\n                        <li>\n                                KROOT WARRIOR equipped with one of the following options:\n                                <ul>\n                                        <li>Kroot Rifle; Blade</li>\n                                        <li>Kroot Scattergun; Blade</li>\n                                </ul>\n                        </li>\n                </ul>\n        </li>\n</ul>\n\nYour kill team can only include up to two KROOT HOUND operatives.\nOther than KROOT WARRIOR and KROOT HOUND operatives, your kill team can only include each operative above once.",
+        "fireteams": [
+          {
+            "factionid": "TAU",
+            "killteamid": "FSKB",
+            "fireteamid": "FSKB",
+            "fireteamname": "Farstalker Kinband",
+            "archetype": "",
+            "description": "Recon/Seek And Destroy",
+            "killteammax": 0,
+            "operatives": [
+              {
+                "factionid": "TAU",
+                "killteamid": "FSKB",
+                "fireteamid": "FSKB",
+                "opid": "KB",
+                "opseq": 0,
+                "opname": "Kroot Kill-Broker",
+                "description": "Farstalker Kinbands are led by Kill-Brokers. These Kroot are not only expert tacticians and skilled fighters, but also able negotiators, ensuring their kin receive just rewards for their services.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "9",
+                "keywords": "FARSTALKER KINBAND, LEADER, KROOT, KILL-BROKER",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "KB",
+                    "wepid": "KR",
+                    "wepseq": 0,
+                    "wepname": "Kroot Rifle",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "KB",
+                        "wepid": "KR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "KB",
+                    "wepid": "PC",
+                    "wepseq": 0,
+                    "wepname": "Pulse Carbine",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "KB",
+                        "wepid": "PC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "4/4",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "KB",
+                    "wepid": "PR",
+                    "wepseq": 0,
+                    "wepname": "Pulse Rifle",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "KB",
+                        "wepid": "PR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "4/5",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "KB",
+                    "wepid": "BL",
+                    "wepseq": 0,
+                    "wepname": "Blade",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "KB",
+                        "wepid": "BL",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "2+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "KB",
+                    "uniqueactionid": "PG",
+                    "title": "Photon Grenade",
+                    "description": "Select one enemy operative Visible To this operative.\nRoll 1D6, subtracting 1 from the result as follows:\n<ul>\n<li>If that enemy operative is not in this operative's Line Of Sight</li>\n<li>If that enemy operative is more than [PENT] for this operative</li>\n</ul>\nOn a 2+, until the end of the Turning Point, subtract [CIRCLE] frrom that enemy operative's Movement characteristic and it cannot perform Dash actions.\nThis operative can only perform this action once, only if it is equipped with a Pulse Carbine, and cannot perform this action while within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "KB",
+                    "abilityid": "CTK",
+                    "title": "Call The Kill",
+                    "description": "Once in each Strategy phase, when it is your turn to use a Strategic Ploy or pass, you can select one enemy operative Visible to this operative instead.\nUntil the end of the Turning Point, each time a friendly FARSTALKER KINBAND operative fights in combat with or makes a shooting attack against that enemy operative,\nin the Roll Defence Dice step of that combat or shooting attack, before rolling your attack dice,\nyou can retain one as a successful normal hit without rolling it."
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "KB",
+                    "abilityid": "RG",
+                    "title": "Rogue",
+                    "description": "<em>The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\nThey have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.</em><br/><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\nif it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful normal save as a result of Cover.</li>\n<li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "FSKB",
+                "fireteamid": "FSKB",
+                "opid": "BH",
+                "opseq": 1,
+                "opname": "Kroot Bow-Hunter",
+                "description": "The accelerator bows wielded by these Kroot are distinctive weapons, with a Kroot rifle at their core. When fired, the bow's curves crackle with energy, charging the loaded arrow's head. Effects on struck enemies vary depending on the material the arrowhead is made from.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "8",
+                "keywords": "FARSTALKER KINBAND, KROOT, BOW-HUNTER",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "BH",
+                    "wepid": "AB",
+                    "wepseq": 0,
+                    "wepname": "Accelerator Bow",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "BH",
+                        "wepid": "AB",
+                        "profileid": "0",
+                        "name": "Fused Arrow",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "4/5",
+                        "SR": "AP1"
+                      },
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "BH",
+                        "wepid": "AB",
+                        "profileid": "1",
+                        "name": "Glide Arrow",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": "Silent"
+                      },
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "BH",
+                        "wepid": "AB",
+                        "profileid": "2",
+                        "name": "Voltaic Arrow",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Splash 2"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "BH",
+                    "wepid": "BL",
+                    "wepseq": 0,
+                    "wepname": "Blade",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "BH",
+                        "wepid": "BL",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "BH",
+                    "uniqueactionid": "NRG",
+                    "title": "Energize",
+                    "description": "Until the end of the activation, all profiles of the Accelerator Bow this operative is equipped with gain the Lethal 5+ special rule.\nThis operative cannot perform this action while within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "BH",
+                    "abilityid": "RG",
+                    "title": "Rogue",
+                    "description": "<em>The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\nThey have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.</em><br/><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\nif it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful normal save as a result of Cover.</li>\n<li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "FSKB",
+                "fireteamid": "FSKB",
+                "opid": "CB",
+                "opseq": 2,
+                "opname": "Kroot Cold-Blood",
+                "description": "Cold-Bloods have fought as mercenaries for many years indeed. They have seen and experienced much, and little inspires fear in them. The knowledge they have gained makes them adept with different ammunition types, selecting the optimum shot for each kill they wish to make.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "9",
+                "keywords": "FARSTALKER KINBAND, KROOT, COLD-BLOOD",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "CB",
+                    "wepid": "KR",
+                    "wepseq": 0,
+                    "wepname": "Kroot Rifle",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "CB",
+                        "wepid": "KR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "CB",
+                    "wepid": "BL",
+                    "wepseq": 0,
+                    "wepname": "Blade",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "CB",
+                        "wepid": "BL",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "CB",
+                    "wepid": "PS",
+                    "wepseq": 0,
+                    "wepname": "Piercing Shot",
+                    "weptype": "E",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "CB",
+                        "wepid": "PS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "AP1, Lim"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "CB",
+                    "wepid": "TS",
+                    "wepseq": 0,
+                    "wepname": "Toxin Shot",
+                    "weptype": "E",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "CB",
+                        "wepid": "TS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2/2",
+                        "SR": "Lethal 5+, Lim, Stun"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "CB",
+                    "abilityid": "HRD",
+                    "title": "Hardy",
+                    "description": "Each time this operative fights in combat or a shooting attack is made against it, in the Resolve Sucessful Hits step of that combat or shooting attack,\neach time an attack die would inflict critical damage on this operative, you can choose for that attack die to inflict normal damage instead."
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "CB",
+                    "abilityid": "RG",
+                    "title": "Rogue",
+                    "description": "<em>The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\nThey have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.</em><br/><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\nif it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful normal save as a result of Cover.</li>\n<li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "CB",
+                    "abilityid": "WS",
+                    "title": "Well Stocked",
+                    "description": "This operative is equipped with piercing shot and toxin shot and they do not cost any equipment points for this operative.\nThose weapons can be selected for this operative's use twice, instead of once."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "FSKB",
+                "fireteamid": "FSKB",
+                "opid": "CS",
+                "opseq": 3,
+                "opname": "Kroot Cut-Skin",
+                "description": "These Kroot have fully embraced close-combat fighting. Swift and ferocious, Cut-Skins launch a flurry of savage blows against their foes, giving the enemy no opportunity to strike back before they are cut down.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "8",
+                "keywords": "FARSTALKER KINBAND, KROOT, CUT-SKIN",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "CS",
+                    "wepid": "CSB",
+                    "wepseq": 0,
+                    "wepname": "Cut-Skin's Blades",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "CS",
+                        "wepid": "CSB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Bal, Lethal 5+"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "CS",
+                    "uniqueactionid": "SA",
+                    "title": "Savage Assault",
+                    "description": "Perform a free Fight action with this operative.\nAfter completing that action's fight sequence, if this operative or the target have not been incapacitated, fight in combat with this operative against the same target using the same weapon again.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "CS",
+                    "abilityid": "RG",
+                    "title": "Rogue",
+                    "description": "<em>The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\nThey have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.</em><br/><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\nif it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful normal save as a result of Cover.</li>\n<li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "CS",
+                    "abilityid": "VD",
+                    "title": "Vicious Duellist",
+                    "description": "Each time this operative fights in combat, in the Roll Attack Dice step of that combat,\nfor each die your opponent discards, the enemy operative in that combat suffers 1 Mortal Wound."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "FSKB",
+                "fireteamid": "FSKB",
+                "opid": "HGNR",
+                "opseq": 4,
+                "opname": "Kroot Heavy Gunner",
+                "description": "Kroot will fight for or against almost any race in the galaxy. In the process they are paid with - or steal - exotic weapons such as Dvorgite Skinners, which charge biological material to create a searing stream of energy, or Londaxi tribalests - anti-armour weapons that fire solid shots a high speeds.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "8",
+                "keywords": "FARSTALKER KINBAND, KROOT, HEAVY GUNNER",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "HGNR",
+                    "wepid": "DV",
+                    "wepseq": 0,
+                    "wepname": "Dvorgite Skinner",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "HGNR",
+                        "wepid": "DV",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "6",
+                        "BS": "2+",
+                        "D": "2/3",
+                        "SR": "Rng [PENT], AP2, *Cumbersome, Tor [CIRCLE]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "HGNR",
+                    "wepid": "LT",
+                    "wepseq": 0,
+                    "wepname": "Londaxi Trabalest",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "HGNR",
+                        "wepid": "LT",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "4+",
+                        "D": "4/4",
+                        "SR": "AP1, *Cumbersome, Rending"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "HGNR",
+                    "wepid": "BL",
+                    "wepseq": 0,
+                    "wepname": "Blade",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "HGNR",
+                        "wepid": "BL",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "HGNR",
+                    "abilityid": "*CMB",
+                    "title": "*Cumbersome",
+                    "description": "An operative cannot move more than 3[CIRCLE] in the same activation in qhich it performs a Shoot action with this ranged weapon."
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "HGNR",
+                    "abilityid": "RG",
+                    "title": "Rogue",
+                    "description": "<em>The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\nThey have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.</em><br/><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\nif it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful normal save as a result of Cover.</li>\n<li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "FSKB",
+                "fireteamid": "FSKB",
+                "opid": "HND",
+                "opseq": 5,
+                "opname": "Kroot Hound",
+                "description": "Fast, nimble, ferocious, and incredibly loyal to their Kroot masters, Kroot hounds are natural companions to the Farstalker Kinbands. These beasts can steal into narrow passageways, recover objects, and rip foes apart with their beaked jaws.",
+                "M": "4[CIRCLE]",
+                "APL": "2",
+                "GA": "2",
+                "DF": "3",
+                "SV": "5+",
+                "W": "7",
+                "keywords": "FARSTALKER KINBAND, KROOT, HOUND",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "HND",
+                    "wepid": "RF",
+                    "wepseq": 0,
+                    "wepname": "Ripping Fangs",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "HND",
+                        "wepid": "RF",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rending"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "HND",
+                    "uniqueactionid": "GATH",
+                    "title": "Gather",
+                    "description": "Perform a free Dash, Fall Back, or Normal Move action with this operative.\nAy any point during that move, you can perform the Pick Up action for free with this operative, \nand any remaining increments can be used after it does so.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "HND",
+                    "abilityid": "BST",
+                    "title": "Beast",
+                    "description": "This operative cannot perform mission actions and cannot be equipped with equipment."
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "HND",
+                    "abilityid": "BT",
+                    "title": "Bad-Tempered",
+                    "description": "Each time an enemy operative performs a Fight action, if this operative is a valid target,\nyou can select this operative as the target instead.\nEach time an enemy operative finishes a Charge action within Engagement Range of another friendly\nFARSTALKER KINBAND operative within [SQUARE] if this operative, if this operative is not within Engagement Range\nof an enemy operative, this operative can perform a free Charge action, but must finish that move within Engagement Range of that enemy operative."
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "HND",
+                    "abilityid": "RG",
+                    "title": "Rogue",
+                    "description": "<em>The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\nThey have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.</em><br/><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\nif it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful normal save as a result of Cover.</li>\n<li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "FSKB",
+                "fireteamid": "FSKB",
+                "opid": "LS",
+                "opseq": 6,
+                "opname": "Kroot Long-Sight",
+                "description": "The finest shots in Farstalker Kinbands, Long-Sights carry long-barrelled Kroot hunting rifles. They will gladly conceal themselves in position for days at a time to make the perfect shot. Few in their sights ever live to tell the tale.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "8",
+                "keywords": "FARSTALKER KINBAND, KROOT, LONG-SIGHT",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "LS",
+                    "wepid": "KHR",
+                    "wepseq": 0,
+                    "wepname": "Kroot Hunting Rifle",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "LS",
+                        "wepid": "KHR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/3",
+                        "SR": "Heavy, MW3"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "LS",
+                    "wepid": "BL",
+                    "wepseq": 0,
+                    "wepname": "Blade",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "LS",
+                        "wepid": "BL",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "LS",
+                    "uniqueactionid": "LS",
+                    "title": "Long-Sight",
+                    "description": "Until the end of the activation:\n<ul>\n<li>The Kroot Hunting Rifle this operative is equipped with gains the Lethal 5+ and Silent special rules.</li>\n<li>If this operative makes a shooting attack with the Kroot Hunting Rifle it is equipped with, enemy operatives are not Obscured for that shooting attack.</li>\n</ul>\nThis operative cannot perform this action while within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "LS",
+                    "abilityid": "RG",
+                    "title": "Rogue",
+                    "description": "<em>The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\nThey have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.</em><br/><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\nif it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful normal save as a result of Cover.</li>\n<li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "FSKB",
+                "fireteamid": "FSKB",
+                "opid": "PST",
+                "opseq": 7,
+                "opname": "Kroot Pistolier",
+                "description": "Cool under pressure and comfortable fighting close to the enemy, Kroot Pistoliers are dexterous and quick-thinking fighters. Once in optimum range, they unleash a fusillade from their pistols that is almost impossible to escape.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "8",
+                "keywords": "FARSTALKER KINBAND, KROOT, PISTOLIER",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "PST",
+                    "wepid": "DKP",
+                    "wepseq": 0,
+                    "wepname": "Dual Kroot Pistols",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "PST",
+                        "wepid": "DKP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT], Bal, Lethal 5+"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "PST",
+                    "wepid": "BL",
+                    "wepseq": 0,
+                    "wepname": "Blade",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "PST",
+                        "wepid": "BL",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "PST",
+                    "uniqueactionid": "GS",
+                    "title": "Gunsligner Salvo",
+                    "description": "Perform a free Shoot action with this operative with the Dual Kroot Pistols it is equipped with.\nAfter that shooting attack, you can make another shooting attack with the Dual Kroot Pistols this operative is equipped with.\nThis operative cannot perform this action if it has a Conceal order or while within Engagement Range of an enemy operative. \nIt cannot perform a Charge, Fall Back, or Normal Move action in the same activation in which it performs this action.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "PST",
+                    "abilityid": "QD",
+                    "title": "Quick Draw",
+                    "description": "Once per Turning Point, when this operative is selected as the target of a shooting attack,\nif this operative is ready, you can interrupt that action to perform a free Shoot action with this operative with the Dual Kroot PIstols it is equipped with against that enemy operative (that enemy operative must be a valid target).\nIf that enemy operative is not incapacitated or revived as a result finish its shooting attack."
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "PST",
+                    "abilityid": "RG",
+                    "title": "Rogue",
+                    "description": "<em>The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\nThey have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.</em><br/><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\nif it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful normal save as a result of Cover.</li>\n<li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "FSKB",
+                "fireteamid": "FSKB",
+                "opid": "STK",
+                "opseq": 8,
+                "opname": "Kroot Stalker",
+                "description": "Even among Kroot, these warriors are particularly able infiltrators and hunters. They possess an almost preternatural understanding of terrain and the art of concealment, able to get extremely close to an enemy before moving in for the kill.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "8",
+                "keywords": "FARSTALKER KINBAND, KROOT, STALKER",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "STK",
+                    "wepid": "KSG",
+                    "wepseq": 0,
+                    "wepname": "Kroot Scattergun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "STK",
+                        "wepid": "KSG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/3",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "STK",
+                    "wepid": "SB",
+                    "wepseq": 0,
+                    "wepname": "Stalker's Blade",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "STK",
+                        "wepid": "SB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Bal, Rending"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "STK",
+                    "uniqueactionid": "STA",
+                    "title": "Stealth Attack",
+                    "description": "This operative can perform this action if it has a Conceal order, is within [TRI] of a terrain feature, and not within Engagement Range of an enemy operative.\n<ul>\n<li>Perform a free Charge action with this operative, but do not exceed its Movement characteristic (i.e. do not add [CIRCLE]).</li>\n<li>Perform a free Fight action with this operative.</li>\n<li>In the Resolve Successful Hits step of that combat, the first time you resolve one of your successfull hits, you can immediately resolve another of your successful hits.</li>\n</ul>",
+                    "AP": 2
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "STK",
+                    "abilityid": "RG",
+                    "title": "Rogue",
+                    "description": "<em>The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\nThey have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.</em><br/><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\nif it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful normal save as a result of Cover.</li>\n<li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "STK",
+                    "abilityid": "STK",
+                    "title": "Stalker",
+                    "description": "This operative can perform a Charge action if it has a Conceal order."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "FSKB",
+                "fireteamid": "FSKB",
+                "opid": "TRK",
+                "opseq": 9,
+                "opname": "Kroot Tracker",
+                "description": "These Kroot share a very strong personal bond with their Pech'ra - a bird that hails from Pech itself. The two work in a synchronised manner to aid their kinband. The Pech'ra can not only distract enemies, but also warn the Kroot of the foe's presense.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "8",
+                "keywords": "FARSTALKER KINBAND, KROOT, TRACKER",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "TRK",
+                    "wepid": "KR",
+                    "wepseq": 0,
+                    "wepname": "Kroot Rifle",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "TRK",
+                        "wepid": "KR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "TRK",
+                    "wepid": "BL",
+                    "wepseq": 0,
+                    "wepname": "Blade",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "TRK",
+                        "wepid": "BL",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "TRK",
+                    "uniqueactionid": "FTEA",
+                    "title": "From The Eye Above",
+                    "description": "Select one friendly operative Visible To and within [PENT] of this operative.\nAdd 1 to its APL.\nThis operative cannot perform this action while within [PENT] of an enemy operative.",
+                    "AP": 1
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "TRK",
+                    "uniqueactionid": "MFTH",
+                    "title": "Marked For The Hunt",
+                    "description": "Select one enemy operative.\nUntil the end of the Turning Point, while that enemy operative is within [PENT] horizontally and any distance vertically of your Pech'ra token,\nit is Marked For The Hunt.\nUntil the end of the Turning Point, each time a friendly FARSTALKER KINBAND operative within [PENT] horizontally and any distance vertically of your Pech'ra token makes a shooting attack against an enemy operative Marked For The Hunt,\nthat enemy operative cannot use Light Terrain as Cover for that shooting attack.\nThis operative cannot perform this action while within [PENT] of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "TRK",
+                    "abilityid": "PR",
+                    "title": "Pech'ra",
+                    "description": "The first time this operative is activated during the battle, place your Pech'ra token\nwithin [PENT] horizontally and any distance vertically of this operative.\nEach time this operative is activated thereafter, you can move your Pech'ra token up to [PENT] horizontally and up to any distance vertically.\nIf this operative is incapacitated and removed from the killzone, remove your Pech'ra token."
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "TRK",
+                    "abilityid": "RG",
+                    "title": "Rogue",
+                    "description": "<em>The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\nThey have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.</em><br/><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\nif it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful normal save as a result of Cover.</li>\n<li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "TAU",
+                "killteamid": "FSKB",
+                "fireteamid": "FSKB",
+                "opid": "WAR",
+                "opseq": 10,
+                "opname": "Kroot Warrior",
+                "description": "Kroot Warriors are fierce fighters, expert hunters, and relentless trackers. Those of Farstalker Kindreds have spent many years as mercenaries, gaining much experience in was as well as consuming genetic material for the betterment of their kind's future.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "8",
+                "keywords": "FARSTALKER KINBAND, KROOT, WARRIOR",
+                "weapons": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "WAR",
+                    "wepid": "KR",
+                    "wepseq": 0,
+                    "wepname": "Kroot Rifle",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "WAR",
+                        "wepid": "KR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "WAR",
+                    "wepid": "KSG",
+                    "wepseq": 0,
+                    "wepname": "Kroot Scattergun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "WAR",
+                        "wepid": "KSG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/3",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "WAR",
+                    "wepid": "BL",
+                    "wepseq": 0,
+                    "wepname": "Blade",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "TAU",
+                        "killteamid": "FSKB",
+                        "fireteamid": "FSKB",
+                        "opid": "WAR",
+                        "wepid": "BL",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "TAU",
+                    "killteamid": "FSKB",
+                    "fireteamid": "FSKB",
+                    "opid": "WAR",
+                    "abilityid": "RG",
+                    "title": "Rogue",
+                    "description": "<em>The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\nThey have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.</em><br/><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\nif it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful normal save as a result of Cover.</li>\n<li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n</ul>"
+                  }
+                ],
+                "fireteammax": 0
+              }
+            ],
+            "fireteamcomp": "A FARSTALKER KINBAND kill team is composed of:\n<ul>\n        <li>\n                1 KROOT KILL-BROKER operative equipped with one of the following options:\n                <ul>\n                        <li>Kroot Rifle; Blade</li>\n                        <li>Pulse Carbine; Blade</li>\n                        <li>Pulse Rifle; Blade</li>\n                </ul>\n        </li>\n        <li>\n                10 FARSTALKER KINBAND operatives selected from the following list:\n                <ul>\n                        <li>KROOT BOW-HUNTER</li>\n                        <li>KROOT COLD-BLOOD</li>\n                        <li>KROOT CUT-SKIN</li>\n                        <li>\n                                KROOT HEAVY GUNNER equipped with one of the following options:\n                                <ul>\n                                        <li>Dvorgite Skinner; Blade</li>\n                                        <li>Londaxi Tribalest; Blade</li>\n                                </ul>\n                        </li>\n                        <li>KROOT HOUND</li>\n                        <li>KROOT LONG-SIGHT</li>\n                        <li>KROOT PISTOLIER</li>\n                        <li>KROOT STALKER</li>\n                        <li>KROOT TRACKER</li>\n                        <li>\n                                KROOT WARRIOR equipped with one of the following options:\n                                <ul>\n                                        <li>Kroot Rifle; Blade</li>\n                                        <li>Kroot Scattergun; Blade</li>\n                                </ul>\n                        </li>\n                </ul>\n        </li>\n</ul>\n\nYour kill team can only include up to two KROOT HOUND operatives.\nOther than KROOT WARRIOR and KROOT HOUND operatives, your kill team can only include each operative above once."
+          }
+        ]
+      },
+      {
+        "factionid": "TAU",
         "killteamid": "HC",
         "killteamname": "Hunter Cadre",
         "description": "A Hunter Cadre is the Tau terminology used to indicate what the Imperium of Man would call a company of soldiers. The Tau were once a species of hunters and gatherers and the Tau who now make up what is the T'au Empire's Fire Caste were the most-skilled hunters of that ancient time. Even though the Tau are now a xenos species gifted in some areas with technology that is more advanced than that available to Mankind, the Tau Lexicon still makes use of much terminology derived from their hunter-gatherer period and companies of Tau warriors are always referred to as Hunter Cadres in the Low Gothic translation. ",
