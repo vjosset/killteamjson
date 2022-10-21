@@ -10073,7 +10073,7 @@
         "factionid": "CHAOS",
         "killteamid": "GPI",
         "killteamname": "Gellerpox Infected",
-        "description": "<em>\"We come from the dark, a-writhe, a-squirm, we lurch and we limp, we leer and we groan,\nfires fill our beliies and rot fills our brains, and fear fills the ones that we hunt in the gloom.\nRun, run, you shan't escape. We're coming...\"</em><br/>\n<span class=\"text-end\">- Chant of the Gibberslop Butcher</span>",
+        "description": "<em>\"We come from the dark, a-writhe, a-squirm, we lurch and we limp, we leer and we groan,\nfires fill our bellies and rot fills our brains, and fear fills the ones that we hunt in the gloom.\nRun, run, you shan't escape. We're coming...\"</em><br/>\n<div class=\"text-end\">- Chant of the Gibberslop Butcher</div>",
         "ploys": {
           "strat": [
             {
@@ -17508,6 +17508,1094 @@
               }
             ],
             "fireteamcomp": "A REPENTIA fire team includes five SISTER REPENTIA operatives.\n<br/>\nIf your kill team does not include any other LEADER operatives, instead of selecting one SISTER REPENTIA operative for one REPENTIA fire team, you can select one REPENTIA SUPERIOR operative."
+          }
+        ]
+      },
+      {
+        "factionid": "IMP",
+        "killteamid": "ESS",
+        "killteamname": "Elucidian Strarstrider",
+        "description": "<em>\"There is nowhere we cannot travel, nothing we cannot accomplish,\nonce you have joined the Elucidian Starstriders you have joined the company of excellence.\"</em><br/><br/>\n<div class=\"text-end\">- Elucia Vhane, Rogue Trader",
+        "ploys": {
+          "strat": [
+            {
+              "factionid": "IMP",
+              "killteamid": "ESS",
+              "ployid": "LP",
+              "ployname": "Lethal Proximity",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a friendly ELUCIDIAN STARSTRIDER operative makes a shooting attack against a target within [PENT] of it,\nin the Roll Attack Dice step of that shooting attack, you can re-roll one of your Attack dice."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "ESS",
+              "ployid": "NF",
+              "ployname": "New Frontier",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a friendly ELUCIDIAN STARSTRIDER operative (excluding CANID operative) performs a Normal Move action,\nit can move an additional [TRI] for that move, but must finish that move closed to your opponent's drop zone."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "ESS",
+              "ployid": "SC",
+              "ployname": "Stake Claim",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Place one of your Claim tokens anywhere in the killzone.\nEach time a friendly ELUCIDAN STARSTRIDER operative fights in combat or makes a shooting attack against an enemy operative within [SQUARE] of that token,\nbefore rolling your Attack dice, you can retain one as a successful normal hit without rolling it.\nAt the end of the Turning Point, remove that Claim token."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "ESS",
+              "ployid": "UDE",
+              "ployname": "Undaunted Explorers",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a friendly ELUCIDIAN STARSTRIDER operative that is within [CIRCLE] of an objective marker or within [PENT] of your opponent's drop zone fights in combat or a shooting attack is made against it,\nin the Resolve Successful Hits step of that combat or shooting attack, you can halve the damage inflicted on that friendly operative (rounding up) frmo one of your opponent's successful hits."
+            }
+          ],
+          "tac": [
+            {
+              "factionid": "IMP",
+              "killteamid": "ESS",
+              "ployid": "CA",
+              "ployname": "Combined Arms",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy after rolling your Attack dice for a shooting attack made by a friendly ELUCIDIAN STARSTRIDER operative.\nIf the target of that attack is an enemy operative that was targeted by another ELUCIDIAN STARSTRIDER operative with a shooting attack during that Turning Point,\nyou can re-roll any or all of your Attack dice for that shooting attack."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "ESS",
+              "ployid": "DAR",
+              "ployname": "Daring",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy when a friendly ELUCIDIAN STARSTRIDER NAVIS operative is activated.\nAdd 1 to its APL."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "ESS",
+              "ployid": "SURV",
+              "ployname": "Survivalist",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy when a friendly ELUCIDIAN STARSTRIDER operative more than [SQUARE] from enemy operatives is activated.\nThat friendly operative regains 4 lost wounds. \nYou can only use this Tactical Ploy for each friendly operative once."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "ESS",
+              "ployid": "WD",
+              "ployname": "Well-Drilled",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy when a friendly ELUCIDIAN STARSTRIDER NAVIS operative is activated.\nSelect one other ready friendly ELUCIDIAN STARSTRIDER NAVIS operative Visible To and within [PENT] of that operative that is eligible to be activated.\nAfter that first friendly operative has been activated, you can immediately activate that other friendly operative."
+            }
+          ]
+        },
+        "equipments": [
+          {
+            "factionid": "IMP",
+            "killteamid": "ESS",
+            "eqid": "FV",
+            "eqname": "Flash Visor",
+            "eqdescription": "The operative gains the following ability for the battle:<br/><br/>\n<strong>Flash Visor:</strong>\nYou can ignore any or all modifiers to this operative's APL and it is not affected by the Stun critical hit rule.",
+            "eqpts": "1",
+            "eqseq": 0,
+            "eqtype": "Ability",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "ESS",
+            "eqid": "CA",
+            "eqname": "Carapace Armour",
+            "eqdescription": "VOIDSMAN or VOIDMASTER operative only.\nImprove the operative's Save characteristic to 4+ for the battle.",
+            "eqpts": "2",
+            "eqseq": 1,
+            "eqtype": "OpMod",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "ESS",
+            "eqid": "HSCP",
+            "eqname": "Hot-Shot Capacitor Pack",
+            "eqdescription": "Add 1 to both Damage characteristics of Lasguns and Laspistols this operative is equipped with for the battle.",
+            "eqpts": "2",
+            "eqseq": 2,
+            "eqtype": "WepMod",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "ESS",
+            "eqid": "CG",
+            "eqname": "Concussion Grenade",
+            "eqdescription": "The operative can perform the following action during the battle:<br/><br/>\n<strong>Concussion Grenade (1 AP):</strong><br/>\nSelect one point on the killzone within [PENT] of this operative.\nRoll 1D6 for each operative within [CIRCLE] of that point, subtracting 1 from the result if that operative is not Visible To this operative.\nOn a 4+, sutract 1 from that operative's APL.\nThis operative can only perform this action once, and cannot perform this action while within Engagement Range of an enemy operative.",
+            "eqpts": "2",
+            "eqseq": 3,
+            "eqtype": "Action",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "ESS",
+            "eqid": "FG",
+            "eqname": "Frag Grenade",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n  <table class=\"eqtable\" width=\"100%\">\n  \t<tr>\n  \t\t<th>Name</th>\n          <th>A</th>\n          <th>BS</th>\n          <th>D</th>\n      </tr>\n      <tr>\n  \t\t<td>Frag Grenade</td>\n          <td>4</td>\n          <td>3+</td>\n          <td>2/3</td>\n      </tr>\n      <tr>\n  \t\t<th colspan=\"4\">Special Rules</th>\n      </tr>\n      <tr>\n  \t\t<td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Lim, Indirect</td>\n      </tr>\n  </table>",
+            "eqpts": "2",
+            "eqseq": 4,
+            "eqtype": "Weapon",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "weapon": {
+              "factionid": "IMP",
+              "killteamid": "ESS",
+              "fireteamid": "EQ",
+              "opid": "EQ",
+              "wepid": "FG",
+              "wepseq": 0,
+              "wepname": "Frag Grenade",
+              "weptype": "E",
+              "profiles": [
+                {
+                  "factionid": "IMP",
+                  "killteamid": "ESS",
+                  "fireteamid": "EQ",
+                  "opid": "EQ",
+                  "wepid": "FG",
+                  "profileid": "0",
+                  "name": "",
+                  "A": "4",
+                  "BS": "3+",
+                  "D": "2/3",
+                  "SR": "Rng [PENT], Blast [CIRCLE], Indirect, Lim"
+                }
+              ]
+            }
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "ESS",
+            "eqid": "KG",
+            "eqname": "Krak Grenade",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n  <table class=\"eqtable\" width=\"100%\">\n  \t<tr>\n  \t\t<th>Name</th>\n          <th>A</th>\n          <th>BS</th>\n          <th>D</th>\n      </tr>\n      <tr>\n  \t\t<td>Krak Grenade</td>\n          <td>4</td>\n          <td>3+</td>\n          <td>4/5</td>\n      </tr>\n      <tr>\n  \t\t<th colspan=\"4\">Special Rules</th>\n      </tr>\n      <tr>\n  \t\t<td colspan=\"4\">Rng [PENT], AP1, Lim, Indirect, No Overwatch</td>\n      </tr>\n  </table>",
+            "eqpts": "3",
+            "eqseq": 5,
+            "eqtype": "Weapon",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "weapon": {
+              "factionid": "IMP",
+              "killteamid": "ESS",
+              "fireteamid": "EQ",
+              "opid": "EQ",
+              "wepid": "KG",
+              "wepseq": 1,
+              "wepname": "Krak Grenade",
+              "weptype": "E",
+              "profiles": [
+                {
+                  "factionid": "IMP",
+                  "killteamid": "ESS",
+                  "fireteamid": "EQ",
+                  "opid": "EQ",
+                  "wepid": "KG",
+                  "profileid": "0",
+                  "name": "",
+                  "A": "4",
+                  "BS": "3+",
+                  "D": "4/5",
+                  "SR": "Rng [PENT], AP1, Indirect, Lim, No Overwatch"
+                }
+              ]
+            }
+          }
+        ],
+        "killteamcomp": "An ELUCIDIAN STARSTRIDER kill team is composed of the following operatives.<br/>\nNote that unlike other kill teams, you do not select your operatives from a list;\ninstead, this kill team's operatives are as specified.\n<ul>\n        <li>1 ELUCIA VHANE</li>\n        <li>1 CANID</li>\n        <li>1 DEATH CULT EXECUTIONER</li>\n        <li>1 LECTRO-MAESTER</li>\n        <li>1 REJUVENAT ADEPT</li>\n        <li>1 VOIDMASTER</li>\n        <li>3 VOIDSMAN equipped with a Lasgun and Gun Butt</li>\n        <li>1 VOIDSMAN equipped with a Rotor Cannon and Gun Butt</li>\n</ul>\n\nELUCIA VHANE can only be added to your roster or dataslate once.",
+        "fireteams": [
+          {
+            "factionid": "IMP",
+            "killteamid": "ESS",
+            "fireteamid": "ESS",
+            "fireteamname": "Elucidian Strarstrider",
+            "archetype": "",
+            "description": "Recon/Security",
+            "killteammax": 0,
+            "operatives": [
+              {
+                "factionid": "IMP",
+                "killteamid": "ESS",
+                "fireteamid": "ESS",
+                "opid": "EV",
+                "opseq": 0,
+                "opname": "Elucia Vhane",
+                "description": "Once master of the New Dawn, the Rogue Trader Elucia Vhane comes from an ancient dynasty. Her familial training honed her innate leadership and she wields her cane-rapier, Blur, as a master duellist. Ever does she keep an eye out for foes via a multi-spectral auspicator.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "ELUCIDIAN STARSTRIDER, IMPERIUM, ASTRA CARTOGRAPHICA, LEADER, ELUCIA VHANE",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "EV",
+                    "wepid": "DL",
+                    "wepseq": 0,
+                    "wepname": "Digital Laser",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "ESS",
+                        "fireteamid": "ESS",
+                        "opid": "EV",
+                        "wepid": "DL",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "0/0",
+                        "SR": "Rng [SQUARE], Lethal 3+, Ind, Lim, MW2"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "EV",
+                    "wepid": "HRP",
+                    "wepseq": 0,
+                    "wepname": "Heirloom Relic Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "ESS",
+                        "fireteamid": "ESS",
+                        "opid": "EV",
+                        "wepid": "HRP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "Rng [PENT], Indirect, P1"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "EV",
+                    "wepid": "MMCR",
+                    "wepseq": 0,
+                    "wepname": "Monomolecular Cane-Rapier",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "ESS",
+                        "fireteamid": "ESS",
+                        "opid": "EV",
+                        "wepid": "MMCR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/6",
+                        "SR": "Lethal 5+"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "EV",
+                    "abilityid": "DF",
+                    "title": "Disruption Field",
+                    "description": "This operative has a 4+ Invulnerable Save"
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "EV",
+                    "abilityid": "ML",
+                    "title": "Merciless",
+                    "description": "Each time this operative fights in combat or makes a shooting attack, if it is against an enemy operative that has fewer than its starting number of Wounds remaining, in the Roll Attack Dice step of that combat or shooting attack,\nyou can re-roll one of your Attack dice."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "EV",
+                    "abilityid": "PRED",
+                    "title": "Predator",
+                    "description": "Each time this operative is activated, it can perform a free Fight or Shoot action during that activation."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "ESS",
+                "fireteamid": "ESS",
+                "opid": "CAN",
+                "opseq": 1,
+                "opname": "Canid",
+                "description": "Countless strains of Canid are bred or vat-grown to fulfil hunting, attack, or intimidation roles, and many Rogue Traders appreciate the combination of loyalty and aggression. Elucia Vhane named her beast Aximillion - her Voidsmen-at-Arms training it as guardian and companion.",
+                "M": "4[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "6",
+                "keywords": "ELUCIDIAN STARSTRIDER, IMPERIUM, NAVIS, CANID",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "CAN",
+                    "wepid": "VB",
+                    "wepseq": 0,
+                    "wepname": "Vicious Bite",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "ESS",
+                        "fireteamid": "ESS",
+                        "opid": "CAN",
+                        "wepid": "VB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rending"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "CAN",
+                    "uniqueactionid": "RET",
+                    "title": "Retrieve",
+                    "description": "Perform a free Dash, Fall Back, or Normal Move action with this operative.\nAt any point during that move, you can perform the Pick Up action for free with this operative, and any remaining increments of movement can be used after it does so.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "CAN",
+                    "abilityid": "CAN",
+                    "title": "Canid",
+                    "description": "This operative cannot perform mission actions and cannot be equipped with equipment (unless CANID operative is specified).\nEach time this operative is activated, it can ignore the first distance of [CIRCLE] it travels for a Climb, Drop, or Traverse during that activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "CAN",
+                    "abilityid": "LC",
+                    "title": "Loyal Companion",
+                    "description": "Each time an enemy operative performs a Fight action, if this operative is a valid target, you can select this operative as the target instead.\nEach time an enemy operative finishes a Charge action within Engagement Range of another friendly ELUCIDIAN STARSTRIDER operative within [SQUARE] of this operative,\nif this operative is not within Engagement Range of an enemy operative, this operative can perform a free Charge action, but must finish that move within Engagement Range of that enemy operative."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "ESS",
+                "fireteamid": "ESS",
+                "opid": "DCE",
+                "opseq": 2,
+                "opname": "Death Cult Executioner",
+                "description": "For a Death Cult Executioner, the act of living is a blasphemy only balanced by the tally of souls they reap. They deliver death up close and master numerous combat styles. A follower of Vhane, the Death Cult Executioner Knosso Prond has vowed to kill a thousand different xenos.",
+                "M": "3[CIRCLE]",
+                "APL": "3",
+                "GA": "1",
+                "DF": "3",
+                "SV": "6+",
+                "W": "8",
+                "keywords": "ELUCIDIAN STARSTRIDER, IMPERIUM, DEATH CULT EXECUTIONER",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "DCE",
+                    "wepid": "DM",
+                    "wepseq": 0,
+                    "wepname": "Dartmask",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "ESS",
+                        "fireteamid": "ESS",
+                        "opid": "DCE",
+                        "wepid": "DM",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "1/1",
+                        "SR": "Rng [PENT], Lethal 5+, Silent, Stun"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "DCE",
+                    "wepid": "PW",
+                    "wepseq": 0,
+                    "wepname": "Power Weapon",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "ESS",
+                        "fireteamid": "ESS",
+                        "opid": "DCE",
+                        "wepid": "PW",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "2+",
+                        "D": "4/6",
+                        "SR": "Lethal 5+"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "DCE",
+                    "uniqueactionid": "ASS",
+                    "title": "Assassin",
+                    "description": "Change this operative's order. This operative cannot perform this action while within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "DCE",
+                    "abilityid": "DUEL",
+                    "title": "Duellist",
+                    "description": "Each time this operative fights in combat, in the Resolve Successful Hits step of that combat, you can resolve one successful hit before the Attacker. If you do so, that successful hit must be used to parry."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "DCE",
+                    "abilityid": "RR",
+                    "title": "Rapid Reflexes",
+                    "description": "This operative has a 5+ Invulnerable Save."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "DCE",
+                    "abilityid": "ZEAL",
+                    "title": "Zealot",
+                    "description": "Each time this operative would lose a wound, roll 1D6. On a 6, that wound is not lost."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "ESS",
+                "fireteamid": "ESS",
+                "opid": "LM",
+                "opseq": 3,
+                "opname": "Lectro-Maester",
+                "description": "Habouring a connection to the Motive Force, these Tech-Priests are followers of the Cult Mechanicus, able to generate a protective voltagheist field from the mechanism on their back. Lectro-Maester Larsen van der Gauss joined Vhane's explorations for the change of esoteric discoveries.",
+                "M": "3[CIRCLE]",
+                "APL": "3",
+                "GA": "1",
+                "DF": "3",
+                "SV": "6+",
+                "W": "8",
+                "keywords": "ELUCIDIAN STARSTRIDER, IMPERIUM, ADEPTUS MECHANICUS, LECTRO-MAESTER",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "LM",
+                    "wepid": "VP",
+                    "wepseq": 0,
+                    "wepname": "Voltaic Pistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "ESS",
+                        "fireteamid": "ESS",
+                        "opid": "LM",
+                        "wepid": "VP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "4/4",
+                        "SR": "Rng [PENT], Rending, Splash 1"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "LM",
+                    "wepid": "GB",
+                    "wepseq": 0,
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "ESS",
+                        "fireteamid": "ESS",
+                        "opid": "LM",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "LM",
+                    "uniqueactionid": "VGC",
+                    "title": "Voltagheist Charge",
+                    "description": "Until the end of the Turning Point, the Voltaic Pistol this operative is equipped with gains the Lethal 4+ special rule.\nThis operative cannot perform this action while within Engagement Range of an enemy operative, \nor if it has performed the Voltagheist Field action during this Turning Point.",
+                    "AP": 1
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "LM",
+                    "uniqueactionid": "VGF",
+                    "title": "Voltagheist Field",
+                    "description": "Until the end of the Turning Point, each time an enemy operative ends a move within [CIRCLE] of this operative,\ninflict D6 Mortal Wounds on that enemy operative.\nThis operative cannot perform this action while within Engagement Range of an enemy operative, \nor if it has performed the Voltagheist Charge action during this Turning Point.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "LM",
+                    "abilityid": "MISS",
+                    "title": "Missionary Of The Martian Creed",
+                    "description": "Once per Turning Point, during this operative's activation, it can perform a mission action for one less Action point (to a minimum of 0 AP)."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "LM",
+                    "abilityid": "VGA",
+                    "title": "Voltagheist Array",
+                    "description": "Each time a shooting attack is made against a friendly ELUCIDIAN STARSTRIDER operative within 2[CIRCLE] of this operative, in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "ESS",
+                "fireteamid": "ESS",
+                "opid": "REJAD",
+                "opseq": 4,
+                "opname": "Rejuvenat Adept",
+                "description": "These operatives are masters of healing and longevity. They provide pain-numbing agents and emergency surgery, even in the most horrific of environments. Rejuvenat Adept Sanistasia Minst took up with the Startstriders in her obsessive search for a panacea.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "7",
+                "keywords": "ELUCIDIAN STARSTRIDER, IMPERIUM, MEDIC, REJUVENAT ADEPT",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "REJAD",
+                    "wepid": "LP",
+                    "wepseq": 0,
+                    "wepname": "Laspistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "ESS",
+                        "fireteamid": "ESS",
+                        "opid": "REJAD",
+                        "wepid": "LP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": "Rng [PENT]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "REJAD",
+                    "wepid": "SC",
+                    "wepseq": 0,
+                    "wepname": "Scalpel Claw",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "ESS",
+                        "fireteamid": "ESS",
+                        "opid": "REJAD",
+                        "wepid": "SC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": "Rending"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "REJAD",
+                    "uniqueactionid": "HS",
+                    "title": "Healing Serum",
+                    "description": "Select one friendly ELUCIDIAN STARSTRIDER operative Visible To and within [TRI] of this operative.\nThat operative regains D3+3 lost wounds.\nAn operative cannot be selected for this if it was revived using the Battlefield Surgery ability during the same Turning Point.\nThis operative cannot perform this action while within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "REJAD",
+                    "abilityid": "BS",
+                    "title": "Battlefield Surgery",
+                    "description": "Once per Turning Point, the first time another friendly ELUCIDIAN STARSTRIDER operative would be incapacitated while Visible To and within [SQUARE] of this operative and not within Engagement Range fo an enemy operative,\nif this operative is not within Engagement Range of an enemy operative this operative can revive it.\nThat friendly operative is not incapacitated, has 3 Wounds remaining, and if it was a shooting attack, any remaining attack dice are discarded.\nThat friendly operative can then perform a free Dash action, but must finish that move within [TRI] of this operative.\nSubtract 1 from both operatives' APL."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "REJAD",
+                    "abilityid": "NH",
+                    "title": "Normaliser Helm",
+                    "description": "While a friendly ELUCIDIAN STARSTRIDER operative is within [PENT] of this operative, it is not treated as being injured (only ignore the modifier to its Movement characteristic as a result of being injured if it is activated within [PENT] of this operative)."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "ESS",
+                "fireteamid": "ESS",
+                "opid": "VMST",
+                "opseq": 5,
+                "opname": "Voidmaster",
+                "description": "Voidmasters lead squads of naval soldiery. Barking commands to ensure fire discipline, their adherence to Naval codes is unwavering. Voidmaster Nitsch and his squad were seconded to Vhane from the warship Vengeance, and his bravery under fire is legendary.",
+                "M": "3[CIRCLE]",
+                "APL": "3",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "8",
+                "keywords": "ELUCIDIAN STARSTRIDER, IMPERIUM, NAVIS, VOIDMASTER",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "VMST",
+                    "wepid": "ASG",
+                    "wepseq": 0,
+                    "wepname": "Artificer Shotgun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "ESS",
+                        "fireteamid": "ESS",
+                        "opid": "VMST",
+                        "wepid": "ASG",
+                        "profileid": "0",
+                        "name": "Close Range",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "4/4",
+                        "SR": "Rng [PENT]"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "ESS",
+                        "fireteamid": "ESS",
+                        "opid": "VMST",
+                        "wepid": "ASG",
+                        "profileid": "1",
+                        "name": "Long Range",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "VMST",
+                    "wepid": "LP",
+                    "wepseq": 0,
+                    "wepname": "Laspistol",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "ESS",
+                        "fireteamid": "ESS",
+                        "opid": "VMST",
+                        "wepid": "LP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2/3",
+                        "SR": "Rng [PENT], Balanced"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "VMST",
+                    "wepid": "GB",
+                    "wepseq": 0,
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "ESS",
+                        "fireteamid": "ESS",
+                        "opid": "VMST",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "VMST",
+                    "uniqueactionid": "UCF",
+                    "title": "Uncompromising Fire",
+                    "description": "Make a shooting attack with the Laspistol and make a shooting attack with the Close Range profile of the Artificer Shotgun this operative is equipped with (in any order).\nThis action is treated as a Shoot action.\nThis operative cannot perform this action if it has a Conceal order or while within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "VMST",
+                    "abilityid": "DISC",
+                    "title": "Disciplinarian",
+                    "description": "While a friendly VOIDSMAN operative is withing 2[CIRCLE] of this operative, weapons that friendly operative is equipped with gain the Balanced special rule."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "VMST",
+                    "abilityid": "HRD",
+                    "title": "Hardy",
+                    "description": "Once per battle, in the Resolve Successful Hits step of a combat or shooting attack, you can ignore the damage inflicted on this operative from one attack die."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "ESS",
+                "fireteamid": "ESS",
+                "opid": "VM",
+                "opseq": 6,
+                "opname": "Voidsman",
+                "description": "Voidsmen commonly serve on warships, slaying any who threaten their vessel or its crew. Girded in baroque armour, they keep enemies at bay with las-fire. Among Voidmaster Nitsch's squad, the veteran Stromian Grell bears a rotor cannont by right of his consistent fire patterns.",
+                "M": "3[CIRCLE]",
+                "APL": "3",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "7",
+                "keywords": "ELUCIDIAN STARSTRIDER, IMPERIUM, NAVIS, VOIDSMAN",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "VM",
+                    "wepid": "LG",
+                    "wepseq": 0,
+                    "wepname": "Lasgun",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "ESS",
+                        "fireteamid": "ESS",
+                        "opid": "VM",
+                        "wepid": "LG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "VM",
+                    "wepid": "RC",
+                    "wepseq": 0,
+                    "wepname": "Rotor Cannon",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "ESS",
+                        "fireteamid": "ESS",
+                        "opid": "VM",
+                        "wepid": "RC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "6",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": "Fusillade, Heavy"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "VM",
+                    "wepid": "GB",
+                    "wepseq": 0,
+                    "wepname": "Gun Butt",
+                    "weptype": "M",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "ESS",
+                        "fireteamid": "ESS",
+                        "opid": "VM",
+                        "wepid": "GB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "ESS",
+                "fireteamid": "ESS",
+                "opid": "PSA",
+                "opseq": 7,
+                "opname": "Privateer Support Assets",
+                "description": "Even the lowest Rogue Trader has their own well-appointed ship, and many operate entire fleets.\nSuch ships are often armed far in excess of their size to see off pirates, xenos, over-inquisitive officials or even to secure deals via literal gunboat diplomacy.\nMost contain vast hangars that accommodate not only bulk haulers, but also atmospheric strikecraft.\nTheir precision firepower can be called upon by a Rogue Trader's elite operatives to ensure the success of clandestine missions.",
+                "M": "-",
+                "APL": "-",
+                "GA": "-",
+                "DF": "-",
+                "SV": "-",
+                "W": "-",
+                "keywords": "-",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "PSA",
+                    "wepid": "ATB",
+                    "wepseq": 0,
+                    "wepname": "Archeotech Beam",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "ESS",
+                        "fireteamid": "ESS",
+                        "opid": "PSA",
+                        "wepid": "ATB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "6/7",
+                        "SR": "AP2, Barrage"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "PSA",
+                    "wepid": "GS",
+                    "wepseq": 0,
+                    "wepname": "Guided Shell",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "ESS",
+                        "fireteamid": "ESS",
+                        "opid": "PSA",
+                        "wepid": "GS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "4+",
+                        "D": "3/5",
+                        "SR": "Barrage, Blast [CIRCLE]"
+                      }
+                    ]
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "PSA",
+                    "wepid": "CB",
+                    "wepseq": 0,
+                    "wepname": "Cluster Bomb",
+                    "weptype": "R",
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "ESS",
+                        "fireteamid": "ESS",
+                        "opid": "PSA",
+                        "wepid": "CB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": "Barrage, Blast [SQUARE]"
+                      }
+                    ]
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [],
+                "fireteammax": 0
+              }
+            ],
+            "fireteamcomp": "An ELUCIDIAN STARSTRIDER kill team is composed of the following operatives.<br/>\nNote that unlike other kill teams, you do not select your operatives from a list;\ninstead, this kill team's operatives are as specified.\n<ul>\n        <li>1 ELUCIA VHANE</li>\n        <li>1 CANID</li>\n        <li>1 DEATH CULT EXECUTIONER</li>\n        <li>1 LECTRO-MAESTER</li>\n        <li>1 REJUVENAT ADEPT</li>\n        <li>1 VOIDMASTER</li>\n        <li>3 VOIDSMAN equipped with a Lasgun and Gun Butt</li>\n        <li>1 VOIDSMAN equipped with a Rotor Cannon and Gun Butt</li>\n</ul>\n\nELUCIA VHANE can only be added to your roster or dataslate once."
           }
         ]
       },
