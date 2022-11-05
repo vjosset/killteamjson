@@ -21698,6 +21698,51 @@
             {
               "factionid": "IMP",
               "killteamid": "HC",
+              "ployid": "[DI]-AI",
+              "ployname": "[DI] Aggressor Imperative",
+              "ploytype": "S",
+              "CP": "0",
+              "description": "<em>Doctrina Imperative</em><br/>\n<strong>Optimisation:</strong> Add [TRI] to the Movement characteristic of friendly HUNTER CLADE operatives.\n<br/>\n<strong>Deprecation:</strong> Each time a shooting attack is made against a friendly HUNTER CLADE operative, defence dice cannot be automatically retained as a result of Cover (they must be rolled instead)."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "HC",
+              "ployid": "[DI]-BI",
+              "ployname": "[DI] Bulwark Imperative",
+              "ploytype": "S",
+              "CP": "0",
+              "description": "<em>Doctrina Imperative</em><br/>\n<strong>Optimisation:</strong> Each time a shooting attack is made against a friendly HUNTER CLADE operative, in the Roll Defence Dice step of that shooting attack, before any other rules take effect, if you rolled two or more failed saves, you can re-roll one of your defence dice.\n<br/>\n<strong>Deprecation:</strong> Subtract [CIRCLE] from the Movement characteristic of friendly HUNTER CLADE operatives."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "HC",
+              "ployid": "[DI]-CI",
+              "ployname": "[DI] Conqueror Imperative",
+              "ploytype": "S",
+              "CP": "0",
+              "description": "<em>Doctrina Imperative</em><br/>\n<strong>Optimisation:</strong> Each time a friendly HUNTER CLADE operative fights in combat, in the Roll Attack Dice step of that combat, you can re-roll one of your attack dice.\n<br/>\n<strong>Deprecation:</strong> Each time a friendly HUNTER CLADE operative makes a shooting attack, in the Roll Attack Dice step of that shooting attack, before any other re-rolls, you must re-roll one of your critical hits (if any)."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "HC",
+              "ployid": "[DI]-EI",
+              "ployname": "[DI] Equalised Imperative",
+              "ploytype": "S",
+              "CP": "0",
+              "description": "<em>Doctrina Imperative</em><br/>\n<strong>Optimisation:</strong> No effect.\n<br/>\n<strong>Deprecation:</strong> No effect."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "HC",
+              "ployid": "[DI]-PI",
+              "ployname": "[DI] Protector Imperative",
+              "ploytype": "S",
+              "CP": "0",
+              "description": "<em>Doctrina Imperative</em><br/>\n<strong>Optimisation:</strong> Each time a friendly HUNTER CLADE operative makes a shooting attack, in the Roll Attack Dice step of that shooting attack, before any other re-rolls, if you rolled two or more failed hits, you can re-roll one of your attack dice.\n<br/>\n<strong>Deprecation:</strong> Each time a friendly HUNTER CLADE operative fights in combat, in the Roll Attack Dice step of that combat, before any other re-rolls, you must re-roll one of your critical hits (if any)."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "HC",
               "ployid": "AA",
               "ployname": "Accelerant Agent",
               "ploytype": "S",
@@ -21885,7 +21930,7 @@
             "eqvar4": null
           }
         ],
-        "killteamcomp": "A HUNTER CLADE fire team includes the following operatives:\n<ul>\n\t<li>\n\t\tOne HUNTER CLADE operative selected from the following list:\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\tSKITARII RANGER ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Galvanic Rifle; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSKITARII VANGUARD ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Radium Carbine; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER PRINCEPS\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR PRINCEPS operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n\t<li>\n\t\tTen HUNTER CLADE operatives selected from the following list:\n\t\t<ul>\n\t\t\t<li>SKITARII RANGER MARKSMAN</li>\n\t\t\t<li>SKITARII RANGER DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII RANGER GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII RANGER SURVEYOR</li>\n\t\t\t<li>SKITARII VANGUARD SHOCKTROOPER</li>\n\t\t\t<li>SKITARII VANGUARD DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII VANGUARD GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII VANGUARD SURVEYOR</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER ASSASSIN operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Chordclaw and Transonic Razor or Transonic Blades</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR TRACKER operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n</ul>\n\nYour Kill Team must include more SKITARII RANGER and SKITARII VANGUARD operatives that it does SICARIAN operatives.\n<br/><br/>\nYour Kill Team can only include up to three GUNNER operatives.\nEach GUNNER operative must be equipped with different ranged weapons.\n<br/><br/>\nYour Kill Team can only include up to one DIKTAT and one SURVEYOR operative.",
+        "killteamcomp": "A HUNTER CLADE fire team includes the following operatives:\n<ul>\n\t<li>\n\t\tOne HUNTER CLADE operative selected from the following list:\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\tSKITARII RANGER ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Galvanic Rifle; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSKITARII VANGUARD ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Radium Carbine; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER PRINCEPS\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR PRINCEPS operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n\t<li>\n\t\tTen HUNTER CLADE operatives selected from the following list:\n\t\t<ul>\n\t\t\t<li>SKITARII RANGER MARKSMAN</li>\n\t\t\t<li>SKITARII RANGER DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII RANGER GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII RANGER SURVEYOR</li>\n\t\t\t<li>SKITARII VANGUARD SHOCKTROOPER</li>\n\t\t\t<li>SKITARII VANGUARD DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII VANGUARD GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII VANGUARD SURVEYOR</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER ASSASSIN operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Chordclaw and Transonic Razor or Transonic Blades</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR TRACKER operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n</ul>\n\nYour Kill Team must include more SKITARII RANGER and SKITARII VANGUARD operatives that it does SICARIAN operatives.\n<br/><br/>\nYour Kill Team can only include up to three GUNNER operatives.\nEach GUNNER operative must be equipped with different ranged weapons.\n<br/><br/>\nYour Kill Team can only include up to one DIKTAT and one SURVEYOR operative.\n \n<hr/>\n\n<h3>Doctrina Imperatives</h3>\nIn the Strategy phase of the first Turning Point, when it is your turn to use a Strategic Ploy or pass, you must select one Doctrina Imperative below to become active for your kill team instead. That Imperative is active until the end of the battle, or until you change it to a different Imperative, whichever comes first.\n<br/>\nIn the Strategy phase of a subsequent Turning Point, when it is your turn to use a Strategic Ploy or pass, you can select one different Imperative below to become active for your kill team instead.\n<br/>\nEach Imperative has an Optimisation and a Deprecation effect. Both are in effect while that Imperative is active for your kill team. Ignore each Imperative’s Deprecation effect during the first Turning Point that it is active for your kill team during the battle.",
         "fireteams": [
           {
             "factionid": "IMP",
