@@ -10745,7 +10745,7 @@
                     "opid": "VTC",
                     "abilityid": "RR",
                     "title": "Revoltingly Resilient",
-                    "description": "<em>So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.</em><br/><br/>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
+                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
                   },
                   {
                     "factionid": "CHAOS",
@@ -10754,7 +10754,7 @@
                     "opid": "VTC",
                     "abilityid": "TC",
                     "title": "Techno-Curse",
-                    "description": "<em>Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.</em><br/><br/>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
+                    "description": "<em class=\"noprint\">Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.<br/><br/></em>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
                   },
                   {
                     "factionid": "CHAOS",
@@ -10870,7 +10870,7 @@
                     "opid": "BS",
                     "abilityid": "RR",
                     "title": "Revoltingly Resilient",
-                    "description": "<em>So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.</em><br/><br/>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
+                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
                   },
                   {
                     "factionid": "CHAOS",
@@ -10888,7 +10888,7 @@
                     "opid": "BS",
                     "abilityid": "TC",
                     "title": "Techno-Curse",
-                    "description": "<em>Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.</em><br/><br/>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
+                    "description": "<em class=\"noprint\">Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.<br/><br/></em>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
                   },
                   {
                     "factionid": "CHAOS",
@@ -10986,7 +10986,7 @@
                     "opid": "FS",
                     "abilityid": "RR",
                     "title": "Revoltingly Resilient",
-                    "description": "<em>So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.</em><br/><br/>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
+                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
                   },
                   {
                     "factionid": "CHAOS",
@@ -10995,7 +10995,7 @@
                     "opid": "FS",
                     "abilityid": "TC",
                     "title": "Techno-Curse",
-                    "description": "<em>Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.</em><br/><br/>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
+                    "description": "<em class=\"noprint\">Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.<br/><br/></em>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
                   }
                 ],
                 "fireteammax": 0
@@ -11073,7 +11073,7 @@
                     "opid": "LG",
                     "abilityid": "RR",
                     "title": "Revoltingly Resilient",
-                    "description": "<em>So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.</em><br/><br/>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
+                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
                   },
                   {
                     "factionid": "CHAOS",
@@ -11082,7 +11082,7 @@
                     "opid": "LG",
                     "abilityid": "TC",
                     "title": "Techno-Curse",
-                    "description": "<em>Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.</em><br/><br/>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
+                    "description": "<em class=\"noprint\">Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.<br/><br/></em>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
                   }
                 ],
                 "fireteammax": 0
@@ -11203,7 +11203,7 @@
                     "opid": "GM",
                     "abilityid": "RR",
                     "title": "Revoltingly Resilient",
-                    "description": "<em>So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.</em><br/><br/>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
+                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
                   },
                   {
                     "factionid": "CHAOS",
@@ -11212,7 +11212,7 @@
                     "opid": "GM",
                     "abilityid": "TC",
                     "title": "Techno-Curse",
-                    "description": "<em>Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.</em><br/><br/>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
+                    "description": "<em class=\"noprint\">Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.<br/><br/></em>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
                   }
                 ],
                 "fireteammax": 0
@@ -11297,7 +11297,7 @@
                     "opid": "GL",
                     "abilityid": "RR",
                     "title": "Revoltingly Resilient",
-                    "description": "<em>So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.</em><br/><br/>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
+                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
                   },
                   {
                     "factionid": "CHAOS",
@@ -11315,7 +11315,7 @@
                     "opid": "GL",
                     "abilityid": "TC",
                     "title": "Techno-Curse",
-                    "description": "<em>Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.</em><br/><br/>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
+                    "description": "<em class=\"noprint\">Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.<br/><br/></em>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
                   }
                 ],
                 "fireteammax": 0
@@ -11394,7 +11394,7 @@
                     "opid": "CM",
                     "abilityid": "MV",
                     "title": "Mutoid Vermin",
-                    "description": "<em>Swollen to huge size and afforded gruesome lethality by the Gellerpox, shipboard vermin fight alongside their master.</em><br/><br/>\nThis operative can only perform universal actions (excluding the Pick Up action), and can perform the Fall Back action for one less action point (to a minimum of 1 AP).\nIt cannot perform any other actions.<br/>\nAll other operatives can perform the Fall Back acton for one less action point (to a minimum of 1 AP) if they are within Engagement Range of enemy MUTOID VERMIN operatives.<br/>\nThis operative cannot control objective markers or tokens and cannot score you or your opponent Victory Points (it is ignored for these purposes, e.g. when determining a condition for a Tac Op).<br/>\nThis operative cannot be equipped with equipment. It is not added to your roster or dataslate, therefore in narrative play, it cannot earn (or lose) experience and does not take Casualty tests."
+                    "description": "<em class=\"noprint\">Swollen to huge size and afforded gruesome lethality by the Gellerpox, shipboard vermin fight alongside their master.<br/><br/></em>\nThis operative can only perform universal actions (excluding the Pick Up action), and can perform the Fall Back action for one less action point (to a minimum of 1 AP).\nIt cannot perform any other actions.<br/>\nAll other operatives can perform the Fall Back acton for one less action point (to a minimum of 1 AP) if they are within Engagement Range of enemy MUTOID VERMIN operatives.<br/>\nThis operative cannot control objective markers or tokens and cannot score you or your opponent Victory Points (it is ignored for these purposes, e.g. when determining a condition for a Tac Op).<br/>\nThis operative cannot be equipped with equipment. It is not added to your roster or dataslate, therefore in narrative play, it cannot earn (or lose) experience and does not take Casualty tests."
                   }
                 ],
                 "fireteammax": 0
@@ -11479,7 +11479,7 @@
                     "opid": "ESS",
                     "abilityid": "MV",
                     "title": "Mutoid Vermin",
-                    "description": "<em>Swollen to huge size and afforded gruesome lethality by the Gellerpox, shipboard vermin fight alongside their master.</em><br/><br/>\nThis operative can only perform universal actions (excluding the Pick Up action), and can perform the Fall Back action for one less action point (to a minimum of 1 AP).\nIt cannot perform any other actions.<br/>\nAll other operatives can perform the Fall Back acton for one less action point (to a minimum of 1 AP) if they are within Engagement Range of enemy MUTOID VERMIN operatives.<br/>\nThis operative cannot control objective markers or tokens and cannot score you or your opponent Victory Points (it is ignored for these purposes, e.g. when determining a condition for a Tac Op).<br/>\nThis operative cannot be equipped with equipment. It is not added to your roster or dataslate, therefore in narrative play, it cannot earn (or lose) experience and does not take Casualty tests."
+                    "description": "<em class=\"noprint\">Swollen to huge size and afforded gruesome lethality by the Gellerpox, shipboard vermin fight alongside their master.<br/><br/></em>\nThis operative can only perform universal actions (excluding the Pick Up action), and can perform the Fall Back action for one less action point (to a minimum of 1 AP).\nIt cannot perform any other actions.<br/>\nAll other operatives can perform the Fall Back acton for one less action point (to a minimum of 1 AP) if they are within Engagement Range of enemy MUTOID VERMIN operatives.<br/>\nThis operative cannot control objective markers or tokens and cannot score you or your opponent Victory Points (it is ignored for these purposes, e.g. when determining a condition for a Tac Op).<br/>\nThis operative cannot be equipped with equipment. It is not added to your roster or dataslate, therefore in narrative play, it cannot earn (or lose) experience and does not take Casualty tests."
                   }
                 ],
                 "fireteammax": 0
@@ -11573,7 +11573,7 @@
                     "opid": "SG",
                     "abilityid": "MV",
                     "title": "Mutoid Vermin",
-                    "description": "<em>Swollen to huge size and afforded gruesome lethality by the Gellerpox, shipboard vermin fight alongside their master.</em><br/><br/>\nThis operative can only perform universal actions (excluding the Pick Up action), and can perform the Fall Back action for one less action point (to a minimum of 1 AP).\nIt cannot perform any other actions.<br/>\nAll other operatives can perform the Fall Back acton for one less action point (to a minimum of 1 AP) if they are within Engagement Range of enemy MUTOID VERMIN operatives.<br/>\nThis operative cannot control objective markers or tokens and cannot score you or your opponent Victory Points (it is ignored for these purposes, e.g. when determining a condition for a Tac Op).<br/>\nThis operative cannot be equipped with equipment. It is not added to your roster or dataslate, therefore in narrative play, it cannot earn (or lose) experience and does not take Casualty tests."
+                    "description": "<em class=\"noprint\">Swollen to huge size and afforded gruesome lethality by the Gellerpox, shipboard vermin fight alongside their master.<br/><br/></em>\nThis operative can only perform universal actions (excluding the Pick Up action), and can perform the Fall Back action for one less action point (to a minimum of 1 AP).\nIt cannot perform any other actions.<br/>\nAll other operatives can perform the Fall Back acton for one less action point (to a minimum of 1 AP) if they are within Engagement Range of enemy MUTOID VERMIN operatives.<br/>\nThis operative cannot control objective markers or tokens and cannot score you or your opponent Victory Points (it is ignored for these purposes, e.g. when determining a condition for a Tac Op).<br/>\nThis operative cannot be equipped with equipment. It is not added to your roster or dataslate, therefore in narrative play, it cannot earn (or lose) experience and does not take Casualty tests."
                   }
                 ],
                 "fireteammax": 0
@@ -12005,7 +12005,7 @@
             "eqvar4": null
           }
         ],
-        "killteamcomp": "A LEGIONARY kill team consists of:\n<ul>\n    <li>\n        1 LEGIONARY operative selected from the following list:\n        <ul>\n            <li>\n                LEGIONARY CHOSEN operative equipped with one option from each of the following:\n                <ul>\n                    <li>Plasma Pistol or Tainted Bolt Pistol</li>\n                    <li>Daemon Blade</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY ASPIRING CHAMPION operative equipped with one option from each of the following:\n                <ul>\n                    <li>Plasma Pistol or Tainted Bolt Pistol</li>\n                    <li>Tainted Chainsword, Power Weapon, Power First, or Power Maul</li>\n                </ul>\n            </li>\n        </ul>\n    </li>\n    <li>\n        5 LEGIONARY operatives selected from the following list:\n        <ul>\n            <li>\n                LEGIONARY WARRIOR operative equipped with one of the following options:\n                <ul>\n                    <li>Boltgun and Fists</li>\n                    <li>Bolt Pistol and Chainsword</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY GUNNER operative equipped with one of the following options:\n                <ul>\n                    <li>Flamer and Fists</li>\n                    <li>Meltagun and Fists</li>\n                    <li>Plasma Gun and Fists</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY HEAVY GUNNER operative equipped with one of the following options:\n                <ul>\n                    <li>Heavy Bolter and Fists</li>\n                    <li>Missile Launcher and Fists</li>\n                    <li>Reaper Chaincannon and Fists</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY ICON BEARER operative equipped with one of the following options:\n                <ul>\n                    <li>Boltgun and Fists</li>\n                    <li>Bolt Pistol and Chainsword</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY ANOINTED\n            </li>\n            <li>\n                LEGIONARY BUTCHER\n            </li>\n            <li>\n                LEGIONARY BALEFIRE ACOLYTE\n            </li>\n            <li>\n                LEGIONARY SHRIVETALON\n            </li>\n        </ul>\n    </li>\n</ul>\n<br/>\nOther than WARRIOR operatives, your kill team can only include each operative above once.",
+        "killteamcomp": "A LEGIONARY kill team consists of:\n<ul>\n    <li>\n        1 LEGIONARY operative selected from the following list:\n        <ul>\n            <li>\n                LEGIONARY CHOSEN operative equipped with one option from each of the following:\n                <ul>\n                    <li>Plasma Pistol or Tainted Bolt Pistol</li>\n                    <li>Daemon Blade</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY ASPIRING CHAMPION operative equipped with one option from each of the following:\n                <ul>\n                    <li>Plasma Pistol or Tainted Bolt Pistol</li>\n                    <li>Tainted Chainsword, Power Weapon, Power First, or Power Maul</li>\n                </ul>\n            </li>\n        </ul>\n    </li>\n    <li>\n        5 LEGIONARY operatives selected from the following list:\n        <ul>\n            <li>\n                LEGIONARY WARRIOR operative equipped with one of the following options:\n                <ul>\n                    <li>Boltgun and Fists</li>\n                    <li>Bolt Pistol and Chainsword</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY GUNNER operative equipped with one of the following options:\n                <ul>\n                    <li>Flamer and Fists</li>\n                    <li>Meltagun and Fists</li>\n                    <li>Plasma Gun and Fists</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY HEAVY GUNNER operative equipped with one of the following options:\n                <ul>\n                    <li>Heavy Bolter and Fists</li>\n                    <li>Missile Launcher and Fists</li>\n                    <li>Reaper Chaincannon and Fists</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY ICON BEARER operative equipped with one of the following options:\n                <ul>\n                    <li>Boltgun and Fists</li>\n                    <li>Bolt Pistol and Chainsword</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY ANOINTED\n            </li>\n            <li>\n                LEGIONARY BUTCHER\n            </li>\n            <li>\n                LEGIONARY BALEFIRE ACOLYTE\n            </li>\n            <li>\n                LEGIONARY SHRIVETALON\n            </li>\n        </ul>\n    </li>\n</ul>\n<br/>\nOther than LEGIONARY WARRIOR operatives, your kill team can only include each operative above once.",
         "fireteams": [
           {
             "factionid": "CHAOS",
@@ -12329,7 +12329,7 @@
                     "opid": "AC",
                     "abilityid": "ITEOTG",
                     "title": "In The Eyes Of The Gods",
-                    "description": "Once per Turning Point, during this operative's activation, if it\nincapacitates an enemy operative, it can perform one free action\nduring that activation.’"
+                    "description": "Once per Turning Point, during this operative's activation, if it\n incapacitates an enemy operative during this operative's activation, if it, it can perform one free action\n during that activation."
                   }
                 ],
                 "fireteammax": 0
@@ -13400,7 +13400,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "A LEGIONARY kill team consists of:\n<ul>\n    <li>\n        1 LEGIONARY operative selected from the following list:\n        <ul>\n            <li>\n                LEGIONARY CHOSEN operative equipped with one option from each of the following:\n                <ul>\n                    <li>Plasma Pistol or Tainted Bolt Pistol</li>\n                    <li>Daemon Blade</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY ASPIRING CHAMPION operative equipped with one option from each of the following:\n                <ul>\n                    <li>Plasma Pistol or Tainted Bolt Pistol</li>\n                    <li>Tainted Chainsword, Power Weapon, Power First, or Power Maul</li>\n                </ul>\n            </li>\n        </ul>\n    </li>\n    <li>\n        5 LEGIONARY operatives selected from the following list:\n        <ul>\n            <li>\n                LEGIONARY WARRIOR operative equipped with one of the following options:\n                <ul>\n                    <li>Boltgun and Fists</li>\n                    <li>Bolt Pistol and Chainsword</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY GUNNER operative equipped with one of the following options:\n                <ul>\n                    <li>Flamer and Fists</li>\n                    <li>Meltagun and Fists</li>\n                    <li>Plasma Gun and Fists</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY HEAVY GUNNER operative equipped with one of the following options:\n                <ul>\n                    <li>Heavy Bolter and Fists</li>\n                    <li>Missile Launcher and Fists</li>\n                    <li>Reaper Chaincannon and Fists</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY ICON BEARER operative equipped with one of the following options:\n                <ul>\n                    <li>Boltgun and Fists</li>\n                    <li>Bolt Pistol and Chainsword</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY ANOINTED\n            </li>\n            <li>\n                LEGIONARY BUTCHER\n            </li>\n            <li>\n                LEGIONARY BALEFIRE ACOLYTE\n            </li>\n            <li>\n                LEGIONARY SHRIVETALON\n            </li>\n        </ul>\n    </li>\n</ul>\n<br/>\nOther than WARRIOR operatives, your kill team can only include each operative above once."
+            "fireteamcomp": "A LEGIONARY kill team consists of:\n<ul>\n    <li>\n        1 LEGIONARY operative selected from the following list:\n        <ul>\n            <li>\n                LEGIONARY CHOSEN operative equipped with one option from each of the following:\n                <ul>\n                    <li>Plasma Pistol or Tainted Bolt Pistol</li>\n                    <li>Daemon Blade</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY ASPIRING CHAMPION operative equipped with one option from each of the following:\n                <ul>\n                    <li>Plasma Pistol or Tainted Bolt Pistol</li>\n                    <li>Tainted Chainsword, Power Weapon, Power First, or Power Maul</li>\n                </ul>\n            </li>\n        </ul>\n    </li>\n    <li>\n        5 LEGIONARY operatives selected from the following list:\n        <ul>\n            <li>\n                LEGIONARY WARRIOR operative equipped with one of the following options:\n                <ul>\n                    <li>Boltgun and Fists</li>\n                    <li>Bolt Pistol and Chainsword</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY GUNNER operative equipped with one of the following options:\n                <ul>\n                    <li>Flamer and Fists</li>\n                    <li>Meltagun and Fists</li>\n                    <li>Plasma Gun and Fists</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY HEAVY GUNNER operative equipped with one of the following options:\n                <ul>\n                    <li>Heavy Bolter and Fists</li>\n                    <li>Missile Launcher and Fists</li>\n                    <li>Reaper Chaincannon and Fists</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY ICON BEARER operative equipped with one of the following options:\n                <ul>\n                    <li>Boltgun and Fists</li>\n                    <li>Bolt Pistol and Chainsword</li>\n                </ul>\n            </li>\n            <li>\n                LEGIONARY ANOINTED\n            </li>\n            <li>\n                LEGIONARY BUTCHER\n            </li>\n            <li>\n                LEGIONARY BALEFIRE ACOLYTE\n            </li>\n            <li>\n                LEGIONARY SHRIVETALON\n            </li>\n        </ul>\n    </li>\n</ul>\n<br/>\nOther than LEGIONARY WARRIOR operatives, your kill team can only include each operative above once."
           }
         ]
       },
@@ -25921,7 +25921,7 @@
                     "opid": "END",
                     "abilityid": "BW",
                     "title": "Breachwall",
-                    "description": "Each time another friendly IMPERIAL NAVY BREACHER operative finishes an action in which it moved and ended that move with its base touching this operatives', if this operative has an Engage order and is not already shielding a friendly operative, it can shield that friendly operative until their bases are no longer touching or this operative no longer has an Engage order.\nWhile a friendly operative is shielded, it is not in an enemy operative's Line of Sight if a Cover line drawn to it crosses this operative's base, unless the enemy operative is on a Vantage Point."
+                    "description": "Each time another friendly IMPERIAL NAVY BREACHER operative finishes an action in which it moved and ended that move with its base touching this operative's,\nif this operative has an Engage order and is not already shielding a friendly operative,\nit can shield that friendly operative until their bases are no longer touching or this operative no longer has an Engage order.\n While a friendly operative is shielded, it is not in an enemy operative's Line of Sight if a Cover line drawn to it crosses this operative's base,\n unless the enemy operative is  at least [CIRCLE] higher than it."
                   },
                   {
                     "factionid": "IMP",
@@ -31396,7 +31396,7 @@
             "eqid": "SHG",
             "eqname": "Shock Grenade",
             "eqdescription": "The operative can perform the following action during the battle:<br/><br/>\n<strong>Shock Grenade (1 AP)</strong><br/>\nSelect one point on the killzone within [PENT] of this operative.\nRoll 1D6 for each operative within [CIRCLE] of that point, subtracting 1 from the result if that operative is not Visible to this operative.\nOne a 4+ subtract 1 from that operative's APL. \nThis operative can only perform this action once, and cannot perform this action while within Engagement Range of an enemy operative.",
-            "eqpts": "3",
+            "eqpts": "2",
             "eqseq": 0,
             "eqtype": "Action",
             "eqvar1": null,
@@ -31409,7 +31409,7 @@
             "killteamid": "PHO",
             "eqid": "SG",
             "eqname": "Smoke Grenade",
-            "eqdescription": "The operative can perform the following action during the battle:<br/><br/>\n<strong>Smoke Grenade (1 AP)</strong><br/>\nPlace the centre of one Smoke token on a point within [PENT] of this operative.\nThat token creates an area of smoke with a [CIRCLE] radius and unlimited vertical upward height (but not below) measured from the centre of that token.\nUntil the end of the Turning Point, an operative is not Visible if a Cover line drawn to it crosses an area of smoke.\nThis operative can only perform this action once, and cannot perform this action while within Engagement Range of an enemy operative.",
+            "eqdescription": "The operative can perform the following action during the battle:<br/><br/>\n <strong>Smoke Grenade (1 AP)</strong><br/>\n Place the centre of one Smoke token on a point within [PENT] of this operative.\n That token creates an area of smoke with a [CIRCLE] radius and unlimited vertical upward height (but not below) measured from the centre of that token.\n Until the end of the Turning Point, an operative is Obscured if every Cover line drawn to it crosses an area of smoke.\n This operative can only perform this action once, and cannot perform this action while within Engagement Range of an enemy operative.",
             "eqpts": "3",
             "eqseq": 0,
             "eqtype": "Action",
@@ -31549,7 +31549,7 @@
                     "opid": "INFSGT",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -31655,7 +31655,7 @@
                     "opid": "INCSGT",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -31815,7 +31815,7 @@
                     "opid": "RVRSGT",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -31835,7 +31835,7 @@
                     "opid": "RVRSGT",
                     "uniqueactionid": "TR",
                     "title": "Terror",
-                    "description": "\n<i>Exposed to the counter-sensory barrage unleashed by Primaris Reivers, even the staunchest enemy is likely to back fearfully away, or fumble for weapons and wargear with shaking fingers.</i>\n<br/><br/>\n<strong>Terror (1 AP)</strong><br/>\nUntil the end of the Turning Point:\n<ul>\n<li>Each time an enemy operative would perform a mission action or the Pick Up action, if any friendly operatives that performed this action during this Turning Point are within [SQUARE] of that enemy operative, one additional action point must be subtracted for that enemy operative to perform that action.</li>\n<li>When determining control of an objective marker that any friendly operatives that performs this action during this Turning Point are within range of, treat enemy operatives' total APL as being 1 less. Note that this is not a modifier.</li>\n</ul>",
+                    "description": "\n \n <i class=\"noprint\">Exposed to the counter-sensory barrage unleashed by Primaris Reivers, even the staunchest enemy is likely to back fearfully away, or fumble for weapons and wargear with shaking fingers. <br/><br/></i>\n  Until the end of the Turning Point:\n <ul>\n <li>Each time an enemy operative would perform a mission action or the Pick Up action, if any friendly operatives that performed this action during this Turning Point are within [SQUARE] of that enemy operative, one additional action point must be subtracted for that enemy operative to perform that action.</li>\n <li>When determining control of an objective marker that any friendly operatives that performs this action during this Turning Point are within range of, treat enemy operatives' total APL as being 1 less. Note that this is not a modifier.</li>\n </ul>",
                     "AP": 1
                   }
                 ],
@@ -31921,7 +31921,7 @@
                     "opid": "INFVET",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   }
                 ],
@@ -32036,7 +32036,7 @@
                     "opid": "INFCOM",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   }
                 ],
@@ -32132,7 +32132,7 @@
                     "opid": "INFHEL",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -32154,7 +32154,7 @@
                     "opid": "INFHEL",
                     "abilityid": "CR",
                     "title": "Combat Restoratives",
-                    "description": "Once per Turning Point, the first time a friendly PHOBOS STRIKE TEAM operative would be incapacitated while Visible to and within [SQUARE] of this operative and not within\nEngagement Range of an enemy operative, if this operative is not within Engagement Range of an enemy operative, this operative can revive it.\nThat operative is not incapacitated, has D3 wounds remaining, and if it was a shooting attack, any remaining attack dice are discarded.\nThat operative can then perform a free Dash action, but must finish that move within [TRI] of this operative.\nSubtract 1 from both operatives' APL."
+                    "description": "Once per Turning Point, the first time another friendly PHOBOS STRIKE TEAM operative would be incapacitated while Visible to and within [SQUARE] of this operative and not within\nEngagement Range of an enemy operative, if this operative is not within Engagement Range of an enemy operative, this operative can revive it.\nThat operative is not incapacitated, has D3 wounds remaining, and if it was a shooting attack, any remaining attack dice are discarded.\nThat operative can then perform a free Dash action, but must finish that move within [TRI] of this operative.\nSubtract 1 from both operatives' APL."
                   },
                   {
                     "factionid": "IMP",
@@ -32274,7 +32274,7 @@
                     "opid": "INFSAB",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -32284,7 +32284,7 @@
                     "opid": "INFSAB",
                     "uniqueactionid": "PSE",
                     "title": "Plant Saboteur Explosives",
-                    "description": "Place a Saboteur Explosives token within [TRI] of this operative.\nThis operative cannot perform this action while within Engagement Range of an enemy operative.\nIf this operative is incapacitated and removed from the killzone, remove its Saboteur Explosives token.\nThis operative can only perform this action once.",
+                    "description": "Place a Saboteur Explosives token within [TRI] of and Visible to this operative.\nThis operative cannot perform this action while within Engagement Range of an enemy operative.\nIf this operative is incapacitated and removed from the killzone, remove its Saboteur Explosives token.\nThis operative can only perform this action once.",
                     "AP": 1
                   }
                 ],
@@ -32296,7 +32296,7 @@
                     "opid": "INFSAB",
                     "abilityid": "DET",
                     "title": "*Detonate",
-                    "description": "If this operative performs a Shoot action with this weapon,\nmake a shooting attack against each operative within [SQUARE] of the centre of its Saboteur Explosives token with this weapon.\nWhen making those shooting attacks, each operative (friendly and enemy) is treated as being Visible, but when determining if it is in Cover, treat this\noperative's Saboteur Explosives token as the active operative.\nThen remove this operative's Saboteur Explosives token.\nAn operative cannot make a shooting attack with this weapon by performing an Overwatch action,\nor if its Saboteur Explosives token is not in the killzone."
+                    "description": "If this operative performs a Shoot action with this weapon,\nmake a shooting attack against each operative within [SQUARE] of the centre of its Saboteur Explosives token with this weapon.\nWhen making those shooting attacks, each operative (friendly and enemy) within [SQUARE] is treated as being Visible, but when determining if it is in Cover, treat this\noperative's Saboteur Explosives token as the active operative.\nThen remove this operative's Saboteur Explosives token.\nAn operative cannot make a shooting attack with this weapon by performing an Overwatch action,\nor if its Saboteur Explosives token is not in the killzone."
                   },
                   {
                     "factionid": "IMP",
@@ -32399,17 +32399,7 @@
                     "opid": "INFVOX",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
-                    "AP": 1
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "PHO",
-                    "fireteamid": "PHO",
-                    "opid": "INFVOX",
-                    "uniqueactionid": "VOXBRK",
-                    "title": "Voxbreak",
-                    "description": "While an enemy operative is within [PENT] of this operative, each time that enemy operative fights in combat or makes a shooting attack,\nin the Roll Attack Dice step of that combat or shooting attack, your opponent cannot re-roll any of their Attack Dice.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   }
                 ],
@@ -32422,6 +32412,15 @@
                     "abilityid": "OS",
                     "title": "Omni-Scrambler",
                     "description": "<i>These devices allow Primaris Infiltrators to corrupt enemy vox-networks.\n They choke off signals beneath a shroud of machine-spirit interference and spread tactical paralysis through the ranks of the foe.</i>\n <br/><br/>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, if any friendly operatives with this ability are in the killzone,\n you can use this ability instead.\n If you do so, select one enemy operative Visible to any friendly operative with this ability; in the following Firefight Phase, that enemy operative is \n treated as having a Group Activation characteristic of 1, and cannot be activated or perform actions until one of the following is true:\n <ul>\n <li>A number of enemy operatives have been activated equal to the number of friendly operatives with this ability in the killzone at the start of the phase.</li>\n <li>It is the last enemy operative to be activated</li>\n </ul>"
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "PHO",
+                    "fireteamid": "PHO",
+                    "opid": "INFVOX",
+                    "abilityid": "VOXBRK",
+                    "title": "Voxbreak",
+                    "description": "While an enemy operative is within [PENT] of this operative, each time that enemy operative fights in combat or makes a shooting attack,\nin the Roll Attack Dice step of that combat or shooting attack, your opponent cannot re-roll any of their Attack Dice."
                   }
                 ],
                 "fireteammax": 0
@@ -32505,7 +32504,7 @@
                     "opid": "INFWAR",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   }
                 ],
@@ -32601,7 +32600,7 @@
                     "opid": "INCMRK",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -32666,7 +32665,7 @@
                         "A": "4",
                         "BS": "2+",
                         "D": "2/4",
-                        "SR": "Lethal 5+, No Cover, *Proximity, Stun"
+                        "SR": "Lethal 5+, No Cover, *Proximity, *Interference"
                       }
                     ],
                     "isselected": true
@@ -32734,7 +32733,7 @@
                     "opid": "INCML",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -32744,11 +32743,20 @@
                     "opid": "INCML",
                     "uniqueactionid": "PHWM",
                     "title": "Plant Haywire Mine",
-                    "description": "Place a Haywire Mine token within [TRI] of this operative. This operative cannot perform this action while within Engagement Range of an enemy operative.\nThis operative can only perform this action once.",
+                    "description": "Place a Haywire Mine token within [TRI] of and Visible to this operative. This operative cannot perform this action while within Engagement Range of an enemy operative.\nThis operative can only perform this action once.",
                     "AP": 1
                   }
                 ],
                 "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "PHO",
+                    "fireteamid": "PHO",
+                    "opid": "INCML",
+                    "abilityid": "INT",
+                    "title": "*Interference",
+                    "description": "Each time a friendly operative makes a shooting\nattack with this weapon, in the Roll Attack Dice step of that\nshooting attack, if you retain any critical hits:\n<ul>\n<li>The target cannot move any further during this activation.</li>\n<li>Subtract 1 from the remaining action points the target has for\nthis activation (if any). If it is outside of the target's activation,\nsubtract 1 from the number of action points it generates in its\nnext activation. Note that this is not a modifier to the target's\nAPL characteristic.</li>\n</ul>"
+                  },
                   {
                     "factionid": "IMP",
                     "killteamid": "PHO",
@@ -32765,7 +32773,7 @@
                     "opid": "INCML",
                     "abilityid": "PROX",
                     "title": "*Proximity",
-                    "description": "The first time an enemy operative moves within [SQUARE] of this operative's Haywire Mine token, make a shooting attack against that operative with this weapon \n(even if this operative is not in the killzone).\nWhen making that shooting attack, that enemy operative is always a valid target.\nThen remove this operative's Haywire Mine token. \nAn operative cannot make a shooting attack with this weapon by any other means, or if its Haywire Mine token is not in the killzone."
+                    "description": "The first time an enemy operative moves within [SQUARE] of this operative's Haywire Mine token, make a shooting attack against that operative with this weapon \n(even if this operative is not in the killzone, and ignore all Ballistic Skill modifiers).\nWhen making that shooting attack, that enemy operative is always a valid target.\nThen remove this operative's Haywire Mine token. \nAn operative cannot make a shooting attack with this weapon by any other means, or if its Haywire Mine token is not in the killzone."
                   }
                 ],
                 "fireteammax": 0
@@ -32849,7 +32857,7 @@
                     "opid": "INCWAR",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   }
                 ],
@@ -32999,7 +33007,7 @@
                     "opid": "RVRWAR",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n<i>Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\nThey attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them.</i>\n<br/><br/>\n<strong>Guerrilla Warfare (1 AP)</strong><br/>\nChange this operative's order. \nThis operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -33009,7 +33017,7 @@
                     "opid": "RVRWAR",
                     "uniqueactionid": "TR",
                     "title": "Terror",
-                    "description": "\n<i>Exposed to the counter-sensory barrage unleashed by Primaris Reivers, even the staunchest enemy is likely to back fearfully away, or fumble for weapons and wargear with shaking fingers.</i>\n<br/><br/>\n<strong>Terror (1 AP)</strong><br/>\nUntil the end of the Turning Point:\n<ul>\n<li>Each time an enemy operative would perform a mission action or the Pick Up action, if any friendly operatives that performed this action during this Turning Point are within [SQUARE] of that enemy operative, one additional action point must be subtracted for that enemy operative to perform that action.</li>\n<li>When determining control of an objective marker that any friendly operatives that performs this action during this Turning Point are within range of, treat enemy operatives' total APL as being 1 less. Note that this is not a modifier.</li>\n</ul>",
+                    "description": "\n \n <i class=\"noprint\">Exposed to the counter-sensory barrage unleashed by Primaris Reivers, even the staunchest enemy is likely to back fearfully away, or fumble for weapons and wargear with shaking fingers. <br/><br/></i>\n  Until the end of the Turning Point:\n <ul>\n <li>Each time an enemy operative would perform a mission action or the Pick Up action, if any friendly operatives that performed this action during this Turning Point are within [SQUARE] of that enemy operative, one additional action point must be subtracted for that enemy operative to perform that action.</li>\n <li>When determining control of an objective marker that any friendly operatives that performs this action during this Turning Point are within range of, treat enemy operatives' total APL as being 1 less. Note that this is not a modifier.</li>\n </ul>",
                     "AP": 1
                   }
                 ],
@@ -44947,7 +44955,7 @@
               "ployname": "Skulk About",
               "ploytype": "S",
               "CP": "1",
-              "description": "Until the end of the Turning Point, each time a shooting attack is made against a friendly KOMMANDO operative, before rolling defence dice for that shooting attack, if it has a Conceal order, you can retain one as a successful normal save without rolling it."
+              "description": "Until the end of the Turning Point, each time a shooting attack is made against a friendly KOMMANDO operative,\nbefore rolling defence dice for that shooting attack,\nif it has a Conceal order, you can retain one as a successful normal save without rolling it,\nregardless of any rules that treat the operative as having an Engage\norder (e.g. Vantage Point)."
             },
             {
               "factionid": "ORK",
@@ -46944,7 +46952,7 @@
             "killteamid": "FSKB",
             "eqid": "PS",
             "eqname": "Piercing Shot",
-            "eqdescription": "Operative equipped with a Kroot Rifle, Kroot Pistol, or Dual Kroot Pistols only.\nThe operative is equipped with the following ranged weapon for the battle (its BS characteristic is the same as the Kroot Rifle or Kroot Pistol the operative is equipped with):\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Piercing Shot</td>\n         <td>4</td>\n         <td>*</td>\n         <td>3/4</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">AP1, Limited</td>\n     </tr>\n </table>",
+            "eqdescription": "Operative equipped with a Kroot Rifle, Kroot Pistol, or Dual Kroot Pistols only.\nThe operative is equipped with the following ranged weapon for the battle (its BS characteristic is the same as the Kroot Rifle or Kroot Pistol the operative is equipped with):\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Piercing Shot</td>\n         <td>4</td>\n         <td>*</td>\n         <td>3/4</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">AP1, Limited</td>\n     </tr>\n </table>\nUnless the operative is equipped with a Kroot rifle, this ranged weapon has the Rng [PENT] special rule.",
             "eqpts": "2",
             "eqseq": 1,
             "eqtype": "Weapon",
@@ -46984,7 +46992,7 @@
             "killteamid": "FSKB",
             "eqid": "TS",
             "eqname": "Toxin Shot",
-            "eqdescription": "Operative equipped with a Kroot Rifle, Kroot Pistol, or Dual Kroot Pistols only.\nThe operative is equipped with the following ranged weapon for the battle (its BS characteristic is the same as the Kroot Rifle or Kroot Pistol the operative is equipped with):\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Toxin Shot</td>\n         <td>4</td>\n         <td>*</td>\n         <td>2/2</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Lethal 5+, Limited, Stun</td>\n     </tr>\n </table>",
+            "eqdescription": "Operative equipped with a Kroot Rifle, Kroot Pistol, or Dual Kroot Pistols only.\nThe operative is equipped with the following ranged weapon for the battle (its BS characteristic is the same as the Kroot Rifle or Kroot Pistol the operative is equipped with):\n <table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Toxin Shot</td>\n         <td>4</td>\n         <td>*</td>\n         <td>2/2</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n     </tr>\n     <tr>\n \t\t<td colspan=\"4\">Lethal 5+, Limited, Stun</td>\n     </tr>\n </table>\nUnless the operative is equipped with a Kroot rifle, this ranged weapon has the Rng [PENT] special rule.",
             "eqpts": "2",
             "eqseq": 2,
             "eqtype": "Weapon",
