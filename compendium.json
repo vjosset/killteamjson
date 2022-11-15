@@ -16126,6 +16126,174 @@
             "eqvar2": null,
             "eqvar3": null,
             "eqvar4": null
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "WC",
+            "eqid": "[BOT]-AET-CR",
+            "eqname": "[BOT] - Aetheric - Crystalline",
+            "eqdescription": "<em>Boon Of Tzeentch</em><br/><br/>\nImprove this operative’s Save characteristic by 1.",
+            "eqpts": "0",
+            "eqseq": 10,
+            "eqtype": "OpMod",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "WC",
+            "eqid": "[BOT]-AET-EW",
+            "eqname": "[BOT] - Aetheric - Empyric Ward",
+            "eqdescription": "<em>Boon Of Tzeentch</em><br/><br/>\nThis operative has a 4+ invulnerable save.",
+            "eqpts": "0",
+            "eqseq": 10,
+            "eqtype": "OpMod",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "WC",
+            "eqid": "[BOT]-AET-IM",
+            "eqname": "[BOT] - Aetheric - Immaterial Flight",
+            "eqdescription": "<em>Boon Of Tzeentch</em><br/><br/>\nThis operative gains the FLY keyword.",
+            "eqpts": "0",
+            "eqseq": 10,
+            "eqtype": "Ability",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "WC",
+            "eqid": "[BOT]-FAT-IS",
+            "eqname": "[BOT] - Fate - Incorporeal Sight",
+            "eqdescription": "<em>Boon Of Tzeentch</em><br/><br/>\nRanged weapons this operative is equipped with (excluding ranged weapons from a psychic power) gain the Lethal 5+ and No Cover special rules.",
+            "eqpts": "0",
+            "eqseq": 10,
+            "eqtype": "WepMod",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "WC",
+            "eqid": "[BOT]-FAT-POD",
+            "eqname": "[BOT] - Fate - Patron Of Destiny",
+            "eqdescription": "<em>Boon Of Tzeentch</em><br/><br/>\nOnce per Turning Point, when this operative is fighting in combat or making a shooting attack or a shooting attack is being made against it, you can use the Command Re-roll Tactical Ploy without spending any CPs. Each time you do so, roll one D6: on a 1-3, this operative loses this ability for the rest of the battle.",
+            "eqpts": "0",
+            "eqseq": 10,
+            "eqtype": "Ability",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "WC",
+            "eqid": "[BOT]-FAT-TW",
+            "eqname": "[BOT] - Fate - Time-Walker",
+            "eqdescription": "<em>Boon Of Tzeentch</em><br/><br/>\n<ul>\n<li>Add 1 to the Attacks characteristic of melee weapons this operative is equipped with.</li>\n<li>Add to this operative’s Movement characteristic.</li>\n</ul>",
+            "eqpts": "0",
+            "eqseq": 10,
+            "eqtype": "Ability",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "WC",
+            "eqid": "[BOT]-MUT-AT",
+            "eqname": "[BOT] - Mutation - Avian Talons",
+            "eqdescription": "<em>Boon Of Tzeentch</em><br/><br/>\nEach time this operative fights in combat, if it performed a Charge action during this activation, in the Resolve Successful Hits step of that combat, if you did not retain any critical hits, you can strike with one normal hit as if it were a critical hit.",
+            "eqpts": "0",
+            "eqseq": 10,
+            "eqtype": "Ability",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "WC",
+            "eqid": "[BOT]-MUT-MA",
+            "eqname": "[BOT] - Mutation - Mutant Appendage",
+            "eqdescription": "<em>Boon Of Tzeentch</em><br/><br/>\nOnce per Turning Point, during this operative’s activation, it can perform a mission action or the Pick Up action for one less AP (to a minimum of 0AP).",
+            "eqpts": "0",
+            "eqseq": 10,
+            "eqtype": "Ability",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "WC",
+            "eqid": "[BOT]-MUT-WS",
+            "eqname": "[BOT] - Mutation - Warp Swell",
+            "eqdescription": "<em>Boon Of Tzeentch</em><br/><br/>\nAdd 1 to the Normal Damage characteristic of melee weapons this operative is equipped with.",
+            "eqpts": "0",
+            "eqseq": 10,
+            "eqtype": "WepMod",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "WC",
+            "eqid": "[DISC]-DEST",
+            "eqname": "Destiny Discipline",
+            "eqdescription": "<strong>Weave Fate:</strong> Select one friendly WARPCOVEN operative Visible to this operative. Until the end of the Turning Point, each time a shooting attack is made against that operative, in the Roll Defence Dice step of that shooting attack, you can re-roll any or all of your defence dice.<br><br/>\n <strong>Twist Destiny:</strong> Select one enemy operative Visible to this operative. Until the end of the Turning Point:\n <ul>\n <li>Each time that enemy operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that shooting attack, your opponent cannot re-roll their attack dice.</li>\n <li>That enemy operative ignores all positive modifiers to its APL.</li>\n </ul><br/>\n <strong>Doombolt:</strong> Perform a free Shoot action using the following ranged weapon:\n <table class=\"eqtable\" width=\"100%\">\n <tr>\n \t<th>Name</th><th>A</th><th>BS</th><th>D</th>\n </tr>\n <tr>\n \t<td>Doombolt</td><td>4</td><td>3+</td><td>3/3</td>\n </tr>\n <tr colspan=\"4\">\n <th>Special Rules</th>\n </tr>\n <tr>\n <td>Lethal 5+, MW2</td>\n </tr>\n </table>",
+            "eqpts": "0",
+            "eqseq": 20,
+            "eqtype": "Ability",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "WC",
+            "eqid": "[DISC]-TEMP",
+            "eqname": "Tempyric Discipline",
+            "eqdescription": "<strong>Ephemeral Instability:</strong> Until the end of the Turning Point, subtract [CIRCLE] from the distance that enemy operatives can move when performing Charge and Dash actions.<br><br/>\n<strong>Temporal Manipulation:</strong> Select one friendly WARPCOVEN operative Visible to and within [PENT] of this operative. That operative regains 2D3 lost wounds.<br/><br/>\n<strong>Fluxblast:</strong> Perform a free Shoot action using the following ranged weapon:\n<table class=\"eqtable\" width=\"100%\">\n<tr>\n\t<th>Name</th><th>A</th><th>BS</th><th>D</th>\n</tr>\n<tr>\n\t<td>Fluxblast</td><td>4</td><td>3+</td><td>3/4</td>\n</tr>\n<tr colspan=\"4\">\n<th>Special Rules</th>\n</tr>\n<tr>\n<td>Blast [CIRCLE], Rending</td>\n</tr>\n</table>",
+            "eqpts": "0",
+            "eqseq": 20,
+            "eqtype": "Ability",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "WC",
+            "eqid": "[DISC]-WARP",
+            "eqname": "Warpfire Discipline",
+            "eqdescription": "<strong>Warp Portal:</strong> Select one friendly WARPCOVEN operative Visible to and within [SQUARE] of this operative that has not performed an action in which it moved during this Turning Point. Remove it from the killzone and set it back up again within [PENT] of this operative and not within Engagement Range of an enemy operative. That friendly operative cannot perform actions in which it moves during this Turning Point.<br><br/>\n<strong>Infernal Fire:</strong> Select one enemy operative Visible to this operative. Until the end of the Turning Point, each time a friendly WARPCOVEN operative fights in combat or makes a shooting attack against that enemy operative, in the Roll Attack Dice step of that combat or shooting attack, you can re-roll any or all of your attack dice.<br/><br/>\n<strong>Firestorm:</strong> Perform a free Shoot action using the following ranged weapon:\n<table class=\"eqtable\" width=\"100%\">\n<tr>\n\t<th>Name</th><th>A</th><th>BS</th><th>D</th>\n</tr>\n<tr>\n\t<td>Firestorm</td><td>5</td><td>4+</td><td>2/2</td>\n</tr>\n<tr colspan=\"4\">\n<th>Special Rules</th>\n</tr>\n<tr>\n<td>Barrage, Blast [TRI], Indirect</td>\n</tr>\n</table>",
+            "eqpts": "0",
+            "eqseq": 20,
+            "eqtype": "Ability",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null
           }
         ],
         "killteamcomp": "A WARP COVEN killteam is composed of:\n<ul>\n\t<li>\n\t\t1 SORCERER operative equipped with a force stave and one of the following:\n\t\t<ul>\n\t\t\t<li>Inferno bolt pistol</li>\n\t\t\t<li>Prosperine khopesh</li>\n\t\t\t<li>Warpflame pistol (max one per kill team)</li>\n\t\t</ul>\n\t</li>\n    <li>\n\t\t10 WARPCOVEN operatives selected from the following list (ARCANA ASTARTES operatives count as two selections):\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\tSORCERER operative equipped with a force stave and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Inferno bolt pistol</li>\n\t\t\t\t\t<li>Prosperine khopesh</li>\n\t\t\t\t\t<li>Warpflame pistol (max one per kill team)</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>RUBRIC MARINE GUNNER operative equipped with fists and a warpflamer</li>\n\t\t\t<li>\n\t\t\t\tRUBRIC MARINE GUNNER operative equipped with fists and one of the following options:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Soulreaper cannon</li>\n\t\t\t\t\t<li>Warpflamer</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>RUBRIC MARINE ICON BEARER</li>\n\t\t\t<li>RUBRIC MARINE WARRIOR</li>\n\t\t\t<li>\n\t\t\t\tTZAANGOR CHAMPION operative equipped with one of the following options:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Tzaangor greataxe</li>\n\t\t\t\t\t<li>Tzaangor greatblade</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tTZAANGOR FIGHTER operative equipped with one of the following options:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Autopistol; chainsword</li>\n\t\t\t\t\t<li>Tzaangor blades</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>TZAANGOR HORN BEARER</li>\n\t\t\t<li>TZAANGOR ICON BEARER</li>\n\t\t</ul>\n\t</li>\n</ul>\n\nOther than SORCERER, RUBRIC MARINE WARRIOR and TZAANGOR FIGHTER operatives, your kill team can only include each operative above once.\n<br/>\nThis kill team can include up to three SORCERER operatives.\n<br/>\nYou cannot select a second GUNNER operative until your kill team includes four RUBRIC MARINE operatives.\n\nIn the Select a Kill Team step of the mission sequence, you must select one friendly SORCERER operative to gain the LEADER keyword for the battle.\n\n*If your kill team includes four or more ARCANA ASTARTES operatives, this kill team has the Security archetype. If your kill team includes five or more TZAANGOR operatives, this kill team has the Recon archetype.",
@@ -16246,7 +16414,7 @@
                     "opid": "GNR",
                     "abilityid": "AID",
                     "title": "All Is Dust",
-                    "description": "<li>Each time a shooting attack is made against this operative, if the ranged weapon has a Normal Damage characteristic of 3 or less, this operative is treated as having a Save characteristic of 2+ for that shooting attack.</li>\n<li>This operative cannot move more than 3 [CIRCLE] during its activation.</li>"
+                    "description": "<ul>\n<li>Each time a shooting attack is made against this operative, if the ranged weapon has a Normal Damage characteristic of 3 or less, this operative is treated as having a Save characteristic of 2+ for that shooting attack.</li>\n<li>This operative cannot move more than 3 [CIRCLE] during its activation.</li></ul>"
                   },
                   {
                     "factionid": "CHAOS",
@@ -16340,7 +16508,7 @@
                     "opid": "IB",
                     "abilityid": "AID",
                     "title": "All Is Dust",
-                    "description": "<li>Each time a shooting attack is made against this operative, if the ranged weapon has a Normal Damage characteristic of 3 or less, this operative is treated as having a Save characteristic of 2+ for that shooting attack.</li>\n<li>This operative cannot move more than 3 [CIRCLE] during its activation.</li>"
+                    "description": "<ul>\n<li>Each time a shooting attack is made against this operative, if the ranged weapon has a Normal Damage characteristic of 3 or less, this operative is treated as having a Save characteristic of 2+ for that shooting attack.</li>\n<li>This operative cannot move more than 3 [CIRCLE] during its activation.</li></ul>"
                   },
                   {
                     "factionid": "CHAOS",
@@ -16452,7 +16620,7 @@
                     "opid": "WAR",
                     "abilityid": "AID",
                     "title": "All Is Dust",
-                    "description": "<li>Each time a shooting attack is made against this operative, if the ranged weapon has a Normal Damage characteristic of 3 or less, this operative is treated as having a Save characteristic of 2+ for that shooting attack.</li>\n<li>This operative cannot move more than 3 [CIRCLE] during its activation.</li>"
+                    "description": "<ul>\n<li>Each time a shooting attack is made against this operative, if the ranged weapon has a Normal Damage characteristic of 3 or less, this operative is treated as having a Save characteristic of 2+ for that shooting attack.</li>\n<li>This operative cannot move more than 3 [CIRCLE] during its activation.</li></ul>"
                   },
                   {
                     "factionid": "CHAOS",
@@ -28745,7 +28913,7 @@
                     "opid": "SGT",
                     "abilityid": "1337",
                     "title": "Elite",
-                    "description": "<em>Kasrkin are highly disciplined, physically and mentally robust, and extremely well-trained.\nExperts in a wide array of wargear, they can march for long distances carrying heavy equipment and arrive at their destination ready to fight with furious determination.</em>\n<br/><br/>\nYou start the battle with a pool of 10 Elite points. Each time a friendly KASRKIN operative fights in combat or makes a shooting attack,\nin the Roll Attack Dice step of that combat or shooting attack, you can spend 1 or more of your Elite points to adjust one (and only one) of your dice.\nFor each point you spend, add 1 to the die result and reduce the number of Elite points in your pool by 1."
+                    "description": "<em class=\"noprint\">Kasrkin are highly disciplined, physically and mentally robust, and extremely well-trained.\nExperts in a wide array of wargear, they can march for long distances carrying heavy equipment and arrive at their destination ready to fight with furious determination.<br/><br/></em>\n\nYou start the battle with a pool of 10 Elite points. Each time a friendly KASRKIN operative fights in combat or makes a shooting attack,\nin the Roll Attack Dice step of that combat or shooting attack, you can spend 1 or more of your Elite points to adjust one (and only one) of your dice.\nFor each point you spend, add 1 to the die result and reduce the number of Elite points in your pool by 1."
                   },
                   {
                     "factionid": "IMP",
@@ -28850,7 +29018,7 @@
                     "opid": "MED",
                     "abilityid": "1337",
                     "title": "Elite",
-                    "description": "<em>Kasrkin are highly disciplined, physically and mentally robust, and extremely well-trained.\nExperts in a wide array of wargear, they can march for long distances carrying heavy equipment and arrive at their destination ready to fight with furious determination.</em>\n<br/><br/>\nYou start the battle with a pool of 10 Elite points. Each time a friendly KASRKIN operative fights in combat or makes a shooting attack,\nin the Roll Attack Dice step of that combat or shooting attack, you can spend 1 or more of your Elite points to adjust one (and only one) of your dice.\nFor each point you spend, add 1 to the die result and reduce the number of Elite points in your pool by 1."
+                    "description": "<em class=\"noprint\">Kasrkin are highly disciplined, physically and mentally robust, and extremely well-trained.\nExperts in a wide array of wargear, they can march for long distances carrying heavy equipment and arrive at their destination ready to fight with furious determination.<br/><br/></em>\n\nYou start the battle with a pool of 10 Elite points. Each time a friendly KASRKIN operative fights in combat or makes a shooting attack,\nin the Roll Attack Dice step of that combat or shooting attack, you can spend 1 or more of your Elite points to adjust one (and only one) of your dice.\nFor each point you spend, add 1 to the die result and reduce the number of Elite points in your pool by 1."
                   },
                   {
                     "factionid": "IMP",
@@ -28982,7 +29150,7 @@
                     "opid": "DEMO",
                     "abilityid": "1337",
                     "title": "Elite",
-                    "description": "<em>Kasrkin are highly disciplined, physically and mentally robust, and extremely well-trained.\nExperts in a wide array of wargear, they can march for long distances carrying heavy equipment and arrive at their destination ready to fight with furious determination.</em>\n<br/><br/>\nYou start the battle with a pool of 10 Elite points. Each time a friendly KASRKIN operative fights in combat or makes a shooting attack,\nin the Roll Attack Dice step of that combat or shooting attack, you can spend 1 or more of your Elite points to adjust one (and only one) of your dice.\nFor each point you spend, add 1 to the die result and reduce the number of Elite points in your pool by 1."
+                    "description": "<em class=\"noprint\">Kasrkin are highly disciplined, physically and mentally robust, and extremely well-trained.\nExperts in a wide array of wargear, they can march for long distances carrying heavy equipment and arrive at their destination ready to fight with furious determination.<br/><br/></em>\n\nYou start the battle with a pool of 10 Elite points. Each time a friendly KASRKIN operative fights in combat or makes a shooting attack,\nin the Roll Attack Dice step of that combat or shooting attack, you can spend 1 or more of your Elite points to adjust one (and only one) of your dice.\nFor each point you spend, add 1 to the die result and reduce the number of Elite points in your pool by 1."
                   },
                   {
                     "factionid": "IMP",
@@ -29219,7 +29387,7 @@
                     "opid": "GNR",
                     "abilityid": "1337",
                     "title": "Elite",
-                    "description": "<em>Kasrkin are highly disciplined, physically and mentally robust, and extremely well-trained.\nExperts in a wide array of wargear, they can march for long distances carrying heavy equipment and arrive at their destination ready to fight with furious determination.</em>\n<br/><br/>\nYou start the battle with a pool of 10 Elite points. Each time a friendly KASRKIN operative fights in combat or makes a shooting attack,\nin the Roll Attack Dice step of that combat or shooting attack, you can spend 1 or more of your Elite points to adjust one (and only one) of your dice.\nFor each point you spend, add 1 to the die result and reduce the number of Elite points in your pool by 1."
+                    "description": "<em class=\"noprint\">Kasrkin are highly disciplined, physically and mentally robust, and extremely well-trained.\nExperts in a wide array of wargear, they can march for long distances carrying heavy equipment and arrive at their destination ready to fight with furious determination.<br/><br/></em>\n\nYou start the battle with a pool of 10 Elite points. Each time a friendly KASRKIN operative fights in combat or makes a shooting attack,\nin the Roll Attack Dice step of that combat or shooting attack, you can spend 1 or more of your Elite points to adjust one (and only one) of your dice.\nFor each point you spend, add 1 to the die result and reduce the number of Elite points in your pool by 1."
                   }
                 ],
                 "fireteammax": 0
@@ -29315,7 +29483,7 @@
                     "opid": "REC",
                     "abilityid": "1337",
                     "title": "Elite",
-                    "description": "<em>Kasrkin are highly disciplined, physically and mentally robust, and extremely well-trained.\nExperts in a wide array of wargear, they can march for long distances carrying heavy equipment and arrive at their destination ready to fight with furious determination.</em>\n<br/><br/>\nYou start the battle with a pool of 10 Elite points. Each time a friendly KASRKIN operative fights in combat or makes a shooting attack,\nin the Roll Attack Dice step of that combat or shooting attack, you can spend 1 or more of your Elite points to adjust one (and only one) of your dice.\nFor each point you spend, add 1 to the die result and reduce the number of Elite points in your pool by 1."
+                    "description": "<em class=\"noprint\">Kasrkin are highly disciplined, physically and mentally robust, and extremely well-trained.\nExperts in a wide array of wargear, they can march for long distances carrying heavy equipment and arrive at their destination ready to fight with furious determination.<br/><br/></em>\n\nYou start the battle with a pool of 10 Elite points. Each time a friendly KASRKIN operative fights in combat or makes a shooting attack,\nin the Roll Attack Dice step of that combat or shooting attack, you can spend 1 or more of your Elite points to adjust one (and only one) of your dice.\nFor each point you spend, add 1 to the die result and reduce the number of Elite points in your pool by 1."
                   },
                   {
                     "factionid": "IMP",
@@ -29422,7 +29590,7 @@
                     "opid": "SS",
                     "abilityid": "1337",
                     "title": "Elite",
-                    "description": "<em>Kasrkin are highly disciplined, physically and mentally robust, and extremely well-trained.\nExperts in a wide array of wargear, they can march for long distances carrying heavy equipment and arrive at their destination ready to fight with furious determination.</em>\n<br/><br/>\nYou start the battle with a pool of 10 Elite points. Each time a friendly KASRKIN operative fights in combat or makes a shooting attack,\nin the Roll Attack Dice step of that combat or shooting attack, you can spend 1 or more of your Elite points to adjust one (and only one) of your dice.\nFor each point you spend, add 1 to the die result and reduce the number of Elite points in your pool by 1."
+                    "description": "<em class=\"noprint\">Kasrkin are highly disciplined, physically and mentally robust, and extremely well-trained.\nExperts in a wide array of wargear, they can march for long distances carrying heavy equipment and arrive at their destination ready to fight with furious determination.<br/><br/></em>\n\nYou start the battle with a pool of 10 Elite points. Each time a friendly KASRKIN operative fights in combat or makes a shooting attack,\nin the Roll Attack Dice step of that combat or shooting attack, you can spend 1 or more of your Elite points to adjust one (and only one) of your dice.\nFor each point you spend, add 1 to the die result and reduce the number of Elite points in your pool by 1."
                   },
                   {
                     "factionid": "IMP",
@@ -29516,7 +29684,7 @@
                     "opid": "TRP",
                     "abilityid": "1337",
                     "title": "Elite",
-                    "description": "<em>Kasrkin are highly disciplined, physically and mentally robust, and extremely well-trained.\nExperts in a wide array of wargear, they can march for long distances carrying heavy equipment and arrive at their destination ready to fight with furious determination.</em>\n<br/><br/>\nYou start the battle with a pool of 10 Elite points. Each time a friendly KASRKIN operative fights in combat or makes a shooting attack,\nin the Roll Attack Dice step of that combat or shooting attack, you can spend 1 or more of your Elite points to adjust one (and only one) of your dice.\nFor each point you spend, add 1 to the die result and reduce the number of Elite points in your pool by 1."
+                    "description": "<em class=\"noprint\">Kasrkin are highly disciplined, physically and mentally robust, and extremely well-trained.\nExperts in a wide array of wargear, they can march for long distances carrying heavy equipment and arrive at their destination ready to fight with furious determination.<br/><br/></em>\n\nYou start the battle with a pool of 10 Elite points. Each time a friendly KASRKIN operative fights in combat or makes a shooting attack,\nin the Roll Attack Dice step of that combat or shooting attack, you can spend 1 or more of your Elite points to adjust one (and only one) of your dice.\nFor each point you spend, add 1 to the die result and reduce the number of Elite points in your pool by 1."
                   },
                   {
                     "factionid": "IMP",
@@ -29621,7 +29789,7 @@
                     "opid": "VOX",
                     "abilityid": "1337",
                     "title": "Elite",
-                    "description": "<em>Kasrkin are highly disciplined, physically and mentally robust, and extremely well-trained.\nExperts in a wide array of wargear, they can march for long distances carrying heavy equipment and arrive at their destination ready to fight with furious determination.</em>\n<br/><br/>\nYou start the battle with a pool of 10 Elite points. Each time a friendly KASRKIN operative fights in combat or makes a shooting attack,\nin the Roll Attack Dice step of that combat or shooting attack, you can spend 1 or more of your Elite points to adjust one (and only one) of your dice.\nFor each point you spend, add 1 to the die result and reduce the number of Elite points in your pool by 1."
+                    "description": "<em class=\"noprint\">Kasrkin are highly disciplined, physically and mentally robust, and extremely well-trained.\nExperts in a wide array of wargear, they can march for long distances carrying heavy equipment and arrive at their destination ready to fight with furious determination.<br/><br/></em>\n\nYou start the battle with a pool of 10 Elite points. Each time a friendly KASRKIN operative fights in combat or makes a shooting attack,\nin the Roll Attack Dice step of that combat or shooting attack, you can spend 1 or more of your Elite points to adjust one (and only one) of your dice.\nFor each point you spend, add 1 to the die result and reduce the number of Elite points in your pool by 1."
                   }
                 ],
                 "fireteammax": 0
@@ -31571,7 +31739,7 @@
                     "opid": "INFSGT",
                     "abilityid": "OS",
                     "title": "Omni-Scrambler",
-                    "description": "<i>These devices allow Primaris Infiltrators to corrupt enemy vox-networks.\n They choke off signals beneath a shroud of machine-spirit interference and spread tactical paralysis through the ranks of the foe.</i>\n <br/><br/>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, if any friendly operatives with this ability are in the killzone,\n you can use this ability instead.\n If you do so, select one enemy operative Visible to any friendly operative with this ability; in the following Firefight Phase, that enemy operative is \n treated as having a Group Activation characteristic of 1, and cannot be activated or perform actions until one of the following is true:\n <ul>\n <li>A number of enemy operatives have been activated equal to the number of friendly operatives with this ability in the killzone at the start of the phase.</li>\n <li>It is the last enemy operative to be activated</li>\n </ul>"
+                    "description": "<i class=\"noprint\">These devices allow Primaris Infiltrators to corrupt enemy vox-networks.\n They choke off signals beneath a shroud of machine-spirit interference and spread tactical paralysis through the ranks of the foe.<br/><br/></i>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, if any friendly operatives with this ability are in the killzone,\n you can use this ability instead.\n If you do so, select one enemy operative Visible to any friendly operative with this ability; in the following Firefight Phase, that enemy operative is \n treated as having a Group Activation characteristic of 1, and cannot be activated or perform actions until one of the following is true:\n <ul>\n <li>A number of enemy operatives have been activated equal to the number of friendly operatives with this ability in the killzone at the start of the phase.</li>\n <li>It is the last enemy operative to be activated</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -31677,7 +31845,7 @@
                     "opid": "INCSGT",
                     "abilityid": "MSA",
                     "title": "Multi-Spectrum Array",
-                    "description": "<i>Feeding directly into the autosenses of its bearer, the Multi-Spectrum Array combines energistic augury with oracular vid-sweeps to reveal even cunningly concealed foes.</i>\n <br/><br/>\n When determining if an intended target is in this operative's Line Of Sight:\n <ul>\n <li>For the intended target to be Obscured, it must be more than 2[CIRCLE] (instead of [CIRCLE]) from a point at which a Cover line crosses a terrain feature that is Obscuring.</li>\n <li>Areas of smoke (e.g. Smoke Grenade) have no effect</li>\n </ul>"
+                    "description": "<i class=\"noprint\">Feeding directly into the autosenses of its bearer, the Multi-Spectrum Array combines energistic augury with oracular vid-sweeps to reveal even cunningly concealed foes.<br/><br/></i>\n When determining if an intended target is in this operative's Line Of Sight:\n <ul>\n <li>For the intended target to be Obscured, it must be more than 2[CIRCLE] (instead of [CIRCLE]) from a point at which a Cover line crosses a terrain feature that is Obscuring.</li>\n <li>Areas of smoke (e.g. Smoke Grenade) have no effect</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -31942,7 +32110,7 @@
                     "opid": "INFVET",
                     "abilityid": "OS",
                     "title": "Omni-Scrambler",
-                    "description": "<i>These devices allow Primaris Infiltrators to corrupt enemy vox-networks.\n They choke off signals beneath a shroud of machine-spirit interference and spread tactical paralysis through the ranks of the foe.</i>\n <br/><br/>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, if any friendly operatives with this ability are in the killzone,\n you can use this ability instead.\n If you do so, select one enemy operative Visible to any friendly operative with this ability; in the following Firefight Phase, that enemy operative is \n treated as having a Group Activation characteristic of 1, and cannot be activated or perform actions until one of the following is true:\n <ul>\n <li>A number of enemy operatives have been activated equal to the number of friendly operatives with this ability in the killzone at the start of the phase.</li>\n <li>It is the last enemy operative to be activated</li>\n </ul>"
+                    "description": "<i class=\"noprint\">These devices allow Primaris Infiltrators to corrupt enemy vox-networks.\n They choke off signals beneath a shroud of machine-spirit interference and spread tactical paralysis through the ranks of the foe.<br/><br/></i>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, if any friendly operatives with this ability are in the killzone,\n you can use this ability instead.\n If you do so, select one enemy operative Visible to any friendly operative with this ability; in the following Firefight Phase, that enemy operative is \n treated as having a Group Activation characteristic of 1, and cannot be activated or perform actions until one of the following is true:\n <ul>\n <li>A number of enemy operatives have been activated equal to the number of friendly operatives with this ability in the killzone at the start of the phase.</li>\n <li>It is the last enemy operative to be activated</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -32048,7 +32216,7 @@
                     "opid": "INFCOM",
                     "abilityid": "OS",
                     "title": "Omni-Scrambler",
-                    "description": "<i>These devices allow Primaris Infiltrators to corrupt enemy vox-networks.\n They choke off signals beneath a shroud of machine-spirit interference and spread tactical paralysis through the ranks of the foe.</i>\n <br/><br/>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, if any friendly operatives with this ability are in the killzone,\n you can use this ability instead.\n If you do so, select one enemy operative Visible to any friendly operative with this ability; in the following Firefight Phase, that enemy operative is \n treated as having a Group Activation characteristic of 1, and cannot be activated or perform actions until one of the following is true:\n <ul>\n <li>A number of enemy operatives have been activated equal to the number of friendly operatives with this ability in the killzone at the start of the phase.</li>\n <li>It is the last enemy operative to be activated</li>\n </ul>"
+                    "description": "<i class=\"noprint\">These devices allow Primaris Infiltrators to corrupt enemy vox-networks.\n They choke off signals beneath a shroud of machine-spirit interference and spread tactical paralysis through the ranks of the foe.<br/><br/></i>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, if any friendly operatives with this ability are in the killzone,\n you can use this ability instead.\n If you do so, select one enemy operative Visible to any friendly operative with this ability; in the following Firefight Phase, that enemy operative is \n treated as having a Group Activation characteristic of 1, and cannot be activated or perform actions until one of the following is true:\n <ul>\n <li>A number of enemy operatives have been activated equal to the number of friendly operatives with this ability in the killzone at the start of the phase.</li>\n <li>It is the last enemy operative to be activated</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -32163,7 +32331,7 @@
                     "opid": "INFHEL",
                     "abilityid": "OS",
                     "title": "Omni-Scrambler",
-                    "description": "<i>These devices allow Primaris Infiltrators to corrupt enemy vox-networks.\n They choke off signals beneath a shroud of machine-spirit interference and spread tactical paralysis through the ranks of the foe.</i>\n <br/><br/>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, if any friendly operatives with this ability are in the killzone,\n you can use this ability instead.\n If you do so, select one enemy operative Visible to any friendly operative with this ability; in the following Firefight Phase, that enemy operative is \n treated as having a Group Activation characteristic of 1, and cannot be activated or perform actions until one of the following is true:\n <ul>\n <li>A number of enemy operatives have been activated equal to the number of friendly operatives with this ability in the killzone at the start of the phase.</li>\n <li>It is the last enemy operative to be activated</li>\n </ul>"
+                    "description": "<i class=\"noprint\">These devices allow Primaris Infiltrators to corrupt enemy vox-networks.\n They choke off signals beneath a shroud of machine-spirit interference and spread tactical paralysis through the ranks of the foe.<br/><br/></i>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, if any friendly operatives with this ability are in the killzone,\n you can use this ability instead.\n If you do so, select one enemy operative Visible to any friendly operative with this ability; in the following Firefight Phase, that enemy operative is \n treated as having a Group Activation characteristic of 1, and cannot be activated or perform actions until one of the following is true:\n <ul>\n <li>A number of enemy operatives have been activated equal to the number of friendly operatives with this ability in the killzone at the start of the phase.</li>\n <li>It is the last enemy operative to be activated</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -32305,7 +32473,7 @@
                     "opid": "INFSAB",
                     "abilityid": "OS",
                     "title": "Omni-Scrambler",
-                    "description": "<i>These devices allow Primaris Infiltrators to corrupt enemy vox-networks.\n They choke off signals beneath a shroud of machine-spirit interference and spread tactical paralysis through the ranks of the foe.</i>\n <br/><br/>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, if any friendly operatives with this ability are in the killzone,\n you can use this ability instead.\n If you do so, select one enemy operative Visible to any friendly operative with this ability; in the following Firefight Phase, that enemy operative is \n treated as having a Group Activation characteristic of 1, and cannot be activated or perform actions until one of the following is true:\n <ul>\n <li>A number of enemy operatives have been activated equal to the number of friendly operatives with this ability in the killzone at the start of the phase.</li>\n <li>It is the last enemy operative to be activated</li>\n </ul>"
+                    "description": "<i class=\"noprint\">These devices allow Primaris Infiltrators to corrupt enemy vox-networks.\n They choke off signals beneath a shroud of machine-spirit interference and spread tactical paralysis through the ranks of the foe.<br/><br/></i>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, if any friendly operatives with this ability are in the killzone,\n you can use this ability instead.\n If you do so, select one enemy operative Visible to any friendly operative with this ability; in the following Firefight Phase, that enemy operative is \n treated as having a Group Activation characteristic of 1, and cannot be activated or perform actions until one of the following is true:\n <ul>\n <li>A number of enemy operatives have been activated equal to the number of friendly operatives with this ability in the killzone at the start of the phase.</li>\n <li>It is the last enemy operative to be activated</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -32411,7 +32579,7 @@
                     "opid": "INFVOX",
                     "abilityid": "OS",
                     "title": "Omni-Scrambler",
-                    "description": "<i>These devices allow Primaris Infiltrators to corrupt enemy vox-networks.\n They choke off signals beneath a shroud of machine-spirit interference and spread tactical paralysis through the ranks of the foe.</i>\n <br/><br/>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, if any friendly operatives with this ability are in the killzone,\n you can use this ability instead.\n If you do so, select one enemy operative Visible to any friendly operative with this ability; in the following Firefight Phase, that enemy operative is \n treated as having a Group Activation characteristic of 1, and cannot be activated or perform actions until one of the following is true:\n <ul>\n <li>A number of enemy operatives have been activated equal to the number of friendly operatives with this ability in the killzone at the start of the phase.</li>\n <li>It is the last enemy operative to be activated</li>\n </ul>"
+                    "description": "<i class=\"noprint\">These devices allow Primaris Infiltrators to corrupt enemy vox-networks.\n They choke off signals beneath a shroud of machine-spirit interference and spread tactical paralysis through the ranks of the foe.<br/><br/></i>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, if any friendly operatives with this ability are in the killzone,\n you can use this ability instead.\n If you do so, select one enemy operative Visible to any friendly operative with this ability; in the following Firefight Phase, that enemy operative is \n treated as having a Group Activation characteristic of 1, and cannot be activated or perform actions until one of the following is true:\n <ul>\n <li>A number of enemy operatives have been activated equal to the number of friendly operatives with this ability in the killzone at the start of the phase.</li>\n <li>It is the last enemy operative to be activated</li>\n </ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -32516,7 +32684,7 @@
                     "opid": "INFWAR",
                     "abilityid": "OS",
                     "title": "Omni-Scrambler",
-                    "description": "<i>These devices allow Primaris Infiltrators to corrupt enemy vox-networks.\n They choke off signals beneath a shroud of machine-spirit interference and spread tactical paralysis through the ranks of the foe.</i>\n <br/><br/>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, if any friendly operatives with this ability are in the killzone,\n you can use this ability instead.\n If you do so, select one enemy operative Visible to any friendly operative with this ability; in the following Firefight Phase, that enemy operative is \n treated as having a Group Activation characteristic of 1, and cannot be activated or perform actions until one of the following is true:\n <ul>\n <li>A number of enemy operatives have been activated equal to the number of friendly operatives with this ability in the killzone at the start of the phase.</li>\n <li>It is the last enemy operative to be activated</li>\n </ul>"
+                    "description": "<i class=\"noprint\">These devices allow Primaris Infiltrators to corrupt enemy vox-networks.\n They choke off signals beneath a shroud of machine-spirit interference and spread tactical paralysis through the ranks of the foe.<br/><br/></i>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, if any friendly operatives with this ability are in the killzone,\n you can use this ability instead.\n If you do so, select one enemy operative Visible to any friendly operative with this ability; in the following Firefight Phase, that enemy operative is \n treated as having a Group Activation characteristic of 1, and cannot be activated or perform actions until one of the following is true:\n <ul>\n <li>A number of enemy operatives have been activated equal to the number of friendly operatives with this ability in the killzone at the start of the phase.</li>\n <li>It is the last enemy operative to be activated</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -32622,7 +32790,7 @@
                     "opid": "INCMRK",
                     "abilityid": "MSA",
                     "title": "Multi-Spectrum Array",
-                    "description": "<i>Feeding directly into the autosenses of its bearer, the Multi-Spectrum Array combines energistic augury with oracular vid-sweeps to reveal even cunningly concealed foes.</i>\n <br/><br/>\n When determining if an intended target is in this operative's Line Of Sight:\n <ul>\n <li>For the intended target to be Obscured, it must be more than 2[CIRCLE] (instead of [CIRCLE]) from a point at which a Cover line crosses a terrain feature that is Obscuring.</li>\n <li>Areas of smoke (e.g. Smoke Grenade) have no effect</li>\n </ul>"
+                    "description": "<i class=\"noprint\">Feeding directly into the autosenses of its bearer, the Multi-Spectrum Array combines energistic augury with oracular vid-sweeps to reveal even cunningly concealed foes.<br/><br/></i>\n When determining if an intended target is in this operative's Line Of Sight:\n <ul>\n <li>For the intended target to be Obscured, it must be more than 2[CIRCLE] (instead of [CIRCLE]) from a point at which a Cover line crosses a terrain feature that is Obscuring.</li>\n <li>Areas of smoke (e.g. Smoke Grenade) have no effect</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -32764,7 +32932,7 @@
                     "opid": "INCML",
                     "abilityid": "MSA",
                     "title": "Multi-Spectrum Array",
-                    "description": "<i>Feeding directly into the autosenses of its bearer, the Multi-Spectrum Array combines energistic augury with oracular vid-sweeps to reveal even cunningly concealed foes.</i>\n <br/><br/>\n When determining if an intended target is in this operative's Line Of Sight:\n <ul>\n <li>For the intended target to be Obscured, it must be more than 2[CIRCLE] (instead of [CIRCLE]) from a point at which a Cover line crosses a terrain feature that is Obscuring.</li>\n <li>Areas of smoke (e.g. Smoke Grenade) have no effect</li>\n </ul>"
+                    "description": "<i class=\"noprint\">Feeding directly into the autosenses of its bearer, the Multi-Spectrum Array combines energistic augury with oracular vid-sweeps to reveal even cunningly concealed foes.<br/><br/></i>\n When determining if an intended target is in this operative's Line Of Sight:\n <ul>\n <li>For the intended target to be Obscured, it must be more than 2[CIRCLE] (instead of [CIRCLE]) from a point at which a Cover line crosses a terrain feature that is Obscuring.</li>\n <li>Areas of smoke (e.g. Smoke Grenade) have no effect</li>\n </ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -32869,7 +33037,7 @@
                     "opid": "INCWAR",
                     "abilityid": "MSA",
                     "title": "Multi-Spectrum Array",
-                    "description": "<i>Feeding directly into the autosenses of its bearer, the Multi-Spectrum Array combines energistic augury with oracular vid-sweeps to reveal even cunningly concealed foes.</i>\n <br/><br/>\n When determining if an intended target is in this operative's Line Of Sight:\n <ul>\n <li>For the intended target to be Obscured, it must be more than 2[CIRCLE] (instead of [CIRCLE]) from a point at which a Cover line crosses a terrain feature that is Obscuring.</li>\n <li>Areas of smoke (e.g. Smoke Grenade) have no effect</li>\n </ul>"
+                    "description": "<i class=\"noprint\">Feeding directly into the autosenses of its bearer, the Multi-Spectrum Array combines energistic augury with oracular vid-sweeps to reveal even cunningly concealed foes.<br/><br/></i>\n When determining if an intended target is in this operative's Line Of Sight:\n <ul>\n <li>For the intended target to be Obscured, it must be more than 2[CIRCLE] (instead of [CIRCLE]) from a point at which a Cover line crosses a terrain feature that is Obscuring.</li>\n <li>Areas of smoke (e.g. Smoke Grenade) have no effect</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -45467,7 +45635,17 @@
                   }
                 ],
                 "uniqueactions": [],
-                "abilities": [],
+                "abilities": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "BOY",
+                    "abilityid": "TS",
+                    "title": "Throat Slittas",
+                    "description": "This operative can perform a Charge action while it has a Conceal order."
+                  }
+                ],
                 "fireteammax": 0
               },
               {
@@ -45560,6 +45738,15 @@
                     "abilityid": "BRE",
                     "title": "Breach",
                     "description": "Each time this operative performs a Normal Move, Dash or Charge action, it can move through parts of terrain features that are no more than [TRI] thick as if they were not there."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "BRE",
+                    "abilityid": "TS",
+                    "title": "Throat Slittas",
+                    "description": "This operative can perform a Charge action while it has a Conceal order."
                   }
                 ],
                 "fireteammax": 0
@@ -45636,7 +45823,17 @@
                   }
                 ],
                 "uniqueactions": [],
-                "abilities": [],
+                "abilities": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "BUR",
+                    "abilityid": "TS",
+                    "title": "Throat Slittas",
+                    "description": "This operative can perform a Charge action while it has a Conceal order."
+                  }
+                ],
                 "fireteammax": 0
               },
               {
@@ -45731,6 +45928,15 @@
                     "abilityid": "IGAPL",
                     "title": "I Got A Plan, Ladz",
                     "description": "Once per Turning Point, during this operative’s activation, it can perform a mission or Pick Up action for one less AP (to a minimum of 0AP)."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "COM",
+                    "abilityid": "TS",
+                    "title": "Throat Slittas",
+                    "description": "This operative can perform a Charge action while it has a Conceal order."
                   }
                 ],
                 "fireteammax": 0
@@ -45818,7 +46024,17 @@
                     "AP": 1
                   }
                 ],
-                "abilities": [],
+                "abilities": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "DAK",
+                    "abilityid": "TS",
+                    "title": "Throat Slittas",
+                    "description": "This operative can perform a Charge action while it has a Conceal order."
+                  }
+                ],
                 "fireteammax": 0
               },
               {
@@ -45886,6 +46102,15 @@
                     "abilityid": "SZ",
                     "title": "Sneaky Zogger",
                     "description": "This operative cannot have an Engage order. In addition, this operative is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point)."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "GRT",
+                    "abilityid": "TS",
+                    "title": "Throat Slittas",
+                    "description": "This operative can perform a Charge action while it has a Conceal order."
                   }
                 ],
                 "fireteammax": 0
@@ -45998,6 +46223,15 @@
                     "abilityid": "GID",
                     "title": "Get It Dun!",
                     "description": "Each time this operative is activated, you can select one friendly KOMMANDO operative within [PENT] of and Visible to it. Add 1 to the selected operative’s APL."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "NOB",
+                    "abilityid": "TS",
+                    "title": "Throat Slittas",
+                    "description": "This operative can perform a Charge action while it has a Conceal order."
                   }
                 ],
                 "fireteammax": 0
@@ -46083,6 +46317,15 @@
                     "abilityid": "BB",
                     "title": "Boom Boy",
                     "description": "Each time this operative performs a Shoot action during its activation, in the Roll Attack Dice step of that action’s shooting attack, if it has not moved during that activation, you can re-roll any or all of your attack dice."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "RKT",
+                    "abilityid": "TS",
+                    "title": "Throat Slittas",
+                    "description": "This operative can perform a Charge action while it has a Conceal order."
                   }
                 ],
                 "fireteammax": 0
@@ -46168,6 +46411,15 @@
                     "abilityid": "DAYG",
                     "title": "Dat All You Got?",
                     "description": "Each time after this operative fights in combat, if it lost any wounds in that combat but was not incapacitated, you can roll one D6: on a 4+,the enemy operative that fought it in that combat suffers 2 mortal wounds."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "SLA",
+                    "abilityid": "TS",
+                    "title": "Throat Slittas",
+                    "description": "This operative can perform a Charge action while it has a Conceal order."
                   }
                 ],
                 "fireteammax": 0
@@ -46265,7 +46517,17 @@
                     "AP": 2
                   }
                 ],
-                "abilities": [],
+                "abilities": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "SNP",
+                    "abilityid": "TS",
+                    "title": "Throat Slittas",
+                    "description": "This operative can perform a Charge action while it has a Conceal order."
+                  }
+                ],
                 "fireteammax": 0
               }
             ],
@@ -53926,7 +54188,7 @@
               "ployname": "Lurk",
               "ploytype": "S",
               "CP": "1",
-              "description": "Until the end of the Turning Point, each time a shooting attack is made against a friendly HIVE FLEET operative, in the Roll Defence Dice step of that shooting attack, before rolling your Defence dice, if it is in Cover and either has a Conceal order or is ready, one additional die can be retained as a successful normal save as a result of Cover."
+              "description": "Until the end of the Turning Point, each time a shooting attack is made against a friendly HIVE FLEET operative, in the Roll Defence Dice step of that shooting attack, before rolling your Defence dice, if it is in Cover and either has a Conceal order or is ready, one additional die can be retained as a successful normal save as a result of Cover, regardless of any rules that treat the operative as having an Engage order (e.g. Vantage Point)."
             },
             {
               "factionid": "TYR",
