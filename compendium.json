@@ -23406,7 +23406,7 @@
                     "fireteamid": "HC",
                     "opid": "SKVA",
                     "abilityid": "RS",
-                    "title": "Red Saturation",
+                    "title": "Rad-Saturation",
                     "description": "While an enemy operative is Visible to and within [CIRCLE] of friendly operatives with this ability, that enemy operative is treated as being injured  (only subtract [CIRCLE] from that enemy operative's Movement characteristic as a result of it being injured if it is activated, Visible to, and within [CIRCLE] of friendly operatives with this ability)."
                   }
                 ],
@@ -23502,7 +23502,7 @@
                     "fireteamid": "HC",
                     "opid": "SKVD",
                     "abilityid": "RS",
-                    "title": "Red Saturation",
+                    "title": "Rad-Saturation",
                     "description": "While an enemy operative is Visible to and within [CIRCLE] of friendly operatives with this ability, that enemy operative is treated as being injured  (only subtract [CIRCLE] from that enemy operative's Movement characteristic as a result of it being injured if it is activated, Visible to, and within [CIRCLE] of friendly operatives with this ability)."
                   }
                 ],
@@ -23654,7 +23654,7 @@
                     "fireteamid": "HC",
                     "opid": "SKVG",
                     "abilityid": "RS",
-                    "title": "Red Saturation",
+                    "title": "Rad-Saturation",
                     "description": "While an enemy operative is Visible to and within [CIRCLE] of friendly operatives with this ability, that enemy operative is treated as being injured  (only subtract [CIRCLE] from that enemy operative's Movement characteristic as a result of it being injured if it is activated, Visible to, and within [CIRCLE] of friendly operatives with this ability)."
                   }
                 ],
@@ -23739,7 +23739,7 @@
                     "fireteamid": "HC",
                     "opid": "SKVST",
                     "abilityid": "RS",
-                    "title": "Red-Saturation",
+                    "title": "Rad-Saturation",
                     "description": "While an enemy operative is Visible to and within [CIRCLE] of friendly operatives with this ability, that enemy operative is treated as being injured  (only subtract [CIRCLE] from that enemy operative's Movement characteristic as a result of it being injured if it is activated, Visible to, and within [CIRCLE] of friendly operatives with this ability)."
                   }
                 ],
@@ -23835,7 +23835,7 @@
                     "fireteamid": "HC",
                     "opid": "SKVS",
                     "abilityid": "RS",
-                    "title": "Red Saturation",
+                    "title": "Rad-Saturation",
                     "description": "While an enemy operative is Visible to and within [CIRCLE] of friendly operatives with this ability, that enemy operative is treated as being injured  (only subtract [CIRCLE] from that enemy operative's Movement characteristic as a result of it being injured if it is activated, Visible to, and within [CIRCLE] of friendly operatives with this ability)."
                   }
                 ],
