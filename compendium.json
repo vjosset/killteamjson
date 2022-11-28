@@ -6438,7 +6438,7 @@
                     "opid": "BRG",
                     "abilityid": "BLD",
                     "title": "Blooded",
-                    "description": "<i>\nHaving cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\nTo this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n</i>\n<br/><br/>\nKeep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n<ul>\n<li>At the start of each initiative phase</li>\n<li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n<li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n</ul>\nOnce in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\nEach operative can have no more than one Blooded token.<br/>\nIn each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n<br/><br/>\nEach time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\nbefore rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\nIf that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
+                    "description": "<i class=\"noprint\">Having cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\n To this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n <br/><br/></i>\n \n Keep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n <ul>\n <li>At the start of each initiative phase</li>\n <li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n <li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n </ul>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\n Each operative can have no more than one Blooded token.<br/>\n In each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n <br/>\n Each time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\n before rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\n If that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
                   },
                   {
                     "factionid": "CHAOS",
@@ -6514,7 +6514,7 @@
                     "opid": "BUT",
                     "abilityid": "BLD",
                     "title": "Blooded",
-                    "description": "<i>\nHaving cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\nTo this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n</i>\n<br/><br/>\nKeep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n<ul>\n<li>At the start of each initiative phase</li>\n<li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n<li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n</ul>\nOnce in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\nEach operative can have no more than one Blooded token.<br/>\nIn each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n<br/><br/>\nEach time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\nbefore rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\nIf that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
+                    "description": "<i class=\"noprint\">Having cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\n To this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n <br/><br/></i>\n \n Keep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n <ul>\n <li>At the start of each initiative phase</li>\n <li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n <li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n </ul>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\n Each operative can have no more than one Blooded token.<br/>\n In each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n <br/>\n Each time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\n before rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\n If that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
                   },
                   {
                     "factionid": "CHAOS",
@@ -6828,7 +6828,7 @@
                     "opid": "CHIEF",
                     "abilityid": "BLD",
                     "title": "Blooded",
-                    "description": "<i>\nHaving cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\nTo this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n</i>\n<br/><br/>\nKeep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n<ul>\n<li>At the start of each initiative phase</li>\n<li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n<li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n</ul>\nOnce in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\nEach operative can have no more than one Blooded token.<br/>\nIn each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n<br/><br/>\nEach time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\nbefore rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\nIf that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
+                    "description": "<i class=\"noprint\">Having cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\n To this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n <br/><br/></i>\n \n Keep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n <ul>\n <li>At the start of each initiative phase</li>\n <li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n <li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n </ul>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\n Each operative can have no more than one Blooded token.<br/>\n In each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n <br/>\n Each time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\n before rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\n If that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
                   },
                   {
                     "factionid": "CHAOS",
@@ -6943,7 +6943,7 @@
                     "opid": "COMMS",
                     "abilityid": "BLD",
                     "title": "Blooded",
-                    "description": "<i>\nHaving cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\nTo this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n</i>\n<br/><br/>\nKeep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n<ul>\n<li>At the start of each initiative phase</li>\n<li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n<li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n</ul>\nOnce in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\nEach operative can have no more than one Blooded token.<br/>\nIn each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n<br/><br/>\nEach time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\nbefore rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\nIf that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
+                    "description": "<i class=\"noprint\">Having cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\n To this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n <br/><br/></i>\n \n Keep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n <ul>\n <li>At the start of each initiative phase</li>\n <li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n <li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n </ul>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\n Each operative can have no more than one Blooded token.<br/>\n In each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n <br/>\n Each time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\n before rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\n If that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
                   }
                 ],
                 "fireteammax": 0
@@ -7066,7 +7066,7 @@
                     "opid": "CORPSE",
                     "abilityid": "BLD",
                     "title": "Blooded",
-                    "description": "<i>\nHaving cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\nTo this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n</i>\n<br/><br/>\nKeep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n<ul>\n<li>At the start of each initiative phase</li>\n<li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n<li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n</ul>\nOnce in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\nEach operative can have no more than one Blooded token.<br/>\nIn each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n<br/><br/>\nEach time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\nbefore rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\nIf that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
+                    "description": "<i class=\"noprint\">Having cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\n To this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n <br/><br/></i>\n \n Keep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n <ul>\n <li>At the start of each initiative phase</li>\n <li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n <li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n </ul>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\n Each operative can have no more than one Blooded token.<br/>\n In each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n <br/>\n Each time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\n before rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\n If that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
                   },
                   {
                     "factionid": "CHAOS",
@@ -7171,7 +7171,7 @@
                     "opid": "ENF",
                     "abilityid": "BLD",
                     "title": "Blooded",
-                    "description": "<i>\nHaving cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\nTo this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n</i>\n<br/><br/>\nKeep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n<ul>\n<li>At the start of each initiative phase</li>\n<li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n<li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n</ul>\nOnce in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\nEach operative can have no more than one Blooded token.<br/>\nIn each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n<br/><br/>\nEach time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\nbefore rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\nIf that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
+                    "description": "<i class=\"noprint\">Having cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\n To this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n <br/><br/></i>\n \n Keep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n <ul>\n <li>At the start of each initiative phase</li>\n <li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n <li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n </ul>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\n Each operative can have no more than one Blooded token.<br/>\n In each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n <br/>\n Each time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\n before rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\n If that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
                   },
                   {
                     "factionid": "CHAOS",
@@ -7238,7 +7238,7 @@
                     "opid": "FLN",
                     "abilityid": "BLD",
                     "title": "Blooded",
-                    "description": "<i>\nHaving cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\nTo this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n</i>\n<br/><br/>\nKeep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n<ul>\n<li>At the start of each initiative phase</li>\n<li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n<li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n</ul>\nOnce in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\nEach operative can have no more than one Blooded token.<br/>\nIn each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n<br/><br/>\nEach time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\nbefore rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\nIf that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
+                    "description": "<i class=\"noprint\">Having cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\n To this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n <br/><br/></i>\n \n Keep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n <ul>\n <li>At the start of each initiative phase</li>\n <li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n <li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n </ul>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\n Each operative can have no more than one Blooded token.<br/>\n In each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n <br/>\n Each time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\n before rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\n If that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
                   },
                   {
                     "factionid": "CHAOS",
@@ -7448,7 +7448,7 @@
                     "opid": "GNR",
                     "abilityid": "BLD",
                     "title": "Blooded",
-                    "description": "<i>\nHaving cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\nTo this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n</i>\n<br/><br/>\nKeep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n<ul>\n<li>At the start of each initiative phase</li>\n<li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n<li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n</ul>\nOnce in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\nEach operative can have no more than one Blooded token.<br/>\nIn each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n<br/><br/>\nEach time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\nbefore rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\nIf that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
+                    "description": "<i class=\"noprint\">Having cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\n To this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n <br/><br/></i>\n \n Keep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n <ul>\n <li>At the start of each initiative phase</li>\n <li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n <li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n </ul>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\n Each operative can have no more than one Blooded token.<br/>\n In each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n <br/>\n Each time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\n before rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\n If that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
                   }
                 ],
                 "fireteammax": 0
@@ -7515,7 +7515,7 @@
                     "opid": "OGR",
                     "abilityid": "BLD",
                     "title": "Blooded",
-                    "description": "<i>\nHaving cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\nTo this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n</i>\n<br/><br/>\nKeep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n<ul>\n<li>At the start of each initiative phase</li>\n<li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n<li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n</ul>\nOnce in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\nEach operative can have no more than one Blooded token.<br/>\nIn each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n<br/><br/>\nEach time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\nbefore rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\nIf that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
+                    "description": "<i class=\"noprint\">Having cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\n To this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n <br/><br/></i>\n \n Keep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n <ul>\n <li>At the start of each initiative phase</li>\n <li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n <li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n </ul>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\n Each operative can have no more than one Blooded token.<br/>\n In each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n <br/>\n Each time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\n before rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\n If that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
                   },
                   {
                     "factionid": "CHAOS",
@@ -7618,7 +7618,7 @@
                     "opid": "SS",
                     "abilityid": "BLD",
                     "title": "Blooded",
-                    "description": "<i>\nHaving cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\nTo this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n</i>\n<br/><br/>\nKeep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n<ul>\n<li>At the start of each initiative phase</li>\n<li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n<li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n</ul>\nOnce in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\nEach operative can have no more than one Blooded token.<br/>\nIn each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n<br/><br/>\nEach time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\nbefore rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\nIf that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
+                    "description": "<i class=\"noprint\">Having cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\n To this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n <br/><br/></i>\n \n Keep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n <ul>\n <li>At the start of each initiative phase</li>\n <li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n <li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n </ul>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\n Each operative can have no more than one Blooded token.<br/>\n In each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n <br/>\n Each time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\n before rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\n If that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
                   },
                   {
                     "factionid": "CHAOS",
@@ -7685,7 +7685,7 @@
                     "opid": "THUG",
                     "abilityid": "BLD",
                     "title": "Blooded",
-                    "description": "<i>\nHaving cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\nTo this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n</i>\n<br/><br/>\nKeep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n<ul>\n<li>At the start of each initiative phase</li>\n<li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n<li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n</ul>\nOnce in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\nEach operative can have no more than one Blooded token.<br/>\nIn each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n<br/><br/>\nEach time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\nbefore rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\nIf that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
+                    "description": "<i class=\"noprint\">Having cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\n To this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n <br/><br/></i>\n \n Keep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n <ul>\n <li>At the start of each initiative phase</li>\n <li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n <li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n </ul>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\n Each operative can have no more than one Blooded token.<br/>\n In each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n <br/>\n Each time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\n before rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\n If that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
                   },
                   {
                     "factionid": "CHAOS",
@@ -7779,7 +7779,7 @@
                     "opid": "TRSW",
                     "abilityid": "BLD",
                     "title": "Blooded",
-                    "description": "<i>\nHaving cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\nTo this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n</i>\n<br/><br/>\nKeep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n<ul>\n<li>At the start of each initiative phase</li>\n<li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n<li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n</ul>\nOnce in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\nEach operative can have no more than one Blooded token.<br/>\nIn each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n<br/><br/>\nEach time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\nbefore rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\nIf that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
+                    "description": "<i class=\"noprint\">Having cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\n To this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n <br/><br/></i>\n \n Keep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n <ul>\n <li>At the start of each initiative phase</li>\n <li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n <li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n </ul>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\n Each operative can have no more than one Blooded token.<br/>\n In each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n <br/>\n Each time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\n before rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\n If that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
                   },
                   {
                     "factionid": "CHAOS",
@@ -7882,7 +7882,7 @@
                     "opid": "TRP",
                     "abilityid": "BLD",
                     "title": "Blooded",
-                    "description": "<i>\nHaving cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\nTo this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n</i>\n<br/><br/>\nKeep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n<ul>\n<li>At the start of each initiative phase</li>\n<li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n<li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n</ul>\nOnce in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\nEach operative can have no more than one Blooded token.<br/>\nIn each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n<br/><br/>\nEach time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\nbefore rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\nIf that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
+                    "description": "<i class=\"noprint\">Having cast aside their oaths of loyalty to the Golden Throne, these Traitor Guardsmen now seek to catch the eye of a Dark God.\n To this end, they make the battlefield into their sacrificial altar, risking acts of insane bravado to spill enemy blood, and perhaps earn fleeting rewards fo unholy power.\n <br/><br/></i>\n \n Keep a pool of Blooded tokens. Add a Blooded token to your pool as follows:\n <ul>\n <li>At the start of each initiative phase</li>\n <li>The first time an enemy operative is incapacitated in each Turning Poit</li>\n <li>The first time a friendly operative is incapacitated within [PENT] of an enemy operative in each Turning Point</li>\n </ul>\n Once in each Strategy Phase, when it is your turn to use a Strategic Ploy or pass, you can assign any or all of your Blooded tokens from your pool to friendly BLOODED operatives in the killzone.\n Each operative can have no more than one Blooded token.<br/>\n In each Strategy Phase, after assigning your Blooded tokens (if any), if four or more friendly operatives in the killzone have Blooded tokens, you can select one of them to be under the gaze of the Gods until the end of the Turning Point.\n <br/>\n Each time a friendly BLOODED operative that has a Blooded token fights in combat or makes a shooting attack, in the Roll Attack Dice step of that combat or shooting attack,\n before rolling your Attack Dice, you can retain one as a successful normal hit without rolling it.\n If that friendly BLOODED operative is under the gaze of the Gods, you can retain one as a successful critical hit instead."
                   }
                 ],
                 "fireteammax": 0
@@ -24090,13 +24090,182 @@
                 "factionid": "IMP",
                 "killteamid": "IG",
                 "fireteamid": "GM",
-                "opid": "COMMS",
+                "opid": "SGT",
                 "opseq": 0,
+                "opname": "Guardsman Sergeant",
+                "description": "Guardsman Sergeants coordinate their team with grizzled experience and tactical nous, enforcing their superiors' orders to ensure the success of the mission.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "8",
+                "keywords": "IMPERIAL GUARD, IMPERIUM, ASTRA MILITARUM, <REGIMENT>, LEADER, GUARDSMAN, GUNNER",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "IG",
+                    "fireteamid": "GM",
+                    "opid": "SGT",
+                    "wepid": "BP",
+                    "wepseq": 0,
+                    "wepname": "Bolt Pistol",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "IG",
+                        "fireteamid": "GM",
+                        "opid": "SGT",
+                        "wepid": "BP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT]"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "IG",
+                    "fireteamid": "GM",
+                    "opid": "SGT",
+                    "wepid": "LP",
+                    "wepseq": 0,
+                    "wepname": "Laspistol",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "IG",
+                        "fireteamid": "GM",
+                        "opid": "SGT",
+                        "wepid": "LP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2/3",
+                        "SR": "Rng [PENT]"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "IG",
+                    "fireteamid": "GM",
+                    "opid": "SGT",
+                    "wepid": "PP",
+                    "wepseq": 0,
+                    "wepname": "Plasma Pistol",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "IG",
+                        "fireteamid": "GM",
+                        "opid": "SGT",
+                        "wepid": "PP",
+                        "profileid": "0",
+                        "name": "Standard",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "5/6",
+                        "SR": "Rng [PENT], AP1"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "IG",
+                        "fireteamid": "GM",
+                        "opid": "SGT",
+                        "wepid": "PP",
+                        "profileid": "1",
+                        "name": "Supercharge",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "5/6",
+                        "SR": "Rng [PENT], AP2, Hot"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "IG",
+                    "fireteamid": "GM",
+                    "opid": "SGT",
+                    "wepid": "CS",
+                    "wepseq": 0,
+                    "wepname": "Chainsword",
+                    "weptype": "M",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "IG",
+                        "fireteamid": "GM",
+                        "opid": "SGT",
+                        "wepid": "CS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "IG",
+                    "fireteamid": "GM",
+                    "opid": "SGT",
+                    "wepid": "PW",
+                    "wepseq": 0,
+                    "wepname": "Power Weapon",
+                    "weptype": "M",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "IG",
+                        "fireteamid": "GM",
+                        "opid": "SGT",
+                        "wepid": "PW",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "4/6",
+                        "SR": "Lethal 5+"
+                      }
+                    ],
+                    "isselected": false
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "IG",
+                "fireteamid": "GM",
+                "opid": "COMMS",
+                "opseq": 1,
                 "opname": "Guardsman Comms",
                 "description": "Equipped with heavy vox-casters, comms specialists keep the team tethered to their regiment's rigid hierarchy of command, enabling them to relay their comanders' orders while reporting back on enemy troop movements or spotting for artillery.",
                 "M": "3[CIRCLE]",
                 "APL": "2",
-                "GA": "2",
+                "GA": "1",
                 "DF": "3",
                 "SV": "5+",
                 "W": "7",
@@ -24187,12 +24356,12 @@
                 "killteamid": "IG",
                 "fireteamid": "GM",
                 "opid": "GNR",
-                "opseq": 0,
+                "opseq": 2,
                 "opname": "Guardsman Gunner",
                 "description": "These Guardsmen are often the team's sharpshooters, issued with additional  training for the heavier weaponry they carry, and supporting their fellow soldiers with devastating anti-armour firepower, incinerating blazes, and pinpoint sniper fire.",
                 "M": "3[CIRCLE]",
                 "APL": "2",
-                "GA": "2",
+                "GA": "1",
                 "DF": "3",
                 "SV": "5+",
                 "W": "7",
@@ -24395,177 +24564,8 @@
                 "factionid": "IMP",
                 "killteamid": "IG",
                 "fireteamid": "GM",
-                "opid": "SGT",
-                "opseq": 0,
-                "opname": "Guardsman Sergeant",
-                "description": "Guardsman Sergeants coordinate their team with grizzled experience and tactical nous, enforcing their superiors' orders to ensure the success of the mission.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "5+",
-                "W": "8",
-                "keywords": "IMPERIAL GUARD, IMPERIUM, ASTRA MILITARUM, <REGIMENT>, LEADER, GUARDSMAN, GUNNER",
-                "weapons": [
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "IG",
-                    "fireteamid": "GM",
-                    "opid": "SGT",
-                    "wepid": "BP",
-                    "wepseq": 0,
-                    "wepname": "Bolt Pistol",
-                    "weptype": "R",
-                    "isdefault": 0,
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "IG",
-                        "fireteamid": "GM",
-                        "opid": "SGT",
-                        "wepid": "BP",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "3/4",
-                        "SR": "Rng [PENT]"
-                      }
-                    ],
-                    "isselected": false
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "IG",
-                    "fireteamid": "GM",
-                    "opid": "SGT",
-                    "wepid": "LP",
-                    "wepseq": 0,
-                    "wepname": "Laspistol",
-                    "weptype": "R",
-                    "isdefault": 0,
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "IG",
-                        "fireteamid": "GM",
-                        "opid": "SGT",
-                        "wepid": "LP",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "2/3",
-                        "SR": "Rng [PENT]"
-                      }
-                    ],
-                    "isselected": false
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "IG",
-                    "fireteamid": "GM",
-                    "opid": "SGT",
-                    "wepid": "PP",
-                    "wepseq": 0,
-                    "wepname": "Plasma Pistol",
-                    "weptype": "R",
-                    "isdefault": 0,
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "IG",
-                        "fireteamid": "GM",
-                        "opid": "SGT",
-                        "wepid": "PP",
-                        "profileid": "0",
-                        "name": "Standard",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "5/6",
-                        "SR": "Rng [PENT], AP1"
-                      },
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "IG",
-                        "fireteamid": "GM",
-                        "opid": "SGT",
-                        "wepid": "PP",
-                        "profileid": "1",
-                        "name": "Supercharge",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "5/6",
-                        "SR": "Rng [PENT], AP2, Hot"
-                      }
-                    ],
-                    "isselected": false
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "IG",
-                    "fireteamid": "GM",
-                    "opid": "SGT",
-                    "wepid": "CS",
-                    "wepseq": 0,
-                    "wepname": "Chainsword",
-                    "weptype": "M",
-                    "isdefault": 0,
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "IG",
-                        "fireteamid": "GM",
-                        "opid": "SGT",
-                        "wepid": "CS",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "4+",
-                        "D": "3/4",
-                        "SR": ""
-                      }
-                    ],
-                    "isselected": false
-                  },
-                  {
-                    "factionid": "IMP",
-                    "killteamid": "IG",
-                    "fireteamid": "GM",
-                    "opid": "SGT",
-                    "wepid": "PW",
-                    "wepseq": 0,
-                    "wepname": "Power Weapon",
-                    "weptype": "M",
-                    "isdefault": 0,
-                    "profiles": [
-                      {
-                        "factionid": "IMP",
-                        "killteamid": "IG",
-                        "fireteamid": "GM",
-                        "opid": "SGT",
-                        "wepid": "PW",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "4+",
-                        "D": "4/6",
-                        "SR": "Lethal 5+"
-                      }
-                    ],
-                    "isselected": false
-                  }
-                ],
-                "uniqueactions": [],
-                "abilities": [],
-                "fireteammax": 0
-              },
-              {
-                "factionid": "IMP",
-                "killteamid": "IG",
-                "fireteamid": "GM",
                 "opid": "TRP",
-                "opseq": 0,
+                "opseq": 3,
                 "opname": "Guardsman Trooper",
                 "description": "Grunts of the Imperial Guard, Guradsmen are recruited, trained, and equipped in their millions to doggedly fight wherever the Imperium needs them. They carry varying patterns of the dependable lasgun, along with any extra kit the manage to acquire.",
                 "M": "3[CIRCLE]",
@@ -24858,7 +24858,7 @@
                 "killteamid": "IG",
                 "fireteamid": "TS",
                 "opid": "COMMS",
-                "opseq": 0,
+                "opseq": 1,
                 "opname": "Tempestus Scion Comms",
                 "description": "Bearing advanced vox-casters, these Scions provide updated tactical information, keeping their team in contact with regimental headquarters. Some are also trained in counter-intelligence and the interception of signals, allowing their team to outmanoeuvre the foe.",
                 "M": "3[CIRCLE]",
@@ -24944,7 +24944,7 @@
                 "killteamid": "IG",
                 "fireteamid": "TS",
                 "opid": "GNR",
-                "opseq": 0,
+                "opseq": 2,
                 "opname": "Tempestus Scion Gunner",
                 "description": "Tempestus Scions are an elite force within the Astra Militarum, equipped with specialist wargear to conduct dangerous missions. They typically bear high-powered hot-shot lasguns and wear dense carapace armour that provides extra protection in deadly kill zones.",
                 "M": "3[CIRCLE]",
@@ -25153,7 +25153,7 @@
                 "killteamid": "IG",
                 "fireteamid": "TS",
                 "opid": "TRP",
-                "opseq": 0,
+                "opseq": 3,
                 "opname": "Tempestus Scion Trooper",
                 "description": "Tempestus Scions are an elite force within the Astra Militarum, equipped with specialist wargear to conduct dangerous missions. They typically bear high-powered hot-shot lasguns and wear dense carapace armour that provides extra protection in deadly kill zones.",
                 "M": "3[CIRCLE]",
@@ -25675,7 +25675,7 @@
                     "opid": "SGT",
                     "abilityid": "BAC",
                     "title": "Breach And Clear",
-                    "description": "<i>Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.</i><br/><br/>\nOnce per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\nIf you do so:\n<ul>\n<li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n<li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n<li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n</ul>"
+                    "description": "<i class=\"noprint\">Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.<br/><br/></i>\n Once per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\n If you do so:\n <ul>\n <li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n <li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n <li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n </ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -25693,7 +25693,7 @@
                     "opid": "SGT",
                     "abilityid": "VA",
                     "title": "Void Armour",
-                    "description": "<i>The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.</i><br/><br/>\n<ul>\n<li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n<li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n</ul>"
+                    "description": "<i class=\"noprint\">The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.<br/><br/></i>\n <ul>\n <li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n <li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -25791,7 +25791,7 @@
                     "opid": "ARM",
                     "abilityid": "BAC",
                     "title": "Breach And Clear",
-                    "description": "<i>Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.</i><br/><br/>\nOnce per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\nIf you do so:\n<ul>\n<li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n<li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n<li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n</ul>"
+                    "description": "<i class=\"noprint\">Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.<br/><br/></i>\n Once per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\n If you do so:\n <ul>\n <li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n <li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n <li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n </ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -25800,7 +25800,7 @@
                     "opid": "ARM",
                     "abilityid": "VA",
                     "title": "Void Armour",
-                    "description": "<i>The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.</i><br/><br/>\n<ul>\n<li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n<li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n</ul>"
+                    "description": "<i class=\"noprint\">The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.<br/><br/></i>\n <ul>\n <li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n <li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -25896,7 +25896,7 @@
                     "opid": "AXE",
                     "abilityid": "BAC",
                     "title": "Breach And Clear",
-                    "description": "<i>Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.</i><br/><br/>\nOnce per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\nIf you do so:\n<ul>\n<li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n<li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n<li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n</ul>"
+                    "description": "<i class=\"noprint\">Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.<br/><br/></i>\n Once per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\n If you do so:\n <ul>\n <li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n <li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n <li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n </ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -25914,7 +25914,7 @@
                     "opid": "AXE",
                     "abilityid": "VA",
                     "title": "Void Armour",
-                    "description": "<i>The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.</i><br/><br/>\n<ul>\n<li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n<li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n</ul>"
+                    "description": "<i class=\"noprint\">The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.<br/><br/></i>\n <ul>\n <li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n <li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -25944,7 +25944,7 @@
                     "opid": "CAT",
                     "abilityid": "BAC",
                     "title": "Breach And Clear",
-                    "description": "<i>Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.</i><br/><br/>\nOnce per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\nIf you do so:\n<ul>\n<li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n<li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n<li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n</ul>"
+                    "description": "<i class=\"noprint\">Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.<br/><br/></i>\n Once per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\n If you do so:\n <ul>\n <li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n <li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n <li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n </ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -26080,7 +26080,7 @@
                     "opid": "END",
                     "abilityid": "BAC",
                     "title": "Breach And Clear",
-                    "description": "<i>Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.</i><br/><br/>\nOnce per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\nIf you do so:\n<ul>\n<li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n<li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n<li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n</ul>"
+                    "description": "<i class=\"noprint\">Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.<br/><br/></i>\n Once per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\n If you do so:\n <ul>\n <li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n <li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n <li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n </ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -26107,7 +26107,7 @@
                     "opid": "END",
                     "abilityid": "VA",
                     "title": "Void Armour",
-                    "description": "<i>The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.</i><br/><br/>\n<ul>\n<li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n<li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n</ul>"
+                    "description": "<i class=\"noprint\">The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.<br/><br/></i>\n <ul>\n <li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n <li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -26148,7 +26148,7 @@
                     "opid": "GS",
                     "abilityid": "BAC",
                     "title": "Breach And Clear",
-                    "description": "<i>Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.</i><br/><br/>\nOnce per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\nIf you do so:\n<ul>\n<li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n<li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n<li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n</ul>"
+                    "description": "<i class=\"noprint\">Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.<br/><br/></i>\n Once per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\n If you do so:\n <ul>\n <li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n <li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n <li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n </ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -26345,7 +26345,7 @@
                     "opid": "GRN",
                     "abilityid": "BAC",
                     "title": "Breach And Clear",
-                    "description": "<i>Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.</i><br/><br/>\nOnce per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\nIf you do so:\n<ul>\n<li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n<li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n<li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n</ul>"
+                    "description": "<i class=\"noprint\">Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.<br/><br/></i>\n Once per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\n If you do so:\n <ul>\n <li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n <li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n <li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n </ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -26363,7 +26363,7 @@
                     "opid": "GRN",
                     "abilityid": "VA",
                     "title": "Void Armour",
-                    "description": "<i>The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.</i><br/><br/>\n<ul>\n<li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n<li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n</ul>"
+                    "description": "<i class=\"noprint\">The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.<br/><br/></i>\n <ul>\n <li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n <li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -26515,7 +26515,7 @@
                     "opid": "GNR",
                     "abilityid": "BAC",
                     "title": "Breach And Clear",
-                    "description": "<i>Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.</i><br/><br/>\nOnce per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\nIf you do so:\n<ul>\n<li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n<li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n<li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n</ul>"
+                    "description": "<i class=\"noprint\">Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.<br/><br/></i>\n Once per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\n If you do so:\n <ul>\n <li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n <li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n <li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n </ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -26524,7 +26524,7 @@
                     "opid": "GNR",
                     "abilityid": "VA",
                     "title": "Void Armour",
-                    "description": "<i>The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.</i><br/><br/>\n<ul>\n<li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n<li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n</ul>"
+                    "description": "<i class=\"noprint\">The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.<br/><br/></i>\n <ul>\n <li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n <li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -26630,7 +26630,7 @@
                     "opid": "HC",
                     "abilityid": "BAC",
                     "title": "Breach And Clear",
-                    "description": "<i>Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.</i><br/><br/>\nOnce per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\nIf you do so:\n<ul>\n<li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n<li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n<li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n</ul>"
+                    "description": "<i class=\"noprint\">Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.<br/><br/></i>\n Once per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\n If you do so:\n <ul>\n <li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n <li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n <li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n </ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -26648,7 +26648,7 @@
                     "opid": "HC",
                     "abilityid": "VA",
                     "title": "Void Armour",
-                    "description": "<i>The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.</i><br/><br/>\n<ul>\n<li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n<li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n</ul>"
+                    "description": "<i class=\"noprint\">The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.<br/><br/></i>\n <ul>\n <li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n <li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -26767,7 +26767,7 @@
                     "opid": "SRV",
                     "abilityid": "BAC",
                     "title": "Breach And Clear",
-                    "description": "<i>Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.</i><br/><br/>\nOnce per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\nIf you do so:\n<ul>\n<li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n<li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n<li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n</ul>"
+                    "description": "<i class=\"noprint\">Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.<br/><br/></i>\n Once per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\n If you do so:\n <ul>\n <li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n <li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n <li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n </ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -26776,7 +26776,7 @@
                     "opid": "SRV",
                     "abilityid": "VA",
                     "title": "Void Armour",
-                    "description": "<i>The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.</i><br/><br/>\n<ul>\n<li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n<li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n</ul>"
+                    "description": "<i class=\"noprint\">The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.<br/><br/></i>\n <ul>\n <li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n <li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -26912,7 +26912,7 @@
                     "opid": "VJ",
                     "abilityid": "BAC",
                     "title": "Breach And Clear",
-                    "description": "<i>Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.</i><br/><br/>\nOnce per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\nIf you do so:\n<ul>\n<li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n<li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n<li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n</ul>"
+                    "description": "<i class=\"noprint\">Methodical, professional, and well-drilled, Imperial Navy Breachers work as a unit to breach and clear the corridors and chambers of enemy voidcraft, space hulks, orbital stations, and more.<br/><br/></i>\n Once per Turning Point, when a friendly IMPERIAL NAVY BREACHER operative is activated, you can use this ability.\n If you do so:\n <ul>\n <li>Select one other ready friendly IMPERIAL NAVY BREACHER operative Visible to and within [SQUARE] of that operative that is eligible to be activated.</li>\n <li>Until the the Turning Point, those operatives are treated as having a Group Activation characteristic of 2.</li>\n <li>When the first operative's activation ends, you must select the second operative (even if it is not of the same type) to fulfil the Group Activation requirements.</li>\n </ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -26939,7 +26939,7 @@
                     "opid": "VJ",
                     "abilityid": "VA",
                     "title": "Void Armour",
-                    "description": "<i>The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.</i><br/><br/>\n<ul>\n<li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n<li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n</ul>"
+                    "description": "<i class=\"noprint\">The armour worn by Imperial Navy Armsmen is void-sealed, meaning that they can fight in zero gravity and zero-atmosphere conditions. Being completely encased in protective armour makes the Armsmen much less vulnerable to explosive blasts and flaming torrents.<br/><br/></i>\n <ul>\n <li>This operative is unaffected by the Splash critical hit rule unless it is the target of the shooting attack.</li>\n <li>Each time a shooting attack is made against this operative, if the ranged weapon has the Blast X or Torrent X special rule, or makes a shooting attack against each operative within range of the specified point (see Detonate), in the Roll Defence Dice step of that shooting attack, you can re-roll one of your defence dice (or up to two of your defence dice if this operative has the NAVIS GRENADIER keyword).</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -42020,7 +42020,7 @@
                     "opid": "CHRON",
                     "abilityid": "LM",
                     "title": "Living Metal",
-                    "description": "<em>The Necrons' semi-sentient metal skin lets them heal mid-battle.\nGlowing grooves cut in the living armour are mended as the skin reforms, and enemy shots that have driven deep into the Necrons' skin are pushed out, leaving not a scratch.</em>\n<br/><br/>\nIn the Ready Operatives step of each Initiative phase, this operative regains up to 2 lost Wounds\n(or up to 1 lost Wound if it is a PLASMACYTE operative)."
+                    "description": "<em class=\"noprint\">The Necrons' semi-sentient metal skin lets them heal mid-battle.\nGlowing grooves cut in the living armour are mended as the skin reforms, and enemy shots that have driven deep into the Necrons' skin are pushed out, leaving not a scratch.<br/><br/></em>\n\nIn the Ready Operatives step of each Initiative phase, this operative regains up to 2 lost Wounds\n(or up to 1 lost Wound if it is a PLASMACYTE operative)."
                   },
                   {
                     "factionid": "NEC",
@@ -42038,7 +42038,7 @@
                     "opid": "CHRON",
                     "abilityid": "RAP",
                     "title": "Reanimation Protocols",
-                    "description": "<em>Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.</em>\n<br/><br/>\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n<br/><br/>\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
+                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
                   }
                 ],
                 "fireteammax": 0
@@ -42134,7 +42134,7 @@
                     "opid": "PSYCH",
                     "abilityid": "LM",
                     "title": "Living Metal",
-                    "description": "<em>The Necrons' semi-sentient metal skin lets them heal mid-battle.\nGlowing grooves cut in the living armour are mended as the skin reforms, and enemy shots that have driven deep into the Necrons' skin are pushed out, leaving not a scratch.</em>\n<br/><br/>\nIn the Ready Operatives step of each Initiative phase, this operative regains up to 2 lost Wounds\n(or up to 1 lost Wound if it is a PLASMACYTE operative)."
+                    "description": "<em class=\"noprint\">The Necrons' semi-sentient metal skin lets them heal mid-battle.\nGlowing grooves cut in the living armour are mended as the skin reforms, and enemy shots that have driven deep into the Necrons' skin are pushed out, leaving not a scratch.<br/><br/></em>\n\nIn the Ready Operatives step of each Initiative phase, this operative regains up to 2 lost Wounds\n(or up to 1 lost Wound if it is a PLASMACYTE operative)."
                   },
                   {
                     "factionid": "NEC",
@@ -42152,7 +42152,7 @@
                     "opid": "PSYCH",
                     "abilityid": "RAP",
                     "title": "Reanimation Protocols",
-                    "description": "<em>Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.</em>\n<br/><br/>\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n<br/><br/>\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
+                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
                   }
                 ],
                 "fireteammax": 0
@@ -42248,7 +42248,7 @@
                     "opid": "TECH",
                     "abilityid": "LM",
                     "title": "Living Metal",
-                    "description": "<em>The Necrons' semi-sentient metal skin lets them heal mid-battle.\nGlowing grooves cut in the living armour are mended as the skin reforms, and enemy shots that have driven deep into the Necrons' skin are pushed out, leaving not a scratch.</em>\n<br/><br/>\nIn the Ready Operatives step of each Initiative phase, this operative regains up to 2 lost Wounds\n(or up to 1 lost Wound if it is a PLASMACYTE operative)."
+                    "description": "<em class=\"noprint\">The Necrons' semi-sentient metal skin lets them heal mid-battle.\nGlowing grooves cut in the living armour are mended as the skin reforms, and enemy shots that have driven deep into the Necrons' skin are pushed out, leaving not a scratch.<br/><br/></em>\n\nIn the Ready Operatives step of each Initiative phase, this operative regains up to 2 lost Wounds\n(or up to 1 lost Wound if it is a PLASMACYTE operative)."
                   },
                   {
                     "factionid": "NEC",
@@ -42266,7 +42266,7 @@
                     "opid": "TECH",
                     "abilityid": "RAP",
                     "title": "Reanimation Protocols",
-                    "description": "<em>Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.</em>\n<br/><br/>\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n<br/><br/>\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
+                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
                   }
                 ],
                 "fireteammax": 0
@@ -42362,7 +42362,7 @@
                     "opid": "PA",
                     "abilityid": "LM",
                     "title": "Living Metal",
-                    "description": "<em>The Necrons' semi-sentient metal skin lets them heal mid-battle.\nGlowing grooves cut in the living armour are mended as the skin reforms, and enemy shots that have driven deep into the Necrons' skin are pushed out, leaving not a scratch.</em>\n<br/><br/>\nIn the Ready Operatives step of each Initiative phase, this operative regains up to 2 lost Wounds\n(or up to 1 lost Wound if it is a PLASMACYTE operative)."
+                    "description": "<em class=\"noprint\">The Necrons' semi-sentient metal skin lets them heal mid-battle.\nGlowing grooves cut in the living armour are mended as the skin reforms, and enemy shots that have driven deep into the Necrons' skin are pushed out, leaving not a scratch.<br/><br/></em>\n\nIn the Ready Operatives step of each Initiative phase, this operative regains up to 2 lost Wounds\n(or up to 1 lost Wound if it is a PLASMACYTE operative)."
                   },
                   {
                     "factionid": "NEC",
@@ -42371,7 +42371,7 @@
                     "opid": "PA",
                     "abilityid": "RAP",
                     "title": "Reanimation Protocols",
-                    "description": "<em>Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.</em>\n<br/><br/>\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n<br/><br/>\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
+                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
                   },
                   {
                     "factionid": "NEC",
@@ -42465,7 +42465,7 @@
                     "opid": "PR",
                     "abilityid": "LM",
                     "title": "Living Metal",
-                    "description": "<em>The Necrons' semi-sentient metal skin lets them heal mid-battle.\nGlowing grooves cut in the living armour are mended as the skin reforms, and enemy shots that have driven deep into the Necrons' skin are pushed out, leaving not a scratch.</em>\n<br/><br/>\nIn the Ready Operatives step of each Initiative phase, this operative regains up to 2 lost Wounds\n(or up to 1 lost Wound if it is a PLASMACYTE operative)."
+                    "description": "<em class=\"noprint\">The Necrons' semi-sentient metal skin lets them heal mid-battle.\nGlowing grooves cut in the living armour are mended as the skin reforms, and enemy shots that have driven deep into the Necrons' skin are pushed out, leaving not a scratch.<br/><br/></em>\n\nIn the Ready Operatives step of each Initiative phase, this operative regains up to 2 lost Wounds\n(or up to 1 lost Wound if it is a PLASMACYTE operative)."
                   },
                   {
                     "factionid": "NEC",
@@ -42474,7 +42474,7 @@
                     "opid": "PR",
                     "abilityid": "RAP",
                     "title": "Reanimation Protocols",
-                    "description": "<em>Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.</em>\n<br/><br/>\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n<br/><br/>\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
+                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
                   },
                   {
                     "factionid": "NEC",
@@ -42588,7 +42588,7 @@
                     "opid": "APP",
                     "abilityid": "LM",
                     "title": "Living Metal",
-                    "description": "<em>The Necrons' semi-sentient metal skin lets them heal mid-battle.\nGlowing grooves cut in the living armour are mended as the skin reforms, and enemy shots that have driven deep into the Necrons' skin are pushed out, leaving not a scratch.</em>\n<br/><br/>\nIn the Ready Operatives step of each Initiative phase, this operative regains up to 2 lost Wounds\n(or up to 1 lost Wound if it is a PLASMACYTE operative)."
+                    "description": "<em class=\"noprint\">The Necrons' semi-sentient metal skin lets them heal mid-battle.\nGlowing grooves cut in the living armour are mended as the skin reforms, and enemy shots that have driven deep into the Necrons' skin are pushed out, leaving not a scratch.<br/><br/></em>\n\nIn the Ready Operatives step of each Initiative phase, this operative regains up to 2 lost Wounds\n(or up to 1 lost Wound if it is a PLASMACYTE operative)."
                   },
                   {
                     "factionid": "NEC",
@@ -42606,7 +42606,7 @@
                     "opid": "APP",
                     "abilityid": "RAP",
                     "title": "Reanimation Protocols",
-                    "description": "<em>Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.</em>\n<br/><br/>\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n<br/><br/>\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
+                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
                   }
                 ],
                 "fireteammax": 0
@@ -42691,7 +42691,7 @@
                     "opid": "DM",
                     "abilityid": "LM",
                     "title": "Living Metal",
-                    "description": "<em>The Necrons' semi-sentient metal skin lets them heal mid-battle.\nGlowing grooves cut in the living armour are mended as the skin reforms, and enemy shots that have driven deep into the Necrons' skin are pushed out, leaving not a scratch.</em>\n<br/><br/>\nIn the Ready Operatives step of each Initiative phase, this operative regains up to 2 lost Wounds\n(or up to 1 lost Wound if it is a PLASMACYTE operative)."
+                    "description": "<em class=\"noprint\">The Necrons' semi-sentient metal skin lets them heal mid-battle.\nGlowing grooves cut in the living armour are mended as the skin reforms, and enemy shots that have driven deep into the Necrons' skin are pushed out, leaving not a scratch.<br/><br/></em>\n\nIn the Ready Operatives step of each Initiative phase, this operative regains up to 2 lost Wounds\n(or up to 1 lost Wound if it is a PLASMACYTE operative)."
                   },
                   {
                     "factionid": "NEC",
@@ -42700,7 +42700,7 @@
                     "opid": "DM",
                     "abilityid": "RAP",
                     "title": "Reanimation Protocols",
-                    "description": "<em>Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.</em>\n<br/><br/>\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n<br/><br/>\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
+                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
                   }
                 ],
                 "fireteammax": 0
@@ -42823,7 +42823,7 @@
                     "opid": "ID",
                     "abilityid": "LM",
                     "title": "Living Metal",
-                    "description": "<em>The Necrons' semi-sentient metal skin lets them heal mid-battle.\nGlowing grooves cut in the living armour are mended as the skin reforms, and enemy shots that have driven deep into the Necrons' skin are pushed out, leaving not a scratch.</em>\n<br/><br/>\nIn the Ready Operatives step of each Initiative phase, this operative regains up to 2 lost Wounds\n(or up to 1 lost Wound if it is a PLASMACYTE operative)."
+                    "description": "<em class=\"noprint\">The Necrons' semi-sentient metal skin lets them heal mid-battle.\nGlowing grooves cut in the living armour are mended as the skin reforms, and enemy shots that have driven deep into the Necrons' skin are pushed out, leaving not a scratch.<br/><br/></em>\n\nIn the Ready Operatives step of each Initiative phase, this operative regains up to 2 lost Wounds\n(or up to 1 lost Wound if it is a PLASMACYTE operative)."
                   },
                   {
                     "factionid": "NEC",
@@ -42832,7 +42832,7 @@
                     "opid": "ID",
                     "abilityid": "RAP",
                     "title": "Reanimation Protocols",
-                    "description": "<em>Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.</em>\n<br/><br/>\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n<br/><br/>\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
+                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
                   }
                 ],
                 "fireteammax": 0
@@ -42944,7 +42944,7 @@
                     "opid": "IG",
                     "abilityid": "LM",
                     "title": "Living Metal",
-                    "description": "<em>The Necrons' semi-sentient metal skin lets them heal mid-battle.\nGlowing grooves cut in the living armour are mended as the skin reforms, and enemy shots that have driven deep into the Necrons' skin are pushed out, leaving not a scratch.</em>\n<br/><br/>\nIn the Ready Operatives step of each Initiative phase, this operative regains up to 2 lost Wounds\n(or up to 1 lost Wound if it is a PLASMACYTE operative)."
+                    "description": "<em class=\"noprint\">The Necrons' semi-sentient metal skin lets them heal mid-battle.\nGlowing grooves cut in the living armour are mended as the skin reforms, and enemy shots that have driven deep into the Necrons' skin are pushed out, leaving not a scratch.<br/><br/></em>\n\nIn the Ready Operatives step of each Initiative phase, this operative regains up to 2 lost Wounds\n(or up to 1 lost Wound if it is a PLASMACYTE operative)."
                   },
                   {
                     "factionid": "NEC",
@@ -42953,7 +42953,7 @@
                     "opid": "IG",
                     "abilityid": "RAP",
                     "title": "Reanimation Protocols",
-                    "description": "<em>Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.</em>\n<br/><br/>\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n<br/><br/>\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
+                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
                   }
                 ],
                 "fireteammax": 0
@@ -47577,7 +47577,7 @@
                     "opid": "KB",
                     "abilityid": "RG",
                     "title": "Rogue",
-                    "description": "<em>The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\nThey have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.</em><br/><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\nif it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful normal save as a result of Cover.</li>\n<li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n</ul>"
+                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -47699,7 +47699,7 @@
                     "opid": "BH",
                     "abilityid": "RG",
                     "title": "Rogue",
-                    "description": "<em>The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\nThey have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.</em><br/><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\nif it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful normal save as a result of Cover.</li>\n<li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n</ul>"
+                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -47847,7 +47847,7 @@
                     "opid": "CB",
                     "abilityid": "RG",
                     "title": "Rogue",
-                    "description": "<em>The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\nThey have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.</em><br/><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\nif it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful normal save as a result of Cover.</li>\n<li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n</ul>"
+                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>"
                   },
                   {
                     "factionid": "TAU",
@@ -47925,7 +47925,7 @@
                     "opid": "CS",
                     "abilityid": "RG",
                     "title": "Rogue",
-                    "description": "<em>The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\nThey have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.</em><br/><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\nif it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful normal save as a result of Cover.</li>\n<li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n</ul>"
+                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>"
                   },
                   {
                     "factionid": "TAU",
@@ -48055,7 +48055,7 @@
                     "opid": "HGNR",
                     "abilityid": "RG",
                     "title": "Rogue",
-                    "description": "<em>The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\nThey have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.</em><br/><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\nif it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful normal save as a result of Cover.</li>\n<li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n</ul>"
+                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -48142,7 +48142,7 @@
                     "opid": "HND",
                     "abilityid": "RG",
                     "title": "Rogue",
-                    "description": "<em>The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\nThey have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.</em><br/><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\nif it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful normal save as a result of Cover.</li>\n<li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n</ul>"
+                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -48238,7 +48238,7 @@
                     "opid": "LS",
                     "abilityid": "RG",
                     "title": "Rogue",
-                    "description": "<em>The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\nThey have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.</em><br/><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\nif it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful normal save as a result of Cover.</li>\n<li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n</ul>"
+                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -48343,7 +48343,7 @@
                     "opid": "PST",
                     "abilityid": "RG",
                     "title": "Rogue",
-                    "description": "<em>The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\nThey have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.</em><br/><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\nif it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful normal save as a result of Cover.</li>\n<li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n</ul>"
+                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -48439,7 +48439,7 @@
                     "opid": "STK",
                     "abilityid": "RG",
                     "title": "Rogue",
-                    "description": "<em>The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\nThey have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.</em><br/><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\nif it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful normal save as a result of Cover.</li>\n<li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n</ul>"
+                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>"
                   },
                   {
                     "factionid": "TAU",
@@ -48563,7 +48563,7 @@
                     "opid": "TRK",
                     "abilityid": "RG",
                     "title": "Rogue",
-                    "description": "<em>The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\nThey have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.</em><br/><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\nif it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful normal save as a result of Cover.</li>\n<li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n</ul>"
+                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -48675,7 +48675,7 @@
                     "opid": "WAR",
                     "abilityid": "RG",
                     "title": "Rogue",
-                    "description": "<em>The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\nThey have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.</em><br/><br/>\nEach time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\nif it is in Cover, you can do one of the following:\n<ul>\n<li>Retain one additional die as a successful normal save as a result of Cover.</li>\n<li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n</ul>"
+                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>"
                   }
                 ],
                 "fireteammax": 0
