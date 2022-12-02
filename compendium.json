@@ -1323,7 +1323,7 @@
             "eqid": "MF",
             "eqname": "Mistfield*",
             "eqdescription": "VOIDSCARRED FELARCH operative only.<br/>\nThe operative gains the following ability for the battle:<br/>\n<strong>Mistfield:</strong>\nWhile a friendly CORSAIR VOIDSCARRED operative is within [CIRCLE] of this operative, that operative has a 5+ Invulnerable Save.",
-            "eqpts": "2",
+            "eqpts": "3",
             "eqseq": 0,
             "eqtype": "Ability",
             "eqvar1": null,
