@@ -11971,8 +11971,8 @@
             "eqpts": "0",
             "eqseq": 1002,
             "eqtype": "OpMod",
-            "eqvar1": null,
-            "eqvar2": null,
+            "eqvar1": "M",
+            "eqvar2": "+[TRI]",
             "eqvar3": null,
             "eqvar4": null
           },
@@ -16136,7 +16136,7 @@
             "eqpts": "0",
             "eqseq": 10,
             "eqtype": "OpMod",
-            "eqvar1": null,
+            "eqvar1": "SV",
             "eqvar2": null,
             "eqvar3": null,
             "eqvar4": null
@@ -16766,8 +16766,8 @@
                     "fireteamid": "WC",
                     "opid": "SOR",
                     "uniqueactionid": "DD-DB",
-                    "title": "Destiny Discipline - Doombolt",
-                    "description": "Perform a free Shoot action using the following ranged weapon:\n<table class=\"eqtable\" width=\"100%\">\n\t<tbody><tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Doombolt</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>3/3</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n\t</tr>\n    <tr>\n\t\t<td colspan=\"4\">Lethal 5+, MW2</td>\n\t</tr>\n</tbody></table>",
+                    "title": "[DD] Doombolt",
+                    "description": "<em>Destiny Discipline</em><br/>Perform a free Shoot action using the following ranged weapon:\n<table class=\"eqtable\" width=\"100%\">\n\t<tbody><tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Doombolt</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>3/3</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n\t</tr>\n    <tr>\n\t\t<td colspan=\"4\">Lethal 5+, MW2</td>\n\t</tr>\n</tbody></table>",
                     "AP": 1
                   },
                   {
@@ -16776,8 +16776,8 @@
                     "fireteamid": "WC",
                     "opid": "SOR",
                     "uniqueactionid": "DD-TD",
-                    "title": "Destiny Discipline - Twist Destiny",
-                    "description": "Select one enemy operative Visible to this operative. Until the end of the Turning Point:\n<li>Each time that enemy operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that shooting attack, your opponent cannot re-roll their attack dice.</li>\n<li>That enemy operative ignores all positive modifiers to its APL.</li>",
+                    "title": "[DD] Twist Destiny",
+                    "description": "<em>Destiny Discipline</em><br/>Select one enemy operative Visible to this operative. Until the end of the Turning Point:\r <ul><li>Each time that enemy operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that shooting attack, your opponent cannot re-roll their attack dice.</li>\r <li>That enemy operative ignores all positive modifiers to its APL.</li></ul>",
                     "AP": 1
                   },
                   {
@@ -16786,8 +16786,8 @@
                     "fireteamid": "WC",
                     "opid": "SOR",
                     "uniqueactionid": "DD-WF",
-                    "title": "Destiny Discipline - Weave Fate",
-                    "description": "Select one friendly WARPCOVEN operative Visible to this operative. Until the end of the Turning Point, each time a shooting attack is made against that operative, in the Roll Defence Dice step of that shooting attack, you can re-roll any or all of your defence dice.",
+                    "title": "[DD] Weave Fate",
+                    "description": "<em>Destiny Discipline</em><br/>Select one friendly WARPCOVEN operative Visible to this operative. Until the end of the Turning Point, each time a shooting attack is made against that operative, in the Roll Defence Dice step of that shooting attack, you can re-roll any or all of your defence dice.",
                     "AP": 1
                   },
                   {
@@ -16796,8 +16796,8 @@
                     "fireteamid": "WC",
                     "opid": "SOR",
                     "uniqueactionid": "TD-EI",
-                    "title": "Tempyric Discipline - Ephemeral Instability",
-                    "description": "Until the end of the Turning Point, subtract [CIRCLE] from the distance that enemy operatives can move when performing Charge and Dash actions.",
+                    "title": "[TD] Ephemeral Instability",
+                    "description": "<em>Tempyric Discipline</em><br/>Until the end of the Turning Point, subtract [CIRCLE] from the distance that enemy operatives can move when performing Charge and Dash actions.",
                     "AP": 1
                   },
                   {
@@ -16806,8 +16806,8 @@
                     "fireteamid": "WC",
                     "opid": "SOR",
                     "uniqueactionid": "TD-FB",
-                    "title": "Tempyric Discipline - Fluxblast",
-                    "description": "Perform a free Shoot action using the following ranged weapon:\n<table class=\"eqtable\" width=\"100%\">\n\t<tbody><tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Fluxblast</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>3/4</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n\t</tr>\n    <tr>\n\t\t<td colspan=\"4\">Blast [CIRCLE], Rending</td>\n\t</tr>\n</tbody></table>",
+                    "title": "[TD] Fluxblast",
+                    "description": "<em>Tempyric Discipline</em><br/>Perform a free Shoot action using the following ranged weapon:\n<table class=\"eqtable\" width=\"100%\">\n\t<tbody><tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Fluxblast</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>3/4</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n\t</tr>\n    <tr>\n\t\t<td colspan=\"4\">Blast [CIRCLE], Rending</td>\n\t</tr>\n</tbody></table>",
                     "AP": 1
                   },
                   {
@@ -16816,8 +16816,8 @@
                     "fireteamid": "WC",
                     "opid": "SOR",
                     "uniqueactionid": "TD-TM",
-                    "title": "Tempyric Discipline - Temporal Manipulation",
-                    "description": "Select one friendly WARPCOVEN operative Visible to and within [PENT] of this operative. That operative regains 2D3 lost wounds.",
+                    "title": "[TD] Temporal Manipulation",
+                    "description": "<em>Tempyric Discipline</em><br/>Select one friendly WARPCOVEN operative Visible to and within [PENT] of this operative. That operative regains 2D3 lost wounds.",
                     "AP": 1
                   },
                   {
@@ -16826,8 +16826,8 @@
                     "fireteamid": "WC",
                     "opid": "SOR",
                     "uniqueactionid": "WD-FB",
-                    "title": "Warpfire Discipline - Warp Portal",
-                    "description": "Select one friendly WARPCOVEN operative Visible to and within [SQUARE] of this operative that has not performed an action in which it moved during this Turning Point. Remove it from the killzone and set it back up again within [PENT] of this operative and not within Engagement Range of an enemy operative. That friendly operative cannot perform actions in which it moves during this Turning Point.",
+                    "title": "[WD] Warp Portal",
+                    "description": "<em>Warpfire Discipline</em><br/>Select one friendly WARPCOVEN operative Visible to and within [SQUARE] of this operative that has not performed an action in which it moved during this Turning Point. Remove it from the killzone and set it back up again within [PENT] of this operative and not within Engagement Range of an enemy operative. That friendly operative cannot perform actions in which it moves during this Turning Point.",
                     "AP": 1
                   },
                   {
@@ -16836,8 +16836,8 @@
                     "fireteamid": "WC",
                     "opid": "SOR",
                     "uniqueactionid": "WD-FS",
-                    "title": "Warpfire Discipline - Firestorm",
-                    "description": "Perform a free Shoot action using the following ranged weapon:\n <table class=\"eqtable\" width=\"100%\">\n \t<tbody><tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Firestorm</td>\n         <td>5</td>\n         <td>4+</td>\n         <td>2/2</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n \t</tr>\n     <tr>\n \t\t<td colspan=\"4\">Barrage, Blast [TRI], Indirect</td>\n \t</tr>\n </tbody></table>",
+                    "title": "[WD] Firestorm",
+                    "description": "<em>Warpfire Discipline</em><br/>Perform a free Shoot action using the following ranged weapon:\n <table class=\"eqtable\" width=\"100%\">\n \t<tbody><tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Firestorm</td>\n         <td>5</td>\n         <td>4+</td>\n         <td>2/2</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n \t</tr>\n     <tr>\n \t\t<td colspan=\"4\">Barrage, Blast [TRI], Indirect</td>\n \t</tr>\n </tbody></table>",
                     "AP": 1
                   },
                   {
@@ -16846,8 +16846,8 @@
                     "fireteamid": "WC",
                     "opid": "SOR",
                     "uniqueactionid": "WD-IF",
-                    "title": "Warpfire Discipline - Infernal Fire",
-                    "description": "Select one enemy operative Visible to this operative. Until the end of the Turning Point, each time a friendly WARPCOVEN operative fights in combat or makes a shooting attack against that enemy operative, in the Roll Attack Dice step of that combat or shooting attack, you can re-roll any or all of your attack dice.",
+                    "title": "[WD] Infernal Fire",
+                    "description": "<em>Warpfire Discipline</em><br/>Select one enemy operative Visible to this operative. Until the end of the Turning Point, each time a friendly WARPCOVEN operative fights in combat or makes a shooting attack against that enemy operative, in the Roll Attack Dice step of that combat or shooting attack, you can re-roll any or all of your attack dice.",
                     "AP": 1
                   }
                 ],
@@ -18601,8 +18601,8 @@
             "eqpts": "2",
             "eqseq": 1,
             "eqtype": "OpMod",
-            "eqvar1": null,
-            "eqvar2": null,
+            "eqvar1": "SV",
+            "eqvar2": "4+",
             "eqvar3": null,
             "eqvar4": null
           },
@@ -24932,7 +24932,7 @@
                     "opid": "COMMS",
                     "uniqueactionid": "SIG",
                     "title": "Signal",
-                    "description": "Select one friendly TEMPESTUS SCION operative within [PENT] and Visible to this operative.\nAdd 1 to the friendly operative's APL. This operative cannot perform this action while within Engagement Range of enemy operatives.",
+                    "description": "Select one friendly TEMPESTUS SCION operative in the killzone.\r Add 1 to its APL. This operative cannot perform this action while within Engagement Range of enemy operatives. This operative can perform this action more than once during its activation.",
                     "AP": 1
                   }
                 ],
@@ -25429,8 +25429,8 @@
             "eqpts": "1",
             "eqseq": 0,
             "eqtype": "OpMod",
-            "eqvar1": null,
-            "eqvar2": null,
+            "eqvar1": "W",
+            "eqvar2": "+1",
             "eqvar3": null,
             "eqvar4": null
           },
@@ -27259,9 +27259,9 @@
             "eqdescription": "<b>Chapter Tactic - Martial Zealotry</b><br/>\nAdd [TRI] to this operative’s Movement characteristic.",
             "eqpts": "0",
             "eqseq": 11,
-            "eqtype": "Ability",
-            "eqvar1": "",
-            "eqvar2": "",
+            "eqtype": "OpMod",
+            "eqvar1": "M",
+            "eqvar2": "+[TRI]",
             "eqvar3": null,
             "eqvar4": null
           },
@@ -27315,9 +27315,9 @@
             "eqdescription": "<b>Chapter Tactic - Gene-Wrought Resilience</b><br/>\nAdd 1 to this operative’s Wounds characteristic.",
             "eqpts": "0",
             "eqseq": 15,
-            "eqtype": "Ability",
-            "eqvar1": "",
-            "eqvar2": "",
+            "eqtype": "OpMod",
+            "eqvar1": "W",
+            "eqvar2": "+1",
             "eqvar3": null,
             "eqvar4": null
           },
@@ -38260,6 +38260,33 @@
                         "BS": "2+",
                         "D": "5/6",
                         "SR": "Combi-Boltgun, AP2, Hot, Lim"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "SM",
+                    "fireteamid": "TAC",
+                    "opid": "SGT",
+                    "wepid": "GP",
+                    "wepseq": 0,
+                    "wepname": "Grav-Pistol",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "SM",
+                        "fireteamid": "TAC",
+                        "opid": "SGT",
+                        "wepid": "GP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "4/5",
+                        "SR": "Rng [PENT], AP1, Grav"
                       }
                     ],
                     "isselected": false
@@ -51056,7 +51083,7 @@
                     "opid": "DC",
                     "uniqueactionid": "CD",
                     "title": "Control Drone",
-                    "description": "Select one friendly PATHFINDER DRONE operative, then select one of the following:\n<li>If that DRONE operative is Ready, after this activation ends, you can activate that DRONE operative and until the end of the Turning Point, it is not considered to have the first three bullet points of its Artificial Intelligence ability.</li>\n<li>If that DRONE operative has been activated during this Turning Point, perform a free Dash or Shoot action with it. If you perform a Shoot action, for that action’s shooting attack, worsen the Ballistic Skill characteristic of its ranged weapons by 1.</li>\nThis operative cannot perform this action if it is within Engagement Range of an enemy operative.",
+                    "description": "Select one friendly PATHFINDER DRONE operative, then select one of the following:\r <ul><li>If that DRONE operative is Ready, after this activation ends, you can activate that DRONE operative and until the end of the Turning Point, it is not considered to have the first three bullet points of its Artificial Intelligence ability.</li>\r <li>If that DRONE operative has been activated during this Turning Point, perform a free Dash or Shoot action with it. If you perform a Shoot action, for that action’s shooting attack, worsen the Ballistic Skill characteristic of its ranged weapons by 1.</li></ul>\r This operative cannot perform this action if it is within Engagement Range of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -51283,7 +51310,7 @@
                     "opid": "MB3",
                     "abilityid": "AI",
                     "title": "Artificial Intelligence",
-                    "description": "<li>This operative cannot perform mission actions or the Pick Up action.</li>\n<li>For the purposes of determining control of objective markers, treat this operative’s APL as 1 lower.</li>\n<li>Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, if it has an Engage order, defence dice cannot be automatically retained as a result of Cover.</li>\n<li>When drawing a Visibility line from a DRONE operative, draw it from any part of the round disc at the top of the miniature.</li>\n<li>Unless otherwise specified, this operative cannot be equipped with equipment.</li>"
+                    "description": "<ul><li>This operative cannot perform mission actions or the Pick Up action.</li>\n<li>For the purposes of determining control of objective markers, treat this operative’s APL as 1 lower.</li>\n<li>Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, if it has an Engage order, defence dice cannot be automatically retained as a result of Cover.</li>\n<li>When drawing a Visibility line from a DRONE operative, draw it from any part of the round disc at the top of the miniature.</li>\n<li>Unless otherwise specified, this operative cannot be equipped with equipment.</li></ul>"
                   },
                   {
                     "factionid": "TAU",
@@ -51492,7 +51519,7 @@
                     "opid": "MV1",
                     "abilityid": "AI",
                     "title": "Artificial Intelligence",
-                    "description": "<li>This operative cannot perform mission actions or the Pick Up action.</li>\n<li>For the purposes of determining control of objective markers, treat this operative’s APL as 1 lower.</li>\n<li>Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, if it has an Engage order, defence dice cannot be automatically retained as a result of Cover.</li>\n<li>When drawing a Visibility line from a DRONE operative, draw it from any part of the round disc at the top of the miniature.</li>\n<li>Unless otherwise specified, this operative cannot be equipped with equipment.</li>"
+                    "description": "<ul><li>This operative cannot perform mission actions or the Pick Up action.</li>\n<li>For the purposes of determining control of objective markers, treat this operative’s APL as 1 lower.</li>\n<li>Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, if it has an Engage order, defence dice cannot be automatically retained as a result of Cover.</li>\n<li>When drawing a Visibility line from a DRONE operative, draw it from any part of the round disc at the top of the miniature.</li>\n<li>Unless otherwise specified, this operative cannot be equipped with equipment.</li></ul>"
                   },
                   {
                     "factionid": "TAU",
@@ -51559,7 +51586,7 @@
                     "opid": "MV31",
                     "abilityid": "AI",
                     "title": "Artificial Intelligence",
-                    "description": "<li>This operative cannot perform mission actions or the Pick Up action.</li>\n<li>For the purposes of determining control of objective markers, treat this operative’s APL as 1 lower.</li>\n<li>Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, if it has an Engage order, defence dice cannot be automatically retained as a result of Cover.</li>\n<li>When drawing a Visibility line from a DRONE operative, draw it from any part of the round disc at the top of the miniature.</li>\n<li>Unless otherwise specified, this operative cannot be equipped with equipment.</li>"
+                    "description": "<ul><li>This operative cannot perform mission actions or the Pick Up action.</li>\n<li>For the purposes of determining control of objective markers, treat this operative’s APL as 1 lower.</li>\n<li>Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, if it has an Engage order, defence dice cannot be automatically retained as a result of Cover.</li>\n<li>When drawing a Visibility line from a DRONE operative, draw it from any part of the round disc at the top of the miniature.</li>\n<li>Unless otherwise specified, this operative cannot be equipped with equipment.</li></ul>"
                   },
                   {
                     "factionid": "TAU",
@@ -51646,7 +51673,7 @@
                     "opid": "MV33",
                     "abilityid": "AI",
                     "title": "Artificial Intelligence",
-                    "description": "<li>This operative cannot perform mission actions or the Pick Up action.</li>\n<li>For the purposes of determining control of objective markers, treat this operative’s APL as 1 lower.</li>\n<li>Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, if it has an Engage order, defence dice cannot be automatically retained as a result of Cover.</li>\n<li>When drawing a Visibility line from a DRONE operative, draw it from any part of the round disc at the top of the miniature.</li>\n<li>Unless otherwise specified, this operative cannot be equipped with equipment.</li>"
+                    "description": "<ul><li>This operative cannot perform mission actions or the Pick Up action.</li>\n<li>For the purposes of determining control of objective markers, treat this operative’s APL as 1 lower.</li>\n<li>Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, if it has an Engage order, defence dice cannot be automatically retained as a result of Cover.</li>\n<li>When drawing a Visibility line from a DRONE operative, draw it from any part of the round disc at the top of the miniature.</li>\n<li>Unless otherwise specified, this operative cannot be equipped with equipment.</li></ul>"
                   },
                   {
                     "factionid": "TAU",
@@ -51722,7 +51749,7 @@
                     "opid": "MV4",
                     "abilityid": "AI",
                     "title": "Artificial Intelligence",
-                    "description": "<li>This operative cannot perform mission actions or the Pick Up action.</li>\n<li>For the purposes of determining control of objective markers, treat this operative’s APL as 1 lower.</li>\n<li>Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, if it has an Engage order, defence dice cannot be automatically retained as a result of Cover.</li>\n<li>When drawing a Visibility line from a DRONE operative, draw it from any part of the round disc at the top of the miniature.</li>\n<li>Unless otherwise specified, this operative cannot be equipped with equipment.</li>"
+                    "description": "<ul><li>This operative cannot perform mission actions or the Pick Up action.</li>\n<li>For the purposes of determining control of objective markers, treat this operative’s APL as 1 lower.</li>\n<li>Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, if it has an Engage order, defence dice cannot be automatically retained as a result of Cover.</li>\n<li>When drawing a Visibility line from a DRONE operative, draw it from any part of the round disc at the top of the miniature.</li>\n<li>Unless otherwise specified, this operative cannot be equipped with equipment.</li></ul>"
                   },
                   {
                     "factionid": "TAU",
@@ -51809,7 +51836,7 @@
                     "opid": "MV7",
                     "abilityid": "AI",
                     "title": "Artificial Intelligence",
-                    "description": "<li>This operative cannot perform mission actions or the Pick Up action.</li>\n<li>For the purposes of determining control of objective markers, treat this operative’s APL as 1 lower.</li>\n<li>Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, if it has an Engage order, defence dice cannot be automatically retained as a result of Cover.</li>\n<li>When drawing a Visibility line from a DRONE operative, draw it from any part of the round disc at the top of the miniature.</li>\n<li>Unless otherwise specified, this operative cannot be equipped with equipment.</li>"
+                    "description": "<ul><li>This operative cannot perform mission actions or the Pick Up action.</li>\n<li>For the purposes of determining control of objective markers, treat this operative’s APL as 1 lower.</li>\n<li>Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, if it has an Engage order, defence dice cannot be automatically retained as a result of Cover.</li>\n<li>When drawing a Visibility line from a DRONE operative, draw it from any part of the round disc at the top of the miniature.</li>\n<li>Unless otherwise specified, this operative cannot be equipped with equipment.</li></ul>"
                   },
                   {
                     "factionid": "TAU",
