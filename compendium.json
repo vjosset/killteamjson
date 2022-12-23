@@ -2167,7 +2167,7 @@
                     "opid": "KH",
                     "uniqueactionid": "FA",
                     "title": "Faolchú",
-                    "description": "Select one enemy operative with a Conceal order that is Visible to this operative and roll 1D6, adding 1 to the result for each of the following:\n<ul>\n<li>That enemy operative is within [PENT] of this operative</li>\n<li>That enemy operative is not ready</li>\n<li>That enemy operative is not within [TRI] of Heavy cover</li>\n</ul>\nOn a 6+, until the end of the Turning Point, friendly CORSAIR VOIDSCARRED operatives\ntreat that enemy operative as if it has an Engage order. This operative cannot perform this action\nif it is within Engagement Range of an enemy operative.",
+                    "description": "Select one enemy operative with a Conceal order that is Visible to this operative and roll 1D6, adding 1 to the result for each of the following:\n<ul>\n<li>That enemy operative is within [PENT] of this operative</li>\n<li>That enemy operative is not ready</li>\n<li>That enemy operative is not within [TRI] of Heavy Terrain</li>\n</ul>\nOn a 6+, until the end of the Turning Point, friendly CORSAIR VOIDSCARRED operatives\ntreat that enemy operative as if it has an Engage order. This operative cannot perform this action\nif it is within Engagement Range of an enemy operative.",
                     "AP": 1
                   }
                 ],
@@ -6334,6 +6334,33 @@
                     "killteamid": "BLD",
                     "fireteamid": "BLD",
                     "opid": "BRG",
+                    "wepid": "DB",
+                    "wepseq": 0,
+                    "wepname": "Diabolyk Bomb",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "BLD",
+                        "fireteamid": "BLD",
+                        "opid": "BRG",
+                        "wepid": "DB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/3",
+                        "SR": "Rng [PENT], Blast [CIRCLE], Indirect, Lim, Splash 2, No Overwatch"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "BLD",
+                    "fireteamid": "BLD",
+                    "opid": "BRG",
                     "wepid": "FG",
                     "wepseq": 0,
                     "wepname": "Frag Grenade",
@@ -6433,33 +6460,6 @@
                         "BS": "4+",
                         "D": "2/3",
                         "SR": ""
-                      }
-                    ],
-                    "isselected": false
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "BLD",
-                    "fireteamid": "BLD",
-                    "opid": "BRG",
-                    "wepid": "DB",
-                    "wepseq": 0,
-                    "wepname": "Diabolyk Bomb",
-                    "weptype": "M",
-                    "isdefault": 0,
-                    "profiles": [
-                      {
-                        "factionid": "CHAOS",
-                        "killteamid": "BLD",
-                        "fireteamid": "BLD",
-                        "opid": "BRG",
-                        "wepid": "DB",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "3/3",
-                        "SR": "Rng [PENT], Blast [CIRCLE], Indirect, Lim, Splash 2, No Overwatch"
                       }
                     ],
                     "isselected": false
@@ -12365,7 +12365,7 @@
                     "opid": "AC",
                     "abilityid": "ITEOTG",
                     "title": "In The Eyes Of The Gods",
-                    "description": "Once per Turning Point, during this operative's activation, if it\n incapacitates an enemy operative during this operative's activation, if it, it can perform one free action\n during that activation."
+                    "description": "Once per Turning Point, during this operative's activation, if it\n incapacitates an enemy operative during this operative's activation, it can perform one free action\n during that activation."
                   }
                 ],
                 "fireteammax": 0
@@ -29174,7 +29174,7 @@
                     "opid": "DEMO",
                     "uniqueactionid": "PMM",
                     "title": "Plant Melta Mine",
-                    "description": "Place your Melta Mine token within [TRI] of this operative and more than [CIRCLE] frrom enemy operatives.\nThis operative can only perform this action once, and cannot perform this action while within Engagement Range of an enemy operative.",
+                    "description": "Place your Melta Mine token in a location Visible to and within [TRI] of this operative and more than [CIRCLE] frrom enemy operatives.\r This operative can only perform this action once, and cannot perform this action while within Engagement Range of an enemy operative.",
                     "AP": 1
                   }
                 ],
@@ -29858,7 +29858,7 @@
               "ployname": "Defenders Of The Faith",
               "ploytype": "S",
               "CP": "2",
-              "description": "At the start of the Firefight phase, one friendly NOVITIATE operative that is within of the centre of each objective marker can do one of the following (the don't have to do the same):\n <li>Perform a free Shoot action if it has an Engage order.</li>\n <li>Perform a free Fight action if it has an Engage order.</li>"
+              "description": "At the start of the Firefight phase, one friendly NOVITIATE operative that is within of the centre of each objective marker can do one of the following (they don't have to do the same):\r  <ul><li>Perform a free Shoot action if it has an Engage order.</li>\r  <li>Perform a free Fight action if it has an Engage order.</li></ul>"
             },
             {
               "factionid": "IMP",
@@ -30436,7 +30436,7 @@
                     "opid": "EXA",
                     "uniqueactionid": "WIF",
                     "title": "Whip Into Frenzy",
-                    "description": "Select one friendly NOVITIATE operative (excluding a NOVITIATE SUPERIOR operative) within [SQUARE] of and Visible to this operative. Add 1 to that operative’s APL. In addition, if that operative is a NOVITIATE PENITENT operative, until the end of that operative’s next activation, add [CIRCLE] to its Movement characteristic.",
+                    "description": "Select one friendly NOVITIATE operative (excluding a NOVITIATE SUPERIOR operative) within [SQUARE] of and Visible to this operative. Add 1 to that operative’s APL. In addition, if that operative is a NOVITIATE PENITENT operative, until the end of that operative’s next activation, add [CIRCLE] to its Movement characteristic (to a maximum of 4 [CIRCLE]).",
                     "AP": 1
                   }
                 ],
@@ -32488,7 +32488,7 @@
                     "opid": "INFSAB",
                     "uniqueactionid": "PSE",
                     "title": "Plant Saboteur Explosives",
-                    "description": "Place a Saboteur Explosives token within [TRI] of and Visible to this operative.\nThis operative cannot perform this action while within Engagement Range of an enemy operative.\nIf this operative is incapacitated and removed from the killzone, remove its Saboteur Explosives token.\nThis operative can only perform this action once.",
+                    "description": "Place a Saboteur Explosives token in a location Visible to and within [TRI] of this operative.\r This operative cannot perform this action while within Engagement Range of an enemy operative.\r If this operative is incapacitated and removed from the killzone, remove its Saboteur Explosives token.\r This operative can only perform this action once.",
                     "AP": 1
                   }
                 ],
@@ -32500,7 +32500,7 @@
                     "opid": "INFSAB",
                     "abilityid": "DET",
                     "title": "*Detonate",
-                    "description": "If this operative performs a Shoot action with this weapon,\nmake a shooting attack against each operative within [SQUARE] of the centre of its Saboteur Explosives token with this weapon.\nWhen making those shooting attacks, each operative (friendly and enemy) within [SQUARE] is treated as being Visible, but when determining if it is in Cover, treat this\noperative's Saboteur Explosives token as the active operative.\nThen remove this operative's Saboteur Explosives token.\nAn operative cannot make a shooting attack with this weapon by performing an Overwatch action,\nor if its Saboteur Explosives token is not in the killzone."
+                    "description": "If this operative performs a Shoot action with this weapon,\r make a shooting attack against each operative within [SQUARE] of the centre of its Saboteur Explosives token with this weapon.\r When making those shooting attacks, each operative (friendly and enemy) within [SQUARE] is treated as a valid target, but when determining if it is in Cover, treat this\r operative's Saboteur Explosives token as the active operative.\r Then remove this operative's Saboteur Explosives token.\r An operative cannot make a shooting attack with this weapon by performing an Overwatch action,\r or if its Saboteur Explosives token is not in the killzone."
                   },
                   {
                     "factionid": "IMP",
@@ -39962,7 +39962,7 @@
             "killteamid": "VG",
             "eqid": "HSCP",
             "eqname": "Hot-Shot Capacitor Pack",
-            "eqdescription": "Modify the operative’s ranged weapons for the battle as follows:\n<li>Add 1 to both Damage characteristics of lasguns and laspistols this operative is equipped with.</li>",
+            "eqdescription": "Modify the operative’s ranged weapons for the battle as follows:\r <ul><li>Add 1 to both Damage characteristics of lasguns and laspistols this operative is equipped with.</li></ul>",
             "eqpts": "2",
             "eqseq": 0,
             "eqtype": "WepMod",
@@ -40581,7 +40581,7 @@
                     "opid": "DEMO",
                     "uniqueactionid": "PM",
                     "title": "Plant Mine",
-                    "description": "Place a Mine token within [TRI] of this operative, then perform a free Dash action with this operative. This operative cannot perform this action if it is within Engagement Range of an enemy operative, or if this operative’s Mine token is in the killzone. If this operative is incapacitated and removed from the killzone, remove its Mine token.",
+                    "description": "Place a Mine token in a location Visible to and within [TRI] of this operative, then perform a free Dash action with this operative. This operative cannot perform this action if it is within Engagement Range of an enemy operative, or if this operative’s Mine token is in the killzone. If this operative is incapacitated and removed from the killzone, remove its Mine token.",
                     "AP": 1
                   }
                 ],
