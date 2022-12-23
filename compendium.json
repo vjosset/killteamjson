@@ -5077,8 +5077,8 @@
               "ployid": "DF",
               "ployname": "Domino Field",
               "ploytype": "S",
-              "CP": "1",
-              "description": "Until the end of the Turning Point or until it makes a shooting attack,\neach friendly VOID-DANCER TROUPE operative has a Domino Field.\nFor the purposes of determining Line of Sight, while a friendly operative with a Domino Field\nis within [TRI] of a terrain feature and more than [PENT] from the active operative,\nthe active operative always treats that friendly operative as having a Conceal order, regardless of other rules (e.g. Vantage Point)."
+              "CP": "1+",
+              "description": "Until the end of the Turning Point or until it makes a shooting attack,\r each friendly VOID-DANCER TROUPE operative has a Domino Field.\r For the purposes of determining Line of Sight, while a friendly operative with a Domino Field\r is within [TRI] of a terrain feature and more than [PENT] from the active operative,\r the active operative always treats that friendly operative as having a Conceal order, regardless of other rules (e.g. Vantage Point).<br/></br>This Strategic Ploy costs 1 additional Command point for each previous time you’ve used it during the battle (e.g. 1CP the first time you would use it, 2CP the second time, etc.)."
             },
             {
               "factionid": "AEL",
@@ -10781,7 +10781,7 @@
                     "opid": "VTC",
                     "abilityid": "RR",
                     "title": "Revoltingly Resilient",
-                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
+                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 6, that wound is not lost."
                   },
                   {
                     "factionid": "CHAOS",
@@ -10790,7 +10790,7 @@
                     "opid": "VTC",
                     "abilityid": "TC",
                     "title": "Techno-Curse",
-                    "description": "<em class=\"noprint\">Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.<br/><br/></em>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
+                    "description": "<em class=\"noprint\">Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.<br/><br/></em>\nWhile an enemy operative is within [CIRCLE] of friendly operatives with this ability or within [SQUARE] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
                   },
                   {
                     "factionid": "CHAOS",
@@ -10906,7 +10906,7 @@
                     "opid": "BS",
                     "abilityid": "RR",
                     "title": "Revoltingly Resilient",
-                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
+                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 6, that wound is not lost."
                   },
                   {
                     "factionid": "CHAOS",
@@ -10924,7 +10924,7 @@
                     "opid": "BS",
                     "abilityid": "TC",
                     "title": "Techno-Curse",
-                    "description": "<em class=\"noprint\">Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.<br/><br/></em>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
+                    "description": "<em class=\"noprint\">Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.<br/><br/></em>\nWhile an enemy operative is within [CIRCLE] of friendly operatives with this ability or within [SQUARE] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
                   },
                   {
                     "factionid": "CHAOS",
@@ -11022,7 +11022,7 @@
                     "opid": "FS",
                     "abilityid": "RR",
                     "title": "Revoltingly Resilient",
-                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
+                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 6, that wound is not lost."
                   },
                   {
                     "factionid": "CHAOS",
@@ -11031,7 +11031,7 @@
                     "opid": "FS",
                     "abilityid": "TC",
                     "title": "Techno-Curse",
-                    "description": "<em class=\"noprint\">Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.<br/><br/></em>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
+                    "description": "<em class=\"noprint\">Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.<br/><br/></em>\nWhile an enemy operative is within [CIRCLE] of friendly operatives with this ability or within [SQUARE] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
                   }
                 ],
                 "fireteammax": 0
@@ -11109,7 +11109,7 @@
                     "opid": "LG",
                     "abilityid": "RR",
                     "title": "Revoltingly Resilient",
-                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
+                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 6, that wound is not lost."
                   },
                   {
                     "factionid": "CHAOS",
@@ -11118,7 +11118,7 @@
                     "opid": "LG",
                     "abilityid": "TC",
                     "title": "Techno-Curse",
-                    "description": "<em class=\"noprint\">Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.<br/><br/></em>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
+                    "description": "<em class=\"noprint\">Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.<br/><br/></em>\nWhile an enemy operative is within [CIRCLE] of friendly operatives with this ability or within [SQUARE] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
                   }
                 ],
                 "fireteammax": 0
@@ -11239,7 +11239,7 @@
                     "opid": "GM",
                     "abilityid": "RR",
                     "title": "Revoltingly Resilient",
-                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
+                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 6, that wound is not lost."
                   },
                   {
                     "factionid": "CHAOS",
@@ -11248,7 +11248,7 @@
                     "opid": "GM",
                     "abilityid": "TC",
                     "title": "Techno-Curse",
-                    "description": "<em class=\"noprint\">Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.<br/><br/></em>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
+                    "description": "<em class=\"noprint\">Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.<br/><br/></em>\nWhile an enemy operative is within [CIRCLE] of friendly operatives with this ability or within [SQUARE] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
                   }
                 ],
                 "fireteammax": 0
@@ -11333,7 +11333,7 @@
                     "opid": "GL",
                     "abilityid": "RR",
                     "title": "Revoltingly Resilient",
-                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
+                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 6, that wound is not lost."
                   },
                   {
                     "factionid": "CHAOS",
@@ -11351,7 +11351,7 @@
                     "opid": "GL",
                     "abilityid": "TC",
                     "title": "Techno-Curse",
-                    "description": "<em class=\"noprint\">Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.<br/><br/></em>\nWhile an enemy operative is within [SQUARE] of friendly operatives with this ability or within [PENT] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
+                    "description": "<em class=\"noprint\">Technological devices rebel in the presence of these ghoulish apparitions, their machine-spirits recoiling in horror and spitting angry sparks as they fight to escape the Gellerpox.<br/><br/></em>\nWhile an enemy operative is within [CIRCLE] of friendly operatives with this ability or within [SQUARE] of friendly GLITCHLING operatives with this ability,\nsubtract 1 from the Attacks characteristics of ranged weapons that enemy operative is equipped with."
                   }
                 ],
                 "fireteammax": 0
@@ -19164,7 +19164,7 @@
                     "uniqueactionid": "VGC",
                     "title": "Voltagheist Charge",
                     "description": "Until the end of the Turning Point, the Voltaic Pistol this operative is equipped with gains the Lethal 4+ special rule.\nThis operative cannot perform this action while within Engagement Range of an enemy operative, \nor if it has performed the Voltagheist Field action during this Turning Point.",
-                    "AP": 1
+                    "AP": 0
                   },
                   {
                     "factionid": "IMP",
@@ -19174,7 +19174,7 @@
                     "uniqueactionid": "VGF",
                     "title": "Voltagheist Field",
                     "description": "Until the end of the Turning Point, each time an enemy operative ends a move within [CIRCLE] of this operative,\ninflict D6 Mortal Wounds on that enemy operative.\nThis operative cannot perform this action while within Engagement Range of an enemy operative, \nor if it has performed the Voltagheist Charge action during this Turning Point.",
-                    "AP": 1
+                    "AP": 0
                   }
                 ],
                 "abilities": [
@@ -19514,7 +19514,7 @@
                         "A": "6",
                         "BS": "4+",
                         "D": "3/4",
-                        "SR": "Fusillade, Heavy"
+                        "SR": "Fusillade, Heavy, Relentless"
                       }
                     ],
                     "isselected": false
@@ -22134,7 +22134,7 @@
             "eqvar4": null
           }
         ],
-        "killteamcomp": "A HUNTER CLADE fire team includes the following operatives:\n<ul>\n\t<li>\n\t\tOne HUNTER CLADE operative selected from the following list:\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\tSKITARII RANGER ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Galvanic Rifle; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSKITARII VANGUARD ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Radium Carbine; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER PRINCEPS\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR PRINCEPS operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n\t<li>\n\t\tTen HUNTER CLADE operatives selected from the following list:\n\t\t<ul>\n\t\t\t<li>SKITARII RANGER MARKSMAN</li>\n\t\t\t<li>SKITARII RANGER DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII RANGER GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII RANGER SURVEYOR</li>\n\t\t\t<li>SKITARII VANGUARD SHOCKTROOPER</li>\n\t\t\t<li>SKITARII VANGUARD DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII VANGUARD GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII VANGUARD SURVEYOR</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER ASSASSIN operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Chordclaw and Transonic Razor or Transonic Blades</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR TRACKER operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n</ul>\n\nYour Kill Team must include more SKITARII RANGER and SKITARII VANGUARD operatives that it does SICARIAN operatives.\n<br/><br/>\nYour Kill Team can only include up to three GUNNER operatives.\nEach GUNNER operative must be equipped with different ranged weapons.\n<br/><br/>\nYour Kill Team can only include up to one DIKTAT and one SURVEYOR operative.\n \n<hr/>\n\n<h3>Doctrina Imperatives</h3>\nIn the Strategy phase of the first Turning Point, when it is your turn to use a Strategic Ploy or pass, you must select one Doctrina Imperative below to become active for your kill team instead. That Imperative is active until the end of the battle, or until you change it to a different Imperative, whichever comes first.\n<br/>\nIn the Strategy phase of a subsequent Turning Point, when it is your turn to use a Strategic Ploy or pass, you can select one different Imperative below to become active for your kill team instead.\n<br/>\nEach Imperative has an Optimisation and a Deprecation effect. Both are in effect while that Imperative is active for your kill team. Ignore each Imperative’s Deprecation effect during the first Turning Point that it is active for your kill team during the battle.",
+        "killteamcomp": "A HUNTER CLADE fire team includes the following operatives:\n <ul>\n \t<li>\n \t\tOne HUNTER CLADE operative selected from the following list:\n \t\t<ul>\n \t\t\t<li>\n \t\t\t\tSKITARII RANGER ALPHA operative equipped with one of the following:\n \t\t\t\t<ul>\n \t\t\t\t\t<li>Galvanic Rifle; Gun Butt</li>\n \t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n \t\t\t\t</ul>\n \t\t\t\tor one option from each of the following:\n \t\t\t\t<ul>\n \t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n \t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n \t\t\t\t</ul>\n \t\t\t</li>\n \t\t\t<li>\n \t\t\t\tSKITARII VANGUARD ALPHA operative equipped with one of the following:\n \t\t\t\t<ul>\n \t\t\t\t\t<li>Radium Carbine; Gun Butt</li>\n \t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n \t\t\t\t</ul>\n \t\t\t\tor one option from each of the following:\n \t\t\t\t<ul>\n \t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n \t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n \t\t\t\t</ul>\n \t\t\t</li>\n \t\t\t<li>\n \t\t\t\tSICARIAN RUSTSTALKER PRINCEPS\n \t\t\t</li>\n \t\t\t<li>\n \t\t\t\tSICARIAN INFILTRATOR PRINCEPS operative equipped with one option from each of the following:\n \t\t\t\t<ul>\n \t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n \t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n \t\t\t\t</ul>\n \t\t\t</li>\n \t\t</ul>\n \t</li>\n \t<li>\n \t\tTen HUNTER CLADE operatives selected from the following list:\n \t\t<ul>\n \t\t\t<li>SKITARII RANGER MARKSMAN</li>\n \t\t\t<li>SKITARII RANGER DIKTAT</li>\n \t\t\t<li>\n \t\t\t\tSKITARII RANGER GUNNER operative equipped with a Gun Butt and one of the following:\n \t\t\t\t<ul>\n \t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n \t\t\t\t</ul>\n \t\t\t</li>\n \t\t\t<li>SKITARII RANGER SURVEYOR</li>\n \t\t\t<li>SKITARII VANGUARD SHOCKTROOPER</li>\n \t\t\t<li>SKITARII VANGUARD DIKTAT</li>\n \t\t\t<li>\n \t\t\t\tSKITARII VANGUARD GUNNER operative equipped with a Gun Butt and one of the following:\n \t\t\t\t<ul>\n \t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n \t\t\t\t</ul>\n \t\t\t</li>\n \t\t\t<li>SKITARII VANGUARD SURVEYOR</li>\n \t\t\t<li>\n \t\t\t\tSICARIAN RUSTSTALKER ASSASSIN operative equipped with one of the following:\n \t\t\t\t<ul>\n \t\t\t\t\t<li>Chordclaw and Transonic Razor or Transonic Blades</li>\n \t\t\t\t</ul>\n \t\t\t</li>\n \t\t\t<li>\n \t\t\t\tSICARIAN INFILTRATOR TRACKER operative equipped with one option from each of the following:\n \t\t\t\t<ul>\n \t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n \t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n \t\t\t\t</ul>\n \t\t\t</li>\n \t\t</ul>\n \t</li>\n </ul>\n \n Your kill team cannot include more SICARIAN operatives than it does RANGER and VANGUARD operatives combined (but it can include the same)\n <br/><br/>\n Your Kill Team can only include up to three GUNNER operatives.\n Each GUNNER operative must be equipped with different ranged weapons.\n <br/><br/>\n Your Kill Team can only include up to one DIKTAT and one SURVEYOR operative.<br/><br/>\n If your kill team includes no more than four SICARIAN operatives, it can include one additional RANGER or VANGUARD operative (for 11 operatives in total)\n  \n <hr/>\n \n <h3>Doctrina Imperatives</h3>\n In the Strategy phase of the first Turning Point, when it is your turn to use a Strategic Ploy or pass, you must select one Doctrina Imperative below to become active for your kill team instead. That Imperative is active until the end of the battle, or until you change it to a different Imperative, whichever comes first.\n <br/>\n In the Strategy phase of a subsequent Turning Point, when it is your turn to use a Strategic Ploy or pass, you can select one different Imperative below to become active for your kill team instead.\n <br/>\n Each Imperative has an Optimisation and a Deprecation effect. Both are in effect while that Imperative is active for your kill team. Ignore each Imperative’s Deprecation effect during the first Turning Point that it is active for your kill team during the battle.",
         "fireteams": [
           {
             "factionid": "IMP",
@@ -23878,7 +23878,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "A HUNTER CLADE fire team includes the following operatives:\n<ul>\n\t<li>\n\t\tOne HUNTER CLADE operative selected from the following list:\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\tSKITARII RANGER ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Galvanic Rifle; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSKITARII VANGUARD ALPHA operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Radium Carbine; Gun Butt</li>\n\t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n\t\t\t\t</ul>\n\t\t\t\tor one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n\t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER PRINCEPS\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR PRINCEPS operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n\t<li>\n\t\tTen HUNTER CLADE operatives selected from the following list:\n\t\t<ul>\n\t\t\t<li>SKITARII RANGER MARKSMAN</li>\n\t\t\t<li>SKITARII RANGER DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII RANGER GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII RANGER SURVEYOR</li>\n\t\t\t<li>SKITARII VANGUARD SHOCKTROOPER</li>\n\t\t\t<li>SKITARII VANGUARD DIKTAT</li>\n\t\t\t<li>\n\t\t\t\tSKITARII VANGUARD GUNNER operative equipped with a Gun Butt and one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>SKITARII VANGUARD SURVEYOR</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN RUSTSTALKER ASSASSIN operative equipped with one of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Chordclaw and Transonic Razor or Transonic Blades</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tSICARIAN INFILTRATOR TRACKER operative equipped with one option from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n\t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n</ul>\n\nYour Kill Team must include more SKITARII RANGER and SKITARII VANGUARD operatives that it does SICARIAN operatives.\n<br/><br/>\nYour Kill Team can only include up to three GUNNER operatives.\nEach GUNNER operative must be equipped with different ranged weapons.\n<br/><br/>\nYour Kill Team can only include up to one DIKTAT and one SURVEYOR operative."
+            "fireteamcomp": "A HUNTER CLADE fire team includes the following operatives:\n <ul>\n \t<li>\n \t\tOne HUNTER CLADE operative selected from the following list:\n \t\t<ul>\n \t\t\t<li>\n \t\t\t\tSKITARII RANGER ALPHA operative equipped with one of the following:\n \t\t\t\t<ul>\n \t\t\t\t\t<li>Galvanic Rifle; Gun Butt</li>\n \t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n \t\t\t\t</ul>\n \t\t\t\tor one option from each of the following:\n \t\t\t\t<ul>\n \t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n \t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n \t\t\t\t</ul>\n \t\t\t</li>\n \t\t\t<li>\n \t\t\t\tSKITARII VANGUARD ALPHA operative equipped with one of the following:\n \t\t\t\t<ul>\n \t\t\t\t\t<li>Radium Carbine; Gun Butt</li>\n \t\t\t\t\t<li>Mastercrafted Radium Pistol; Power Weapon</li>\n \t\t\t\t</ul>\n \t\t\t\tor one option from each of the following:\n \t\t\t\t<ul>\n \t\t\t\t\t<li>Arc Pistol or Phosphor Blast Pistol</li>\n \t\t\t\t\t<li>Arc Maul or Taser Goad</li>\n \t\t\t\t</ul>\n \t\t\t</li>\n \t\t\t<li>\n \t\t\t\tSICARIAN RUSTSTALKER PRINCEPS\n \t\t\t</li>\n \t\t\t<li>\n \t\t\t\tSICARIAN INFILTRATOR PRINCEPS operative equipped with one option from each of the following:\n \t\t\t\t<ul>\n \t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n \t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n \t\t\t\t</ul>\n \t\t\t</li>\n \t\t</ul>\n \t</li>\n \t<li>\n \t\tTen HUNTER CLADE operatives selected from the following list:\n \t\t<ul>\n \t\t\t<li>SKITARII RANGER MARKSMAN</li>\n \t\t\t<li>SKITARII RANGER DIKTAT</li>\n \t\t\t<li>\n \t\t\t\tSKITARII RANGER GUNNER operative equipped with a Gun Butt and one of the following:\n \t\t\t\t<ul>\n \t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n \t\t\t\t</ul>\n \t\t\t</li>\n \t\t\t<li>SKITARII RANGER SURVEYOR</li>\n \t\t\t<li>SKITARII VANGUARD SHOCKTROOPER</li>\n \t\t\t<li>SKITARII VANGUARD DIKTAT</li>\n \t\t\t<li>\n \t\t\t\tSKITARII VANGUARD GUNNER operative equipped with a Gun Butt and one of the following:\n \t\t\t\t<ul>\n \t\t\t\t\t<li>Arc Rifle, Plasma Caliver, or Transuranic Arquebus</li>\n \t\t\t\t</ul>\n \t\t\t</li>\n \t\t\t<li>SKITARII VANGUARD SURVEYOR</li>\n \t\t\t<li>\n \t\t\t\tSICARIAN RUSTSTALKER ASSASSIN operative equipped with one of the following:\n \t\t\t\t<ul>\n \t\t\t\t\t<li>Chordclaw and Transonic Razor or Transonic Blades</li>\n \t\t\t\t</ul>\n \t\t\t</li>\n \t\t\t<li>\n \t\t\t\tSICARIAN INFILTRATOR TRACKER operative equipped with one option from each of the following:\n \t\t\t\t<ul>\n \t\t\t\t\t<li>Flechette Blaster or Stubcarbine</li>\n \t\t\t\t\t<li>Power Weapon or Taser Goad</li>\n \t\t\t\t</ul>\n \t\t\t</li>\n \t\t</ul>\n \t</li>\n </ul>\n \n Your kill team cannot include more SICARIAN operatives than it does RANGER and VANGUARD operatives combined (but it can include the same)\n <br/><br/>\n Your Kill Team can only include up to three GUNNER operatives.\n Each GUNNER operative must be equipped with different ranged weapons.\n <br/><br/>\n Your Kill Team can only include up to one DIKTAT and one SURVEYOR operative.<br/><br/>\n If your kill team includes no more than four SICARIAN operatives, it can include one additional RANGER or VANGUARD operative (for 11 operatives in total)\n  \n <hr/>\n \n <h3>Doctrina Imperatives</h3>\n In the Strategy phase of the first Turning Point, when it is your turn to use a Strategic Ploy or pass, you must select one Doctrina Imperative below to become active for your kill team instead. That Imperative is active until the end of the battle, or until you change it to a different Imperative, whichever comes first.\n <br/>\n In the Strategy phase of a subsequent Turning Point, when it is your turn to use a Strategic Ploy or pass, you can select one different Imperative below to become active for your kill team instead.\n <br/>\n Each Imperative has an Optimisation and a Deprecation effect. Both are in effect while that Imperative is active for your kill team. Ignore each Imperative’s Deprecation effect during the first Turning Point that it is active for your kill team during the battle."
           }
         ]
       },
@@ -31753,7 +31753,7 @@
                     "opid": "INFSGT",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [SQUARE] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -31763,7 +31763,7 @@
                     "opid": "INFSGT",
                     "uniqueactionid": "ST",
                     "title": "Strategise",
-                    "description": "You gain 1 CP. This operative cannot perform this action while within [PENT] of an enemy operative.",
+                    "description": "You gain 1 CP. This operative cannot perform this action while within [SQUARE] of an enemy operative.",
                     "AP": 1
                   }
                 ],
@@ -31859,7 +31859,7 @@
                     "opid": "INCSGT",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [SQUARE] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -31869,7 +31869,7 @@
                     "opid": "INCSGT",
                     "uniqueactionid": "ST",
                     "title": "Strategise",
-                    "description": "You gain 1 CP. This operative cannot perform this action while within [PENT] of an enemy operative.",
+                    "description": "You gain 1 CP. This operative cannot perform this action while within [SQUARE] of an enemy operative.",
                     "AP": 1
                   }
                 ],
@@ -31881,7 +31881,7 @@
                     "opid": "INCSGT",
                     "abilityid": "MSA",
                     "title": "Multi-Spectrum Array",
-                    "description": "<i class=\"noprint\">Feeding directly into the autosenses of its bearer, the Multi-Spectrum Array combines energistic augury with oracular vid-sweeps to reveal even cunningly concealed foes.<br/><br/></i>\n When determining if an intended target is in this operative's Line Of Sight:\n <ul>\n <li>For the intended target to be Obscured, it must be more than 2[CIRCLE] (instead of [CIRCLE]) from a point at which a Cover line crosses a terrain feature that is Obscuring.</li>\n <li>Areas of smoke (e.g. Smoke Grenade) have no effect</li>\n </ul>"
+                    "description": "<i class=\"noprint\">Feeding directly into the autosenses of its bearer, the Multi-Spectrum Array combines energistic augury with oracular vid-sweeps to reveal even cunningly concealed foes.<br/><br/></i>\r  When determining if an intended target is in this operative's Line Of Sight:\r  <ul>\r  <li>The intended target cannot be Obscured</li>\r  <li>Areas of smoke (e.g. Smoke Grenade) have no effect</li>\r  </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -32019,7 +32019,7 @@
                     "opid": "RVRSGT",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [SQUARE] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -32029,7 +32029,7 @@
                     "opid": "RVRSGT",
                     "uniqueactionid": "ST",
                     "title": "Strategise",
-                    "description": "You gain 1 CP. This operative cannot perform this action while within [PENT] of an enemy operative.",
+                    "description": "You gain 1 CP. This operative cannot perform this action while within [SQUARE] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -32040,7 +32040,7 @@
                     "uniqueactionid": "TR",
                     "title": "Terror",
                     "description": "\n \n <i class=\"noprint\">Exposed to the counter-sensory barrage unleashed by Primaris Reivers, even the staunchest enemy is likely to back fearfully away, or fumble for weapons and wargear with shaking fingers. <br/><br/></i>\n  Until the end of the Turning Point:\n <ul>\n <li>Each time an enemy operative would perform a mission action or the Pick Up action, if any friendly operatives that performed this action during this Turning Point are within [SQUARE] of that enemy operative, one additional action point must be subtracted for that enemy operative to perform that action.</li>\n <li>When determining control of an objective marker that any friendly operatives that performs this action during this Turning Point are within range of, treat enemy operatives' total APL as being 1 less. Note that this is not a modifier.</li>\n </ul>",
-                    "AP": 1
+                    "AP": 0
                   }
                 ],
                 "abilities": [],
@@ -32125,7 +32125,7 @@
                     "opid": "INFVET",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [SQUARE] of an enemy operative.",
                     "AP": 1
                   }
                 ],
@@ -32240,7 +32240,7 @@
                     "opid": "INFCOM",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [SQUARE] of an enemy operative.",
                     "AP": 1
                   }
                 ],
@@ -32336,7 +32336,7 @@
                     "opid": "INFHEL",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [SQUARE] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -32478,7 +32478,7 @@
                     "opid": "INFSAB",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [SQUARE] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -32603,7 +32603,7 @@
                     "opid": "INFVOX",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [SQUARE] of an enemy operative.",
                     "AP": 1
                   }
                 ],
@@ -32708,7 +32708,7 @@
                     "opid": "INFWAR",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [SQUARE] of an enemy operative.",
                     "AP": 1
                   }
                 ],
@@ -32804,7 +32804,7 @@
                     "opid": "INCMRK",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [SQUARE] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -32826,7 +32826,7 @@
                     "opid": "INCMRK",
                     "abilityid": "MSA",
                     "title": "Multi-Spectrum Array",
-                    "description": "<i class=\"noprint\">Feeding directly into the autosenses of its bearer, the Multi-Spectrum Array combines energistic augury with oracular vid-sweeps to reveal even cunningly concealed foes.<br/><br/></i>\n When determining if an intended target is in this operative's Line Of Sight:\n <ul>\n <li>For the intended target to be Obscured, it must be more than 2[CIRCLE] (instead of [CIRCLE]) from a point at which a Cover line crosses a terrain feature that is Obscuring.</li>\n <li>Areas of smoke (e.g. Smoke Grenade) have no effect</li>\n </ul>"
+                    "description": "<i class=\"noprint\">Feeding directly into the autosenses of its bearer, the Multi-Spectrum Array combines energistic augury with oracular vid-sweeps to reveal even cunningly concealed foes.<br/><br/></i>\r  When determining if an intended target is in this operative's Line Of Sight:\r  <ul>\r  <li>The intended target cannot be Obscured</li>\r  <li>Areas of smoke (e.g. Smoke Grenade) have no effect</li>\r  </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -32937,7 +32937,7 @@
                     "opid": "INCML",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [SQUARE] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -32968,7 +32968,7 @@
                     "opid": "INCML",
                     "abilityid": "MSA",
                     "title": "Multi-Spectrum Array",
-                    "description": "<i class=\"noprint\">Feeding directly into the autosenses of its bearer, the Multi-Spectrum Array combines energistic augury with oracular vid-sweeps to reveal even cunningly concealed foes.<br/><br/></i>\n When determining if an intended target is in this operative's Line Of Sight:\n <ul>\n <li>For the intended target to be Obscured, it must be more than 2[CIRCLE] (instead of [CIRCLE]) from a point at which a Cover line crosses a terrain feature that is Obscuring.</li>\n <li>Areas of smoke (e.g. Smoke Grenade) have no effect</li>\n </ul>"
+                    "description": "<i class=\"noprint\">Feeding directly into the autosenses of its bearer, the Multi-Spectrum Array combines energistic augury with oracular vid-sweeps to reveal even cunningly concealed foes.<br/><br/></i>\r  When determining if an intended target is in this operative's Line Of Sight:\r  <ul>\r  <li>The intended target cannot be Obscured</li>\r  <li>Areas of smoke (e.g. Smoke Grenade) have no effect</li>\r  </ul>"
                   },
                   {
                     "factionid": "IMP",
@@ -33061,7 +33061,7 @@
                     "opid": "INCWAR",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [SQUARE] of an enemy operative.",
                     "AP": 1
                   }
                 ],
@@ -33073,7 +33073,7 @@
                     "opid": "INCWAR",
                     "abilityid": "MSA",
                     "title": "Multi-Spectrum Array",
-                    "description": "<i class=\"noprint\">Feeding directly into the autosenses of its bearer, the Multi-Spectrum Array combines energistic augury with oracular vid-sweeps to reveal even cunningly concealed foes.<br/><br/></i>\n When determining if an intended target is in this operative's Line Of Sight:\n <ul>\n <li>For the intended target to be Obscured, it must be more than 2[CIRCLE] (instead of [CIRCLE]) from a point at which a Cover line crosses a terrain feature that is Obscuring.</li>\n <li>Areas of smoke (e.g. Smoke Grenade) have no effect</li>\n </ul>"
+                    "description": "<i class=\"noprint\">Feeding directly into the autosenses of its bearer, the Multi-Spectrum Array combines energistic augury with oracular vid-sweeps to reveal even cunningly concealed foes.<br/><br/></i>\r  When determining if an intended target is in this operative's Line Of Sight:\r  <ul>\r  <li>The intended target cannot be Obscured</li>\r  <li>Areas of smoke (e.g. Smoke Grenade) have no effect</li>\r  </ul>"
                   }
                 ],
                 "fireteammax": 0
@@ -33211,7 +33211,7 @@
                     "opid": "RVRWAR",
                     "uniqueactionid": "GW",
                     "title": "Guerrilla Warfare",
-                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [PENT] of an enemy operative.",
+                    "description": "\n <i class=\"noprint\">Every member of a Phobos Strike Team is highly trained in the arts of hit-and-run, guerrilla-style warfare.\n They attack swiftly, fight with incredible coordination, then fade back into the shadows before retribution can find them. <br/><br/></i>\n Change this operative's order. \n This operative cannot perform this action during the first Turning Point or within [SQUARE] of an enemy operative.",
                     "AP": 1
                   },
                   {
@@ -33222,7 +33222,7 @@
                     "uniqueactionid": "TR",
                     "title": "Terror",
                     "description": "\n \n <i class=\"noprint\">Exposed to the counter-sensory barrage unleashed by Primaris Reivers, even the staunchest enemy is likely to back fearfully away, or fumble for weapons and wargear with shaking fingers. <br/><br/></i>\n  Until the end of the Turning Point:\n <ul>\n <li>Each time an enemy operative would perform a mission action or the Pick Up action, if any friendly operatives that performed this action during this Turning Point are within [SQUARE] of that enemy operative, one additional action point must be subtracted for that enemy operative to perform that action.</li>\n <li>When determining control of an objective marker that any friendly operatives that performs this action during this Turning Point are within range of, treat enemy operatives' total APL as being 1 less. Note that this is not a modifier.</li>\n </ul>",
-                    "AP": 1
+                    "AP": 0
                   }
                 ],
                 "abilities": [],
@@ -41643,7 +41643,7 @@
               "ployid": "CA",
               "ployname": "Commence Reanimation",
               "ploytype": "T",
-              "CP": "1",
+              "CP": "0",
               "description": "Use this Tactical Ploy when a friendly HIEROTEK CIRCLE operative is incapacitated for the first time during the battle. That operative attempts reanimation."
             },
             {
@@ -41681,7 +41681,7 @@
             "killteamid": "HIER",
             "eqid": "PO",
             "eqname": "Phase Oculars",
-            "eqdescription": "DEATHMARK operative only. The operative can perform the following action during the battle:<br/>\r <strong>Phase Oculars (1 AP):</strong>\r Select one enemy operative. Until the end of the Turning Point, each time this operative makes a shooting attack with a synaptic disintegrator against that enemy operative, at the end of the Roll Attack Dice step of that shooting attack, if you did not retain any critical hits, you can change one of your retained successful normal hits to a critical hit instead (resolving the MWx critical hit rule accordingly).",
+            "eqdescription": "DEATHMARK operative only. The operative can perform the following action during the battle:<br/>\r <strong>Phase Oculars (0 AP):</strong>\r Select one enemy operative. Until the end of the Turning Point, each time this operative makes a shooting attack with a synaptic disintegrator against that enemy operative, at the end of the Roll Attack Dice step of that shooting attack, if you did not retain any critical hits, you can change one of your retained successful normal hits to a critical hit instead (resolving the MWx critical hit rule accordingly).",
             "eqpts": "2",
             "eqseq": 1,
             "eqtype": "Action",
@@ -41951,8 +41951,8 @@
                 "GA": "1",
                 "DF": "3",
                 "SV": "3+",
-                "W": "11",
-                "keywords": "HIEROTEK CIRCLE, NECRON, <DYNASTY>, FLY, LEADER, CRYPEK, CHRONOMANCER",
+                "W": "13",
+                "keywords": "HIEROTEK CIRCLE, NECRON, <DYNASTY>, FLY, LEADER, CRYPTEK, CHRONOMANCER",
                 "weapons": [
                   {
                     "factionid": "NEC",
@@ -41974,7 +41974,7 @@
                         "profileid": "0",
                         "name": "",
                         "A": "5",
-                        "BS": "4+",
+                        "BS": "3+",
                         "D": "3/3",
                         "SR": "Blast [CIRCLE], Lethal 5+, Stun"
                       }
@@ -42001,7 +42001,7 @@
                         "profileid": "0",
                         "name": "",
                         "A": "4",
-                        "BS": "4+",
+                        "BS": "3+",
                         "D": "5/3",
                         "SR": "AP1, MW3"
                       }
@@ -42072,7 +42072,7 @@
                     "uniqueactionid": "CMD",
                     "title": "Command",
                     "description": "Select one friendly DEATHMARK or IMMORTAL operative Visible To and within [PENT] of either this operative of a friendly IMMORTAL DESPOTEK operative.\nThat selected friendly operative can immediately perfom a free Fight, Overwatch, 1 AP Pick Up, or 1 AP mission action.\nThis operative cannot perform this action while within Engagement Range of an enemy operative.",
-                    "AP": 1
+                    "AP": 0
                   }
                 ],
                 "abilities": [
@@ -42101,7 +42101,7 @@
                     "opid": "CHRON",
                     "abilityid": "RAP",
                     "title": "Reanimation Protocols",
-                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
+                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, before resolving the Living Metal ability roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
                   }
                 ],
                 "fireteammax": 0
@@ -42119,8 +42119,8 @@
                 "GA": "1",
                 "DF": "3",
                 "SV": "3+",
-                "W": "11",
-                "keywords": "HIEROTEK CIRCLE, NECRON, <DYNASTY>, FLY, LEADER, CRYPEK, PSYCHOMANCER",
+                "W": "13",
+                "keywords": "HIEROTEK CIRCLE, NECRON, <DYNASTY>, FLY, LEADER, CRYPTEK, PSYCHOMANCER",
                 "weapons": [
                   {
                     "factionid": "NEC",
@@ -42142,7 +42142,7 @@
                         "profileid": "0",
                         "name": "",
                         "A": "5",
-                        "BS": "4+",
+                        "BS": "3+",
                         "D": "2/2",
                         "SR": "AP2, Blast [CIRCLE], Splash 1"
                       }
@@ -42186,7 +42186,7 @@
                     "uniqueactionid": "CMD",
                     "title": "Command",
                     "description": "Select one friendly DEATHMARK or IMMORTAL operative Visible To and within [PENT] of either this operative of a friendly IMMORTAL DESPOTEK operative.\nThat selected friendly operative can immediately perfom a free Fight, Overwatch, 1 AP Pick Up, or 1 AP mission action.\nThis operative cannot perform this action while within Engagement Range of an enemy operative.",
-                    "AP": 1
+                    "AP": 0
                   }
                 ],
                 "abilities": [
@@ -42215,7 +42215,7 @@
                     "opid": "PSYCH",
                     "abilityid": "RAP",
                     "title": "Reanimation Protocols",
-                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
+                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, before resolving the Living Metal ability roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
                   }
                 ],
                 "fireteammax": 0
@@ -42233,8 +42233,8 @@
                 "GA": "1",
                 "DF": "3",
                 "SV": "3+",
-                "W": "11",
-                "keywords": "HIEROTEK CIRCLE, NECRON, <DYNASTY>, FLY, MEDIC, LEADER, CRYPEK, TECHNOMANCER",
+                "W": "13",
+                "keywords": "HIEROTEK CIRCLE, NECRON, <DYNASTY>, FLY, MEDIC, LEADER, CRYPTEK, TECHNOMANCER",
                 "weapons": [
                   {
                     "factionid": "NEC",
@@ -42256,7 +42256,7 @@
                         "profileid": "0",
                         "name": "",
                         "A": "6",
-                        "BS": "4+",
+                        "BS": "3+",
                         "D": "3/4",
                         "SR": "AP1"
                       }
@@ -42300,7 +42300,7 @@
                     "uniqueactionid": "CMD",
                     "title": "Command",
                     "description": "Select one friendly DEATHMARK or IMMORTAL operative Visible To and within [PENT] of either this operative of a friendly IMMORTAL DESPOTEK operative.\nThat selected friendly operative can immediately perfom a free Fight, Overwatch, 1 AP Pick Up, or 1 AP mission action.\nThis operative cannot perform this action while within Engagement Range of an enemy operative.",
-                    "AP": 1
+                    "AP": 0
                   }
                 ],
                 "abilities": [
@@ -42329,7 +42329,7 @@
                     "opid": "TECH",
                     "abilityid": "RAP",
                     "title": "Reanimation Protocols",
-                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
+                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, before resolving the Living Metal ability roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
                   }
                 ],
                 "fireteammax": 0
@@ -42434,7 +42434,7 @@
                     "opid": "PA",
                     "abilityid": "RAP",
                     "title": "Reanimation Protocols",
-                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
+                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, before resolving the Living Metal ability roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
                   },
                   {
                     "factionid": "NEC",
@@ -42537,7 +42537,7 @@
                     "opid": "PR",
                     "abilityid": "RAP",
                     "title": "Reanimation Protocols",
-                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
+                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, before resolving the Living Metal ability roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
                   },
                   {
                     "factionid": "NEC",
@@ -42669,7 +42669,7 @@
                     "opid": "APP",
                     "abilityid": "RAP",
                     "title": "Reanimation Protocols",
-                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
+                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, before resolving the Living Metal ability roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
                   }
                 ],
                 "fireteammax": 0
@@ -42763,7 +42763,7 @@
                     "opid": "DM",
                     "abilityid": "RAP",
                     "title": "Reanimation Protocols",
-                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
+                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, before resolving the Living Metal ability roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
                   }
                 ],
                 "fireteammax": 0
@@ -42895,7 +42895,7 @@
                     "opid": "ID",
                     "abilityid": "RAP",
                     "title": "Reanimation Protocols",
-                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
+                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, before resolving the Living Metal ability roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
                   }
                 ],
                 "fireteammax": 0
@@ -43016,7 +43016,7 @@
                     "opid": "IG",
                     "abilityid": "RAP",
                     "title": "Reanimation Protocols",
-                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, after resolving the Living Metal ability, roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
+                    "description": "<em class=\"noprint\">Should a Necron be slain, its body becomes wreathed in an eerie glow. Crawling limbs reattach, sundered torsos and smashed skulls mend amidst emerald sparks, and the Necron rises again.\nThose too catastrophically damaged to reform vanish instead, teleported away to their tombs for repair.<br/><br/></em>\n\nCertain rules allow friendly HIEROTEK CIRCLE operatives to attempt reanimation (e.g. Reanimation Beam).\nThe first time each friendly HIEROTEK CIRCLE operative is incapacitated, if it attempts reanimation, before removing that operative from the killzone,\nplace one of your Reanimation tokens underneath the operative as close as possible to the centre of its base and leave its order token next to it.\nNote that the second time each friendly HIEROTEK CIRCLE operative is incapacitated, it cannot attempt reanimation.\n\nIn the Ready Operatives step of each Turning Point, before resolving the Living Metal ability roll 1D6 for each of your Reanimation tokens.\nOn 1-2, leave that Reanimation token in the kill zone. On a 3+, an operative is successfully reanimated:\n<ul>\n<li>Set up the operative that Reanimation token was placed for.</li>\n<li>It must be as close as possible to that Reanimation token and not within Engagement Range of enemy operatives.</li>\n<li>It has D3 Wounds remaining.</li>\n<li>It has the order of its remaining order token.</li>\n<li>Remove that Reanimation token.\n</ul>\n<br/>\nIn Narrative Play, operatives that are successfully reanimated are not treated as being incapacitated for the purposes of Casualty tests unless they are incapacitated again during that battle."
                   }
                 ],
                 "fireteammax": 0
@@ -47185,7 +47185,7 @@
               "ployname": "Cut-Throats",
               "ploytype": "S",
               "CP": "1",
-              "description": "Until the end of the Turning Point, add 1 to the Attacks characteristic of melee weapons friendly FARSTALKER KINBAND operatives are equipped with (to a maximum of 4)."
+              "description": "Until the end of the Turning Point, add 1 to the Attacks characteristic of melee weapons friendly FARSTALKER KINBAND operatives are equipped with (to a maximum of 5)."
             },
             {
               "factionid": "TAU",
@@ -47372,7 +47372,7 @@
             "eqid": "MEAT",
             "eqname": "Meat",
             "eqdescription": "The operative gains the following ability for the battle:<br/><br/>\n<strong>Meat:</strong>\nOnce during the battle, when this operative is activated, you can use this ability. \nIf you do so, this operative regains D3+1 lost wounds.",
-            "eqpts": "3",
+            "eqpts": "1",
             "eqseq": 3,
             "eqtype": "Ability",
             "eqvar1": null,
@@ -47386,7 +47386,7 @@
             "eqid": "TROPHY",
             "eqname": "Trophy",
             "eqdescription": "The operative gains the following ability for the battle:<br/><br/>\n<strong>Trophy:</strong>\nOnce during the battle, when this operative is activated, you can use this ability. \nIf you do so, add 1 to this operative's APL.\nEach Turning Point, only one friendly operative can use this ability.",
-            "eqpts": "4",
+            "eqpts": "3",
             "eqseq": 4,
             "eqtype": "Ability",
             "eqvar1": null,
@@ -47640,7 +47640,7 @@
                     "opid": "KB",
                     "abilityid": "RG",
                     "title": "Rogue",
-                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>"
+                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>\nIn addition, each time a shooting attack is made against this operative, the No Cover special rule has no effect for that shooting attack."
                   }
                 ],
                 "fireteammax": 0
@@ -47681,7 +47681,7 @@
                         "profileid": "0",
                         "name": "Fused Arrow",
                         "A": "4",
-                        "BS": "4+",
+                        "BS": "3+",
                         "D": "4/5",
                         "SR": "AP1"
                       },
@@ -47694,7 +47694,7 @@
                         "profileid": "1",
                         "name": "Glide Arrow",
                         "A": "4",
-                        "BS": "4+",
+                        "BS": "3+",
                         "D": "3/4",
                         "SR": "Silent"
                       },
@@ -47707,7 +47707,7 @@
                         "profileid": "2",
                         "name": "Voltaic Arrow",
                         "A": "3",
-                        "BS": "3+",
+                        "BS": "2+",
                         "D": "3/4",
                         "SR": "Splash 2"
                       }
@@ -47762,7 +47762,7 @@
                     "opid": "BH",
                     "abilityid": "RG",
                     "title": "Rogue",
-                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>"
+                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>\nIn addition, each time a shooting attack is made against this operative, the No Cover special rule has no effect for that shooting attack."
                   }
                 ],
                 "fireteammax": 0
@@ -47910,7 +47910,7 @@
                     "opid": "CB",
                     "abilityid": "RG",
                     "title": "Rogue",
-                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>"
+                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>\nIn addition, each time a shooting attack is made against this operative, the No Cover special rule has no effect for that shooting attack."
                   },
                   {
                     "factionid": "TAU",
@@ -47988,7 +47988,7 @@
                     "opid": "CS",
                     "abilityid": "RG",
                     "title": "Rogue",
-                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>"
+                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>\nIn addition, each time a shooting attack is made against this operative, the No Cover special rule has no effect for that shooting attack."
                   },
                   {
                     "factionid": "TAU",
@@ -48118,7 +48118,7 @@
                     "opid": "HGNR",
                     "abilityid": "RG",
                     "title": "Rogue",
-                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>"
+                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>\nIn addition, each time a shooting attack is made against this operative, the No Cover special rule has no effect for that shooting attack."
                   }
                 ],
                 "fireteammax": 0
@@ -48205,7 +48205,7 @@
                     "opid": "HND",
                     "abilityid": "RG",
                     "title": "Rogue",
-                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>"
+                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>\nIn addition, each time a shooting attack is made against this operative, the No Cover special rule has no effect for that shooting attack."
                   }
                 ],
                 "fireteammax": 0
@@ -48246,7 +48246,7 @@
                         "profileid": "0",
                         "name": "",
                         "A": "4",
-                        "BS": "3+",
+                        "BS": "2+",
                         "D": "3/3",
                         "SR": "Heavy, MW3"
                       }
@@ -48301,7 +48301,7 @@
                     "opid": "LS",
                     "abilityid": "RG",
                     "title": "Rogue",
-                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>"
+                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>\nIn addition, each time a shooting attack is made against this operative, the No Cover special rule has no effect for that shooting attack."
                   }
                 ],
                 "fireteammax": 0
@@ -48342,7 +48342,7 @@
                         "profileid": "0",
                         "name": "",
                         "A": "4",
-                        "BS": "4+",
+                        "BS": "3+",
                         "D": "3/4",
                         "SR": "Rng [PENT], Bal, Lethal 5+"
                       }
@@ -48406,7 +48406,7 @@
                     "opid": "PST",
                     "abilityid": "RG",
                     "title": "Rogue",
-                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>"
+                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>\nIn addition, each time a shooting attack is made against this operative, the No Cover special rule has no effect for that shooting attack."
                   }
                 ],
                 "fireteammax": 0
@@ -48502,7 +48502,7 @@
                     "opid": "STK",
                     "abilityid": "RG",
                     "title": "Rogue",
-                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>"
+                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>\nIn addition, each time a shooting attack is made against this operative, the No Cover special rule has no effect for that shooting attack."
                   },
                   {
                     "factionid": "TAU",
@@ -48626,7 +48626,7 @@
                     "opid": "TRK",
                     "abilityid": "RG",
                     "title": "Rogue",
-                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>"
+                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>\nIn addition, each time a shooting attack is made against this operative, the No Cover special rule has no effect for that shooting attack."
                   }
                 ],
                 "fireteammax": 0
@@ -48738,7 +48738,7 @@
                     "opid": "WAR",
                     "abilityid": "RG",
                     "title": "Rogue",
-                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>"
+                    "description": "<em class=\"noprint\">The Kroot of Farstalker Kinbands are experienced raiders, infiltrators, and scouts.\n They have mastered the art of using local terrain to their best advantage, concealing themselves before launching ambushes.<br/><br/></em>\n Each time a shooting attack is made against this operative, in the Roll Defence Dice step of that shooting attack, before rolling your defence dice,\n if it is in Cover, you can do one of the following:\n <ul>\n <li>Retain one additional die as a successful normal save as a result of Cover.</li>\n <li>Retain one die as a successful critical save instead of a normal save as a result of Cover.</li>\n </ul>\nIn addition, each time a shooting attack is made against this operative, the No Cover special rule has no effect for that shooting attack."
                   }
                 ],
                 "fireteammax": 0
