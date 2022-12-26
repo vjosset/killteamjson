@@ -27080,7 +27080,33 @@
             "eqvar3": "",
             "eqvar4": "",
             "eqcategory": "Rare Equipment",
-            "eqseq": 401
+            "eqseq": 401,
+            "weapon": {
+              "factionid": "IMP",
+              "killteamid": "ESS",
+              "fireteamid": "EQ",
+              "opid": "EQ",
+              "wepid": "RE-AG",
+              "wepseq": 1,
+              "wepname": "Archeotech Grenade",
+              "weptype": "R",
+              "isdefault": 0,
+              "profiles": [
+                {
+                  "factionid": "IMP",
+                  "killteamid": "ESS",
+                  "fireteamid": "EQ",
+                  "opid": "EQ",
+                  "wepid": "RE-AG",
+                  "profileid": "0",
+                  "name": "",
+                  "A": "4",
+                  "BS": "3+",
+                  "D": "2/2",
+                  "SR": "Rng [PENT], Indirect, Lethal 4+, Lim, No Overwatch, MW2"
+                }
+              ]
+            }
           },
           {
             "factionid": "IMP",
@@ -57814,7 +57840,7 @@
             "eqid": "RE-TO",
             "eqname": "Temporic Orb",
             "eqdescription": "<em>Rare Equipment</em><br/>\nCRYPTEK operative only.<br/>\nThe operative gains the following ability for the battle:<br/>\n<strong>Temporic Orb:</strong>\nOnce per battle, after rolling off to determine initiative, this operative can use this ability. If it does so, you can re-roll your die or add 1 to the result.",
-            "eqpts": "1",
+            "eqpts": "3",
             "eqtype": "Ability",
             "eqvar1": "",
             "eqvar2": "",
