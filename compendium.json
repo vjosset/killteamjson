@@ -21831,6 +21831,15 @@
                     "abilityid": "PRED",
                     "title": "Predator",
                     "description": "Each time this operative is activated, it can perform a free Fight or Shoot action during that activation."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "ESS",
+                    "fireteamid": "ESS",
+                    "opid": "EV",
+                    "abilityid": "WOT",
+                    "title": "Warrant Of Trade",
+                    "description": "<em class=\"noprint\">Warrants Of Trade grant Rogue Traders a level of independence and authority that few within the Imperium possess.\nThey offer great power and influence, allowing their hereditary holders to operate on their own terms and at their own discretion.\nAs such, there are few bars to these adventurers' ambitions.<br/></em>\nUp to three times per game, you can use a Warrant Of Trade ability (below). \nEach ability specifies when it can be used, you must inform your opponent when you do so, and you cannot use the same ability more than once per game.\n\n<ul>\n\t<li>\n\t\t<strong>Coerce</strong><br/>\n\t\t<strong>When:</strong> In the Select Drop Zone step, after rolling off to decide Attacker and Defender<br/>\n\t\t<strong>Effect:</strong> You can re-roll your dice.\n\t</li>\n\t<li>\n\t\t<strong>Coordinate</strong><br/>\n\t\t<strong>When:</strong> At the end of the Select a Kill Team step.<br/>\n\t\t<strong>Effect:</strong> Add 1 CP to your pool.\n\t</li>\n\t<li>\n\t\t<strong>Adaptable Terms</strong><br/>\n\t\t<strong>When:</strong> At the start of the Select Tac Ops step.<br/>\n\t\t<strong>Effect:</strong> You can select Tac Ops from two of your Archetypes (rather than one).\n\t</li>\n\t<li>\n\t\t<strong>Consideration</strong><br/>\n\t\t<strong>When:</strong> At the start of the Select Equipment step.<br/>\n\t\t<strong>Effect:</strong> You can select 6 additional points of equipment for the battle.\n\t</li>\n\t<li>\n\t\t<strong>Explore</strong><br/>\n\t\t<strong>When:</strong> At the end of the Scouting step.<br/>\n\t\t<strong>Effect:</strong> Select and resolve an additional scouting option. It must be a different option to your original selection, and initiative is still determined by your original selection. If both players have this or a simiar ability, the Defender resolves this ability first.\n\t</li>\n\t<li>\n\t\t<strong>Seize</strong><br/>\n\t\t<strong>When:</strong> In the Initiative phase, after rolling off to determine Initiative.<br/>\n\t\t<strong>Effect:</strong> You can re-roll your dice.\n\t</li>\n</ul>"
                   }
                 ],
                 "fireteammax": 0
