@@ -76184,7 +76184,35 @@
                   }
                 ],
                 "uniqueactions": [],
-                "abilities": [],
+                "abilities": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "HF",
+                    "fireteamid": "GS",
+                    "opid": "FTR",
+                    "abilityid": "HH",
+                    "title": "Hidden Horror",
+                    "description": "While this operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point)."
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "HF",
+                    "fireteamid": "GS",
+                    "opid": "FTR",
+                    "abilityid": "LR",
+                    "title": "Lightning Reflexes",
+                    "description": "This operative has a 5+ invulnerable save. Each time this operative is activated, it can perform a free Dash action during that activation."
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "HF",
+                    "fireteamid": "GS",
+                    "opid": "FTR",
+                    "abilityid": "SYN",
+                    "title": "Synapse",
+                    "description": "<ul>\n\t<li>Each time this operative is activated, if it is injured and within [PENT] of a friendly HIVE FLEET SYNAPSE operative, for that activation, do not subtract [CIRCLE] from its Movement characteristic as a result of being injured</li>\n    <li>While this operative is injured and within [PENT] of a friendly HIVE FLEET SYNAPSE operative, do not worsen the Ballistic Skill and Weapon Skill of ranged and melee weapons it is equipped with as a result of being injured</li>\n</ul>"
+                  }
+                ],
                 "fireteammax": 0
               },
               {
@@ -76286,7 +76314,35 @@
                   }
                 ],
                 "uniqueactions": [],
-                "abilities": [],
+                "abilities": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "HF",
+                    "fireteamid": "GS",
+                    "opid": "LDR",
+                    "abilityid": "HH",
+                    "title": "Hidden Horror",
+                    "description": "While this operative has a Conceal order, it is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point)."
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "HF",
+                    "fireteamid": "GS",
+                    "opid": "LDR",
+                    "abilityid": "LR",
+                    "title": "Lightning Reflexes",
+                    "description": "This operative has a 5+ invulnerable save. Each time this operative is activated, it can perform a free Dash action during that activation."
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "HF",
+                    "fireteamid": "GS",
+                    "opid": "LDR",
+                    "abilityid": "SYN",
+                    "title": "Synapse",
+                    "description": "<ul>\n\t<li>Each time this operative is activated, if it is injured and within [PENT] of a friendly HIVE FLEET SYNAPSE operative, for that activation, do not subtract [CIRCLE] from its Movement characteristic as a result of being injured</li>\n    <li>While this operative is injured and within [PENT] of a friendly HIVE FLEET SYNAPSE operative, do not worsen the Ballistic Skill and Weapon Skill of ranged and melee weapons it is equipped with as a result of being injured</li>\n</ul>"
+                  }
+                ],
                 "fireteammax": 0
               }
             ],
@@ -76346,7 +76402,17 @@
                   }
                 ],
                 "uniqueactions": [],
-                "abilities": [],
+                "abilities": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "HF",
+                    "fireteamid": "TS",
+                    "opid": "HRM",
+                    "abilityid": "SYN",
+                    "title": "Synapse",
+                    "description": "<ul>\n\t<li>Each time this operative is activated, if it is injured and within [PENT] of a friendly HIVE FLEET SYNAPSE operative, for that activation, do not subtract [CIRCLE] from its Movement characteristic as a result of being injured</li>\n    <li>While this operative is injured and within [PENT] of a friendly HIVE FLEET SYNAPSE operative, do not worsen the Ballistic Skill and Weapon Skill of ranged and melee weapons it is equipped with as a result of being injured</li>\n</ul>"
+                  }
+                ],
                 "fireteammax": 0
               },
               {
@@ -76475,7 +76541,17 @@
                   }
                 ],
                 "uniqueactions": [],
-                "abilities": [],
+                "abilities": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "HF",
+                    "fireteamid": "TS",
+                    "opid": "TRM",
+                    "abilityid": "SYN",
+                    "title": "Synapse",
+                    "description": "<ul>\n\t<li>Each time this operative is activated, if it is injured and within [PENT] of a friendly HIVE FLEET SYNAPSE operative, for that activation, do not subtract [CIRCLE] from its Movement characteristic as a result of being injured</li>\n    <li>While this operative is injured and within [PENT] of a friendly HIVE FLEET SYNAPSE operative, do not worsen the Ballistic Skill and Weapon Skill of ranged and melee weapons it is equipped with as a result of being injured</li>\n</ul>"
+                  }
+                ],
                 "fireteammax": 0
               }
             ],
@@ -76730,9 +76806,27 @@
                     "killteamid": "HF",
                     "fireteamid": "TW",
                     "opid": "FTR",
+                    "abilityid": "LW",
+                    "title": "Lash Whip",
+                    "description": "While an enemy operative is within Engagement Range of friendly operatives equipped with this weapon, subtract 1 from that enemy operative’s Attacks characteristics."
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "HF",
+                    "fireteamid": "TW",
+                    "opid": "FTR",
                     "abilityid": "SYN",
                     "title": "Synapse",
                     "description": "<ul>\n\t<li>Each time this operative is activated, if it is injured and within [PENT] of a friendly HIVE FLEET SYNAPSE operative, for that activation, do not subtract [CIRCLE] from its Movement characteristic as a result of being injured</li>\n    <li>While this operative is injured and within [PENT] of a friendly HIVE FLEET SYNAPSE operative, do not worsen the Ballistic Skill and Weapon Skill of ranged and melee weapons it is equipped with as a result of being injured</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "HF",
+                    "fireteamid": "TW",
+                    "opid": "FTR",
+                    "abilityid": "WB",
+                    "title": "Weaponbeast",
+                    "description": "If this operative is equipped with two melee weapons, add 1 to their Attacks characteristics."
                   }
                 ],
                 "fireteammax": 0
@@ -76945,6 +77039,15 @@
                 ],
                 "uniqueactions": [],
                 "abilities": [
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "HF",
+                    "fireteamid": "TW",
+                    "opid": "HGNR",
+                    "abilityid": "LW",
+                    "title": "Lash Whip",
+                    "description": "While an enemy operative is within Engagement Range of friendly operatives equipped with this weapon, subtract 1 from that enemy operative’s Attacks characteristics."
+                  },
                   {
                     "factionid": "TYR",
                     "killteamid": "HF",
@@ -77197,9 +77300,27 @@
                     "killteamid": "HF",
                     "fireteamid": "TW",
                     "opid": "LDR",
+                    "abilityid": "LW",
+                    "title": "Lash Whip",
+                    "description": "While an enemy operative is within Engagement Range of friendly operatives equipped with this weapon, subtract 1 from that enemy operative’s Attacks characteristics."
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "HF",
+                    "fireteamid": "TW",
+                    "opid": "LDR",
                     "abilityid": "SYN",
                     "title": "Synapse",
                     "description": "<ul>\n\t<li>Each time this operative is activated, if it is injured and within [PENT] of a friendly HIVE FLEET SYNAPSE operative, for that activation, do not subtract [CIRCLE] from its Movement characteristic as a result of being injured</li>\n    <li>While this operative is injured and within [PENT] of a friendly HIVE FLEET SYNAPSE operative, do not worsen the Ballistic Skill and Weapon Skill of ranged and melee weapons it is equipped with as a result of being injured</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "TYR",
+                    "killteamid": "HF",
+                    "fireteamid": "TW",
+                    "opid": "LDR",
+                    "abilityid": "WB",
+                    "title": "Weaponbeast",
+                    "description": "If this operative is equipped with two melee weapons, add 1 to their Attacks characteristics."
                   }
                 ],
                 "fireteammax": 0
