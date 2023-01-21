@@ -30394,7 +30394,7 @@
               "ployname": "Only In Death Does Duty End",
               "ploytype": "T",
               "CP": "1",
-              "description": "Use this Tactical Ploy when a friendly GREY KNIGHT operative is incapacitated.\nThat operative is not removed from the killzone until the end of your next activation or the end of the battle (whichever comes first) and does not count as being injured."
+              "description": "Use this Tactical Ploy when a ready friendly GREY KNIGHT operative is incapacitated.\r That operative is not removed from the killzone until the end of your next activation or the end of the battle (whichever comes first) and does not count as being injured."
             }
           ]
         },
@@ -47391,7 +47391,7 @@
               "ployname": "Only In Death Does Duty End",
               "ploytype": "T",
               "CP": "1",
-              "description": "Use this Tactical Ploy when a friendly SPACE MARINE operative is incapacitated.\nThat operative is not removed from the killzone until the end of your next activation or the end of the battle (whichever comes first) and does not count as being injured."
+              "description": "Use this Tactical Ploy when a ready friendly SPACE MARINE operative is incapacitated.\r That operative is not removed from the killzone until the end of your next activation or the end of the battle (whichever comes first) and does not count as being injured."
             },
             {
               "factionid": "IMP",
@@ -70569,7 +70569,7 @@
             "killteamid": "PF",
             "eqid": "FG",
             "eqname": "Fusion Grenade*",
-            "eqdescription": "The operative is equipped with the following ranged weapon for the battle. It cannot make a shooting attack with this weapon by performing an Overwatch action.\n<br/>\n<table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n \t\t<th>A</th>\n \t\t<th>BS</th>\n \t\t<th>D</th>\n \t</tr>\n \t<tr>\n \t\t<td>Fusion Grenade</td>\n \t\t<td>4</td>\n \t\t<td>3+</td>\n \t\t<td>4/3</td>\n \t</tr>\n \t<tr>\n \t\t<th colspan=\"4\">\n \t\t\tSpecial Rules\n \t\t</th>\n \t</tr>\n \t<tr>\n \t\t<td colspan=\"4\">\n \t\t\tRng [PENT], Indirect, AP2, Lim\n \t\t</td>\n \t</tr>\n </table>\n",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle. It cannot make a shooting attack with this weapon by performing an Overwatch action.\r <br/>\r <table class=\"eqtable\" width=\"100%\">\r  \t<tr>\r  \t\t<th>Name</th>\r  \t\t<th>A</th>\r  \t\t<th>BS</th>\r  \t\t<th>D</th>\r  \t</tr>\r  \t<tr>\r  \t\t<td>Fusion Grenade</td>\r  \t\t<td>4</td>\r  \t\t<td>3+</td>\r  \t\t<td>4/3</td>\r  \t</tr>\r  \t<tr>\r  \t\t<th colspan=\"4\">\r  \t\t\tSpecial Rules\r  \t\t</th>\r  \t</tr>\r  \t<tr>\r  \t\t<td colspan=\"4\">\r  \t\t\tRng [PENT], Indirect, AP2, Lim, MW3\r  \t\t</td>\r  \t</tr>\r  </table>\r ",
             "eqpts": "4",
             "eqtype": "Weapon",
             "eqvar1": null,
@@ -70600,7 +70600,7 @@
                   "A": "4",
                   "BS": "3+",
                   "D": "4/3",
-                  "SR": "\t\t\tRng [PENT], Indirect, AP2, Lim \t\t"
+                  "SR": "\t\t\tRng [PENT], Indirect, AP2, Lim, MW3\t\t"
                 }
               ]
             }
@@ -71282,7 +71282,7 @@
                         "A": "4",
                         "BS": "3+",
                         "D": "4/3",
-                        "SR": "Rng [PENT], Indirect, AP2, Lim"
+                        "SR": "Rng [PENT], Indirect, AP2, Lim, MW3"
                       }
                     ],
                     "isselected": false
@@ -71767,18 +71767,7 @@
                     "isselected": true
                   }
                 ],
-                "uniqueactions": [
-                  {
-                    "factionid": "TAU",
-                    "killteamid": "PF",
-                    "fireteamid": "PF",
-                    "opid": "MARKS",
-                    "uniqueactionid": "ML",
-                    "title": "Markerlight",
-                    "description": "A markerlight is a device that projects a beam onto a target. Once an enemy has been ‘painted’ by such a beam, a torrent of targeting data is fed into the cadre tactical network, relaying ranges, triangulating optimum firing trajectories and superimposing aiming vectors to other T’au warriors, allowing them to engage the target with unerring accuracy.\n\n<table class=\"eqtable\" width=\"100%\">\n\t<tr>\n\t\t<th>Markerlight</th>\n\t\t<th style=\"text-align: right;\">1 AP</th>\n\t</tr>\n\t<tr>\n\t\t<td colspan=\"2\">\n\t\t\tSelect one enemy operative Visible to this operative. That enemy operative gains 1 Markerlight token. An operative cannot perform this action if it is within Engagement Range of an enemy operative. If an operative would perform this action and a Shoot action in the same activation, only the target of that Shoot action’s shooting attack can be selected for this action.\n\t\t</td>\n\t</tr>\n</table>\n<br/>\nOperatives gain Markerlight tokens as specified by the Markerlight action above. In the Ready Operatives step of each Initiative phase, remove one Markerlight token that each operatives has.\n<br/>\nEach time a friendly PATHFINDER operative makes a shooting attack, it gains a number of cumulative benefits for that shooting attack depending on how many Markerlight tokens the target operative has. Operatives gain no markerlight benefits for shooting attacks made with EMP and fusion grenades.\n<table class=\"eqtable\" width=\"100%\">\n\t<tr><th>Markerlight Tokens</th><th>Benefit</th></tr>\n\t<tr><td>1+</td><td>In the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.</td></tr>\n\t<tr><td>2+</td><td>For that shooting attack, the active operative’s ranged weapons gain the No Cover special rule.</td></tr>\n\t<tr><td>3+</td><td>For that shooting attack, improve the Ballistic Skill characteristic of ranged weapons the active operative is equipped with by 1.</td></tr>\n\t<tr><td>4+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is not Obscured.</td></tr>\n\t<tr><td>5+</td><td>In the Select Valid Target step of that shooting attack, the enemy operative is treated as if it has an Engage order unless it is in Cover provided by Heavy terrain.</td></tr>\n</table>\n\n",
-                    "AP": 1
-                  }
-                ],
+                "uniqueactions": [],
                 "abilities": [
                   {
                     "factionid": "TAU",
