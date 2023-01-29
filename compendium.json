@@ -63696,654 +63696,8 @@
                 "factionid": "ORK",
                 "killteamid": "KOM",
                 "fireteamid": "KOM",
-                "opid": "BOM",
-                "opseq": 0,
-                "opname": "Bomb Squig",
-                "description": "Bomb squigs are among the most dangerous of their kind. In addition to being voracious predators, as the name suggests they carry all manner of explosives. In battle they race for the foe, blowing up enemy troops and destroying their defences.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "6+",
-                "W": "6",
-                "keywords": "KOMMANDO, ORK, <CLAN>, BOMB SQUIG",
-                "weapons": [
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "BOM",
-                    "wepid": "DYN",
-                    "wepseq": 0,
-                    "wepname": "Dynamite",
-                    "weptype": "R",
-                    "isdefault": 1,
-                    "profiles": [
-                      {
-                        "factionid": "ORK",
-                        "killteamid": "KOM",
-                        "fireteamid": "KOM",
-                        "opid": "BOM",
-                        "wepid": "DYN",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "5/6",
-                        "SR": "AP1, Bomb Squig, P2"
-                      }
-                    ],
-                    "isselected": true
-                  },
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "BOM",
-                    "wepid": "VB",
-                    "wepseq": 0,
-                    "wepname": "Vicious Bite",
-                    "weptype": "M",
-                    "isdefault": 1,
-                    "profiles": [
-                      {
-                        "factionid": "ORK",
-                        "killteamid": "KOM",
-                        "fireteamid": "KOM",
-                        "opid": "BOM",
-                        "wepid": "VB",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "3",
-                        "BS": "4+",
-                        "D": "4/5",
-                        "SR": ""
-                      }
-                    ],
-                    "isselected": true
-                  }
-                ],
-                "uniqueactions": [],
-                "abilities": [
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "BOM",
-                    "abilityid": "BOOM",
-                    "title": "BOOM!",
-                    "description": "If this operative is incapacitated, roll one D6: on a 3+, it makes a shooting attack using its dynamite."
-                  },
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "BOM",
-                    "abilityid": "STPD",
-                    "title": "Stoopid",
-                    "description": "This operative cannot perform mission actions, cannot perform the Pick Up action and cannot have a Conceal order. It cannot be equipped with equipment. In narrative play, it cannot gain (or lose) experience and automatically passes Casualty tests."
-                  }
-                ],
-                "fireteammax": 0
-              },
-              {
-                "factionid": "ORK",
-                "killteamid": "KOM",
-                "fireteamid": "KOM",
-                "opid": "BOY",
-                "opseq": 0,
-                "opname": "Kommando Boy",
-                "description": "Kommandos epitomise the Orky virtue of low cunning. Few things make them happier than sneaking up on an unsuspecting enemy and hacking, slashing and shooting before the foe strike back.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "5+",
-                "W": "10",
-                "keywords": "KOMMANDO, ORK, <CLAN>, KOMMANDO BOY",
-                "weapons": [
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "BOY",
-                    "wepid": "SLG",
-                    "wepseq": 0,
-                    "wepname": "Slugga",
-                    "weptype": "R",
-                    "isdefault": 1,
-                    "profiles": [
-                      {
-                        "factionid": "ORK",
-                        "killteamid": "KOM",
-                        "fireteamid": "KOM",
-                        "opid": "BOY",
-                        "wepid": "SLG",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "4+",
-                        "D": "3/4",
-                        "SR": "Rng [PENT]"
-                      }
-                    ],
-                    "isselected": true
-                  },
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "BOY",
-                    "wepid": "CHP",
-                    "wepseq": 0,
-                    "wepname": "Choppa",
-                    "weptype": "M",
-                    "isdefault": 1,
-                    "profiles": [
-                      {
-                        "factionid": "ORK",
-                        "killteamid": "KOM",
-                        "fireteamid": "KOM",
-                        "opid": "BOY",
-                        "wepid": "CHP",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "3+",
-                        "D": "4/5",
-                        "SR": ""
-                      }
-                    ],
-                    "isselected": true
-                  }
-                ],
-                "uniqueactions": [],
-                "abilities": [
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "BOY",
-                    "abilityid": "TS",
-                    "title": "Throat Slittas",
-                    "description": "This operative can perform a Charge action while it has a Conceal order."
-                  }
-                ],
-                "fireteammax": 0
-              },
-              {
-                "factionid": "ORK",
-                "killteamid": "KOM",
-                "fireteamid": "KOM",
-                "opid": "BRE",
-                "opseq": 0,
-                "opname": "Kommando Breacha Boy",
-                "description": "Kommando Breacha Boys have the task of barging into places and enemies \nalike and smashing them apart with their Breacha Rams. It is one they \nrelish, and those that see them in action and survive soon learn to \nespecially fear these brutal greenskins.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "5+",
-                "W": "10",
-                "keywords": "KOMMANDO, ORK, <CLAN>, KOMMANDO BREACHA BOY",
-                "weapons": [
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "BRE",
-                    "wepid": "SLG",
-                    "wepseq": 0,
-                    "wepname": "Slugga",
-                    "weptype": "R",
-                    "isdefault": 1,
-                    "profiles": [
-                      {
-                        "factionid": "ORK",
-                        "killteamid": "KOM",
-                        "fireteamid": "KOM",
-                        "opid": "BRE",
-                        "wepid": "SLG",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "4",
-                        "BS": "4+",
-                        "D": "3/4",
-                        "SR": "Rng [PENT]"
-                      }
-                    ],
-                    "isselected": true
-                  },
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "BRE",
-                    "wepid": "BRM",
-                    "wepseq": 0,
-                    "wepname": "Breacha Ram",
-                    "weptype": "M",
-                    "isdefault": 1,
-                    "profiles": [
-                      {
-                        "factionid": "ORK",
-                        "killteamid": "KOM",
-                        "fireteamid": "KOM",
-                        "opid": "BRE",
-                        "wepid": "BRM",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "3",
-                        "BS": "3+",
-                        "D": "5/5",
-                        "SR": "Brutal"
-                      }
-                    ],
-                    "isselected": true
-                  }
-                ],
-                "uniqueactions": [],
-                "abilities": [
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "BRE",
-                    "abilityid": "BC",
-                    "title": "Bull Charge",
-                    "description": "Each time this operative fights in combat, if it made a charge move during that activation, its breacha ram gains the Stun critical hit rule for that combat."
-                  },
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "BRE",
-                    "abilityid": "BRE",
-                    "title": "Breach",
-                    "description": "Each time this operative performs a Normal Move, Dash or Charge action, it can move through parts of terrain features that are no more than [TRI] thick as if they were not there."
-                  },
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "BRE",
-                    "abilityid": "TS",
-                    "title": "Throat Slittas",
-                    "description": "This operative can perform a Charge action while it has a Conceal order."
-                  }
-                ],
-                "fireteammax": 0
-              },
-              {
-                "factionid": "ORK",
-                "killteamid": "KOM",
-                "fireteamid": "KOM",
-                "opid": "BUR",
-                "opseq": 0,
-                "opname": "Kommando Burna Boy",
-                "description": "Burna Boyz are pyromaniacs all, obsessed with raging infernos - the \nbigger and hotter the better. Those of the Kommandos display an \nextraordinary patience, knowing the wait makes the devastation they \nwreak with their burnas even more satisfying.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "5+",
-                "W": "10",
-                "keywords": "KOMMANDO, ORK, <CLAN>, KOMMANDO BURNA BOY",
-                "weapons": [
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "BUR",
-                    "wepid": "BUR",
-                    "wepseq": 0,
-                    "wepname": "Burna",
-                    "weptype": "R",
-                    "isdefault": 1,
-                    "profiles": [
-                      {
-                        "factionid": "ORK",
-                        "killteamid": "KOM",
-                        "fireteamid": "KOM",
-                        "opid": "BUR",
-                        "wepid": "BUR",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "5",
-                        "BS": "2+",
-                        "D": "2/2",
-                        "SR": "Rng [PENT], Tor [CIRCLE]"
-                      }
-                    ],
-                    "isselected": true
-                  },
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "BUR",
-                    "wepid": "F",
-                    "wepseq": 0,
-                    "wepname": "Fists",
-                    "weptype": "M",
-                    "isdefault": 1,
-                    "profiles": [
-                      {
-                        "factionid": "ORK",
-                        "killteamid": "KOM",
-                        "fireteamid": "KOM",
-                        "opid": "BUR",
-                        "wepid": "F",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "3",
-                        "BS": "3+",
-                        "D": "3/4",
-                        "SR": ""
-                      }
-                    ],
-                    "isselected": true
-                  }
-                ],
-                "uniqueactions": [],
-                "abilities": [
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "BUR",
-                    "abilityid": "TS",
-                    "title": "Throat Slittas",
-                    "description": "This operative can perform a Charge action while it has a Conceal order."
-                  }
-                ],
-                "fireteammax": 0
-              },
-              {
-                "factionid": "ORK",
-                "killteamid": "KOM",
-                "fireteamid": "KOM",
-                "opid": "COM",
-                "opseq": 0,
-                "opname": "Kommando Comms Boy",
-                "description": "There’s no excuse for not following the boss’ plan, no matter how \nquestionably sane it seems. Kommando Comms Boys perform the function of \nensuring no Ork ‘forgets’ their orders on the field by relaying the \nboss’ instructions.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "5+",
-                "W": "10",
-                "keywords": "KOMMANDO, ORK, <CLAN>, KOMMANDO COMMS BOY",
-                "weapons": [
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "COM",
-                    "wepid": "SP",
-                    "wepseq": 0,
-                    "wepname": "Shokka Pistol",
-                    "weptype": "R",
-                    "isdefault": 1,
-                    "profiles": [
-                      {
-                        "factionid": "ORK",
-                        "killteamid": "KOM",
-                        "fireteamid": "KOM",
-                        "opid": "COM",
-                        "wepid": "SP",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "6",
-                        "BS": "4+",
-                        "D": "1/1",
-                        "SR": "Rng [PENT], Stun, MW2"
-                      }
-                    ],
-                    "isselected": true
-                  },
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "COM",
-                    "wepid": "F",
-                    "wepseq": 0,
-                    "wepname": "Fists",
-                    "weptype": "M",
-                    "isdefault": 1,
-                    "profiles": [
-                      {
-                        "factionid": "ORK",
-                        "killteamid": "KOM",
-                        "fireteamid": "KOM",
-                        "opid": "COM",
-                        "wepid": "F",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "3",
-                        "BS": "3+",
-                        "D": "3/4",
-                        "SR": ""
-                      }
-                    ],
-                    "isselected": true
-                  }
-                ],
-                "uniqueactions": [
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "COM",
-                    "uniqueactionid": "LI",
-                    "title": "Listen In",
-                    "description": "Select one friendly KOMMANDO operative within [PENT] of and Visible to this operative. Add 1 to its APL. This operative cannot perform this action if it is within Engagement Range of an enemy operative.",
-                    "AP": 1
-                  }
-                ],
-                "abilities": [
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "COM",
-                    "abilityid": "IGAPL",
-                    "title": "I Got A Plan, Ladz",
-                    "description": "Once per Turning Point, during this operative’s activation, it can perform a mission or Pick Up action for one less AP (to a minimum of 0AP)."
-                  },
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "COM",
-                    "abilityid": "TS",
-                    "title": "Throat Slittas",
-                    "description": "This operative can perform a Charge action while it has a Conceal order."
-                  }
-                ],
-                "fireteammax": 0
-              },
-              {
-                "factionid": "ORK",
-                "killteamid": "KOM",
-                "fireteamid": "KOM",
-                "opid": "DAK",
-                "opseq": 0,
-                "opname": "Kommando Dakka Boy",
-                "description": "The sound of roaring dakka is music to the ears of many Orks, not least to Kommando Dakka Boys. They take great delight in pouring vast quantities of bullets into the enemy, destroying light cover, sending foes running and causing pandemonium.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "5+",
-                "W": "10",
-                "keywords": "KOMMANDO, ORK, <CLAN>, KOMMANDO DAKKA BOY",
-                "weapons": [
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "DAK",
-                    "wepid": "DS",
-                    "wepseq": 0,
-                    "wepname": "Dakka Shoota",
-                    "weptype": "R",
-                    "isdefault": 1,
-                    "profiles": [
-                      {
-                        "factionid": "ORK",
-                        "killteamid": "KOM",
-                        "fireteamid": "KOM",
-                        "opid": "DAK",
-                        "wepid": "DS",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "5",
-                        "BS": "4+",
-                        "D": "3/4",
-                        "SR": "Unload Slugs"
-                      }
-                    ],
-                    "isselected": true
-                  },
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "DAK",
-                    "wepid": "F",
-                    "wepseq": 0,
-                    "wepname": "Fists",
-                    "weptype": "M",
-                    "isdefault": 1,
-                    "profiles": [
-                      {
-                        "factionid": "ORK",
-                        "killteamid": "KOM",
-                        "fireteamid": "KOM",
-                        "opid": "DAK",
-                        "wepid": "F",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "3",
-                        "BS": "3+",
-                        "D": "3/4",
-                        "SR": ""
-                      }
-                    ],
-                    "isselected": true
-                  }
-                ],
-                "uniqueactions": [
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "DAK",
-                    "uniqueactionid": "DD",
-                    "title": "Dakka Dash",
-                    "description": "Perform a free Shoot action and free Dash action with this operative in any order. You can only select a dakka shoota for this action’s shooting attack.",
-                    "AP": 1
-                  }
-                ],
-                "abilities": [
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "DAK",
-                    "abilityid": "TS",
-                    "title": "Throat Slittas",
-                    "description": "This operative can perform a Charge action while it has a Conceal order."
-                  }
-                ],
-                "fireteammax": 0
-              },
-              {
-                "factionid": "ORK",
-                "killteamid": "KOM",
-                "fireteamid": "KOM",
-                "opid": "GRT",
-                "opseq": 0,
-                "opname": "Kommando Grot",
-                "description": "For Grots to last long in the brutal reality of Ork society, they have to learn to lie, cheat, steal, sneak, suck up and plan - traits all valuable to Kommando kill teams.",
-                "M": "3[CIRCLE]",
-                "APL": "2",
-                "GA": "1",
-                "DF": "3",
-                "SV": "5+",
-                "W": "5",
-                "keywords": "KOMMANDO, ORK, <CLAN>, KOMMANDO GROT",
-                "weapons": [
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "GRT",
-                    "wepid": "GCH",
-                    "wepseq": 0,
-                    "wepname": "Grot Choppa",
-                    "weptype": "M",
-                    "isdefault": 1,
-                    "profiles": [
-                      {
-                        "factionid": "ORK",
-                        "killteamid": "KOM",
-                        "fireteamid": "KOM",
-                        "opid": "GRT",
-                        "wepid": "GCH",
-                        "profileid": "0",
-                        "name": "",
-                        "A": "3",
-                        "BS": "5+",
-                        "D": "1/4",
-                        "SR": ""
-                      }
-                    ],
-                    "isselected": true
-                  }
-                ],
-                "uniqueactions": [
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "GRT",
-                    "uniqueactionid": "GH",
-                    "title": "Grappling Hook",
-                    "description": "Select a point on a terrain feature that is Visible to this operative (treat that point as an intended target). Perform a free Normal Move action with this operative, moving in a single straight line with an unlimited Movement as though it can FLY. It must finish that move within [TRI] of that point.",
-                    "AP": 1
-                  }
-                ],
-                "abilities": [
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "GRT",
-                    "abilityid": "SZ",
-                    "title": "Sneaky Zogger",
-                    "description": "This operative cannot have an Engage order. In addition, this operative is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point)."
-                  },
-                  {
-                    "factionid": "ORK",
-                    "killteamid": "KOM",
-                    "fireteamid": "KOM",
-                    "opid": "GRT",
-                    "abilityid": "TS",
-                    "title": "Throat Slittas",
-                    "description": "This operative can perform a Charge action while it has a Conceal order."
-                  }
-                ],
-                "fireteammax": 0
-              },
-              {
-                "factionid": "ORK",
-                "killteamid": "KOM",
-                "fireteamid": "KOM",
                 "opid": "NOB",
-                "opseq": 0,
+                "opseq": 1,
                 "opname": "Kommando Nob",
                 "description": "The sneakiest of sneaky gits, Kommando Nobs are both brutal and cunning \nenough to boss about the most conniving of their species.",
                 "M": "3[CIRCLE]",
@@ -64463,26 +63817,26 @@
                 "factionid": "ORK",
                 "killteamid": "KOM",
                 "fireteamid": "KOM",
-                "opid": "RKT",
-                "opseq": 0,
-                "opname": "Kommando Rokkit Boy",
-                "description": "Rising from hidden locations, Kommando Rokkit Boyz fire rockets at bunkers, fuel silos, ammo dumps or even into the midst of an unsuspecting enemy - all with a broad grin at the havoc they’ve caused.",
+                "opid": "BOY",
+                "opseq": 2,
+                "opname": "Kommando Boy",
+                "description": "Kommandos epitomise the Orky virtue of low cunning. Few things make them happier than sneaking up on an unsuspecting enemy and hacking, slashing and shooting before the foe strike back.",
                 "M": "3[CIRCLE]",
                 "APL": "2",
                 "GA": "1",
                 "DF": "3",
                 "SV": "5+",
                 "W": "10",
-                "keywords": "KOMMANDO, ORK, <CLAN>, KOMMANDO ROKKIT BOY",
+                "keywords": "KOMMANDO, ORK, <CLAN>, KOMMANDO BOY",
                 "weapons": [
                   {
                     "factionid": "ORK",
                     "killteamid": "KOM",
                     "fireteamid": "KOM",
-                    "opid": "RKT",
-                    "wepid": "RKL",
+                    "opid": "BOY",
+                    "wepid": "SLG",
                     "wepseq": 0,
-                    "wepname": "Rokkit Launcha",
+                    "wepname": "Slugga",
                     "weptype": "R",
                     "isdefault": 1,
                     "profiles": [
@@ -64490,14 +63844,14 @@
                         "factionid": "ORK",
                         "killteamid": "KOM",
                         "fireteamid": "KOM",
-                        "opid": "RKT",
-                        "wepid": "RKL",
+                        "opid": "BOY",
+                        "wepid": "SLG",
                         "profileid": "0",
                         "name": "",
-                        "A": "5",
+                        "A": "4",
                         "BS": "4+",
-                        "D": "4/5",
-                        "SR": "AP1, Splash 1"
+                        "D": "3/4",
+                        "SR": "Rng [PENT]"
                       }
                     ],
                     "isselected": true
@@ -64506,10 +63860,10 @@
                     "factionid": "ORK",
                     "killteamid": "KOM",
                     "fireteamid": "KOM",
-                    "opid": "RKT",
-                    "wepid": "F",
+                    "opid": "BOY",
+                    "wepid": "CHP",
                     "wepseq": 0,
-                    "wepname": "Fists",
+                    "wepname": "Choppa",
                     "weptype": "M",
                     "isdefault": 1,
                     "profiles": [
@@ -64517,13 +63871,13 @@
                         "factionid": "ORK",
                         "killteamid": "KOM",
                         "fireteamid": "KOM",
-                        "opid": "RKT",
-                        "wepid": "F",
+                        "opid": "BOY",
+                        "wepid": "CHP",
                         "profileid": "0",
                         "name": "",
-                        "A": "3",
+                        "A": "4",
                         "BS": "3+",
-                        "D": "3/4",
+                        "D": "4/5",
                         "SR": ""
                       }
                     ],
@@ -64536,16 +63890,85 @@
                     "factionid": "ORK",
                     "killteamid": "KOM",
                     "fireteamid": "KOM",
-                    "opid": "RKT",
-                    "abilityid": "BB",
-                    "title": "Boom Boy",
-                    "description": "Each time this operative performs a Shoot action during its activation, in the Roll Attack Dice step of that action’s shooting attack, if it has not moved during that activation, you can re-roll any or all of your attack dice."
+                    "opid": "BOY",
+                    "abilityid": "TS",
+                    "title": "Throat Slittas",
+                    "description": "This operative can perform a Charge action while it has a Conceal order."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "ORK",
+                "killteamid": "KOM",
+                "fireteamid": "KOM",
+                "opid": "GRT",
+                "opseq": 3,
+                "opname": "Kommando Grot",
+                "description": "For Grots to last long in the brutal reality of Ork society, they have to learn to lie, cheat, steal, sneak, suck up and plan - traits all valuable to Kommando kill teams.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "5",
+                "keywords": "KOMMANDO, ORK, <CLAN>, KOMMANDO GROT",
+                "weapons": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "GRT",
+                    "wepid": "GCH",
+                    "wepseq": 0,
+                    "wepname": "Grot Choppa",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "KOM",
+                        "fireteamid": "KOM",
+                        "opid": "GRT",
+                        "wepid": "GCH",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "1/4",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "GRT",
+                    "uniqueactionid": "GH",
+                    "title": "Grappling Hook",
+                    "description": "Select a point on a terrain feature that is Visible to this operative (treat that point as an intended target). Perform a free Normal Move action with this operative, moving in a single straight line with an unlimited Movement as though it can FLY. It must finish that move within [TRI] of that point.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "GRT",
+                    "abilityid": "SZ",
+                    "title": "Sneaky Zogger",
+                    "description": "This operative cannot have an Engage order. In addition, this operative is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point)."
                   },
                   {
                     "factionid": "ORK",
                     "killteamid": "KOM",
                     "fireteamid": "KOM",
-                    "opid": "RKT",
+                    "opid": "GRT",
                     "abilityid": "TS",
                     "title": "Throat Slittas",
                     "description": "This operative can perform a Charge action while it has a Conceal order."
@@ -64558,7 +63981,7 @@
                 "killteamid": "KOM",
                 "fireteamid": "KOM",
                 "opid": "SLA",
-                "opseq": 0,
+                "opseq": 4,
                 "opname": "Kommando Slasha Boy",
                 "description": "Slasha Boyz love getting into the thick of action, even by Ork standards. Festooned with all manner of blades, they hack and slash their way through enemy after enemy.",
                 "M": "3[CIRCLE]",
@@ -64651,8 +64074,111 @@
                 "factionid": "ORK",
                 "killteamid": "KOM",
                 "fireteamid": "KOM",
+                "opid": "BRE",
+                "opseq": 5,
+                "opname": "Kommando Breacha Boy",
+                "description": "Kommando Breacha Boys have the task of barging into places and enemies \nalike and smashing them apart with their Breacha Rams. It is one they \nrelish, and those that see them in action and survive soon learn to \nespecially fear these brutal greenskins.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "10",
+                "keywords": "KOMMANDO, ORK, <CLAN>, KOMMANDO BREACHA BOY",
+                "weapons": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "BRE",
+                    "wepid": "SLG",
+                    "wepseq": 0,
+                    "wepname": "Slugga",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "KOM",
+                        "fireteamid": "KOM",
+                        "opid": "BRE",
+                        "wepid": "SLG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": "Rng [PENT]"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "BRE",
+                    "wepid": "BRM",
+                    "wepseq": 0,
+                    "wepname": "Breacha Ram",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "KOM",
+                        "fireteamid": "KOM",
+                        "opid": "BRE",
+                        "wepid": "BRM",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "5/5",
+                        "SR": "Brutal"
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "BRE",
+                    "abilityid": "BC",
+                    "title": "Bull Charge",
+                    "description": "Each time this operative fights in combat, if it made a charge move during that activation, its breacha ram gains the Stun critical hit rule for that combat."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "BRE",
+                    "abilityid": "BRE",
+                    "title": "Breach",
+                    "description": "Each time this operative performs a Normal Move, Dash or Charge action, it can move through parts of terrain features that are no more than [TRI] thick as if they were not there."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "BRE",
+                    "abilityid": "TS",
+                    "title": "Throat Slittas",
+                    "description": "This operative can perform a Charge action while it has a Conceal order."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "ORK",
+                "killteamid": "KOM",
+                "fireteamid": "KOM",
                 "opid": "SNP",
-                "opseq": 0,
+                "opseq": 6,
                 "opname": "Kommando Snipa Boy",
                 "description": "Though few Orks have the patience to be a Kommando Snipa Boy, those who perform the role are experts in finding the best spots to fire at the enemy, kill a target and enjoy watching the survivors flail and panic in the confusion inevitably caused.",
                 "M": "3[CIRCLE]",
@@ -64749,6 +64275,480 @@
                     "abilityid": "TS",
                     "title": "Throat Slittas",
                     "description": "This operative can perform a Charge action while it has a Conceal order."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "ORK",
+                "killteamid": "KOM",
+                "fireteamid": "KOM",
+                "opid": "DAK",
+                "opseq": 7,
+                "opname": "Kommando Dakka Boy",
+                "description": "The sound of roaring dakka is music to the ears of many Orks, not least to Kommando Dakka Boys. They take great delight in pouring vast quantities of bullets into the enemy, destroying light cover, sending foes running and causing pandemonium.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "10",
+                "keywords": "KOMMANDO, ORK, <CLAN>, KOMMANDO DAKKA BOY",
+                "weapons": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "DAK",
+                    "wepid": "DS",
+                    "wepseq": 0,
+                    "wepname": "Dakka Shoota",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "KOM",
+                        "fireteamid": "KOM",
+                        "opid": "DAK",
+                        "wepid": "DS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": "Unload Slugs"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "DAK",
+                    "wepid": "F",
+                    "wepseq": 0,
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "KOM",
+                        "fireteamid": "KOM",
+                        "opid": "DAK",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "DAK",
+                    "uniqueactionid": "DD",
+                    "title": "Dakka Dash",
+                    "description": "Perform a free Shoot action and free Dash action with this operative in any order. You can only select a dakka shoota for this action’s shooting attack.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "DAK",
+                    "abilityid": "TS",
+                    "title": "Throat Slittas",
+                    "description": "This operative can perform a Charge action while it has a Conceal order."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "ORK",
+                "killteamid": "KOM",
+                "fireteamid": "KOM",
+                "opid": "COM",
+                "opseq": 8,
+                "opname": "Kommando Comms Boy",
+                "description": "There’s no excuse for not following the boss’ plan, no matter how \nquestionably sane it seems. Kommando Comms Boys perform the function of \nensuring no Ork ‘forgets’ their orders on the field by relaying the \nboss’ instructions.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "10",
+                "keywords": "KOMMANDO, ORK, <CLAN>, KOMMANDO COMMS BOY",
+                "weapons": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "COM",
+                    "wepid": "SP",
+                    "wepseq": 0,
+                    "wepname": "Shokka Pistol",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "KOM",
+                        "fireteamid": "KOM",
+                        "opid": "COM",
+                        "wepid": "SP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "6",
+                        "BS": "4+",
+                        "D": "1/1",
+                        "SR": "Rng [PENT], Stun, MW2"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "COM",
+                    "wepid": "F",
+                    "wepseq": 0,
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "KOM",
+                        "fireteamid": "KOM",
+                        "opid": "COM",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "COM",
+                    "uniqueactionid": "LI",
+                    "title": "Listen In",
+                    "description": "Select one friendly KOMMANDO operative within [PENT] of and Visible to this operative. Add 1 to its APL. This operative cannot perform this action if it is within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "COM",
+                    "abilityid": "IGAPL",
+                    "title": "I Got A Plan, Ladz",
+                    "description": "Once per Turning Point, during this operative’s activation, it can perform a mission or Pick Up action for one less AP (to a minimum of 0AP)."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "COM",
+                    "abilityid": "TS",
+                    "title": "Throat Slittas",
+                    "description": "This operative can perform a Charge action while it has a Conceal order."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "ORK",
+                "killteamid": "KOM",
+                "fireteamid": "KOM",
+                "opid": "BUR",
+                "opseq": 9,
+                "opname": "Kommando Burna Boy",
+                "description": "Burna Boyz are pyromaniacs all, obsessed with raging infernos - the \nbigger and hotter the better. Those of the Kommandos display an \nextraordinary patience, knowing the wait makes the devastation they \nwreak with their burnas even more satisfying.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "10",
+                "keywords": "KOMMANDO, ORK, <CLAN>, KOMMANDO BURNA BOY",
+                "weapons": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "BUR",
+                    "wepid": "BUR",
+                    "wepseq": 0,
+                    "wepname": "Burna",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "KOM",
+                        "fireteamid": "KOM",
+                        "opid": "BUR",
+                        "wepid": "BUR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "2+",
+                        "D": "2/2",
+                        "SR": "Rng [PENT], Tor [CIRCLE]"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "BUR",
+                    "wepid": "F",
+                    "wepseq": 0,
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "KOM",
+                        "fireteamid": "KOM",
+                        "opid": "BUR",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "BUR",
+                    "abilityid": "TS",
+                    "title": "Throat Slittas",
+                    "description": "This operative can perform a Charge action while it has a Conceal order."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "ORK",
+                "killteamid": "KOM",
+                "fireteamid": "KOM",
+                "opid": "RKT",
+                "opseq": 10,
+                "opname": "Kommando Rokkit Boy",
+                "description": "Rising from hidden locations, Kommando Rokkit Boyz fire rockets at bunkers, fuel silos, ammo dumps or even into the midst of an unsuspecting enemy - all with a broad grin at the havoc they’ve caused.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "5+",
+                "W": "10",
+                "keywords": "KOMMANDO, ORK, <CLAN>, KOMMANDO ROKKIT BOY",
+                "weapons": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "RKT",
+                    "wepid": "RKL",
+                    "wepseq": 0,
+                    "wepname": "Rokkit Launcha",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "KOM",
+                        "fireteamid": "KOM",
+                        "opid": "RKT",
+                        "wepid": "RKL",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "4+",
+                        "D": "4/5",
+                        "SR": "AP1, Splash 1"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "RKT",
+                    "wepid": "F",
+                    "wepseq": 0,
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "KOM",
+                        "fireteamid": "KOM",
+                        "opid": "RKT",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "RKT",
+                    "abilityid": "BB",
+                    "title": "Boom Boy",
+                    "description": "Each time this operative performs a Shoot action during its activation, in the Roll Attack Dice step of that action’s shooting attack, if it has not moved during that activation, you can re-roll any or all of your attack dice."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "RKT",
+                    "abilityid": "TS",
+                    "title": "Throat Slittas",
+                    "description": "This operative can perform a Charge action while it has a Conceal order."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "ORK",
+                "killteamid": "KOM",
+                "fireteamid": "KOM",
+                "opid": "BOM",
+                "opseq": 11,
+                "opname": "Bomb Squig",
+                "description": "Bomb squigs are among the most dangerous of their kind. In addition to being voracious predators, as the name suggests they carry all manner of explosives. In battle they race for the foe, blowing up enemy troops and destroying their defences.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "6+",
+                "W": "6",
+                "keywords": "KOMMANDO, ORK, <CLAN>, BOMB SQUIG",
+                "weapons": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "BOM",
+                    "wepid": "DYN",
+                    "wepseq": 0,
+                    "wepname": "Dynamite",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "KOM",
+                        "fireteamid": "KOM",
+                        "opid": "BOM",
+                        "wepid": "DYN",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "5/6",
+                        "SR": "AP1, Bomb Squig, P2"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "BOM",
+                    "wepid": "VB",
+                    "wepseq": 0,
+                    "wepname": "Vicious Bite",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "KOM",
+                        "fireteamid": "KOM",
+                        "opid": "BOM",
+                        "wepid": "VB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "4/5",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "BOM",
+                    "abilityid": "BOOM",
+                    "title": "BOOM!",
+                    "description": "If this operative is incapacitated, roll one D6: on a 3+, it makes a shooting attack using its dynamite."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "KOM",
+                    "fireteamid": "KOM",
+                    "opid": "BOM",
+                    "abilityid": "STPD",
+                    "title": "Stoopid",
+                    "description": "This operative cannot perform mission actions, cannot perform the Pick Up action and cannot have a Conceal order. It cannot be equipped with equipment. In narrative play, it cannot gain (or lose) experience and automatically passes Casualty tests."
                   }
                 ],
                 "fireteammax": 0
@@ -70528,7 +70528,7 @@
             "killteamid": "PF",
             "eqid": "EMP",
             "eqname": "EMP Grenade*",
-            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<br/>\n<table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n \t\t<th>A</th>\n \t\t<th>BS</th>\n \t\t<th>D</th>\n \t</tr>\n \t<tr>\n \t\t<td>EMP Grenade</td>\n \t\t<td>4</td>\n \t\t<td>2+</td>\n \t\t<td>2/3</td>\n \t</tr>\n \t<tr>\n \t\t<th colspan=\"4\">\n \t\t\tSpecial Rules\n \t\t</th>\n \t</tr>\n \t<tr>\n \t\t<td colspan=\"4\">\n \t\t\tRng [PENT], Blast [CIRCLE], Indirect, EMP*, Lim\n \t\t</td>\n \t</tr>\n </table>\n<strong>*EMP:</strong> Each time a friendly operative makes a shooting attack with this weapon, this weapon has the Lethal X special rule for that shooting attack. X is the target’s unmodified Save characteristic.",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<br/>\n<table class=\"eqtable\" width=\"100%\">\n \t<tr>\n \t\t<th>Name</th>\n \t\t<th>A</th>\n \t\t<th>BS</th>\n \t\t<th>D</th>\n \t</tr>\n \t<tr>\n \t\t<td>EMP Grenade</td>\n \t\t<td>4</td>\n \t\t<td>3+</td>\n \t\t<td>2/3</td>\n \t</tr>\n \t<tr>\n \t\t<th colspan=\"4\">\n \t\t\tSpecial Rules\n \t\t</th>\n \t</tr>\n \t<tr>\n \t\t<td colspan=\"4\">\n \t\t\tRng [PENT], Blast [CIRCLE], Indirect, EMP*, Lim\n \t\t</td>\n \t</tr>\n </table>\n<strong>*EMP:</strong> Each time a friendly operative makes a shooting attack with this weapon, this weapon has the Lethal X special rule for that shooting attack. X is the target’s unmodified Save characteristic.",
             "eqpts": "2",
             "eqtype": "Weapon",
             "eqvar1": null,
@@ -70557,7 +70557,7 @@
                   "profileid": "0",
                   "name": "",
                   "A": "4",
-                  "BS": "2+",
+                  "BS": "3+",
                   "D": "2/3",
                   "SR": "\t\t\tRng [PENT], Blast [CIRCLE], Indirect, EMP*, Lim \t\t, No Overwatch"
                 }
