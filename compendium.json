@@ -15888,7 +15888,7 @@
                     "opid": "VTC",
                     "abilityid": "RR",
                     "title": "Revoltingly Resilient",
-                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 6, that wound is not lost."
+                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
                   },
                   {
                     "factionid": "CHAOS",
@@ -16013,7 +16013,7 @@
                     "opid": "BS",
                     "abilityid": "RR",
                     "title": "Revoltingly Resilient",
-                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 6, that wound is not lost."
+                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
                   },
                   {
                     "factionid": "CHAOS",
@@ -16129,7 +16129,7 @@
                     "opid": "FS",
                     "abilityid": "RR",
                     "title": "Revoltingly Resilient",
-                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 6, that wound is not lost."
+                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
                   },
                   {
                     "factionid": "CHAOS",
@@ -16216,7 +16216,7 @@
                     "opid": "LG",
                     "abilityid": "RR",
                     "title": "Revoltingly Resilient",
-                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 6, that wound is not lost."
+                    "description": "<em class=\"noprint\">So decayed and mutated are the bodies and minds of these creatures that survival means little to them, and pain een less. They will not stop until utterly dismembered and burned to ash.<br/><br/></em>\nEach time this operatie would lose a wound, roll 1D6: on a 5+, that wound is not lost."
                   },
                   {
                     "factionid": "CHAOS",
@@ -28209,7 +28209,7 @@
                         "profileid": "0",
                         "name": "",
                         "A": "4",
-                        "BS": "4+",
+                        "BS": "3+",
                         "D": "6/7",
                         "SR": "AP2, Barrage"
                       }
@@ -28236,7 +28236,7 @@
                         "profileid": "0",
                         "name": "",
                         "A": "5",
-                        "BS": "4+",
+                        "BS": "3+",
                         "D": "3/5",
                         "SR": "Barrage, Blast [CIRCLE]"
                       }
@@ -28263,7 +28263,7 @@
                         "profileid": "0",
                         "name": "",
                         "A": "5",
-                        "BS": "4+",
+                        "BS": "3+",
                         "D": "2/3",
                         "SR": "Barrage, Blast [SQUARE]"
                       }
@@ -41712,7 +41712,7 @@
             "eqseq": 512
           }
         ],
-        "killteamcomp": "A KASRKIN kill team is composed of:\n<ul>\n        <li>\n                1 KASRKIN SERGEANT operative equipped with one of the following options:\n                <ul>\n                        <li>Bolt Pistol; Power Weapon</li>\n                        <li>Hot-Shot Lasgun; Gun Butt</li>\n                        <li>Hot-Shot Laspistol; Power Weapon</li>\n                        <li>Plasma Pistol; Chainsword</li>\n                </ul>\n        </li>\n        <li>\n                9 KASRKIN operatives selected from the following list:\n                <ul>\n                        <li>KASRKIN COMBAT MEDIC</li>\n                        <li>KASRKIN DEMO-TROOPER</li>\n                        <li>KASRKIN GUNNER equipped with a Gun Butt and Grenade Launcher</li>\n                        <li>KASRKIN GUNNER equipped with a Gun Butt and Hot-Shot Volley Gun</li>\n                        <li>KASRKIN GUNNER equipped with a Gun Butt and Meltagun</li>\n                        <li>KASRKIN GUNNER equipped with a gun Butt and Plasma Gun</li>\n                        <li>KASRKIN RECON-TROOPER</li>\n                        <li>KASRKIN SHARPSHOOTER</li>\n                        <li>KASRKIN TROOPER</li>\n                        <li>KASRKIN VOX-TROOPER</li>\n                </ul>\n        </li>\n</ul>\nOther than KASRKIN TROOPER operatives, your kill team can only include each operative above once.<br/>\nYour kill team can include no more than four KASRKIN GUNNER and KASRKIN SHARPSHOOTER operatives combined.",
+        "killteamcomp": "A KASRKIN kill team is composed of:\n <ul>\n         <li>\n                 1 KASRKIN SERGEANT operative equipped with one of the following options:\n                 <ul>\n                         <li>Bolt Pistol; Power Weapon</li>\n                         <li>Hot-Shot Lasgun; Gun Butt</li>\n                         <li>Hot-Shot Laspistol; Power Weapon</li>\n                         <li>Plasma Pistol; Chainsword</li>\n                 </ul>\n         </li>\n         <li>\n                 9 KASRKIN operatives selected from the following list:\n                 <ul>\n                         <li>KASRKIN COMBAT MEDIC</li>\n                         <li>KASRKIN DEMO-TROOPER</li>\n\t\t\t\t\t\t <li>KASRKIN GUNNER equipped with a Gun Butt and Flamer</li>\n                         <li>KASRKIN GUNNER equipped with a Gun Butt and Grenade Launcher</li>\n                         <li>KASRKIN GUNNER equipped with a Gun Butt and Hot-Shot Volley Gun</li>\n                         <li>KASRKIN GUNNER equipped with a Gun Butt and Meltagun</li>\n                         <li>KASRKIN GUNNER equipped with a Gun Butt and Plasma Gun</li>\n                         <li>KASRKIN RECON-TROOPER</li>\n                         <li>KASRKIN SHARPSHOOTER</li>\n                         <li>KASRKIN TROOPER</li>\n                         <li>KASRKIN VOX-TROOPER</li>\n                 </ul>\n         </li>\n </ul>\n Other than KASRKIN TROOPER operatives, your kill team can only include each operative above once.<br/>\n Your kill team can include no more than four KASRKIN GUNNER and KASRKIN SHARPSHOOTER operatives combined.",
         "fireteams": [
           {
             "factionid": "IMP",
@@ -42833,7 +42833,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "A KASRKIN kill team is composed of:\n<ul>\n        <li>\n                1 KASRKIN SERGEANT operative equipped with one of the following options:\n                <ul>\n                        <li>Bolt Pistol; Power Weapon</li>\n                        <li>Hot-Shot Lasgun; Gun Butt</li>\n                        <li>Hot-Shot Laspistol; Power Weapon</li>\n                        <li>Plasma Pistol; Chainsword</li>\n                </ul>\n        </li>\n        <li>\n                9 KASRKIN operatives selected from the following list:\n                <ul>\n                        <li>KASRKIN COMBAT MEDIC</li>\n                        <li>KASRKIN DEMO-TROOPER</li>\n                        <li>KASRKIN GUNNER equipped with a Gun Butt and Grenade Launcher</li>\n                        <li>KASRKIN GUNNER equipped with a Gun Butt and Hot-Shot Volley Gun</li>\n                        <li>KASRKIN GUNNER equipped with a Gun Butt and Meltagun</li>\n                        <li>KASRKIN GUNNER equipped with a gun Butt and Plasma Gun</li>\n                        <li>KASRKIN RECON-TROOPER</li>\n                        <li>KASRKIN SHARPSHOOTER</li>\n                        <li>KASRKIN TROOPER</li>\n                        <li>KASRKIN VOX-TROOPER</li>\n                </ul>\n        </li>\n</ul>\nOther than KASRKIN TROOPER operatives, your kill team can only include each operative above once.<br/>\nYour kill team can include no more than four KASRKIN GUNNER and KASRKIN SHARPSHOOTER operatives combined."
+            "fireteamcomp": "A KASRKIN kill team is composed of:\n <ul>\n         <li>\n                 1 KASRKIN SERGEANT operative equipped with one of the following options:\n                 <ul>\n                         <li>Bolt Pistol; Power Weapon</li>\n                         <li>Hot-Shot Lasgun; Gun Butt</li>\n                         <li>Hot-Shot Laspistol; Power Weapon</li>\n                         <li>Plasma Pistol; Chainsword</li>\n                 </ul>\n         </li>\n         <li>\n                 9 KASRKIN operatives selected from the following list:\n                 <ul>\n                         <li>KASRKIN COMBAT MEDIC</li>\n                         <li>KASRKIN DEMO-TROOPER</li>\n\t\t\t\t\t\t <li>KASRKIN GUNNER equipped with a Gun Butt and Flamer</li>\n                         <li>KASRKIN GUNNER equipped with a Gun Butt and Grenade Launcher</li>\n                         <li>KASRKIN GUNNER equipped with a Gun Butt and Hot-Shot Volley Gun</li>\n                         <li>KASRKIN GUNNER equipped with a Gun Butt and Meltagun</li>\n                         <li>KASRKIN GUNNER equipped with a Gun Butt and Plasma Gun</li>\n                         <li>KASRKIN RECON-TROOPER</li>\n                         <li>KASRKIN SHARPSHOOTER</li>\n                         <li>KASRKIN TROOPER</li>\n                         <li>KASRKIN VOX-TROOPER</li>\n                 </ul>\n         </li>\n </ul>\n Other than KASRKIN TROOPER operatives, your kill team can only include each operative above once.<br/>\n Your kill team can include no more than four KASRKIN GUNNER and KASRKIN SHARPSHOOTER operatives combined."
           }
         ]
       },
@@ -71206,7 +71206,7 @@
             "eqseq": 512
           }
         ],
-        "killteamcomp": "A PATHFINDER KillTeam is composed of:\n<ul>\n    <li>1 SHAS’UI PATHFINDER operative</li>\n    <li>\n                12 PATHFINDER operatives selected from the following list:\n                <ul>\n                        <li>SHAS’LA PATHFINDER</li>\n                        <li>BLOODED PATHFINDER</li>\n                        <li>DRONE CONTROLLER PATHFINDER</li>\n                        <li>ASSAULT GRENADIER PATHFINDER</li>\n                        <li>MEDICAL TECHNICIAN PATHFINDER</li>\n                        <li>TRANSPECTRAL INTERFERENCE PATHFINDER</li>\n                        <li>COMMUNICATIONS SPECIALIST PATHFINDER</li>\n                        <li>\n                                WEAPONS EXPERT PATHFINDER equipped with fists and one of the following:\n                                <ul>\n                                        <li>Rail rifle</li>\n                                        <li>Ion rifle</li>\n                                </ul>\n                        <li>MARKSMAN PATHFINDER</li>\n                        <li>MB3 RECON DRONE</li>\n                        <li>MV31 PULSE ACCELERATOR DRONE</li>\n                        <li>MV33 GRAV-INHIBITOR DRONE</li>\n                        <li>MV1 GUN DRONE</li>\n                        <li>MV4 SHIELD DRONE</li>\n                        <li>V7 MARKER DRONE</li>\n                </ul>\n        </li>\n</ul>\n<br/>\nSHAS’LA PATHFINDER operatives can be selected up to twelve times, WEAPONS EXPERT PATHFINDER operatives can be selected up to two times, and each other operative above can be selected once. If you select an MB3 RECON DRONE, you can only select 10 other PATHFINDER operatives.",
+        "killteamcomp": "A PATHFINDER KillTeam is composed of:\n <ul>\n     <li>1 SHAS’UI PATHFINDER operative</li>\n     <li>\n                 11 PATHFINDER operatives selected from the following list:\n                 <ul>\n                         <li>SHAS’LA PATHFINDER</li>\n                         <li>BLOODED PATHFINDER</li>\n                         <li>DRONE CONTROLLER PATHFINDER</li>\n                         <li>ASSAULT GRENADIER PATHFINDER</li>\n                         <li>MEDICAL TECHNICIAN PATHFINDER</li>\n                         <li>TRANSPECTRAL INTERFERENCE PATHFINDER</li>\n                         <li>COMMUNICATIONS SPECIALIST PATHFINDER</li>\n                         <li>\n                                 WEAPONS EXPERT PATHFINDER equipped with fists and one of the following:\n                                 <ul>\n                                         <li>Rail rifle</li>\n                                         <li>Ion rifle</li>\n                                 </ul>\n                         <li>MARKSMAN PATHFINDER</li>\n                         <li>MB3 RECON DRONE</li>\n                         <li>MV31 PULSE ACCELERATOR DRONE</li>\n                         <li>MV33 GRAV-INHIBITOR DRONE</li>\n                         <li>MV1 GUN DRONE</li>\n                         <li>MV4 SHIELD DRONE</li>\n                         <li>V7 MARKER DRONE</li>\n                 </ul>\n         </li>\n </ul>\n <br/>\n SHAS’LA PATHFINDER operatives can be selected up to eleven times, WEAPONS EXPERT PATHFINDER operatives can be selected up to two times, and each other operative above can be selected once. If you select an MB3 RECON DRONE, you can only select 9 other PATHFINDER operatives.",
         "fireteams": [
           {
             "factionid": "TAU",
@@ -72834,7 +72834,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "A PATHFINDER KillTeam is composed of:\n<ul>\n    <li>1 SHAS’UI PATHFINDER operative</li>\n    <li>\n                12 PATHFINDER operatives selected from the following list:\n                <ul>\n                        <li>SHAS’LA PATHFINDER</li>\n                        <li>BLOODED PATHFINDER</li>\n                        <li>DRONE CONTROLLER PATHFINDER</li>\n                        <li>ASSAULT GRENADIER PATHFINDER</li>\n                        <li>MEDICAL TECHNICIAN PATHFINDER</li>\n                        <li>TRANSPECTRAL INTERFERENCE PATHFINDER</li>\n                        <li>COMMUNICATIONS SPECIALIST PATHFINDER</li>\n                        <li>\n                                WEAPONS EXPERT PATHFINDER equipped with fists and one of the following:\n                                <ul>\n                                        <li>Rail rifle</li>\n                                        <li>Ion rifle</li>\n                                </ul>\n                        <li>MARKSMAN PATHFINDER</li>\n                        <li>MB3 RECON DRONE</li>\n                        <li>MV31 PULSE ACCELERATOR DRONE</li>\n                        <li>MV33 GRAV-INHIBITOR DRONE</li>\n                        <li>MV1 GUN DRONE</li>\n                        <li>MV4 SHIELD DRONE</li>\n                        <li>V7 MARKER DRONE</li>\n                </ul>\n        </li>\n</ul>\n<br/>\nSHAS’LA PATHFINDER operatives can be selected up to twelve times, WEAPONS EXPERT PATHFINDER operatives can be selected up to two times, and each other operative above can be selected once. If you select an MB3 RECON DRONE, you can only select 10 other PATHFINDER operatives."
+            "fireteamcomp": "A PATHFINDER KillTeam is composed of:\n <ul>\n     <li>1 SHAS’UI PATHFINDER operative</li>\n     <li>\n                 11 PATHFINDER operatives selected from the following list:\n                 <ul>\n                         <li>SHAS’LA PATHFINDER</li>\n                         <li>BLOODED PATHFINDER</li>\n                         <li>DRONE CONTROLLER PATHFINDER</li>\n                         <li>ASSAULT GRENADIER PATHFINDER</li>\n                         <li>MEDICAL TECHNICIAN PATHFINDER</li>\n                         <li>TRANSPECTRAL INTERFERENCE PATHFINDER</li>\n                         <li>COMMUNICATIONS SPECIALIST PATHFINDER</li>\n                         <li>\n                                 WEAPONS EXPERT PATHFINDER equipped with fists and one of the following:\n                                 <ul>\n                                         <li>Rail rifle</li>\n                                         <li>Ion rifle</li>\n                                 </ul>\n                         <li>MARKSMAN PATHFINDER</li>\n                         <li>MB3 RECON DRONE</li>\n                         <li>MV31 PULSE ACCELERATOR DRONE</li>\n                         <li>MV33 GRAV-INHIBITOR DRONE</li>\n                         <li>MV1 GUN DRONE</li>\n                         <li>MV4 SHIELD DRONE</li>\n                         <li>V7 MARKER DRONE</li>\n                 </ul>\n         </li>\n </ul>\n <br/>\n SHAS’LA PATHFINDER operatives can be selected up to eleven times, WEAPONS EXPERT PATHFINDER operatives can be selected up to two times, and each other operative above can be selected once. If you select an MB3 RECON DRONE, you can only select 9 other PATHFINDER operatives."
           }
         ]
       }
