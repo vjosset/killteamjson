@@ -28282,6 +28282,2132 @@
       },
       {
         "factionid": "IMP",
+        "killteamid": "AES",
+        "killteamname": "Exaction Squad",
+        "description": "The Adeptus Arbites are the police force of the Adeptus Terra, devoted to enforcing Imperial law throughout the entire Imperium. Utterly dedicated and without mercy, the Arbites are feared throughout the galaxy, for they are the agents of a harsh law, where failure and incompetence are crimes, and the only punishment is death.<br/><br/>Arbites are empowered to act as judge, jury and executioner – citizens have no rights, and only members of the Priesthood of Terra or the Inquisition could claim anything so elaborate as a trial.",
+        "ploys": {
+          "strat": [
+            {
+              "factionid": "IMP",
+              "killteamid": "AES",
+              "ployid": "DJ",
+              "ployname": "Dispense Justice",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Each time a friendly EXACTION SQUAD operative fights in combat in an activation (including an enemy activation) in which it has not moved more than its Movement characteristic,\nin the Roll Attack Dice step of that combat, you can re-roll one of your attack dice."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "AES",
+              "ployid": "GRI",
+              "ployname": "Guilt Reveals Itself",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a friendly EXACTION SQUAD operative makes a shooting attack, enemy operatives must be more than 2[CIRCLE] (instead of [CIRCLE]) from it to be in Cover."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "AES",
+              "ployid": "IJ",
+              "ployname": "Inviolate Jurisdiction",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a shooting attack is made against a friendly EXACTION SQUAD operative that is within [CIRCLE] of an objective marker or enemy operative, \nin the Roll Defence Sive step of that shooting attack, you can re-roll one of your defence dice"
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "AES",
+              "ployid": "TD",
+              "ployname": "Terminal Decree",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a friendly EXACTION SQUAD operative makes a shooting attack against an enemy operative within 2[CIRCLE] of it, \nin the Roll Attack Dice step of that shooting attack, yo can re-roll one of your attack dice."
+            }
+          ],
+          "tac": [
+            {
+              "factionid": "IMP",
+              "killteamid": "AES",
+              "ployid": "BB",
+              "ployname": "Brutal Backup",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy after a friendly EXACTION SQUAD operative performs a Fight acton with combat support.\nOne of the friendly EXACTION SQUAD operatives that provided combat support can immediately perform a free Fight action, but can only target that enemy operative from that previous Fight action, and only if it is a valid target."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "AES",
+              "ployid": "EO",
+              "ployname": "Execution Order",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy when a friendly PROCTOR-EXACTANT operative is activated.\nSelect one enemy operative in its Line Of Sight. \nUntil the end of the Turning Point, each time a friendly EXACTION SQUAD operative fights in combat or makes a shooting attack against that enemy operative,\nin the Roll Attack Dice step of that combat or shooting attack, you can re-roll any or all of your attack dive. You can only use this Tactical Ploy once."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "AES",
+              "ployid": "EP",
+              "ployname": "Exact Punishment",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy after an enemy operative fights in combat or makes a shooting attack against a friendly EXACTION SQUAD operative within [SQUARE] of it,\nand that friendly operative is not incapacitated as a result.\nThat friendly operative can immediately perform a free Fight or Overwatch action, but can only target that enemy operative, and only if it is a valid target."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "AES",
+              "ployid": "LAOTEL",
+              "ployname": "Long Arm Of The Emperor's Law",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy in the Scouting step, when your opponent reveals their selection.\nThey cannot resolve that selection.\nInitiative is still determined as normal, and this Tactical Ploy has no effect on additional or different scouting options your opponent could perform (e.g. Pursuers from HUNTER CLADE)."
+            }
+          ]
+        },
+        "equipments": [
+          {
+            "factionid": "IMP",
+            "killteamid": "AES",
+            "eqid": "SP",
+            "eqname": "Shotpistol",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n<tr><th>Name</th><th>A</th><th>BS</th><th>D</th></tr>\n<tr><td>Shotpistol</td><td>4</td><td>4+</td><td>3/3</td></tr>\n<tr><th colspan=\"4\">Special Rules</th><tr>\n<tr><td colspan=\"4\">Rng [PENT]</td><tr>\n</table>",
+            "eqpts": "1",
+            "eqtype": "Weapon",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "eqcategory": "Equipment",
+            "eqseq": 0
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "AES",
+            "eqid": "RMV",
+            "eqname": "Reinforced Mirror-Visor",
+            "eqdescription": "The operative gains the following ability for the battle:<br/>\n<strong>Reinforced Mirror-Visor:</strong>\nYou can ignore any or all modifiers to this operative's APL and it is not affected by the Stun critical hit rule.",
+            "eqpts": "1",
+            "eqtype": "Ability",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "eqcategory": "Equipment",
+            "eqseq": 1
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "AES",
+            "eqid": "MAN",
+            "eqname": "Manacles",
+            "eqdescription": "The operative can perform the following action during the battle:<br/>\n<strong>Arrest (1 AP):</strong>\nPerform a free Fight action with this operative against a valid target with a Wounds characteristic of 7 or less.\nAt the end of that combat, if neither operative has been incapacitated, the target is arrested until the end of the battle.\nWhile a friendly EXACTION SQUAD operative is within Engagement Range of no more than one arrested enemy operative and no other enemy operatives,\nthat arrested enemy operative cannot perform any actions other than Pass.\nOperatives that can perform this action cannot themselves be arrested.",
+            "eqpts": "2",
+            "eqtype": "Action",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "eqcategory": "Equipment",
+            "eqseq": 2
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "AES",
+            "eqid": "SPL",
+            "eqname": "Strobing Phosphor-Lumen",
+            "eqdescription": "The operative gains the following ability for the battle:<br/>\n<strong>Strobing Phosphor-Lumen:</strong>\nEach time an enemy operative Visible To and within [PENT] of this operative fights in combat or makes a shooting attack against a friendly EXACTION SQUAD operative within [CIRCLE] of this operative, \nin the Roll Attack Dice step of that combat or shooting attack, your opponent cannot re-roll their attack dice.",
+            "eqpts": "1",
+            "eqtype": "Ability",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "eqcategory": "Equipment",
+            "eqseq": 3
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "AES",
+            "eqid": "FG",
+            "eqname": "Frag Grenade",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n<tr><th>Name</th><th>A</th><th>BS</th><th>D</th></tr>\n<tr><td>Frag Grenade</td><td>4</td><td>3+</td><td>2/3</td></tr>\n<tr><th colspan=\"4\">Special Rules</th><tr>\n<tr><td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Ind, Lim</td><tr>\n</table>",
+            "eqpts": "2",
+            "eqtype": "Weapon",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "eqcategory": "Equipment",
+            "eqseq": 4
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "AES",
+            "eqid": "KG",
+            "eqname": "Krak Grenade",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n<tr><th>Name</th><th>A</th><th>BS</th><th>D</th></tr>\n<tr><td>Krak Grenade</td><td>4</td><td>3+</td><td>4/5</td></tr>\n<tr><th colspan=\"4\">Special Rules</th><tr>\n<tr><td colspan=\"4\">Rng [PENT], AP1, Ind, Lim</td><tr>\n</table>",
+            "eqpts": "3",
+            "eqtype": "Weapon",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "eqcategory": "Equipment",
+            "eqseq": 5
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "AES",
+            "eqid": "SG",
+            "eqname": "Stun Grenade",
+            "eqdescription": "The operative gains the following ability for the battle:<br/>\n<strong>Stun Grenade:</strong>\nSelect one point in the killzone within [PENT] of this operative.\nRoll 1D6 for each operative within [CIRCLE] of that point, subtracting 1 from the result if that operative is not Visible To this operative.\nOn a 4+, sutract 1 from that operative's APL. This operative cannot only perform this action once, and cannot perform this action while within Engagement Range of an enemy operative.",
+            "eqpts": "3",
+            "eqtype": "Ability",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "eqcategory": "Equipment",
+            "eqseq": 6
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-COM-INEX",
+            "eqname": "(Combat) Inexorable",
+            "eqdescription": "<em>Combat Specialist Battle Honour<br/></em>\nEach time this operative fights in combat, the enemy operative in that combat cannot be supported.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 301
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-COM-BW",
+            "eqname": "(Combat) Bladework",
+            "eqdescription": "<em>Combat Specialist Battle Honour<br/></em>\nEach time this operative fights in combat, in the Roll Attack Dice step of that combat, you can re-roll one of your attack dice.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 302
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-COM-DF",
+            "eqname": "(Combat) Dirty Fighter",
+            "eqdescription": "<em>Combat Specialist Battle Honour<br/></em>\nEach time this operative fights in combat, if any friendly operatives are supporting them, add 1 to the Attacks characteristic of their melee weapons for that combat.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 303
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-COM-VIC",
+            "eqname": "(Combat) Vicious",
+            "eqdescription": "<em>Combat Specialist Battle Honour<br/></em>\nAdd 1 to the Critical Damage characteristic of this operative’s melee weapons.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 304
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-COM-DUE",
+            "eqname": "(Combat) Duellist",
+            "eqdescription": "<em>Combat Specialist Battle Honour<br/></em>\nEach time this operative fights in combat, subtract 1 from the Weapon Skill characteristic of the enemy operative for that combat.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 305
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-COM-SAV",
+            "eqname": "(Combat) Savage",
+            "eqdescription": "<em>Combat Specialist Battle Honour<br/></em>\nEach time this operative fights in combat, in the Roll Attack Dice step of that combat, if you retain any critical hits, you can inflict one Mortal Wound on the enemy operative in that combat.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 306
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-STA-RES",
+            "eqname": "(Staunch) Resilient",
+            "eqdescription": "<em>Staunch Specialist Battle Honour<br/></em>\nAdd 2 to this operative’s Wounds characteristic.",
+            "eqpts": "0",
+            "eqtype": "OpMod",
+            "eqvar1": "W",
+            "eqvar2": "+2",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 311
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-STA-SO",
+            "eqname": "(Staunch) Shrug Off",
+            "eqdescription": "<em>Staunch Specialist Battle Honour<br/></em>\nEach time this operative is the target of a shooting attack, in the Roll Attack Dice step of that shooting attack, you can change one of your opponent's retained critical hits to a normal hit.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 312
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-STA-FOC",
+            "eqname": "(Staunch) Focused",
+            "eqdescription": "<em>Staunch Specialist Battle Honour<br/></em>\nWhen determining control of an objective marker, treat this operative’s APL characteristic as being 1 higher. Note that this is not a modifier.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 313
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-STA-STA",
+            "eqname": "(Staunch) Stalwart",
+            "eqdescription": "<em>Staunch Specialist Battle Honour<br/></em>\nThis operative is never injured.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 314
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-STA-INV",
+            "eqname": "(Staunch) Invulnerable",
+            "eqdescription": "<em>Staunch Specialist Battle Honour<br/></em>\nEach time this operative is the target of a shooting attack, in the roll defence dice step of that shooting attack, ignore the AP1 special rule.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 315
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-STA-IND",
+            "eqname": "(Staunch) Indomitable",
+            "eqdescription": "<em>Staunch Specialist Battle Honour<br/></em>\nEach time this operative would lose a wound as a result of a mortal wound or critical damage, roll one D6: on a 5+, that wound is not lost.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 316
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-MRK-GA",
+            "eqname": "(Marksman) Gun Ace",
+            "eqdescription": "<em>Marksman Specialist Battle Honour<br/></em>\nEach time this operative makes a shooting attack, in the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 321
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-MRK-CS",
+            "eqname": "(Marksman) Crack Shot",
+            "eqdescription": "<em>Marksman Specialist Battle Honour<br/></em>\nEach time this operative makes a shooting attack, if you roll any critical hits, inflict one mortal wound on the target.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 322
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-MRK-CALC",
+            "eqname": "(Marksman) Calculated",
+            "eqdescription": "<em>Marksman Specialist Battle Honour<br/></em>\nEach time this operative performs an Overwatch action, for that action’s shooting attack, do not worsen the Ballistic Skill characteristic of its ranged weapons as a result of performing an Overwatch action.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 323
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-MRK-CA",
+            "eqname": "(Marksman) Careful Aim",
+            "eqdescription": "<em>Marksman Specialist Battle Honour<br/></em>\nEach time this operative makes a shooting attack, when determining if the intended target is in Cover, Cover lines ignore the bases of all other operatives.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 324
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-MRK-SS",
+            "eqname": "(Marksman) Sharpshooter",
+            "eqdescription": "<em>Marksman Specialist Battle Honour<br/></em>\nEach time this operative makes a shooting attack, when determining if the intended target is in Cover, Cover lines ignore the bases of all other operatives.Each time this operative performs a Shoot action, when you would retain attack dice for that action’s shooting attack, if it has not performed a Normal Move, Fall Back or Charge action during that activation, you can select one of your results of 5+ to be retained as a critical hit.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 325
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-MRK-DFA",
+            "eqname": "(Marksman) Death From Above",
+            "eqdescription": "<em>Marksman Specialist Battle Honour<br/></em>\nOnce per Turning Point, after this operative makes a shooting attack while on a Vantage Point, if the target did not lose any wounds as a result of that shooting attack, repeat that shooting attack.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 326
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-SCT-RUN",
+            "eqname": "(Scout) Runner",
+            "eqdescription": "<em>Scout Specialist Battle Honour<br/></em>\nEach time this operative is activated, so long as it does not perform a Shoot or Fight action during that activation, it can perform one free Dash action.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 331
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-SCT-SW",
+            "eqname": "(Scout) Swift",
+            "eqdescription": "<em>Scout Specialist Battle Honour<br/></em>\nThis operative can perform a Dash action more than once during its Activation. In addition, it automatically passes Jump tests and does not need to spend [CIRCLE] to traverse.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 332
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-SCT-COV",
+            "eqname": "(Scout) Covert",
+            "eqdescription": "<em>Scout Specialist Battle Honour<br/></em>\nWhen this operative is activated during the first Turning Point, you can change its order.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 333
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-SCT-PIC",
+            "eqname": "(Scout) Picket",
+            "eqdescription": "<em>Scout Specialist Battle Honour<br/></em>\r During the Set Up Operatives step of the mission sequence, this operative can be set up within [SQUARE] of your drop zone.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 334
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-SCT-EV",
+            "eqname": "(Scout) Evasive",
+            "eqdescription": "<em>Scout Specialist Battle Honour<br/></em>\nEach time this operative is the target of a shooting attack, in the Roll Defence Dice step of that shooting attack, if it has a Conceal order, you can re-roll one of your defence dice.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 335
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-SCT-DOD",
+            "eqname": "(Scout) Dodge",
+            "eqdescription": "<em>Scout Specialist Battle Honour<br/></em>\nEach time this operative performs a Normal Move or Dash action, it can move within Engagement Range of enemy operatives, but cannot finish that move within Engagement Range of them. Each time this operative performs a Charge action, so long as it finishes that move within Engagement Range of an enemy operative, it can move within Engagement Range of any enemy operatives during that move.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 336
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-CA",
+            "eqname": "Auto-Loader",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nThis ranged weapon gains the Ceaseless special rule.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 501
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-FC",
+            "eqname": "Flux Capacitor",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nThis ranged weapon gains the P1 critical hit rule.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 502
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-RR",
+            "eqname": "Rending Rounds",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nThis ranged weapon gains the Rending special rule.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 503
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-PA",
+            "eqname": "Propulsion Amplifier",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nAdd 1 to both Damage characteristics of this ranged weapon.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 504
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-TS",
+            "eqname": "Thermal Sight",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nThis ranged weapon gains the No Cover special rule.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 505
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-SS",
+            "eqname": "Seeker Spirit",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nEach time a friendly operative makes a shooting attack with this ranged weapon, in the Roll Attack Dice step of that shooting attack, for each critical hit you retain, you can re-roll one of your attack dice.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 506
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-PE",
+            "eqname": "Power Enhancer",
+            "eqdescription": "<em>Rare Equipment</em><br/>\r Add 1 to both Damage characteristics of this melee weapon.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 507
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-ID",
+            "eqname": "Inertia Displacer",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nThis melee weapon gains the Brutal special rule.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 508
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-PW",
+            "eqname": "Perfectly Weighted",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nThis melee weapon gains the Balanced special rule.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 509
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-RB",
+            "eqname": "Rending Blade",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nThis melee weapon gains the Rending special rule.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 510
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-MME",
+            "eqname": "Monomolecular Edge",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nThis melee weapon gains the Lethal 5+ special rule.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 511
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-AU",
+            "eqname": "Arc Unit",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nThis melee weapon gains the Stun critical hit rule.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 512
+          }
+        ],
+        "killteamcomp": "An ARBITES EXACTION SQUAD KillTeam is composed of:\n<ul>\n        <li>\n                1 ARBITES PROCTOR-EXACTANT operative equipped with one of the following options:\n                <ul>\n                        <li>Combat Shotgun and Repression Baton</li>\n                        <li>Dominator Maul and Assault Shiedl</li>\n                </ul>\n        </li>\n        <li>\n                10 EXACTION SQUAD operatives selected from the following list:\n                <ul>\n                        <li>ARBITES CASTIGATOR</li>\n                        <li>ARBITES CHIRURGANT</li>\n                        <li>\n                                ARBITES GUNNER equipped with one of the following options:\n                                <ul>\n                                        <li>Grenade Launcher (max one per KillTeam) and Repression Baton</li>\n                                        <li>Heavy Stubber (max one per KillTeam) and Repression Baton</li>\n                                        <li>Webber (max one per KillTeam) and Repression Baton</li>\n                                </ul>\n                        </li>\n                        <li>ARBITES LEASHMASTER</li>\n                        <li>ARBITES MALOCATOR</li>\n                        <li>ARBITES MARKSMAN</li>\n                        <li>ARBITES REVELATUM</li>\n                        <li>ARBITES SUBDUCTOR</li>\n                        <li>ARBITES VIGILANT</li>\n                        <li>ARBITES VOX-SIGNIFIER</li>\n                        <li>R-VR CYBER-MASTIFF</li>\n                </ul>\n        </li>\n</ul>\n\nYour KillTeam can only include up to two ARBITES GUNNER operatives.\nOther than ARBITES GUNNER, ARBITES SUBDUCTOR, and ARBITES VIGILANT operatives, your KillTeam can only include each operative above once.",
+        "fireteams": [
+          {
+            "factionid": "IMP",
+            "killteamid": "AES",
+            "fireteamid": "AES",
+            "fireteamname": "Exaction Squad",
+            "archetype": "",
+            "description": "",
+            "killteammax": 0,
+            "operatives": [
+              {
+                "factionid": "IMP",
+                "killteamid": "AES",
+                "fireteamid": "AES",
+                "opid": "PE",
+                "opseq": 0,
+                "opname": "Arbites Proctor-Exactant",
+                "description": "Exaction Squads are selected and let by Proctor-Exactants. These experienced Arbitrators are ruthless tacticians and savvy fighters. They are also intimidating embodiments of Imperial justice and employ nuncio-aquilas to broadcast deafening orations that cow the guilty into submission.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "EXACTION SQUAD, IMPERIUM, ADEPTUS ARBITES, LEADER, ARBITES, PROCTOR-EXACTANT",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "PE",
+                    "wepid": "CS",
+                    "wepseq": 0,
+                    "wepname": "Combat Shotgun",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "PE",
+                        "wepid": "CS",
+                        "profileid": "0",
+                        "name": "Close Range",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "4/4",
+                        "SR": "Rng [PENT]"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "PE",
+                        "wepid": "CS",
+                        "profileid": "1",
+                        "name": "Long Range",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "2/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "PE",
+                    "wepid": "RB",
+                    "wepseq": 0,
+                    "wepname": "Repression Baton",
+                    "weptype": "M",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "PE",
+                        "wepid": "RB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "PE",
+                    "wepid": "DMAS",
+                    "wepseq": 0,
+                    "wepname": "Dominator Maul & Assault Shield",
+                    "weptype": "M",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "PE",
+                        "wepid": "DMAS",
+                        "profileid": "0",
+                        "name": "Offensive",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/4",
+                        "SR": "Lethal 5+, Stun"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "PE",
+                        "wepid": "DMAS",
+                        "profileid": "1",
+                        "name": "Defensive",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/4",
+                        "SR": "*Repress , *Shield"
+                      }
+                    ],
+                    "isselected": false
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "PE",
+                    "uniqueactionid": "DNA",
+                    "title": "Deploy Nuncio-Aquila",
+                    "description": "The first time this operative performs this action during a battle,\nplace one of your Nuncio-Aquila tokens within [PENT] horizontally and any distance vertically of this operative.\nEach time this operative performs this action thereafter, you can move that Nuncio-Aquila otken up to [PENT] horizontally and up to any distance vertically.\nThis operative cannot perform this action while within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "PE",
+                    "abilityid": "AS",
+                    "title": "Assault Shield",
+                    "description": "If this operative is equipped with a Dominator Maul & Assault Shield, it has a 3+ Save characteristic."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "PE",
+                    "abilityid": "NUN",
+                    "title": "Nuncio-Aquila",
+                    "description": "<ul>\n<li>Each time an enemy operative would perform a mission action or the Pick Up action, if that enemy operative is within [SQUARE] of your Nuncio-Aquila token (or this operative if that token has not been placed),\none additional Action Point must be subtracted to perform that action.\nSee the Deploy Nuncio-Aquila action for how that token is placed.</li>\n<li>When determining control of an objective marker your Nuncio-Aquila token (or this operative if that token has not been placed) is within [SQUARE] of,\ntreat enemy operative's total APL as being 1 less. Note that this is not a modifier.</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "PE",
+                    "abilityid": "REFF",
+                    "title": "Ruthless Efficiency",
+                    "description": "<i class=\"noprint\">Arbitrators have long experience in claustrophobic confrontations and synchronise their tactics to eliminate foes.\nWith chilling precision, they open fire on the guilty even in the press of combat.<br/><br/></i>\nEach time a friendly operative with this ability makes a shooting attack with a weapon that doesn't have the Blast special rule or the word \"Grenade\" in its name,\nenemy operatives within [PENT] of it can have other friendly operatives within Engagement Range and still be selected as a valid target (they must still be a valid target by all other means)."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "PE",
+                    "abilityid": "REP",
+                    "title": "*Repress",
+                    "description": "Each time this operative fights in combat with this weapon, you are the Attacker (i.e. even if this operative is not the active operative). If both operatives have this special rule, it has no effect."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "PE",
+                    "abilityid": "SHD",
+                    "title": "*Shield",
+                    "description": "Each time this operative fights in combat with this weapon, in the Resolve Successful Hits step of that combat,\neach time it parries, two of your opponent's successful hits are discarded (instead of one)."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "AES",
+                "fireteamid": "AES",
+                "opid": "CAST",
+                "opseq": 1,
+                "opname": "Arbites Castigator",
+                "description": "It is the Castigator's role to ensure that the guilty receive due punishment, their hood-like helps steeling their resolve against curses and pleas alike. Once the quarry is located, the Castigator is charged with their subdual by any means - a task they perform with zealous dedication.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "EXACTION SQUAD, IMPERIUM, ADEPTUS ARBITES, ARBITES, CASTIGATOR",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "CAST",
+                    "wepid": "CS",
+                    "wepseq": 0,
+                    "wepname": "Combat Shotgun",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "CAST",
+                        "wepid": "CS",
+                        "profileid": "0",
+                        "name": "Close Range",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/4",
+                        "SR": "Rng [PENT]"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "CAST",
+                        "wepid": "CS",
+                        "profileid": "1",
+                        "name": "Long Range",
+                        "A": "4",
+                        "BS": "5+",
+                        "D": "2/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "CAST",
+                    "wepid": "EXM",
+                    "wepseq": 0,
+                    "wepname": "Excruciator Maul",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "CAST",
+                        "wepid": "EXM",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/4",
+                        "SR": "Rending, Stun"
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "CAST",
+                    "uniqueactionid": "ARR",
+                    "title": "Castigator's Arrest",
+                    "description": "Perform a free Fight action with this operative against a valid target with a Wounds characteristic of 10 or less.\nAt the end of that combat, if neither operative has been incapacitated, the target is arrested until the end of the battle.\nWhile a friendly EXACTION SQUAD operative is within Engagement Range of not more than one arrested enemy operative and no other enemy operatives,\nthat arrested enemy operative cannot perform any actions other than Pass. \nOperatives that can perform this action cannot themselves be arrested.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "CAST",
+                    "abilityid": "EF",
+                    "title": "Engendered Focus",
+                    "description": "You can ignore any or all modifiers to this operative's characteristics (including modifiers to the weapons it is equipped with)."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "CAST",
+                    "abilityid": "REFF",
+                    "title": "Ruthless Efficiency",
+                    "description": "<i class=\"noprint\">Arbitrators have long experience in claustrophobic confrontations and synchronise their tactics to eliminate foes.\nWith chilling precision, they open fire on the guilty even in the press of combat.<br/><br/></i>\nEach time a friendly operative with this ability makes a shooting attack with a weapon that doesn't have the Blast special rule or the word \"Grenade\" in its name,\nenemy operatives within [PENT] of it can have other friendly operatives within Engagement Range and still be selected as a valid target (they must still be a valid target by all other means)."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "CAST",
+                    "abilityid": "ZD",
+                    "title": "Zealous Dedication",
+                    "description": "Each time this operative would lose a wound, roll 1D6: on a 6, that wound is not lost."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "AES",
+                "fireteamid": "AES",
+                "opid": "CHI",
+                "opseq": 2,
+                "opname": "Arbites Chirurgant",
+                "description": "These Arbitrators are highly skilled medical specialists, used to treating debilitating wounds inflicted by those resisting detention. They are also skilled in the tactical questioning of prisoners and have studied the limits to which the body can be pushed to elicit answers.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "EXACTION SQUAD, IMPERIUM, ADEPTUS ARBITES, MEDIC, ARBITES, CHIRURGANT",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "CHI",
+                    "wepid": "CS",
+                    "wepseq": 0,
+                    "wepname": "Combat Shotgun",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "CHI",
+                        "wepid": "CS",
+                        "profileid": "0",
+                        "name": "Close Range",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/4",
+                        "SR": "Rng [PENT]"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "CHI",
+                        "wepid": "CS",
+                        "profileid": "1",
+                        "name": "Long Range",
+                        "A": "4",
+                        "BS": "5+",
+                        "D": "2/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "CHI",
+                    "wepid": "RB",
+                    "wepseq": 0,
+                    "wepname": "Repression Baton",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "CHI",
+                        "wepid": "RB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "CHI",
+                    "uniqueactionid": "MED",
+                    "title": "Medikit",
+                    "description": "Select one friendly EXACTION SQUAD operative Visible To and within [TRI] of this operative.\nThat friendly operative regains 2D3 lost wounds.\nAn operative cannot be selected for this action if it was revived using the Medic! ability during the same Turning Point.\nThis operative cannot perform this action while within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "CHI",
+                    "abilityid": "MED",
+                    "title": "Medic!",
+                    "description": "Once per Turning Point, the first time another friendly EXACTION SQUAD operative would be incapacitated while Visible To and within [SQUARE] of this operative and not within Engagement Range of an enemy operative,\nif this operative is not within Engagement Range fo an enemy operative, this operative can revive it.\nThat friendly operative is not incapacitated, has 1 wound remaining, and if it was a shooting attack, any remaining attack dice are discarded.\nThat friendly operative can then perform a free Dash action but must finish that move within [TRI] of this operative.\nSubtract 1 from both operatives' APL."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "CHI",
+                    "abilityid": "REFF",
+                    "title": "Ruthless Efficiency",
+                    "description": "<i class=\"noprint\">Arbitrators have long experience in claustrophobic confrontations and synchronise their tactics to eliminate foes.\nWith chilling precision, they open fire on the guilty even in the press of combat.<br/><br/></i>\nEach time a friendly operative with this ability makes a shooting attack with a weapon that doesn't have the Blast special rule or the word \"Grenade\" in its name,\nenemy operatives within [PENT] of it can have other friendly operatives within Engagement Range and still be selected as a valid target (they must still be a valid target by all other means)."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "AES",
+                "fireteamid": "AES",
+                "opid": "GNR",
+                "opseq": 3,
+                "opname": "Arbites Gunner",
+                "description": "Gunners provide substantial firepower to Exaction Squad operations using weapons such as Heavy Stubbers - rapid-firing cannons whose solid shot can scythe through mobs. More specialist weapons may fire chemicals that paralyze, or grenades that crack open doors and armour alike.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "EXACTION SQUAD, IMPERIUM, ADEPTUS ARBITES, ARBITES, GUNNER",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "GNR",
+                    "wepid": "GL",
+                    "wepseq": 0,
+                    "wepname": "Grenade Launcher",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "GNR",
+                        "wepid": "GL",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "4/6",
+                        "SR": "AP1"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "GNR",
+                    "wepid": "HS",
+                    "wepseq": 0,
+                    "wepname": "Heavy Stubber",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "GNR",
+                        "wepid": "HS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": "Ceaseless, Fus, Heavy"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "GNR",
+                    "wepid": "WEB",
+                    "wepseq": 0,
+                    "wepname": "Webber",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "GNR",
+                        "wepid": "WEB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "3+",
+                        "D": "2/2",
+                        "SR": "Rng [PENT], Lethal 5+, Stun"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "GNR",
+                    "wepid": "RB",
+                    "wepseq": 0,
+                    "wepname": "Repression Baton",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "GNR",
+                        "wepid": "RB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "GNR",
+                    "abilityid": "REFF",
+                    "title": "Ruthless Efficiency",
+                    "description": "<i class=\"noprint\">Arbitrators have long experience in claustrophobic confrontations and synchronise their tactics to eliminate foes.\nWith chilling precision, they open fire on the guilty even in the press of combat.<br/><br/></i>\nEach time a friendly operative with this ability makes a shooting attack with a weapon that doesn't have the Blast special rule or the word \"Grenade\" in its name,\nenemy operatives within [PENT] of it can have other friendly operatives within Engagement Range and still be selected as a valid target (they must still be a valid target by all other means)."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "AES",
+                "fireteamid": "AES",
+                "opid": "LSH",
+                "opseq": 4,
+                "opname": "Arbites Leashmaster",
+                "description": "Leashmasters are specialists who command the caniform servitors known as Cyber-Mastiffs. They direct override the construct's basic protocols with advanced commands, and broadcast shouted orders to their guilt-ridden prey via the Cyber-Mastiff's emitters.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "EXACTION SQUAD, IMPERIUM, ADEPTUS ARBITES, ARBITES, LEASHMASTER",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "LSH",
+                    "wepid": "CS",
+                    "wepseq": 0,
+                    "wepname": "Combat Shotgun",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "LSH",
+                        "wepid": "CS",
+                        "profileid": "0",
+                        "name": "Close Range",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/4",
+                        "SR": "Rng [PENT]"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "LSH",
+                        "wepid": "CS",
+                        "profileid": "1",
+                        "name": "Long Range",
+                        "A": "4",
+                        "BS": "5+",
+                        "D": "2/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "LSH",
+                    "wepid": "RB",
+                    "wepseq": 0,
+                    "wepname": "Repression Baton",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "LSH",
+                        "wepid": "RB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "LSH",
+                    "uniqueactionid": "CMD",
+                    "title": "Command",
+                    "description": "Select one friendly R-VR CYBER-MASTIFF operative within [PENT] of this operative and change its Attack Pattern.",
+                    "AP": 0
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "LSH",
+                    "abilityid": "AP",
+                    "title": "Attack Pattern",
+                    "description": "When this operative is selected for deployment, select one of the following attack patterns for a friendly R-VR CYBER-MASTIFF operative to have for the battle:\n<ul>\n<li><strong>Aggressive:</strong> Melee weapons it is equipped with gain the Relentless special rule</li>\n<li><strong>Swift:</strong> Add [CIRCLE] to its Movement characteristic</li>\n<li><strong>Defensive:</strong> Improve its Save characteristic by 1</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "LSH",
+                    "abilityid": "HND",
+                    "title": "Handler",
+                    "description": "Each time this operative is activated, you can also activate a ready friendly R-VR CYBER-MASTIFF operative at the same time.\nComplete their actions in any order."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "LSH",
+                    "abilityid": "REFF",
+                    "title": "Ruthless Efficiency",
+                    "description": "<i class=\"noprint\">Arbitrators have long experience in claustrophobic confrontations and synchronise their tactics to eliminate foes.\nWith chilling precision, they open fire on the guilty even in the press of combat.<br/><br/></i>\nEach time a friendly operative with this ability makes a shooting attack with a weapon that doesn't have the Blast special rule or the word \"Grenade\" in its name,\nenemy operatives within [PENT] of it can have other friendly operatives within Engagement Range and still be selected as a valid target (they must still be a valid target by all other means)."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "AES",
+                "fireteamid": "AES",
+                "opid": "RVR",
+                "opseq": 5,
+                "opname": "R-VR Cyber-Mastiff",
+                "description": "Arbitrators employ many servo-constructs for intimidation, security, and pursuit. The Rantal-class Venatus Reclamator is an advanced Cyber-Mastiff used by Exaction Squads. The R-VR's detectors enable the to track their prey, while their iron jaws can break bones or kill on command.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "EXACTION SQUAD, IMPERIUM, ADEPTUS ARBITES, ARBITES, R-VR CYBER-MASTIFF",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "RVR",
+                    "wepid": "MB",
+                    "wepseq": 0,
+                    "wepname": "Mechanical Bite",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "RVR",
+                        "wepid": "MB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "3/5",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "RVR",
+                    "uniqueactionid": "APP",
+                    "title": "Apprehend",
+                    "description": "Select one enemy operative within this operative's Engagement Range.\nThat enemy operative suffers 1D3 mortal wounds, and until it is no longer within this operative's Engagement Range, it is apprehended.\nEach time an apprehended enemy operative would perform a Fall Back action, your opponent must roll 1D6, adding 1 to the result for each wound it has remaining that is greater than this operative's wounds.\nIf the result if less than this operative's remaining wounds, that enemy operative cannot perform that action (the action points are refunded).",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "RVR",
+                    "abilityid": "BST",
+                    "title": "Beast",
+                    "description": "Other than the Gather Evidence mission action, this operative cannot perform mission actions and cannot be equipped with equipment."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "AES",
+                "fireteamid": "AES",
+                "opid": "MAL",
+                "opseq": 6,
+                "opname": "Arbites Malocator",
+                "description": "Technically gifted, Malocators carry bio-sample extractors to gather trace evidence on their team's quarry. They operate with an icy calm under fire, scrutinising evidence via their veriscant multi-lens array and informing their team of enemy weaknesses.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "EXACTION SQUAD, IMPERIUM, ADEPTUS ARBITES, ARBITES, MALOCATOR",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "MAL",
+                    "wepid": "CS",
+                    "wepseq": 0,
+                    "wepname": "Combat Shotgun",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "MAL",
+                        "wepid": "CS",
+                        "profileid": "0",
+                        "name": "Close Range",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/4",
+                        "SR": "Rng [PENT]"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "MAL",
+                        "wepid": "CS",
+                        "profileid": "1",
+                        "name": "Long Range",
+                        "A": "4",
+                        "BS": "5+",
+                        "D": "2/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "MAL",
+                    "wepid": "RB",
+                    "wepseq": 0,
+                    "wepname": "Repression Baton",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "MAL",
+                        "wepid": "RB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "MAL",
+                    "uniqueactionid": "VER",
+                    "title": "Veriscant",
+                    "description": "Select one enemy operative in this operative's Line of Sight.\nUntil the end of the Turning Point, each time a friendly EXACTION SQUAD operative fights in combat or makes a shooting attack against that enemy operative,\nin the Roll Attack Dice step of that combat or shooting attack, you can retain one of your successful normal hits as a critical hit instead.\nThis operative cannot perform this action while within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "MAL",
+                    "abilityid": "ACF",
+                    "title": "Accute Focus",
+                    "description": "Once per Turning Point, during this operative's activation, it can perform a mission action or the Pick Up action for one less Action Point (to a minimum of 0 AP)."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "MAL",
+                    "abilityid": "REFF",
+                    "title": "Ruthless Efficiency",
+                    "description": "<i class=\"noprint\">Arbitrators have long experience in claustrophobic confrontations and synchronise their tactics to eliminate foes.\nWith chilling precision, they open fire on the guilty even in the press of combat.<br/><br/></i>\nEach time a friendly operative with this ability makes a shooting attack with a weapon that doesn't have the Blast special rule or the word \"Grenade\" in its name,\nenemy operatives within [PENT] of it can have other friendly operatives within Engagement Range and still be selected as a valid target (they must still be a valid target by all other means)."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "AES",
+                "fireteamid": "AES",
+                "opid": "MRK",
+                "opseq": 7,
+                "opname": "Arbites Marksman",
+                "description": "The rabble-rouser lurking behind those they incite, the heavily armed bodyguard, or the fleeing criminal about to escape - such are the targets of the Marksman. Their long-barrelled shotguns fire shells so powerful that they leave wounds more akin to gory craters than bullet holes.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "EXACTION SQUAD, IMPERIUM, ADEPTUS ARBITES, ARBITES, MARKSMAN",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "MRK",
+                    "wepid": "ES",
+                    "wepseq": 0,
+                    "wepname": "Executioner Shotgun",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "MRK",
+                        "wepid": "ES",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/1",
+                        "SR": "Hvy, Silent, MW3"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "MRK",
+                    "wepid": "RB",
+                    "wepseq": 0,
+                    "wepname": "Repression Baton",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "MRK",
+                        "wepid": "RB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "MRK",
+                    "uniqueactionid": "AIM",
+                    "title": "Take Aim",
+                    "description": "Until the end of the activation, the Executioner Shotgun this operative is equipped with gains the Balanced and No Cover special rules.\nThis operative cannot perform this action while within [SQUARE] of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "MRK",
+                    "abilityid": "REFF",
+                    "title": "Ruthless Efficiency",
+                    "description": "<i class=\"noprint\">Arbitrators have long experience in claustrophobic confrontations and synchronise their tactics to eliminate foes.\nWith chilling precision, they open fire on the guilty even in the press of combat.<br/><br/></i>\nEach time a friendly operative with this ability makes a shooting attack with a weapon that doesn't have the Blast special rule or the word \"Grenade\" in its name,\nenemy operatives within [PENT] of it can have other friendly operatives within Engagement Range and still be selected as a valid target (they must still be a valid target by all other means)."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "AES",
+                "fireteamid": "AES",
+                "opid": "REV",
+                "opseq": 8,
+                "opname": "Arbites Revelatum",
+                "description": "Revelatums reconnoitre their target's movements in advance of the rest of the team, scouting hideouts and ascertaining criminal contacts. They then lead other Arbitrators straight to the guilty, using their soulguilt scanners to identify threats to their fellow officers.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "EXACTION SQUAD, IMPERIUM, ADEPTUS ARBITES, ARBITES, REVELATUM",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "REV",
+                    "wepid": "SSP",
+                    "wepseq": 0,
+                    "wepname": "Scoped ShotPistol",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "REV",
+                        "wepid": "SSP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/1",
+                        "SR": "MW2"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "REV",
+                    "wepid": "RB",
+                    "wepseq": 0,
+                    "wepname": "Repression Baton",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "REV",
+                        "wepid": "RB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "REV",
+                    "uniqueactionid": "SGS",
+                    "title": "Soulguilt Scan",
+                    "description": "Select one enemy operative Visible To and within [PENT] of this operative.\nUntil the end of the Turning Point, friendly EXACTION SQUAD operatives Visible To and within [SQUARE] of this operative treat that enemy operative as if it has an Engage Order.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "REV",
+                    "abilityid": "FITF",
+                    "title": "First In The Field",
+                    "description": "At the end of the Initiative Phase of the first Turning Point, if this operative is wholly within your drop zone, it can perform a free Normal Move action as if it can FLY."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "REV",
+                    "abilityid": "REFF",
+                    "title": "Ruthless Efficiency",
+                    "description": "<i class=\"noprint\">Arbitrators have long experience in claustrophobic confrontations and synchronise their tactics to eliminate foes.\nWith chilling precision, they open fire on the guilty even in the press of combat.<br/><br/></i>\nEach time a friendly operative with this ability makes a shooting attack with a weapon that doesn't have the Blast special rule or the word \"Grenade\" in its name,\nenemy operatives within [PENT] of it can have other friendly operatives within Engagement Range and still be selected as a valid target (they must still be a valid target by all other means)."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "AES",
+                "fireteamid": "AES",
+                "opid": "SUB",
+                "opseq": 9,
+                "opname": "Arbites Subductor",
+                "description": "Subductors possess one of the most recognisable - and feared - silhouettes to the Imperium's criminal classes. Bearing Subjugation-pattern Assault Shields and crackling Shock Mauls, they are brutal front line brawlers capable of crushing the most stubborn dissent.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "3+",
+                "W": "7",
+                "keywords": "EXACTION SQUAD, IMPERIUM, ADEPTUS ARBITES, ARBITES, SUBDUCTOR",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "SUB",
+                    "wepid": "SMAS",
+                    "wepseq": 0,
+                    "wepname": "Shock Maul & Assault Shield",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "SUB",
+                        "wepid": "SMAS",
+                        "profileid": "0",
+                        "name": "Offensive",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "4/4",
+                        "SR": "Stun"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "SUB",
+                        "wepid": "SMAS",
+                        "profileid": "1",
+                        "name": "Defensive",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "4/4",
+                        "SR": "*Repress, *Shield"
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "SUB",
+                    "abilityid": "REFF",
+                    "title": "Ruthless Efficiency",
+                    "description": "<i class=\"noprint\">Arbitrators have long experience in claustrophobic confrontations and synchronise their tactics to eliminate foes.\nWith chilling precision, they open fire on the guilty even in the press of combat.<br/><br/></i>\nEach time a friendly operative with this ability makes a shooting attack with a weapon that doesn't have the Blast special rule or the word \"Grenade\" in its name,\nenemy operatives within [PENT] of it can have other friendly operatives within Engagement Range and still be selected as a valid target (they must still be a valid target by all other means)."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "SUB",
+                    "abilityid": "REP",
+                    "title": "*Repress",
+                    "description": "Each time this operative fights in combat with this weapon, you are the Attacker (i.e. even if this operative is not the active operative).\nIf both operatives have this special rule, it has no effect."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "SUB",
+                    "abilityid": "SHD",
+                    "title": "*Shield",
+                    "description": "Each time this operative fights in combat with this weapon, in the Resolve Successful Hits step of that combat,\neach time it parries, two of your opponent's successful hits are discarded (instead of one)."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "AES",
+                "fireteamid": "AES",
+                "opid": "VIG",
+                "opseq": 10,
+                "opname": "Arbites Vigilant",
+                "description": "Vigilants brutally sweep the guilty from existence with the signature Combat Shotgun of the Adeptus Arbites. These grim men and women are ever alert to malfeasance and unwavering in its punishment, unleashing devastating blasts at close range.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "EXACTION SQUAD, IMPERIUM, ADEPTUS ARBITES, ARBITES, VIGILANT",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "VIG",
+                    "wepid": "CS",
+                    "wepseq": 0,
+                    "wepname": "Combat Shotgun",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "VIG",
+                        "wepid": "CS",
+                        "profileid": "0",
+                        "name": "Close Range",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/4",
+                        "SR": "Rng [PENT]"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "VIG",
+                        "wepid": "CS",
+                        "profileid": "1",
+                        "name": "Long Range",
+                        "A": "4",
+                        "BS": "5+",
+                        "D": "2/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "VIG",
+                    "wepid": "RB",
+                    "wepseq": 0,
+                    "wepname": "Repression Baton",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "VIG",
+                        "wepid": "RB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "VIG",
+                    "abilityid": "REFF",
+                    "title": "Ruthless Efficiency",
+                    "description": "<i class=\"noprint\">Arbitrators have long experience in claustrophobic confrontations and synchronise their tactics to eliminate foes.\nWith chilling precision, they open fire on the guilty even in the press of combat.<br/><br/></i>\nEach time a friendly operative with this ability makes a shooting attack with a weapon that doesn't have the Blast special rule or the word \"Grenade\" in its name,\nenemy operatives within [PENT] of it can have other friendly operatives within Engagement Range and still be selected as a valid target (they must still be a valid target by all other means)."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "AES",
+                "fireteamid": "AES",
+                "opid": "VOX",
+                "opseq": 11,
+                "opname": "Arbites Vox-Signifier",
+                "description": "The team's Vox-Signifier listens for coded missives from mission command on their powerful precinct vox-relay. They issue updates to the rest of the Exaction Squad arising from changes to mission priorities and new intelligence - likely painfully extracted from prisoners.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "7",
+                "keywords": "EXACTION SQUAD, IMPERIUM, ADEPTUS ARBITES, ARBITES, VOX-SIGNIFIER",
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "VOX",
+                    "wepid": "CS",
+                    "wepseq": 0,
+                    "wepname": "Combat Shotgun",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "VOX",
+                        "wepid": "CS",
+                        "profileid": "0",
+                        "name": "Close Range",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/4",
+                        "SR": "Rng [PENT]"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "VOX",
+                        "wepid": "CS",
+                        "profileid": "1",
+                        "name": "Long Range",
+                        "A": "4",
+                        "BS": "5+",
+                        "D": "2/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "VOX",
+                    "wepid": "RB",
+                    "wepseq": 0,
+                    "wepname": "Repression Baton",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "AES",
+                        "fireteamid": "AES",
+                        "opid": "VOX",
+                        "wepid": "RB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "VOX",
+                    "uniqueactionid": "PVR",
+                    "title": "Precinct Vox-Relay",
+                    "description": "Select one friendly EXACTION SQUAD operative (exclusing R-VR CYBER-MASTIFF operatives) Visible To this operative.\nAdd 1 to its APL. This operative cannot perform this action while within Engagement Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "AES",
+                    "fireteamid": "AES",
+                    "opid": "VOX",
+                    "abilityid": "REFF",
+                    "title": "Ruthless Efficiency",
+                    "description": "<i class=\"noprint\">Arbitrators have long experience in claustrophobic confrontations and synchronise their tactics to eliminate foes.\nWith chilling precision, they open fire on the guilty even in the press of combat.<br/><br/></i>\nEach time a friendly operative with this ability makes a shooting attack with a weapon that doesn't have the Blast special rule or the word \"Grenade\" in its name,\nenemy operatives within [PENT] of it can have other friendly operatives within Engagement Range and still be selected as a valid target (they must still be a valid target by all other means)."
+                  }
+                ],
+                "fireteammax": 0
+              }
+            ],
+            "fireteamcomp": "An ARBITES EXACTION SQUAD KillTeam is composed of:\n<ul>\n        <li>\n                1 ARBITES PROCTOR-EXACTANT operative equipped with one of the following options:\n                <ul>\n                        <li>Combat Shotgun and Repression Baton</li>\n                        <li>Dominator Maul and Assault Shiedl</li>\n                </ul>\n        </li>\n        <li>\n                10 EXACTION SQUAD operatives selected from the following list:\n                <ul>\n                        <li>ARBITES CASTIGATOR</li>\n                        <li>ARBITES CHIRURGANT</li>\n                        <li>\n                                ARBITES GUNNER equipped with one of the following options:\n                                <ul>\n                                        <li>Grenade Launcher (max one per KillTeam) and Repression Baton</li>\n                                        <li>Heavy Stubber (max one per KillTeam) and Repression Baton</li>\n                                        <li>Webber (max one per KillTeam) and Repression Baton</li>\n                                </ul>\n                        </li>\n                        <li>ARBITES LEASHMASTER</li>\n                        <li>ARBITES MALOCATOR</li>\n                        <li>ARBITES MARKSMAN</li>\n                        <li>ARBITES REVELATUM</li>\n                        <li>ARBITES SUBDUCTOR</li>\n                        <li>ARBITES VIGILANT</li>\n                        <li>ARBITES VOX-SIGNIFIER</li>\n                        <li>R-VR CYBER-MASTIFF</li>\n                </ul>\n        </li>\n</ul>\n\nYour KillTeam can only include up to two ARBITES GUNNER operatives.\nOther than ARBITES GUNNER, ARBITES SUBDUCTOR, and ARBITES VIGILANT operatives, your KillTeam can only include each operative above once."
+          }
+        ]
+      },
+      {
+        "factionid": "IMP",
         "killteamid": "FW",
         "killteamname": "Forge World (Outdated)",
         "description": "The Adeptus Mechanicus is the official Imperial name within the Adeptus Terra for the Cult Mechanicus or Cult of the Machine based on Mars which provides the Imperium with its scientists, engineers and technicians.\n<br/><br/>\nThe tech-adepts of the Mechanicus are the primary keepers of what is viewed as sacred wisdom, a privileged caste of Tech-priests who jealously guard the knowledge required to maintain and construct much of the Imperium's advanced technology. ",
@@ -58214,7 +60340,7 @@
             "killteamid": "HIER",
             "eqid": "RE-HS",
             "eqname": "Hunter Scarab",
-            "eqdescription": "<em>Rare Equipment</em><br/>\nThe operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\">\n<tr>\n\t<th>Name</th><th>A</th><th>BS</th><th>D</th>\n</tr>\n<tr>\n\t<td>Hunter Scarab</td><td>5</td><td>3+</td><td>1/1</td>\n</tr>\n<tr>\n\t<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n\t<td colspan=\"5\">\n\t\tIndirect, Limited, No Cover, MW1\n    </td>\n</tr>\n<table>",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nThe operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n<tr>\n\t<th>Name</th><th>A</th><th>BS</th><th>D</th>\n</tr>\n<tr>\n\t<td>Hunter Scarab</td><td>5</td><td>3+</td><td>1/1</td>\n</tr>\n<tr>\n\t<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n\t<td colspan=\"5\">\n\t\tIndirect, Limited, No Cover, MW1\n    </td>\n</tr>\n<table>",
             "eqpts": "3",
             "eqtype": "Weapon",
             "eqvar1": "",
@@ -66627,7 +68753,7 @@
             "killteamid": "FSKB",
             "eqid": "RE-KB",
             "eqname": "Kinblade",
-            "eqdescription": "<em>Rare Equipment</em><br/>KROOT KILL-BROKER operative only. Insteaad of its Blade, the operative is equipped with the following melee weapon for the battle:\r <table class=\"eqtable\">\r <tr>\r <th>Name</th><th>A</th><th>WS</th><th>D</th>\r </tr>\r <tr>\r <td>Kinblade</td><td>3</td><td>2+</td><td>4/5</td>\r </tr>\r <tr>\r <th colspan=\"4\">Special Rules</th>\r </tr>\r <tr>\r <td colspan=\"4\">Balanced, Rending</td>\r </tr>\r </table>",
+            "eqdescription": "<em>Rare Equipment</em><br/>KROOT KILL-BROKER operative only. Insteaad of its Blade, the operative is equipped with the following melee weapon for the battle:\r <table class=\"eqtable\" width=\"100%\">\r <tr>\r <th>Name</th><th>A</th><th>WS</th><th>D</th>\r </tr>\r <tr>\r <td>Kinblade</td><td>3</td><td>2+</td><td>4/5</td>\r </tr>\r <tr>\r <th colspan=\"4\">Special Rules</th>\r </tr>\r <tr>\r <td colspan=\"4\">Balanced, Rending</td>\r </tr>\r </table>",
             "eqpts": "3",
             "eqtype": "Weapon",
             "eqvar1": "",
