@@ -5911,6 +5911,1915 @@
       },
       {
         "factionid": "AEL",
+        "killteamid": "HOTA",
+        "killteamname": "Hand Of The Archon",
+        "description": "The warriors of the Drukhari Kabals lie at the heart of every Drukhari strike force, pirate fleet and slave raider assault. They are the cruelest members of their caste, hungry for power over their fellows and thirsty to taste the suffering of others.<br/><br/>Each warrior will have forged a fearsome reputation for himself in the war-torn halls of High Commorragh, and has proven himself in multiple battles to be a merciless combatant. The more vicious and ruthless a warrior is, the better his chances for advancement within the Kabal. ",
+        "ploys": {
+          "strat": [
+            {
+              "factionid": "AEL",
+              "killteamid": "HOTA",
+              "ployid": "BA",
+              "ployname": "Blade Artists",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, melee weapons friendly HAND OF THE ARCHON operatives are equipped with gain the Rending Critical hit rule."
+            },
+            {
+              "factionid": "AEL",
+              "killteamid": "HOTA",
+              "ployid": "DON",
+              "ployname": "Denizens Of Night",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, while a friendly HAND OF THE ARCHON operative has a Conceal order, is within [SQUARE] of your drop zone, and is more than [PENT] from the active operative,\nit is always treated as having a Conceal order, regardless of any other rules (e.g. Vantage Point)."
+            },
+            {
+              "factionid": "AEL",
+              "killteamid": "HOTA",
+              "ployid": "FDD",
+              "ployname": "From Darkness, Death",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a friendly HAND OF THE ARCHON operative is activated,\nyou can select one enemy operative that friendly operative is not in Line Of Sight of.\nUntil the end of the activation, the first time that friendly operative fights in combat or makes a shooting attack against that enemy operative,\nin the Roll Attack Dice step of that combat or shooting attack, you can retain one successful normal hit as a critical hit instead."
+            },
+            {
+              "factionid": "AEL",
+              "killteamid": "HOTA",
+              "ployid": "FOF",
+              "ployname": "Fleet Of Foot",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Until the end of the Turning Point, each time a friendly HAND OF THE ARCHON operative performs a Fall Back action, it can immediately perform a free Dash action after that action, or vice versa."
+            }
+          ],
+          "tac": [
+            {
+              "factionid": "AEL",
+              "killteamid": "HOTA",
+              "ployid": "CD",
+              "ployname": "Cruel Deception",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy when a friendly HAND OF THE ARCHON operative is activated.\nUntil the end of its activation, that operative can perform the Fall Back action for one less Action Point (to a minimum of 0 AP)."
+            },
+            {
+              "factionid": "AEL",
+              "killteamid": "HOTA",
+              "ployid": "DS",
+              "ployname": "Devious Scheme",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy after an opponent uses a Tactical Ploy or Strategic Ploy.\nThe next time they would use that ploy, they must spend 1 additional Command Point to do so (at which point this effect ends).\nYou cannot use this Tactical Ploy again during the battle until its effect has ended."
+            },
+            {
+              "factionid": "AEL",
+              "killteamid": "HOTA",
+              "ployid": "HA",
+              "ployname": "Heinous Arrogance",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy when it is your turn to activate a ready operative. You can skip on that activation."
+            },
+            {
+              "factionid": "AEL",
+              "killteamid": "HOTA",
+              "ployid": "POTW",
+              "ployname": "Prey On The Wounded",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Tactical Ploy after rolling Attack dice for a combat of shooting attack made by a friendly HAND OF THE ARCHON operative.\nIf the target of that attack has half or fewer of its wounds remaining, in the Roll Attack Dice step of that combat or shooting attack, you can re-roll any or all of your Attack dice."
+            }
+          ]
+        },
+        "equipments": [
+          {
+            "factionid": "AEL",
+            "killteamid": "HOTA",
+            "eqid": "CS",
+            "eqname": "Chain Snare",
+            "eqdescription": "The operative gains the following ability for the battle:<br/>\n<strong>Chain Snare:</strong>\nWhile only one enemy operative is within Engagement Range of this operative, that enemy operative is snared.\nEach time a snared enemy operative would perform a Fall Back action, roll 1D6, subtracting 1 if that enemy operative has a higher Wounds characteristic tham this operative, and adding 1 if that enemy operative is injured.\nOn a 4+, that enemy operative cannot perform that action, but no Action Points are subtracted.",
+            "eqpts": "1",
+            "eqtype": "Ability",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "eqcategory": "Equipment",
+            "eqseq": 0
+          },
+          {
+            "factionid": "AEL",
+            "killteamid": "HOTA",
+            "eqid": "WB",
+            "eqname": "Wicked Blade",
+            "eqdescription": "Operative is equipped with Array of Blades only. Add 1 to that weapon's Attacks characteristic for the battle.",
+            "eqpts": "1",
+            "eqtype": "WepMod",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "eqcategory": "Equipment",
+            "eqseq": 1
+          },
+          {
+            "factionid": "AEL",
+            "killteamid": "HOTA",
+            "eqid": "TC",
+            "eqname": "Toxic Coating",
+            "eqdescription": "Select one melee weapon the operative is equipped with. That weapon gains the Lethal 5+ special rule for the battle.\nIf you selected Array Of Blades, this equipment costs 1 EP. Otherwise, it costs 2 EP.",
+            "eqpts": "1/2",
+            "eqtype": "WepMod",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "eqcategory": "Equipment",
+            "eqseq": 2
+          },
+          {
+            "factionid": "AEL",
+            "killteamid": "HOTA",
+            "eqid": "RP",
+            "eqname": "Refined Poison",
+            "eqdescription": "Select one Shardcarbine, Splinter Cannon, Splinter Pistol, or Splinter Rifle the operative is equipped with.\nAdd 1 to the Normal Damage characteristic of that weapon for the battle.\nIf you selected a Splinter Pistol or Splinter Rifle, this equipment costs 2 EP. Otherwise, if costs 3 EP.",
+            "eqpts": "2/3",
+            "eqtype": "WepMod",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "eqcategory": "Equipment",
+            "eqseq": 3
+          },
+          {
+            "factionid": "AEL",
+            "killteamid": "HOTA",
+            "eqid": "PG",
+            "eqname": "Plasma Grenade",
+            "eqdescription": "The operative is equipped with the following ranged weapon for the battle:\n<table class=\"eqtable\" width=\"100%\">\n<tr>\n<th>Name</th><th>A</th><th>BS</th><th>D</th>\n</tr>\n<tr>\n<td>Plasma Grenade</td><td>4</td><td>3+</td><td>3/4</td>\n</tr>\n<tr><th colspan=\"4\">Special Rules</th></tr>\n<tr><td colspan=\"4\">Rng [PENT], Blast [CIRCLE], Indirect, Limited</td></tr>\n</table>",
+            "eqpts": "3",
+            "eqtype": "Weapon",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "eqcategory": "Equipment",
+            "eqseq": 4,
+            "weapon": {
+              "factionid": "AEL",
+              "killteamid": "HOTA",
+              "fireteamid": "EQ",
+              "opid": "EQ",
+              "wepid": "PG",
+              "wepseq": 0,
+              "wepname": "Plasma Grenade",
+              "weptype": "R",
+              "isdefault": 0,
+              "profiles": [
+                {
+                  "factionid": "AEL",
+                  "killteamid": "HOTA",
+                  "fireteamid": "EQ",
+                  "opid": "EQ",
+                  "wepid": "PG",
+                  "profileid": "0",
+                  "name": "",
+                  "A": "4",
+                  "BS": "3+",
+                  "D": "3/4",
+                  "SR": "Rng [PENT], Blast [CIRCLE], Indirect, Lim"
+                }
+              ]
+            }
+          },
+          {
+            "factionid": "AEL",
+            "killteamid": "HOTA",
+            "eqid": "PGL",
+            "eqname": "Phantasm Grenade Launcher*",
+            "eqdescription": "The operative can perform the following action during the battle:<br/>\n<strong>Phantasm Grenade (1 AP):</strong>\nSelect one point on the killzone within [PENT] of this operative.\nRoll 1D6 for each operative within [SQUARE] of that point, subtracting 1 from the result if that operative is not Visible To this operative.\nOn a 4+, subtract 1 from that operative's APL. This operative can only perform this action once, and cannot perform this action while within Engagement Range of an enemy operative.",
+            "eqpts": "3",
+            "eqtype": "Action",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "eqcategory": "Equipment",
+            "eqseq": 5
+          },
+          {
+            "factionid": "AEL",
+            "killteamid": "HOTA",
+            "eqid": "KB",
+            "eqname": "Kabalite Banner*",
+            "eqdescription": "The operative gains the following ability for the battle:<br/>\n<strong>Kabalite Banner:</strong>\nWhile a friendly HAND OF THE ARCHON operative is Visible To and within [SQUARE] of this operative,\nwhen determining control of an objective marker, treat that friendly operative's APL characteristic as being 1 higher.\nNote that this is not a modifier.",
+            "eqpts": "2",
+            "eqtype": "Ability",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "eqcategory": "Equipment",
+            "eqseq": 6
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-COM-INEX",
+            "eqname": "(Combat) Inexorable",
+            "eqdescription": "<em>Combat Specialist Battle Honour<br/></em>\nEach time this operative fights in combat, the enemy operative in that combat cannot be supported.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 301
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-COM-BW",
+            "eqname": "(Combat) Bladework",
+            "eqdescription": "<em>Combat Specialist Battle Honour<br/></em>\nEach time this operative fights in combat, in the Roll Attack Dice step of that combat, you can re-roll one of your attack dice.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 302
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-COM-DF",
+            "eqname": "(Combat) Dirty Fighter",
+            "eqdescription": "<em>Combat Specialist Battle Honour<br/></em>\nEach time this operative fights in combat, if any friendly operatives are supporting them, add 1 to the Attacks characteristic of their melee weapons for that combat.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 303
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-COM-VIC",
+            "eqname": "(Combat) Vicious",
+            "eqdescription": "<em>Combat Specialist Battle Honour<br/></em>\nAdd 1 to the Critical Damage characteristic of this operative’s melee weapons.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 304
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-COM-DUE",
+            "eqname": "(Combat) Duellist",
+            "eqdescription": "<em>Combat Specialist Battle Honour<br/></em>\nEach time this operative fights in combat, subtract 1 from the Weapon Skill characteristic of the enemy operative for that combat.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 305
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-COM-SAV",
+            "eqname": "(Combat) Savage",
+            "eqdescription": "<em>Combat Specialist Battle Honour<br/></em>\nEach time this operative fights in combat, in the Roll Attack Dice step of that combat, if you retain any critical hits, you can inflict one Mortal Wound on the enemy operative in that combat.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 306
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-STA-RES",
+            "eqname": "(Staunch) Resilient",
+            "eqdescription": "<em>Staunch Specialist Battle Honour<br/></em>\nAdd 2 to this operative’s Wounds characteristic.",
+            "eqpts": "0",
+            "eqtype": "OpMod",
+            "eqvar1": "W",
+            "eqvar2": "+2",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 311
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-STA-SO",
+            "eqname": "(Staunch) Shrug Off",
+            "eqdescription": "<em>Staunch Specialist Battle Honour<br/></em>\nEach time this operative is the target of a shooting attack, in the Roll Attack Dice step of that shooting attack, you can change one of your opponent's retained critical hits to a normal hit.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 312
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-STA-FOC",
+            "eqname": "(Staunch) Focused",
+            "eqdescription": "<em>Staunch Specialist Battle Honour<br/></em>\nWhen determining control of an objective marker, treat this operative’s APL characteristic as being 1 higher. Note that this is not a modifier.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 313
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-STA-STA",
+            "eqname": "(Staunch) Stalwart",
+            "eqdescription": "<em>Staunch Specialist Battle Honour<br/></em>\nThis operative is never injured.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 314
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-STA-INV",
+            "eqname": "(Staunch) Invulnerable",
+            "eqdescription": "<em>Staunch Specialist Battle Honour<br/></em>\nEach time this operative is the target of a shooting attack, in the roll defence dice step of that shooting attack, ignore the AP1 special rule.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 315
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-STA-IND",
+            "eqname": "(Staunch) Indomitable",
+            "eqdescription": "<em>Staunch Specialist Battle Honour<br/></em>\nEach time this operative would lose a wound as a result of a mortal wound or critical damage, roll one D6: on a 5+, that wound is not lost.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 316
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-MRK-GA",
+            "eqname": "(Marksman) Gun Ace",
+            "eqdescription": "<em>Marksman Specialist Battle Honour<br/></em>\nEach time this operative makes a shooting attack, in the Roll Attack Dice step of that shooting attack, you can re-roll one of your attack dice.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 321
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-MRK-CS",
+            "eqname": "(Marksman) Crack Shot",
+            "eqdescription": "<em>Marksman Specialist Battle Honour<br/></em>\nEach time this operative makes a shooting attack, if you roll any critical hits, inflict one mortal wound on the target.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 322
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-MRK-CALC",
+            "eqname": "(Marksman) Calculated",
+            "eqdescription": "<em>Marksman Specialist Battle Honour<br/></em>\nEach time this operative performs an Overwatch action, for that action’s shooting attack, do not worsen the Ballistic Skill characteristic of its ranged weapons as a result of performing an Overwatch action.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 323
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-MRK-CA",
+            "eqname": "(Marksman) Careful Aim",
+            "eqdescription": "<em>Marksman Specialist Battle Honour<br/></em>\nEach time this operative makes a shooting attack, when determining if the intended target is in Cover, Cover lines ignore the bases of all other operatives.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 324
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-MRK-SS",
+            "eqname": "(Marksman) Sharpshooter",
+            "eqdescription": "<em>Marksman Specialist Battle Honour<br/></em>\nEach time this operative makes a shooting attack, when determining if the intended target is in Cover, Cover lines ignore the bases of all other operatives.Each time this operative performs a Shoot action, when you would retain attack dice for that action’s shooting attack, if it has not performed a Normal Move, Fall Back or Charge action during that activation, you can select one of your results of 5+ to be retained as a critical hit.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 325
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-MRK-DFA",
+            "eqname": "(Marksman) Death From Above",
+            "eqdescription": "<em>Marksman Specialist Battle Honour<br/></em>\nOnce per Turning Point, after this operative makes a shooting attack while on a Vantage Point, if the target did not lose any wounds as a result of that shooting attack, repeat that shooting attack.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 326
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-SCT-RUN",
+            "eqname": "(Scout) Runner",
+            "eqdescription": "<em>Scout Specialist Battle Honour<br/></em>\nEach time this operative is activated, so long as it does not perform a Shoot or Fight action during that activation, it can perform one free Dash action.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 331
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-SCT-SW",
+            "eqname": "(Scout) Swift",
+            "eqdescription": "<em>Scout Specialist Battle Honour<br/></em>\nThis operative can perform a Dash action more than once during its Activation. In addition, it automatically passes Jump tests and does not need to spend [CIRCLE] to traverse.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 332
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-SCT-COV",
+            "eqname": "(Scout) Covert",
+            "eqdescription": "<em>Scout Specialist Battle Honour<br/></em>\nWhen this operative is activated during the first Turning Point, you can change its order.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 333
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-SCT-PIC",
+            "eqname": "(Scout) Picket",
+            "eqdescription": "<em>Scout Specialist Battle Honour<br/></em>\r During the Set Up Operatives step of the mission sequence, this operative can be set up within [SQUARE] of your drop zone.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 334
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-SCT-EV",
+            "eqname": "(Scout) Evasive",
+            "eqdescription": "<em>Scout Specialist Battle Honour<br/></em>\nEach time this operative is the target of a shooting attack, in the Roll Defence Dice step of that shooting attack, if it has a Conceal order, you can re-roll one of your defence dice.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 335
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "BH-SCT-DOD",
+            "eqname": "(Scout) Dodge",
+            "eqdescription": "<em>Scout Specialist Battle Honour<br/></em>\nEach time this operative performs a Normal Move or Dash action, it can move within Engagement Range of enemy operatives, but cannot finish that move within Engagement Range of them. Each time this operative performs a Charge action, so long as it finishes that move within Engagement Range of an enemy operative, it can move within Engagement Range of any enemy operatives during that move.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 336
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-CA",
+            "eqname": "Auto-Loader",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nThis ranged weapon gains the Ceaseless special rule.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 501
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-FC",
+            "eqname": "Flux Capacitor",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nThis ranged weapon gains the P1 critical hit rule.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 502
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-RR",
+            "eqname": "Rending Rounds",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nThis ranged weapon gains the Rending special rule.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 503
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-PA",
+            "eqname": "Propulsion Amplifier",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nAdd 1 to both Damage characteristics of this ranged weapon.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 504
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-TS",
+            "eqname": "Thermal Sight",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nThis ranged weapon gains the No Cover special rule.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 505
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-SS",
+            "eqname": "Seeker Spirit",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nEach time a friendly operative makes a shooting attack with this ranged weapon, in the Roll Attack Dice step of that shooting attack, for each critical hit you retain, you can re-roll one of your attack dice.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 506
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-PE",
+            "eqname": "Power Enhancer",
+            "eqdescription": "<em>Rare Equipment</em><br/>\r Add 1 to both Damage characteristics of this melee weapon.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 507
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-ID",
+            "eqname": "Inertia Displacer",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nThis melee weapon gains the Brutal special rule.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 508
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-PW",
+            "eqname": "Perfectly Weighted",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nThis melee weapon gains the Balanced special rule.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 509
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-RB",
+            "eqname": "Rending Blade",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nThis melee weapon gains the Rending special rule.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 510
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-MME",
+            "eqname": "Monomolecular Edge",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nThis melee weapon gains the Lethal 5+ special rule.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 511
+          },
+          {
+            "factionid": "ALL",
+            "killteamid": "ALL",
+            "eqid": "RE-AU",
+            "eqname": "Arc Unit",
+            "eqdescription": "<em>Rare Equipment</em><br/>\nThis melee weapon gains the Stun critical hit rule.",
+            "eqpts": "2",
+            "eqtype": "WepMod",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 512
+          }
+        ],
+        "killteamcomp": "A HAND OF THE ARCHON KillTeam is composed of:\n<ul>\n        <li>\n                1 KABALITE ARCHSYBARITE operative equipped with one of the following options:\n                <ul>\n                        <li>Blast Pistol and Venom Blade</li>\n                        <li>Splinter Pistol and Venom Blade</li>\n                        <li>Splinter Pistol and Agoniser</li>\n                        <li>Splinter Pistol and Power Weapon</li>\n                        <li>Splinter Rifle and Array of Blades</li>\n                </ul>\n        </li>\n        <li>\n                8 HAND OF THE ARCHON operatives selected from the following list:\n                <ul>\n                        <li>KABALITE AGENT</li>\n                        <li>KABALITE CRIMSON DUELLIST</li>\n                        <li>KABALITE DISCIPLE OF YAELINDRA</li>\n                        <li>KABALITE ELIXICANT</li>\n                        <li>KABALITE FLAYER</li>\n                        <li>\n                                KABALITE GUNNER equipped with Array of Blades and one of the following options:\n                                <ul>\n                                        <li>Blaster</li>\n                                        <li>Shredder</li>\n                                </ul>\n                        </li>\n                        <li>\n                                KABALITE HEAVY GUNNER equipped with Array of Blades and one of the following options:\n                                <ul>\n                                        <li>Dark Lance</li>\n                                        <li>Splinter Cannon</li>\n                                </ul>\n                        </li>\n                        <li>KABALITE SKYSPLINTER ASSASSIN</li>\n                </ul>\n        </li>\n</ul>\nOther than KABALITE AGENT operatives, your KillTeam can only include each operative above once.<br/>\nYour KillTeam can only include up to two Darklight Weapons (Blast Pistol, Blaster, and Dark Lance).",
+        "fireteams": [
+          {
+            "factionid": "AEL",
+            "killteamid": "HOTA",
+            "fireteamid": "HOTA",
+            "fireteamname": "Hand Of The Archon",
+            "archetype": "",
+            "description": "Recon/Security/Search and Destroy",
+            "killteammax": 0,
+            "operatives": [
+              {
+                "factionid": "AEL",
+                "killteamid": "HOTA",
+                "fireteamid": "HOTA",
+                "opid": "KAS",
+                "opseq": 0,
+                "opname": "Kabalite Archsybarite",
+                "description": "Those who wield superiority among their Archon's elite have risen to power through ruthlessness and manipulative scheming. They are also dread combatants, for expert bladework and athletic strength are required to maintain authority.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "9",
+                "keywords": "HAND OF THE ARCHON, AELDARI, DRUKHARI, LEADER, KABALITE, ARCHSYBARITE",
+                "weapons": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KAS",
+                    "wepid": "BP",
+                    "wepseq": 0,
+                    "wepname": "Blast Pistol",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KAS",
+                        "wepid": "BP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "Rng [PENT], AP2"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KAS",
+                    "wepid": "SP",
+                    "wepseq": 0,
+                    "wepname": "Splinter Pistol",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KAS",
+                        "wepid": "SP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "2/4",
+                        "SR": "Rng [PENT], Lethal 5+"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KAS",
+                    "wepid": "SR",
+                    "wepseq": 0,
+                    "wepname": "Splinter Rifle",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KAS",
+                        "wepid": "SR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "2/4",
+                        "SR": "Lethal 5+"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KAS",
+                    "wepid": "AG",
+                    "wepseq": 0,
+                    "wepname": "Agoniser",
+                    "weptype": "M",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KAS",
+                        "wepid": "AG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "3/6",
+                        "SR": "Brutal, Lethal 5+, Reap 1"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KAS",
+                    "wepid": "AOB",
+                    "wepseq": 0,
+                    "wepname": "Array of Blades",
+                    "weptype": "M",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KAS",
+                        "wepid": "AOB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "2+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KAS",
+                    "wepid": "PW",
+                    "wepseq": 0,
+                    "wepname": "Power Weapon",
+                    "weptype": "M",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KAS",
+                        "wepid": "PW",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "4/6",
+                        "SR": "Lethal 5+"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KAS",
+                    "wepid": "VB",
+                    "wepseq": 0,
+                    "wepname": "Venom Blade",
+                    "weptype": "M",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KAS",
+                        "wepid": "VB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "4/4",
+                        "SR": "Lethal 4+"
+                      }
+                    ],
+                    "isselected": false
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KAS",
+                    "uniqueactionid": "TA",
+                    "title": "Take Aim",
+                    "description": "Until the end of this operative's activation, the Splinter Rifle this operative is equipped with (if any) gains the Balanced special rule.\n This operative cannot perform this action while within [SQUARE] of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KAS",
+                    "abilityid": "CUN",
+                    "title": "Cunning",
+                    "description": "In the Play Strategic Ploys steps of each Strategy phase, if you pass at the first opportunity, you gain 1 CP."
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KAS",
+                    "abilityid": "PFP",
+                    "title": "Power From Pain",
+                    "description": "<i class=\"noprint\">\nInflicting physical pain, sowing misery, and witnessing the terror in their victims' eyes first hand invigorates the withered sould of a Drukhari.\nThus renewed, they are made potent and vital, already hungering for more and filled with a dark energy.\n<br/><br/></i>\nEach time a friendly HAND OF THE ARCHON operative incapacitates an enemy operative with a Wounds characteristic of 5 or more, it gains a Pain token.\nIf that enemy operative has a Wounds characteristic of 11 or more, it gains two Pain tokens instead.<br/>\nYou can spend friendly operatives' Pain tokens on the Invigorations below when the 'When' condition is met.\nWith the exception of Stimulated Senses, each Invigoration can only be used once per activation.\n<ul>\n\t<li>\n\t\t<strong>Invigoration: Dark Animus</strong><br/>\n\t\t<strong>When:</strong> When the operative is activated<br/>\n\t\t<strong>Effect:</strong> Add 1 to the operative's APL\n\t</li>\n\t<li>\n\t\t<strong>Invigoration: Vitalised Surge</strong><br/>\n\t\t<strong>When:</strong> After incapacitating an enemy operative with the operative<br/>\n\t\t<strong>Effect:</strong> Perform a free Dash action, even if it has performed a Charge action during the activation\n\t</li>\n\t<li>\n\t\t<strong>Invigoration: Stimulated Senses</strong><br/>\n\t\t<strong>When:</strong> After rolling one of your Attack or Defence dice for a combat or shooting attack with the operative<br/>\n\t\t<strong>Effect:</strong> Re-roll that die\n\t</li>\n</ul>\n"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "AEL",
+                "killteamid": "HOTA",
+                "fireteamid": "HOTA",
+                "opid": "KAG",
+                "opseq": 1,
+                "opname": "Kabalite Agent",
+                "description": "Well equipped and with murderous talents honed by survival in Commorragh, Agents of Hand of the Archon kill teams are malevolent enforcers. Any prey they cannot painfully cut down with their Splinter Rifles, they slice apart with graceful sweeps of their numerous blades.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "HAND OF THE ARCHON, AELDARI, DRUKHARI, KABALITE, AGENT",
+                "weapons": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KAG",
+                    "wepid": "SR",
+                    "wepseq": 0,
+                    "wepname": "Splinter Rifle",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KAG",
+                        "wepid": "SR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2/4",
+                        "SR": "Lethal 5+"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KAG",
+                    "wepid": "AOB",
+                    "wepseq": 0,
+                    "wepname": "Array of Blades",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KAG",
+                        "wepid": "AOB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KAG",
+                    "uniqueactionid": "TA",
+                    "title": "Take Aim",
+                    "description": "Until the end of this operative's activation, the Splinter Rifle this operative is equipped with (if any) gains the Balanced special rule.\n This operative cannot perform this action while within [SQUARE] of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KAG",
+                    "abilityid": "PFP",
+                    "title": "Power From Pain",
+                    "description": "<i class=\"noprint\">\nInflicting physical pain, sowing misery, and witnessing the terror in their victims' eyes first hand invigorates the withered sould of a Drukhari.\nThus renewed, they are made potent and vital, already hungering for more and filled with a dark energy.\n<br/><br/></i>\nEach time a friendly HAND OF THE ARCHON operative incapacitates an enemy operative with a Wounds characteristic of 5 or more, it gains a Pain token.\nIf that enemy operative has a Wounds characteristic of 11 or more, it gains two Pain tokens instead.<br/>\nYou can spend friendly operatives' Pain tokens on the Invigorations below when the 'When' condition is met.\nWith the exception of Stimulated Senses, each Invigoration can only be used once per activation.\n<ul>\n\t<li>\n\t\t<strong>Invigoration: Dark Animus</strong><br/>\n\t\t<strong>When:</strong> When the operative is activated<br/>\n\t\t<strong>Effect:</strong> Add 1 to the operative's APL\n\t</li>\n\t<li>\n\t\t<strong>Invigoration: Vitalised Surge</strong><br/>\n\t\t<strong>When:</strong> After incapacitating an enemy operative with the operative<br/>\n\t\t<strong>Effect:</strong> Perform a free Dash action, even if it has performed a Charge action during the activation\n\t</li>\n\t<li>\n\t\t<strong>Invigoration: Stimulated Senses</strong><br/>\n\t\t<strong>When:</strong> After rolling one of your Attack or Defence dice for a combat or shooting attack with the operative<br/>\n\t\t<strong>Effect:</strong> Re-roll that die\n\t</li>\n</ul>\n"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "AEL",
+                "killteamid": "HOTA",
+                "fireteamid": "HOTA",
+                "opid": "KCD",
+                "opseq": 2,
+                "opname": "Kabalite Crimson Duellist",
+                "description": "Crimson Duellists are vicious murder-artists who work with a gory palette of their enemies' viscera. Masters of various weapons, many hunt with the ostentatious Razorflail, performing signature kills when their Archon requires a highly visible display of power.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "HAND OF THE ARCHON, AELDARI, DRUKHARI, KABALITE, CRIMSON DUELLIST",
+                "weapons": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KCD",
+                    "wepid": "SP",
+                    "wepseq": 0,
+                    "wepname": "Splinter Pistol",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KCD",
+                        "wepid": "SP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2/4",
+                        "SR": "Rng [PENT], Lethal 5+"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KCD",
+                    "wepid": "RF",
+                    "wepseq": 0,
+                    "wepname": "Razorflail",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KCD",
+                        "wepid": "RF",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "4/5",
+                        "SR": "Brutal, *Flail"
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KCD",
+                    "uniqueactionid": "CA",
+                    "title": "Crimson Assault",
+                    "description": "Perform a free Fight action with this operative.\nAfter completing that action's fight sequence, if this operative is still within Engagement Range of an enemy operative,\nyou can immediately fight in combat with this operative again (you do not have to select the same target).",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KCD",
+                    "abilityid": "BD",
+                    "title": "Brutal Display",
+                    "description": "Each time this operative incapacitates an enemy operative in combat, select one other enemy operative Visible To and within [PENT] of this operative or the incapacitated enemy operative.\nUntil the start of the next Turning Point, that other enemy operative cannot perform mission actions or the Pick Up action, or control objective markers."
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KCD",
+                    "abilityid": "FL",
+                    "title": "*Flail",
+                    "description": "Each time this operative fights in combat with this weapon, in the Resolve Successful Hits step of that combat,\neach time it parries, two of your opponent's successful hits are discarded (instead of one)."
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KCD",
+                    "abilityid": "PFP",
+                    "title": "Power From Pain",
+                    "description": "<i class=\"noprint\">\nInflicting physical pain, sowing misery, and witnessing the terror in their victims' eyes first hand invigorates the withered sould of a Drukhari.\nThus renewed, they are made potent and vital, already hungering for more and filled with a dark energy.\n<br/><br/></i>\nEach time a friendly HAND OF THE ARCHON operative incapacitates an enemy operative with a Wounds characteristic of 5 or more, it gains a Pain token.\nIf that enemy operative has a Wounds characteristic of 11 or more, it gains two Pain tokens instead.<br/>\nYou can spend friendly operatives' Pain tokens on the Invigorations below when the 'When' condition is met.\nWith the exception of Stimulated Senses, each Invigoration can only be used once per activation.\n<ul>\n\t<li>\n\t\t<strong>Invigoration: Dark Animus</strong><br/>\n\t\t<strong>When:</strong> When the operative is activated<br/>\n\t\t<strong>Effect:</strong> Add 1 to the operative's APL\n\t</li>\n\t<li>\n\t\t<strong>Invigoration: Vitalised Surge</strong><br/>\n\t\t<strong>When:</strong> After incapacitating an enemy operative with the operative<br/>\n\t\t<strong>Effect:</strong> Perform a free Dash action, even if it has performed a Charge action during the activation\n\t</li>\n\t<li>\n\t\t<strong>Invigoration: Stimulated Senses</strong><br/>\n\t\t<strong>When:</strong> After rolling one of your Attack or Defence dice for a combat or shooting attack with the operative<br/>\n\t\t<strong>Effect:</strong> Re-roll that die\n\t</li>\n</ul>\n"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "AEL",
+                "killteamid": "HOTA",
+                "fireteamid": "HOTA",
+                "opid": "KDOY",
+                "opseq": 3,
+                "opname": "Kabalite Disciple Of Yaelindra",
+                "description": "Yaelindra founded an infamous cult of prisoners, said to concoct the most potent toxins known to the Dark City. Her adepts weaponise deadly venoms, laving them into torment grenades or delivering them via hollow slivers fired by Stinger Pistols with horrific results.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "HAND OF THE ARCHON, AELDARI, DRUKHARI, KABALITE, DISCIPLE OF YAELINDRA",
+                "weapons": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KDOY",
+                    "wepid": "SP",
+                    "wepseq": 0,
+                    "wepname": "Splinter Pistol",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KDOY",
+                        "wepid": "SP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "*",
+                        "D": "0/0",
+                        "SR": "Rng [PENT], *Stinger"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KDOY",
+                    "wepid": "AOB",
+                    "wepseq": 0,
+                    "wepname": "Array of Blades",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KDOY",
+                        "wepid": "AOB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KDOY",
+                    "uniqueactionid": "TG",
+                    "title": "Torment Grenade",
+                    "description": "Select one point in the killzone within [PENT] of this operative.\nRoll 1D6 for each other operative within [CIRCLE] of that point. For each roll:\n<ul>\n<li>Add 1 to the result if that other operative has a Save characteristic of 4+ or worse</li>\n<li>Subtract 1 from the result if that other operative is not Visible To this operative</li>\n</ul>\nON a 3+, that other operative is poisoned until the end of the battle (operatives can only be poisoned once):\n<ul>\n<li>At the end of each Turning Point, poisoned operatives suffer 2 Mortal Wounds</li>\n<li>Poisoned operatives are treated as being injured, regardess of any rules that say they cannot be injured</li>\n</ul>",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KDOY",
+                    "abilityid": "PFP",
+                    "title": "Power From Pain",
+                    "description": "<i class=\"noprint\">\nInflicting physical pain, sowing misery, and witnessing the terror in their victims' eyes first hand invigorates the withered sould of a Drukhari.\nThus renewed, they are made potent and vital, already hungering for more and filled with a dark energy.\n<br/><br/></i>\nEach time a friendly HAND OF THE ARCHON operative incapacitates an enemy operative with a Wounds characteristic of 5 or more, it gains a Pain token.\nIf that enemy operative has a Wounds characteristic of 11 or more, it gains two Pain tokens instead.<br/>\nYou can spend friendly operatives' Pain tokens on the Invigorations below when the 'When' condition is met.\nWith the exception of Stimulated Senses, each Invigoration can only be used once per activation.\n<ul>\n\t<li>\n\t\t<strong>Invigoration: Dark Animus</strong><br/>\n\t\t<strong>When:</strong> When the operative is activated<br/>\n\t\t<strong>Effect:</strong> Add 1 to the operative's APL\n\t</li>\n\t<li>\n\t\t<strong>Invigoration: Vitalised Surge</strong><br/>\n\t\t<strong>When:</strong> After incapacitating an enemy operative with the operative<br/>\n\t\t<strong>Effect:</strong> Perform a free Dash action, even if it has performed a Charge action during the activation\n\t</li>\n\t<li>\n\t\t<strong>Invigoration: Stimulated Senses</strong><br/>\n\t\t<strong>When:</strong> After rolling one of your Attack or Defence dice for a combat or shooting attack with the operative<br/>\n\t\t<strong>Effect:</strong> Re-roll that die\n\t</li>\n</ul>\n"
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KDOY",
+                    "abilityid": "SP",
+                    "title": "*Stinger Pistol's BS",
+                    "description": "Each time this operative makes a shooting attack with this weapon, in the Roll Attack Dice step of that shooting attack:\n<ul>\n<li>Attack Dice results (excluding 1) that are less that the target's Save characteristic inflict 1 Mortal Wound on the target.</li>\n<li>Attack Dice results of 1 inflict 3 Mortal Wounds on the target instead.</li>\n<li>At the end of the Roll Attack Dice step, that shooting attack ends (no defence dice are rolled and not further damage is inflicted).</li>\n</ul>\nNote that it is the target's Save characteristic, not an invulnerable save."
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KDOY",
+                    "abilityid": "ST",
+                    "title": "*Stinger",
+                    "description": "Each time an enemy operative is incapacitated by this weapon, before it is removed from the killone,\neach operative Visible To and within [CIRCLE] of it suffers 1D3 Mortal Wounds.\nNote that each operative subsequently incapacitated as a result of this special rule will cause this to happen."
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "AEL",
+                "killteamid": "HOTA",
+                "fireteamid": "HOTA",
+                "opid": "KELX",
+                "opseq": 4,
+                "opname": "Kabalite Elixicant",
+                "description": "Elixicants are expert applicators of the various products of their Kabal's biochemical industries. Such stimulants, virulent narcotics, and arcane synthetic hormones invigorate their fellow Kabalites in varying ways. To the enemy, however, they offer only slow and painful death.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "HAND OF THE ARCHON, AELDARI, DRUKHARI, KABALITE, ELIXICANT",
+                "weapons": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KELX",
+                    "wepid": "SR",
+                    "wepseq": 0,
+                    "wepname": "Splinter Rifle",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KELX",
+                        "wepid": "SR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2/4",
+                        "SR": "Lethal 5+"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KELX",
+                    "wepid": "SN",
+                    "wepseq": 0,
+                    "wepname": "Stimm-Needler",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KELX",
+                        "wepid": "SN",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "0/0",
+                        "SR": "Rng [SQUARE], Lethal 3+, Stun"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KELX",
+                    "wepid": "AOB",
+                    "wepseq": 0,
+                    "wepname": "Array of Blades",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KELX",
+                        "wepid": "AOB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KELX",
+                    "uniqueactionid": "AD",
+                    "title": "Administer Drug",
+                    "description": "Select one friendy HAND OF THE ARCHON operative Visible To and within [SQUARE] of this operative. Then select one of the following:\n<ul>\n<li>That operative regains 1D3 + 1 lost wounds</li>\n<li>Select a different Combat Drugs ability (see Abilities) for that operative to gain until the end of the battle (this replaces its previous Combat Drugs ability)</li>\n</ul>",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KELX",
+                    "abilityid": "CD",
+                    "title": "Combat Drugs",
+                    "description": "If this operative is seleted for deployment, select one of the following abilities for friendly HAND OF THE ARCHON operatives to gain until the end of the battle:\n<ul>\n<li><strong>Painbringer:</strong> Each time this operative would lose a wound as a result of an Attack Die that inflicts damage, roll 1D6: on a 6, that wound is not lost</li>\n<li><strong>Hypex:</strong> Add [TRI] to this operative's Movement characteristic</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KELX",
+                    "abilityid": "PFP",
+                    "title": "Power From Pain",
+                    "description": "<i class=\"noprint\">\nInflicting physical pain, sowing misery, and witnessing the terror in their victims' eyes first hand invigorates the withered sould of a Drukhari.\nThus renewed, they are made potent and vital, already hungering for more and filled with a dark energy.\n<br/><br/></i>\nEach time a friendly HAND OF THE ARCHON operative incapacitates an enemy operative with a Wounds characteristic of 5 or more, it gains a Pain token.\nIf that enemy operative has a Wounds characteristic of 11 or more, it gains two Pain tokens instead.<br/>\nYou can spend friendly operatives' Pain tokens on the Invigorations below when the 'When' condition is met.\nWith the exception of Stimulated Senses, each Invigoration can only be used once per activation.\n<ul>\n\t<li>\n\t\t<strong>Invigoration: Dark Animus</strong><br/>\n\t\t<strong>When:</strong> When the operative is activated<br/>\n\t\t<strong>Effect:</strong> Add 1 to the operative's APL\n\t</li>\n\t<li>\n\t\t<strong>Invigoration: Vitalised Surge</strong><br/>\n\t\t<strong>When:</strong> After incapacitating an enemy operative with the operative<br/>\n\t\t<strong>Effect:</strong> Perform a free Dash action, even if it has performed a Charge action during the activation\n\t</li>\n\t<li>\n\t\t<strong>Invigoration: Stimulated Senses</strong><br/>\n\t\t<strong>When:</strong> After rolling one of your Attack or Defence dice for a combat or shooting attack with the operative<br/>\n\t\t<strong>Effect:</strong> Re-roll that die\n\t</li>\n</ul>\n"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "AEL",
+                "killteamid": "HOTA",
+                "fireteamid": "HOTA",
+                "opid": "KFLAY",
+                "opseq": 5,
+                "opname": "Kabalite Flayer",
+                "description": "Drukhari hunger for others' pain, and Flayers are gruesomely adept at generating it in their victims. Their murders are neither swift nor clean, and with every pleasing scream they elicit from their foes, they unleash waves of empowering agony.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "HAND OF THE ARCHON, AELDARI, DRUKHARI, KABALITE, FLAYER",
+                "weapons": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KFLAY",
+                    "wepid": "PS",
+                    "wepseq": 0,
+                    "wepname": "Pain Sculptors",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KFLAY",
+                        "wepid": "PS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/5",
+                        "SR": "Relentless, *Flay"
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KFLAY",
+                    "abilityid": "FL",
+                    "title": "*Flay",
+                    "description": "Each time this operative fights in combat with this weapon, in the Resolve Successful Hits step of that combat,\nthe first time it strikes with a Critical hit, you can select one friendly HAND OF THE ARCHON operative within [PENT] of this operative to gain 1 Pain token."
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KFLAY",
+                    "abilityid": "ITP",
+                    "title": "Insensible To Pain",
+                    "description": "Each time this operative fights in combat or a shooting attack if made against it, subtract 1 from both Damage characteristics of weapons the enemy opeative is equipped with for that combat or shooting attack (to a minimum of 1)."
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KFLAY",
+                    "abilityid": "PFP",
+                    "title": "Power From Pain",
+                    "description": "<i class=\"noprint\">\nInflicting physical pain, sowing misery, and witnessing the terror in their victims' eyes first hand invigorates the withered sould of a Drukhari.\nThus renewed, they are made potent and vital, already hungering for more and filled with a dark energy.\n<br/><br/></i>\nEach time a friendly HAND OF THE ARCHON operative incapacitates an enemy operative with a Wounds characteristic of 5 or more, it gains a Pain token.\nIf that enemy operative has a Wounds characteristic of 11 or more, it gains two Pain tokens instead.<br/>\nYou can spend friendly operatives' Pain tokens on the Invigorations below when the 'When' condition is met.\nWith the exception of Stimulated Senses, each Invigoration can only be used once per activation.\n<ul>\n\t<li>\n\t\t<strong>Invigoration: Dark Animus</strong><br/>\n\t\t<strong>When:</strong> When the operative is activated<br/>\n\t\t<strong>Effect:</strong> Add 1 to the operative's APL\n\t</li>\n\t<li>\n\t\t<strong>Invigoration: Vitalised Surge</strong><br/>\n\t\t<strong>When:</strong> After incapacitating an enemy operative with the operative<br/>\n\t\t<strong>Effect:</strong> Perform a free Dash action, even if it has performed a Charge action during the activation\n\t</li>\n\t<li>\n\t\t<strong>Invigoration: Stimulated Senses</strong><br/>\n\t\t<strong>When:</strong> After rolling one of your Attack or Defence dice for a combat or shooting attack with the operative<br/>\n\t\t<strong>Effect:</strong> Re-roll that die\n\t</li>\n</ul>\n"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "AEL",
+                "killteamid": "HOTA",
+                "fireteamid": "HOTA",
+                "opid": "KGNR",
+                "opseq": 6,
+                "opname": "Kabalite Gunner",
+                "description": "From the darklight caress of Blasters to the mesh of monofilament barbs unleashed by Shredders, specialist Gunners of the Kabals revel in unleashing torment on the move. Such warriors may earn these potent weapons through skill, or kill their way to the position.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "HAND OF THE ARCHON, AELDARI, DRUKHARI, KABALITE, GUNNER",
+                "weapons": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KGNR",
+                    "wepid": "BL",
+                    "wepseq": 0,
+                    "wepname": "Blaster",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KGNR",
+                        "wepid": "BL",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "5/6",
+                        "SR": "AP2"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KGNR",
+                    "wepid": "SHR",
+                    "wepseq": 0,
+                    "wepname": "Shredder",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KGNR",
+                        "wepid": "SHR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "Blast [CIRCLE], Rending"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KGNR",
+                    "wepid": "AOB",
+                    "wepseq": 0,
+                    "wepname": "Array of Blades",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KGNR",
+                        "wepid": "AOB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KGNR",
+                    "abilityid": "PFP",
+                    "title": "Power From Pain",
+                    "description": "<i class=\"noprint\">\nInflicting physical pain, sowing misery, and witnessing the terror in their victims' eyes first hand invigorates the withered sould of a Drukhari.\nThus renewed, they are made potent and vital, already hungering for more and filled with a dark energy.\n<br/><br/></i>\nEach time a friendly HAND OF THE ARCHON operative incapacitates an enemy operative with a Wounds characteristic of 5 or more, it gains a Pain token.\nIf that enemy operative has a Wounds characteristic of 11 or more, it gains two Pain tokens instead.<br/>\nYou can spend friendly operatives' Pain tokens on the Invigorations below when the 'When' condition is met.\nWith the exception of Stimulated Senses, each Invigoration can only be used once per activation.\n<ul>\n\t<li>\n\t\t<strong>Invigoration: Dark Animus</strong><br/>\n\t\t<strong>When:</strong> When the operative is activated<br/>\n\t\t<strong>Effect:</strong> Add 1 to the operative's APL\n\t</li>\n\t<li>\n\t\t<strong>Invigoration: Vitalised Surge</strong><br/>\n\t\t<strong>When:</strong> After incapacitating an enemy operative with the operative<br/>\n\t\t<strong>Effect:</strong> Perform a free Dash action, even if it has performed a Charge action during the activation\n\t</li>\n\t<li>\n\t\t<strong>Invigoration: Stimulated Senses</strong><br/>\n\t\t<strong>When:</strong> After rolling one of your Attack or Defence dice for a combat or shooting attack with the operative<br/>\n\t\t<strong>Effect:</strong> Re-roll that die\n\t</li>\n</ul>\n"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "AEL",
+                "killteamid": "HOTA",
+                "fireteamid": "HOTA",
+                "opid": "KHGNR",
+                "opseq": 7,
+                "opname": "Kabalite Heavy Gunner",
+                "description": "Drukhari weapons technology is far in advance of most races' capabilities, and Kabalite Heavy Gunners wield armaments of hellish power. Dark Lances fire midnight beams that can vaporise foes, while Splinter Cannons scythe through the enemy with poisoned shards.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "HAND OF THE ARCHON, AELDARI, DRUKHARI, KABALITE, HEAVY GUNNER",
+                "weapons": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KHGNR",
+                    "wepid": "DL",
+                    "wepseq": 0,
+                    "wepname": "Dark Lance",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KHGNR",
+                        "wepid": "DL",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "6/7",
+                        "SR": "AP2, Heavy, Unwieldy"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KHGNR",
+                    "wepid": "SC",
+                    "wepseq": 0,
+                    "wepname": "Splinter Cannon",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KHGNR",
+                        "wepid": "SC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "3+",
+                        "D": "3/5",
+                        "SR": "Fus, Heavy, Lethal 5+"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KHGNR",
+                    "wepid": "AOB",
+                    "wepseq": 0,
+                    "wepname": "Array of Blades",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KHGNR",
+                        "wepid": "AOB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KHGNR",
+                    "abilityid": "PFP",
+                    "title": "Power From Pain",
+                    "description": "<i class=\"noprint\">\nInflicting physical pain, sowing misery, and witnessing the terror in their victims' eyes first hand invigorates the withered sould of a Drukhari.\nThus renewed, they are made potent and vital, already hungering for more and filled with a dark energy.\n<br/><br/></i>\nEach time a friendly HAND OF THE ARCHON operative incapacitates an enemy operative with a Wounds characteristic of 5 or more, it gains a Pain token.\nIf that enemy operative has a Wounds characteristic of 11 or more, it gains two Pain tokens instead.<br/>\nYou can spend friendly operatives' Pain tokens on the Invigorations below when the 'When' condition is met.\nWith the exception of Stimulated Senses, each Invigoration can only be used once per activation.\n<ul>\n\t<li>\n\t\t<strong>Invigoration: Dark Animus</strong><br/>\n\t\t<strong>When:</strong> When the operative is activated<br/>\n\t\t<strong>Effect:</strong> Add 1 to the operative's APL\n\t</li>\n\t<li>\n\t\t<strong>Invigoration: Vitalised Surge</strong><br/>\n\t\t<strong>When:</strong> After incapacitating an enemy operative with the operative<br/>\n\t\t<strong>Effect:</strong> Perform a free Dash action, even if it has performed a Charge action during the activation\n\t</li>\n\t<li>\n\t\t<strong>Invigoration: Stimulated Senses</strong><br/>\n\t\t<strong>When:</strong> After rolling one of your Attack or Defence dice for a combat or shooting attack with the operative<br/>\n\t\t<strong>Effect:</strong> Re-roll that die\n\t</li>\n</ul>\n"
+                  }
+                ],
+                "fireteammax": 0
+              },
+              {
+                "factionid": "AEL",
+                "killteamid": "HOTA",
+                "fireteamid": "HOTA",
+                "opid": "KSA",
+                "opseq": 8,
+                "opname": "Kabalite Skysplinter Assassin",
+                "description": "Used to scouting ahead, these operatives stand apart from their comrades and are seen as harbouring secret agendas. Such paranoia is a tool they know how to use in their favour, and the ominous sight of their Razorwings haunt both foes and so-called 'allies' alike.",
+                "M": "3[CIRCLE]",
+                "APL": "2",
+                "GA": "1",
+                "DF": "3",
+                "SV": "4+",
+                "W": "8",
+                "keywords": "HAND OF THE ARCHON, AELDARI, DRUKHARI, KABALITE, SKYSPLINTER ASSASSIN",
+                "weapons": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KSA",
+                    "wepid": "RW",
+                    "wepseq": 0,
+                    "wepname": "Razorwing",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KSA",
+                        "wepid": "RW",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "4+",
+                        "D": "1/2",
+                        "SR": "Ind, No Cover, Silent"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KSA",
+                    "wepid": "SC",
+                    "wepseq": 0,
+                    "wepname": "Shardcarbine",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KSA",
+                        "wepid": "SC",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2/2",
+                        "SR": "Ceaseless, Lethal 5+, MW2"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KSA",
+                    "wepid": "AOB",
+                    "wepseq": 0,
+                    "wepname": "Array of Blades",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "HOTA",
+                        "fireteamid": "HOTA",
+                        "opid": "KSA",
+                        "wepid": "AOB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KSA",
+                    "uniqueactionid": "MARK",
+                    "title": "Mark",
+                    "description": "Select one enemy operative Visible To this operative that is not more than [CIRCLE] higher than them.\nUntil the end of the Turning Point, while that enemy operative is not in Cover from Heavy terrain, this operative treats it as having an Engage order.\nThis operative cannot perform this action while within Engagement Range of an enemy operative, or in an activation in which it makes a shooting attack with a Razorwing.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KSA",
+                    "abilityid": "HUNT",
+                    "title": "Hunter",
+                    "description": "So long as this operative does not perform a Mark action (see Unique Actions) during its activation, it can perform two Shoot actions during its activation if a Razorwing is selected for one (and only one) of those shooting attacks."
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KSA",
+                    "abilityid": "OMEN",
+                    "title": "Omen",
+                    "description": "In the Select Equipment step, you can select one enemy operative or one other friendly HAND OF THE ARCHON operative (reveal your selection when you reveal equipment).\nEach time Attack or Defence dice are rolled for that operative:\n<ul>\n<li>If it is an enemy operative, you opponent must r-roll dice results of 6</li>\n<li>If it is a friendly operative, you can re-roll dice results of 1</li>\n</ul>"
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "HOTA",
+                    "fireteamid": "HOTA",
+                    "opid": "KSA",
+                    "abilityid": "PFP",
+                    "title": "Power From Pain",
+                    "description": "<i class=\"noprint\">\nInflicting physical pain, sowing misery, and witnessing the terror in their victims' eyes first hand invigorates the withered sould of a Drukhari.\nThus renewed, they are made potent and vital, already hungering for more and filled with a dark energy.\n<br/><br/></i>\nEach time a friendly HAND OF THE ARCHON operative incapacitates an enemy operative with a Wounds characteristic of 5 or more, it gains a Pain token.\nIf that enemy operative has a Wounds characteristic of 11 or more, it gains two Pain tokens instead.<br/>\nYou can spend friendly operatives' Pain tokens on the Invigorations below when the 'When' condition is met.\nWith the exception of Stimulated Senses, each Invigoration can only be used once per activation.\n<ul>\n\t<li>\n\t\t<strong>Invigoration: Dark Animus</strong><br/>\n\t\t<strong>When:</strong> When the operative is activated<br/>\n\t\t<strong>Effect:</strong> Add 1 to the operative's APL\n\t</li>\n\t<li>\n\t\t<strong>Invigoration: Vitalised Surge</strong><br/>\n\t\t<strong>When:</strong> After incapacitating an enemy operative with the operative<br/>\n\t\t<strong>Effect:</strong> Perform a free Dash action, even if it has performed a Charge action during the activation\n\t</li>\n\t<li>\n\t\t<strong>Invigoration: Stimulated Senses</strong><br/>\n\t\t<strong>When:</strong> After rolling one of your Attack or Defence dice for a combat or shooting attack with the operative<br/>\n\t\t<strong>Effect:</strong> Re-roll that die\n\t</li>\n</ul>\n"
+                  }
+                ],
+                "fireteammax": 0
+              }
+            ],
+            "fireteamcomp": "A HAND OF THE ARCHON KillTeam is composed of:\n<ul>\n        <li>\n                1 KABALITE ARCHSYBARITE operative equipped with one of the following options:\n                <ul>\n                        <li>Blast Pistol and Venom Blade</li>\n                        <li>Splinter Pistol and Venom Blade</li>\n                        <li>Splinter Pistol and Agoniser</li>\n                        <li>Splinter Pistol and Power Weapon</li>\n                        <li>Splinter Rifle and Array of Blades</li>\n                </ul>\n        </li>\n        <li>\n                8 HAND OF THE ARCHON operatives selected from the following list:\n                <ul>\n                        <li>KABALITE AGENT</li>\n                        <li>KABALITE CRIMSON DUELLIST</li>\n                        <li>KABALITE DISCIPLE OF YAELINDRA</li>\n                        <li>KABALITE ELIXICANT</li>\n                        <li>KABALITE FLAYER</li>\n                        <li>\n                                KABALITE GUNNER equipped with Array of Blades and one of the following options:\n                                <ul>\n                                        <li>Blaster</li>\n                                        <li>Shredder</li>\n                                </ul>\n                        </li>\n                        <li>\n                                KABALITE HEAVY GUNNER equipped with Array of Blades and one of the following options:\n                                <ul>\n                                        <li>Dark Lance</li>\n                                        <li>Splinter Cannon</li>\n                                </ul>\n                        </li>\n                        <li>KABALITE SKYSPLINTER ASSASSIN</li>\n                </ul>\n        </li>\n</ul>\nOther than KABALITE AGENT operatives, your KillTeam can only include each operative above once.<br/>\nYour KillTeam can only include up to two Darklight Weapons (Blast Pistol, Blaster, and Dark Lance)."
+          }
+        ]
+      },
+      {
+        "factionid": "AEL",
         "killteamid": "TRP",
         "killteamname": "Troupe (Outdated)",
         "description": "A Harlequin, known in the Aeldari Lexicon as a Rillietann, is a member of a very distinct sub-group of the Aeldari species who belongs to none of the existing Aeldari factions, including the Craftworld Asuryani, the Exodites or the Drukhari. They are the keepers of the Black Library and serve the enigmatic Aeldari deity called the Laughing God.\n<br/><br/>\nThe Harlequins see no distinction between art and war, and their outlook can best be explained by reference to the legend of the Fall; one of their self-appointed duties is to keep this legend alive through their performances. The central figure of Harlequin belief is Cegorach, the Great Harlequin -- also known as the Laughing God. ",
@@ -28377,7 +30286,33 @@
             "eqvar3": null,
             "eqvar4": null,
             "eqcategory": "Equipment",
-            "eqseq": 0
+            "eqseq": 0,
+            "weapon": {
+              "factionid": "IMP",
+              "killteamid": "AES",
+              "fireteamid": "EQ",
+              "opid": "EQ",
+              "wepid": "SP",
+              "wepseq": 0,
+              "wepname": "Shotpistol",
+              "weptype": "R",
+              "isdefault": 0,
+              "profiles": [
+                {
+                  "factionid": "IMP",
+                  "killteamid": "AES",
+                  "fireteamid": "EQ",
+                  "opid": "EQ",
+                  "wepid": "SP",
+                  "profileid": "0",
+                  "name": "",
+                  "A": "4",
+                  "BS": "4+",
+                  "D": "3/3",
+                  "SR": "Rng [PENT]"
+                }
+              ]
+            }
           },
           {
             "factionid": "IMP",
@@ -28437,7 +30372,33 @@
             "eqvar3": null,
             "eqvar4": null,
             "eqcategory": "Equipment",
-            "eqseq": 4
+            "eqseq": 4,
+            "weapon": {
+              "factionid": "IMP",
+              "killteamid": "AES",
+              "fireteamid": "EQ",
+              "opid": "EQ",
+              "wepid": "FG",
+              "wepseq": 0,
+              "wepname": "Frag Grenade",
+              "weptype": "R",
+              "isdefault": 0,
+              "profiles": [
+                {
+                  "factionid": "IMP",
+                  "killteamid": "AES",
+                  "fireteamid": "EQ",
+                  "opid": "EQ",
+                  "wepid": "FG",
+                  "profileid": "0",
+                  "name": "",
+                  "A": "4",
+                  "BS": "3+",
+                  "D": "2/3",
+                  "SR": "Rng [PENT], Blast [CIRCLE], Indirect, Lim"
+                }
+              ]
+            }
           },
           {
             "factionid": "IMP",
@@ -28452,7 +30413,33 @@
             "eqvar3": null,
             "eqvar4": null,
             "eqcategory": "Equipment",
-            "eqseq": 5
+            "eqseq": 5,
+            "weapon": {
+              "factionid": "IMP",
+              "killteamid": "AES",
+              "fireteamid": "EQ",
+              "opid": "EQ",
+              "wepid": "KG",
+              "wepseq": 0,
+              "wepname": "Krak Grenade",
+              "weptype": "R",
+              "isdefault": 0,
+              "profiles": [
+                {
+                  "factionid": "IMP",
+                  "killteamid": "AES",
+                  "fireteamid": "EQ",
+                  "opid": "EQ",
+                  "wepid": "KG",
+                  "profileid": "0",
+                  "name": "",
+                  "A": "4",
+                  "BS": "3+",
+                  "D": "4/5",
+                  "SR": "Rng [PENT], AP1, Indirect, Lim"
+                }
+              ]
+            }
           },
           {
             "factionid": "IMP",
