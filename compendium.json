@@ -52774,7 +52774,7 @@
                         "name": "Melta",
                         "A": "4",
                         "BS": "2+",
-                        "D": "4/5",
+                        "D": "6/3",
                         "SR": "Combi-DWBG, Rng [PENT], AP2, Lim, MW4"
                       }
                     ],
@@ -53163,7 +53163,7 @@
                         "A": "4",
                         "BS": "2+",
                         "D": "5/6",
-                        "SR": "Rng [PENT], AP1, MW3"
+                        "SR": "Rng [PENT], AP1"
                       },
                       {
                         "factionid": "IMP",
@@ -53176,7 +53176,7 @@
                         "A": "4",
                         "BS": "2+",
                         "D": "5/6",
-                        "SR": "Rng [PENT], AP2, Hot, MW3"
+                        "SR": "Rng [PENT], AP2, Hot"
                       }
                     ],
                     "isselected": false
@@ -54261,7 +54261,7 @@
                         "name": "Melta",
                         "A": "4",
                         "BS": "3+",
-                        "D": "4/5",
+                        "D": "6/3",
                         "SR": "Combi-DWBG, Rng [PENT], AP2, Lim, MW4"
                       }
                     ],
@@ -65045,13 +65045,13 @@
   {
     "factionid": "ORK",
     "factionname": "Orks",
-    "description": "The Orks, also called greenskins, are a savage, warlike, green-skinned species of humanoids who possess physiological features of both animals and fungi who are spread all across the Milky Way Galaxy. They share many features with Warhammer Fantasy Orcs (and were initially called \"Space Orcs\" to distinguish them).\n <br/><br/>\n They are seen by their enemies (pretty much everyone else in the universe) as savage, violent, and crude, but they are the most successful species in the whole galaxy, outnumbering possibly every other intelligent starfaring species, even Humanity (with the very plausible exception of the Tyranids).",
+    "description": "The Orks, also called greenskins, are a savage, warlike, green-skinned species of humanoids who possess physiological features of both animals and fungi who are spread all across the Milky Way Galaxy.  <br/><br/>\r  They are seen by their enemies (pretty much everyone else in the universe) as savage, violent, and crude, but they are the most successful species in the whole galaxy, outnumbering possibly every other intelligent starfaring species, even Humanity (with the very plausible exception of the Tyranids).",
     "killteams": [
       {
         "factionid": "ORK",
         "killteamid": "GSK",
         "killteamname": "Greenskins",
-        "description": "The Orks, also called greenskins, are a savage, warlike, green-skinned species of humanoids who possess physiological features of both animals and fungi who are spread all across the Milky Way Galaxy. They share many features with Warhammer Fantasy Orcs (and were initially called \"Space Orcs\" to distinguish them).\n<br/><br/>\nThey are seen by their enemies (pretty much everyone else in the universe) as savage, violent, and crude, but they are the most successful species in the whole galaxy, outnumbering possibly every other intelligent starfaring species, even Humanity (with the very plausible exception of the Tyranids). ",
+        "description": "The Orks, also called greenskins, are a savage, warlike, green-skinned species of humanoids who possess physiological features of both animals and fungi who are spread all across the Milky Way Galaxy. \r <br/><br/>\r They are seen by their enemies (pretty much everyone else in the universe) as savage, violent, and crude, but they are the most successful species in the whole galaxy, outnumbering possibly every other intelligent starfaring species, even Humanity (with the very plausible exception of the Tyranids). ",
         "ploys": {
           "strat": [
             {
