@@ -3863,6 +3863,33 @@
                       }
                     ],
                     "isselected": true
+                  },
+                  {
+                    "factionid": "AEL",
+                    "killteamid": "COR",
+                    "fireteamid": "COR",
+                    "opid": "WS",
+                    "wepid": "LS",
+                    "wepseq": 0,
+                    "wepname": "Lightning Strike",
+                    "weptype": "P",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "AEL",
+                        "killteamid": "COR",
+                        "fireteamid": "COR",
+                        "opid": "WS",
+                        "wepid": "LS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "AP1, Psychic Power, No Overwatch"
+                      }
+                    ],
+                    "isselected": true
                   }
                 ],
                 "uniqueactions": [
@@ -18970,7 +18997,7 @@
             "killteamid": "LEG",
             "eqid": "TR",
             "eqname": "Tainted Rounds*",
-            "eqdescription": "Select one Boltgun, Bolt Pistol, or Tainted Bolt Pistol the operative is equipped with.\nAdd 1 to both Damange characteristics of that weapon.",
+            "eqdescription": "Select one Boltgun, Bolt Pistol, or Tainted Bolt Pistol the operative is equipped with.\r Add 1 to both Damage characteristics of that weapon.",
             "eqpts": "3",
             "eqtype": "WepMod",
             "eqvar1": null,
@@ -20006,6 +20033,46 @@
                         "BS": "3+",
                         "D": "3/4",
                         "SR": "Daemonic Energies"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "CHAOS",
+                    "killteamid": "LEG",
+                    "fireteamid": "LEG",
+                    "opid": "BA",
+                    "wepid": "MPP",
+                    "wepseq": 0,
+                    "wepname": "Psychic Power",
+                    "weptype": "P",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "BA",
+                        "wepid": "MPP",
+                        "profileid": "0",
+                        "name": "Fireblast",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": "No Cover, Blast [CIRCLE], Splash 1, No Overwatch"
+                      },
+                      {
+                        "factionid": "CHAOS",
+                        "killteamid": "LEG",
+                        "fireteamid": "LEG",
+                        "opid": "BA",
+                        "wepid": "MPP",
+                        "profileid": "1",
+                        "name": "Life Syphon",
+                        "A": "5",
+                        "BS": "3+",
+                        "D": "3/3",
+                        "SR": "Siphon Life Force, No Overwatch"
                       }
                     ],
                     "isselected": true
@@ -24838,6 +24905,129 @@
           {
             "factionid": "CHAOS",
             "killteamid": "WC",
+            "eqid": "[DISC]-DEST",
+            "eqname": "Destiny Discipline",
+            "eqdescription": "<strong>Weave Fate:</strong> Select one friendly WARPCOVEN operative Visible to this operative. Until the end of the Turning Point, each time a shooting attack is made against that operative, in the Roll Defence Dice step of that shooting attack, you can re-roll any or all of your defence dice.<br><br/>\n <strong>Twist Destiny:</strong> Select one enemy operative Visible to this operative. Until the end of the Turning Point:\n <ul>\n <li>Each time that enemy operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that shooting attack, your opponent cannot re-roll their attack dice.</li>\n <li>That enemy operative ignores all positive modifiers to its APL.</li>\n </ul><br/>\n <strong>Doombolt:</strong> Perform a free Shoot action using the following ranged weapon:\n <table class=\"eqtable\" width=\"100%\">\n <tr>\n \t<th>Name</th><th>A</th><th>BS</th><th>D</th>\n </tr>\n <tr>\n \t<td>Doombolt</td><td>4</td><td>3+</td><td>3/3</td>\n </tr>\n <tr colspan=\"4\">\n <th>Special Rules</th>\n </tr>\n <tr>\n <td>Lethal 5+, MW2</td>\n </tr>\n </table>",
+            "eqpts": "0",
+            "eqtype": "Weapon,Action",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "eqcategory": "Discipline",
+            "eqseq": 101,
+            "weapon": {
+              "factionid": "CHAOS",
+              "killteamid": "WC",
+              "fireteamid": "EQ",
+              "opid": "EQ",
+              "wepid": "[DISC]-DEST",
+              "wepseq": 0,
+              "wepname": "[DD] - Doombolt",
+              "weptype": "P",
+              "isdefault": 0,
+              "profiles": [
+                {
+                  "factionid": "CHAOS",
+                  "killteamid": "WC",
+                  "fireteamid": "EQ",
+                  "opid": "EQ",
+                  "wepid": "[DISC]-DEST",
+                  "profileid": "0",
+                  "name": "",
+                  "A": "4",
+                  "BS": "3+",
+                  "D": "3/3",
+                  "SR": "Destiny Discipline, Lethal 5+, MW2, No Overwatch"
+                }
+              ]
+            }
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "WC",
+            "eqid": "[DISC]-TEMP",
+            "eqname": "Tempyric Discipline",
+            "eqdescription": "<strong>Ephemeral Instability:</strong> Until the end of the Turning Point, subtract [CIRCLE] from the distance that enemy operatives can move when performing Charge and Dash actions.<br><br/>\n<strong>Temporal Manipulation:</strong> Select one friendly WARPCOVEN operative Visible to and within [PENT] of this operative. That operative regains 2D3 lost wounds.<br/><br/>\n<strong>Fluxblast:</strong> Perform a free Shoot action using the following ranged weapon:\n<table class=\"eqtable\" width=\"100%\">\n<tr>\n\t<th>Name</th><th>A</th><th>BS</th><th>D</th>\n</tr>\n<tr>\n\t<td>Fluxblast</td><td>4</td><td>3+</td><td>3/4</td>\n</tr>\n<tr colspan=\"4\">\n<th>Special Rules</th>\n</tr>\n<tr>\n<td>Blast [CIRCLE], Rending</td>\n</tr>\n</table>",
+            "eqpts": "0",
+            "eqtype": "Weapon,Action",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "eqcategory": "Discipline",
+            "eqseq": 102,
+            "weapon": {
+              "factionid": "CHAOS",
+              "killteamid": "WC",
+              "fireteamid": "EQ",
+              "opid": "EQ",
+              "wepid": "[DISC]-TEMP",
+              "wepseq": 0,
+              "wepname": "[TD] - Fluxblast",
+              "weptype": "P",
+              "isdefault": 0,
+              "profiles": [
+                {
+                  "factionid": "CHAOS",
+                  "killteamid": "WC",
+                  "fireteamid": "EQ",
+                  "opid": "EQ",
+                  "wepid": "[DISC]-TEMP",
+                  "profileid": "0",
+                  "name": "",
+                  "A": "4",
+                  "BS": "3+",
+                  "D": "3/4",
+                  "SR": "Tempyric Discipline, Blast [CIRCLE], Rending, No Overwatch"
+                }
+              ]
+            }
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "WC",
+            "eqid": "[DISC]-WARP",
+            "eqname": "Warpfire Discipline",
+            "eqdescription": "<strong>Warp Portal:</strong> Select one friendly WARPCOVEN operative Visible to and within [SQUARE] of this operative that has not performed an action in which it moved during this Turning Point. Remove it from the killzone and set it back up again within [PENT] of this operative and not within Engagement Range of an enemy operative. That friendly operative cannot perform actions in which it moves during this Turning Point.<br><br/>\n<strong>Infernal Fire:</strong> Select one enemy operative Visible to this operative. Until the end of the Turning Point, each time a friendly WARPCOVEN operative fights in combat or makes a shooting attack against that enemy operative, in the Roll Attack Dice step of that combat or shooting attack, you can re-roll any or all of your attack dice.<br/><br/>\n<strong>Firestorm:</strong> Perform a free Shoot action using the following ranged weapon:\n<table class=\"eqtable\" width=\"100%\">\n<tr>\n\t<th>Name</th><th>A</th><th>BS</th><th>D</th>\n</tr>\n<tr>\n\t<td>Firestorm</td><td>5</td><td>4+</td><td>2/2</td>\n</tr>\n<tr colspan=\"4\">\n<th>Special Rules</th>\n</tr>\n<tr>\n<td>Barrage, Blast [TRI], Indirect</td>\n</tr>\n</table>",
+            "eqpts": "0",
+            "eqtype": "Weapon,Action",
+            "eqvar1": null,
+            "eqvar2": null,
+            "eqvar3": null,
+            "eqvar4": null,
+            "eqcategory": "Discipline",
+            "eqseq": 103,
+            "weapon": {
+              "factionid": "CHAOS",
+              "killteamid": "WC",
+              "fireteamid": "EQ",
+              "opid": "EQ",
+              "wepid": "[DISC]-WARP",
+              "wepseq": 0,
+              "wepname": "[WD] - Firestorm",
+              "weptype": "P",
+              "isdefault": 0,
+              "profiles": [
+                {
+                  "factionid": "CHAOS",
+                  "killteamid": "WC",
+                  "fireteamid": "EQ",
+                  "opid": "EQ",
+                  "wepid": "[DISC]-WARP",
+                  "profileid": "0",
+                  "name": "",
+                  "A": "4",
+                  "BS": "3+",
+                  "D": "3/4",
+                  "SR": "Warpfire Discipline, Barrage, Blast [TRI], Indirect, No Overwatch"
+                }
+              ]
+            }
+          },
+          {
+            "factionid": "CHAOS",
+            "killteamid": "WC",
             "eqid": "[BOT]-FAT-POD",
             "eqname": "[BOT] - Fate - Patron Of Destiny",
             "eqdescription": "<em>Boon Of Tzeentch</em><br/><br/>\nOnce per Turning Point, when this operative is fighting in combat or making a shooting attack or a shooting attack is being made against it, you can use the Command Re-roll Tactical Ploy without spending any CPs. Each time you do so, roll one D6: on a 1-3, this operative loses this ability for the rest of the battle.",
@@ -24848,22 +25038,7 @@
             "eqvar3": null,
             "eqvar4": null,
             "eqcategory": "Boon Of Tzeentch",
-            "eqseq": 101
-          },
-          {
-            "factionid": "CHAOS",
-            "killteamid": "WC",
-            "eqid": "[DISC]-DEST",
-            "eqname": "Destiny Discipline",
-            "eqdescription": "<strong>Weave Fate:</strong> Select one friendly WARPCOVEN operative Visible to this operative. Until the end of the Turning Point, each time a shooting attack is made against that operative, in the Roll Defence Dice step of that shooting attack, you can re-roll any or all of your defence dice.<br><br/>\n <strong>Twist Destiny:</strong> Select one enemy operative Visible to this operative. Until the end of the Turning Point:\n <ul>\n <li>Each time that enemy operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that shooting attack, your opponent cannot re-roll their attack dice.</li>\n <li>That enemy operative ignores all positive modifiers to its APL.</li>\n </ul><br/>\n <strong>Doombolt:</strong> Perform a free Shoot action using the following ranged weapon:\n <table class=\"eqtable\" width=\"100%\">\n <tr>\n \t<th>Name</th><th>A</th><th>BS</th><th>D</th>\n </tr>\n <tr>\n \t<td>Doombolt</td><td>4</td><td>3+</td><td>3/3</td>\n </tr>\n <tr colspan=\"4\">\n <th>Special Rules</th>\n </tr>\n <tr>\n <td>Lethal 5+, MW2</td>\n </tr>\n </table>",
-            "eqpts": "0",
-            "eqtype": "Ability",
-            "eqvar1": null,
-            "eqvar2": null,
-            "eqvar3": null,
-            "eqvar4": null,
-            "eqcategory": "Discipline",
-            "eqseq": 101
+            "eqseq": 201
           },
           {
             "factionid": "CHAOS",
@@ -24878,22 +25053,7 @@
             "eqvar3": null,
             "eqvar4": null,
             "eqcategory": "Boon Of Tzeentch",
-            "eqseq": 102
-          },
-          {
-            "factionid": "CHAOS",
-            "killteamid": "WC",
-            "eqid": "[DISC]-TEMP",
-            "eqname": "Tempyric Discipline",
-            "eqdescription": "<strong>Ephemeral Instability:</strong> Until the end of the Turning Point, subtract [CIRCLE] from the distance that enemy operatives can move when performing Charge and Dash actions.<br><br/>\n<strong>Temporal Manipulation:</strong> Select one friendly WARPCOVEN operative Visible to and within [PENT] of this operative. That operative regains 2D3 lost wounds.<br/><br/>\n<strong>Fluxblast:</strong> Perform a free Shoot action using the following ranged weapon:\n<table class=\"eqtable\" width=\"100%\">\n<tr>\n\t<th>Name</th><th>A</th><th>BS</th><th>D</th>\n</tr>\n<tr>\n\t<td>Fluxblast</td><td>4</td><td>3+</td><td>3/4</td>\n</tr>\n<tr colspan=\"4\">\n<th>Special Rules</th>\n</tr>\n<tr>\n<td>Blast [CIRCLE], Rending</td>\n</tr>\n</table>",
-            "eqpts": "0",
-            "eqtype": "Ability",
-            "eqvar1": null,
-            "eqvar2": null,
-            "eqvar3": null,
-            "eqvar4": null,
-            "eqcategory": "Discipline",
-            "eqseq": 102
+            "eqseq": 202
           },
           {
             "factionid": "CHAOS",
@@ -24908,22 +25068,7 @@
             "eqvar3": null,
             "eqvar4": null,
             "eqcategory": "Boon Of Tzeentch",
-            "eqseq": 103
-          },
-          {
-            "factionid": "CHAOS",
-            "killteamid": "WC",
-            "eqid": "[DISC]-WARP",
-            "eqname": "Warpfire Discipline",
-            "eqdescription": "<strong>Warp Portal:</strong> Select one friendly WARPCOVEN operative Visible to and within [SQUARE] of this operative that has not performed an action in which it moved during this Turning Point. Remove it from the killzone and set it back up again within [PENT] of this operative and not within Engagement Range of an enemy operative. That friendly operative cannot perform actions in which it moves during this Turning Point.<br><br/>\n<strong>Infernal Fire:</strong> Select one enemy operative Visible to this operative. Until the end of the Turning Point, each time a friendly WARPCOVEN operative fights in combat or makes a shooting attack against that enemy operative, in the Roll Attack Dice step of that combat or shooting attack, you can re-roll any or all of your attack dice.<br/><br/>\n<strong>Firestorm:</strong> Perform a free Shoot action using the following ranged weapon:\n<table class=\"eqtable\" width=\"100%\">\n<tr>\n\t<th>Name</th><th>A</th><th>BS</th><th>D</th>\n</tr>\n<tr>\n\t<td>Firestorm</td><td>5</td><td>4+</td><td>2/2</td>\n</tr>\n<tr colspan=\"4\">\n<th>Special Rules</th>\n</tr>\n<tr>\n<td>Barrage, Blast [TRI], Indirect</td>\n</tr>\n</table>",
-            "eqpts": "0",
-            "eqtype": "Ability",
-            "eqvar1": null,
-            "eqvar2": null,
-            "eqvar3": null,
-            "eqvar4": null,
-            "eqcategory": "Discipline",
-            "eqseq": 103
+            "eqseq": 203
           },
           {
             "factionid": "CHAOS",
@@ -24938,7 +25083,7 @@
             "eqvar3": null,
             "eqvar4": null,
             "eqcategory": "Boon Of Tzeentch",
-            "eqseq": 104
+            "eqseq": 204
           },
           {
             "factionid": "CHAOS",
@@ -24953,7 +25098,7 @@
             "eqvar3": null,
             "eqvar4": null,
             "eqcategory": "Boon Of Tzeentch",
-            "eqseq": 105
+            "eqseq": 205
           },
           {
             "factionid": "CHAOS",
@@ -24968,7 +25113,7 @@
             "eqvar3": null,
             "eqvar4": null,
             "eqcategory": "Boon Of Tzeentch",
-            "eqseq": 106
+            "eqseq": 206
           },
           {
             "factionid": "CHAOS",
@@ -24983,7 +25128,7 @@
             "eqvar3": null,
             "eqvar4": null,
             "eqcategory": "Boon Of Tzeentch",
-            "eqseq": 107
+            "eqseq": 207
           },
           {
             "factionid": "CHAOS",
@@ -24998,7 +25143,7 @@
             "eqvar3": null,
             "eqvar4": null,
             "eqcategory": "Boon Of Tzeentch",
-            "eqseq": 108
+            "eqseq": 208
           },
           {
             "factionid": "CHAOS",
@@ -25013,7 +25158,7 @@
             "eqvar3": null,
             "eqvar4": null,
             "eqcategory": "Boon Of Tzeentch",
-            "eqseq": 109
+            "eqseq": 209
           },
           {
             "factionid": "ALL",
@@ -26025,9 +26170,9 @@
                     "killteamid": "WC",
                     "fireteamid": "WC",
                     "opid": "SOR",
-                    "uniqueactionid": "DD-DB",
-                    "title": "[DD] Doombolt",
-                    "description": "<em>Destiny Discipline</em><br/>Perform a free Shoot action using the following ranged weapon:\n<table class=\"eqtable\" width=\"100%\">\n\t<tbody><tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Doombolt</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>3/3</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n\t</tr>\n    <tr>\n\t\t<td colspan=\"4\">Lethal 5+, MW2</td>\n\t</tr>\n</tbody></table>",
+                    "uniqueactionid": "DD",
+                    "title": "Destiny Discipline",
+                    "description": "<strong>Weave Fate:</strong> Select one friendly WARPCOVEN operative Visible to this operative. Until the end of the Turning Point, each time a shooting attack is made against that operative, in the Roll Defence Dice step of that shooting attack, you can re-roll any or all of your defence dice.<br><br/>\n  <strong>Twist Destiny:</strong> Select one enemy operative Visible to this operative. Until the end of the Turning Point:\n  <ul>\n  <li>Each time that enemy operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that shooting attack, your opponent cannot re-roll their attack dice.</li>\n  <li>That enemy operative ignores all positive modifiers to its APL.</li>\n  </ul><br/>\n  <strong>Doombolt:</strong> Perform a free Shoot action using the following ranged weapon:\n  <table class=\"eqtable\" width=\"100%\">\n  <tr>\n  \t<th>Name</th><th>A</th><th>BS</th><th>D</th>\n  </tr>\n  <tr>\n  \t<td>Doombolt</td><td>4</td><td>3+</td><td>3/3</td>\n  </tr>\n  <tr colspan=\"4\">\n  <th>Special Rules</th>\n  </tr>\n  <tr>\n  <td>Lethal 5+, MW2</td>\n  </tr>\n  </table>",
                     "AP": 1
                   },
                   {
@@ -26035,9 +26180,9 @@
                     "killteamid": "WC",
                     "fireteamid": "WC",
                     "opid": "SOR",
-                    "uniqueactionid": "DD-TD",
-                    "title": "[DD] Twist Destiny",
-                    "description": "<em>Destiny Discipline</em><br/>Select one enemy operative Visible to this operative. Until the end of the Turning Point:\r <ul><li>Each time that enemy operative fights in combat or makes a shooting attack, in the Roll Attack Dice step of that shooting attack, your opponent cannot re-roll their attack dice.</li>\r <li>That enemy operative ignores all positive modifiers to its APL.</li></ul>",
+                    "uniqueactionid": "TD",
+                    "title": "Tempyric Discipline",
+                    "description": "<strong>Ephemeral Instability:</strong> Until the end of the Turning Point, subtract [CIRCLE] from the distance that enemy operatives can move when performing Charge and Dash actions.<br><br/>\n <strong>Temporal Manipulation:</strong> Select one friendly WARPCOVEN operative Visible to and within [PENT] of this operative. That operative regains 2D3 lost wounds.<br/><br/>\n <strong>Fluxblast:</strong> Perform a free Shoot action using the following ranged weapon:\n <table class=\"eqtable\" width=\"100%\">\n <tr>\n \t<th>Name</th><th>A</th><th>BS</th><th>D</th>\n </tr>\n <tr>\n \t<td>Fluxblast</td><td>4</td><td>3+</td><td>3/4</td>\n </tr>\n <tr colspan=\"4\">\n <th>Special Rules</th>\n </tr>\n <tr>\n <td>Blast [CIRCLE], Rending</td>\n </tr>\n </table>",
                     "AP": 1
                   },
                   {
@@ -26045,69 +26190,9 @@
                     "killteamid": "WC",
                     "fireteamid": "WC",
                     "opid": "SOR",
-                    "uniqueactionid": "DD-WF",
-                    "title": "[DD] Weave Fate",
-                    "description": "<em>Destiny Discipline</em><br/>Select one friendly WARPCOVEN operative Visible to this operative. Until the end of the Turning Point, each time a shooting attack is made against that operative, in the Roll Defence Dice step of that shooting attack, you can re-roll any or all of your defence dice.",
-                    "AP": 1
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "WC",
-                    "fireteamid": "WC",
-                    "opid": "SOR",
-                    "uniqueactionid": "TD-EI",
-                    "title": "[TD] Ephemeral Instability",
-                    "description": "<em>Tempyric Discipline</em><br/>Until the end of the Turning Point, subtract [CIRCLE] from the distance that enemy operatives can move when performing Charge and Dash actions.",
-                    "AP": 1
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "WC",
-                    "fireteamid": "WC",
-                    "opid": "SOR",
-                    "uniqueactionid": "TD-FB",
-                    "title": "[TD] Fluxblast",
-                    "description": "<em>Tempyric Discipline</em><br/>Perform a free Shoot action using the following ranged weapon:\n<table class=\"eqtable\" width=\"100%\">\n\t<tbody><tr>\n\t\t<th>Name</th>\n        <th>A</th>\n        <th>BS</th>\n        <th>D</th>\n    </tr>\n    <tr>\n\t\t<td>Fluxblast</td>\n        <td>4</td>\n        <td>3+</td>\n        <td>3/4</td>\n    </tr>\n    <tr>\n\t\t<th colspan=\"4\">Special Rules</th>\n\t</tr>\n    <tr>\n\t\t<td colspan=\"4\">Blast [CIRCLE], Rending</td>\n\t</tr>\n</tbody></table>",
-                    "AP": 1
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "WC",
-                    "fireteamid": "WC",
-                    "opid": "SOR",
-                    "uniqueactionid": "TD-TM",
-                    "title": "[TD] Temporal Manipulation",
-                    "description": "<em>Tempyric Discipline</em><br/>Select one friendly WARPCOVEN operative Visible to and within [PENT] of this operative. That operative regains 2D3 lost wounds.",
-                    "AP": 1
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "WC",
-                    "fireteamid": "WC",
-                    "opid": "SOR",
-                    "uniqueactionid": "WD-FB",
-                    "title": "[WD] Warp Portal",
-                    "description": "<em>Warpfire Discipline</em><br/>Select one friendly WARPCOVEN operative Visible to and within [SQUARE] of this operative that has not performed an action in which it moved during this Turning Point. Remove it from the killzone and set it back up again within [PENT] of this operative and not within Engagement Range of an enemy operative. That friendly operative cannot perform actions in which it moves during this Turning Point.",
-                    "AP": 1
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "WC",
-                    "fireteamid": "WC",
-                    "opid": "SOR",
-                    "uniqueactionid": "WD-FS",
-                    "title": "[WD] Firestorm",
-                    "description": "<em>Warpfire Discipline</em><br/>Perform a free Shoot action using the following ranged weapon:\n <table class=\"eqtable\" width=\"100%\">\n \t<tbody><tr>\n \t\t<th>Name</th>\n         <th>A</th>\n         <th>BS</th>\n         <th>D</th>\n     </tr>\n     <tr>\n \t\t<td>Firestorm</td>\n         <td>5</td>\n         <td>4+</td>\n         <td>2/2</td>\n     </tr>\n     <tr>\n \t\t<th colspan=\"4\">Special Rules</th>\n \t</tr>\n     <tr>\n \t\t<td colspan=\"4\">Barrage, Blast [TRI], Indirect</td>\n \t</tr>\n </tbody></table>",
-                    "AP": 1
-                  },
-                  {
-                    "factionid": "CHAOS",
-                    "killteamid": "WC",
-                    "fireteamid": "WC",
-                    "opid": "SOR",
-                    "uniqueactionid": "WD-IF",
-                    "title": "[WD] Infernal Fire",
-                    "description": "<em>Warpfire Discipline</em><br/>Select one enemy operative Visible to this operative. Until the end of the Turning Point, each time a friendly WARPCOVEN operative fights in combat or makes a shooting attack against that enemy operative, in the Roll Attack Dice step of that combat or shooting attack, you can re-roll any or all of your attack dice.",
+                    "uniqueactionid": "WD",
+                    "title": "Warpfire Discipline",
+                    "description": "<strong>Warp Portal:</strong> Select one friendly WARPCOVEN operative Visible to and within [SQUARE] of this operative that has not performed an action in which it moved during this Turning Point. Remove it from the killzone and set it back up again within [PENT] of this operative and not within Engagement Range of an enemy operative. That friendly operative cannot perform actions in which it moves during this Turning Point.<br><br/>\n <strong>Infernal Fire:</strong> Select one enemy operative Visible to this operative. Until the end of the Turning Point, each time a friendly WARPCOVEN operative fights in combat or makes a shooting attack against that enemy operative, in the Roll Attack Dice step of that combat or shooting attack, you can re-roll any or all of your attack dice.<br/><br/>\n <strong>Firestorm:</strong> Perform a free Shoot action using the following ranged weapon:\n <table class=\"eqtable\" width=\"100%\">\n <tr>\n \t<th>Name</th><th>A</th><th>BS</th><th>D</th>\n </tr>\n <tr>\n \t<td>Firestorm</td><td>5</td><td>4+</td><td>2/2</td>\n </tr>\n <tr colspan=\"4\">\n <th>Special Rules</th>\n </tr>\n <tr>\n <td>Barrage, Blast [TRI], Indirect</td>\n </tr>\n </table>",
                     "AP": 1
                   }
                 ],
@@ -66048,7 +66133,7 @@
                         "name": "",
                         "A": "4",
                         "BS": "3+",
-                        "D": "5/4",
+                        "D": "5/7",
                         "SR": "Rending"
                       }
                     ],
