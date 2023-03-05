@@ -1005,7 +1005,7 @@
                         "A": "4",
                         "BS": "3+",
                         "D": "6/7",
-                        "SR": "Hvy, Unwieldy, AP2"
+                        "SR": "Hvy, Unwieldy, AP2, No Overwatch"
                       }
                     ],
                     "isselected": false
@@ -2992,7 +2992,7 @@
                         "A": "5",
                         "BS": "3+",
                         "D": "4/5",
-                        "SR": "Fus, Hvy, Unwieldy, Rending"
+                        "SR": "Fus, Hvy, Unwieldy, Rending, No Overwatch"
                       }
                     ],
                     "isselected": false
@@ -3046,7 +3046,7 @@
                         "A": "4",
                         "BS": "3+",
                         "D": "6/3",
-                        "SR": "AP2, Hvy, Unwieldy, MW4"
+                        "SR": "AP2, Hvy, Unwieldy, MW4, No Overwatch"
                       }
                     ],
                     "isselected": false
@@ -7625,7 +7625,7 @@
                         "A": "4",
                         "BS": "3+",
                         "D": "6/7",
-                        "SR": "AP2, Heavy, Unwieldy"
+                        "SR": "AP2, Heavy, Unwieldy, No Overwatch"
                       }
                     ],
                     "isselected": false
@@ -33948,7 +33948,7 @@
                         "A": "4",
                         "BS": "2+",
                         "D": "5/4",
-                        "SR": "AP1, Hvy, Unwieldy, MW2"
+                        "SR": "AP1, Hvy, Unwieldy, MW2, No Overwatch"
                       }
                     ],
                     "isselected": false
@@ -34414,7 +34414,7 @@
                         "A": "4",
                         "BS": "2+",
                         "D": "5/4",
-                        "SR": "AP1, Hvy, Unwieldy, MW2"
+                        "SR": "AP1, Hvy, Unwieldy, MW2, No Overwatch"
                       }
                     ],
                     "isselected": false
@@ -37454,7 +37454,7 @@
                         "A": "4",
                         "BS": "2+",
                         "D": "5/3",
-                        "SR": "AP1, Hvy, Unwieldy, MW3"
+                        "SR": "AP1, Hvy, Unwieldy, MW3, No Overwatch"
                       }
                     ],
                     "isselected": false
@@ -38109,7 +38109,7 @@
                         "A": "4",
                         "BS": "2+",
                         "D": "5/3",
-                        "SR": "AP1, Hvy, Unwieldy, MW3"
+                        "SR": "AP1, Hvy, Unwieldy, MW3, No Overwatch"
                       }
                     ],
                     "isselected": false
@@ -47058,7 +47058,7 @@
               "ployname": "Defenders Of The Faith",
               "ploytype": "S",
               "CP": "2",
-              "description": "At the start of the Firefight phase, one friendly NOVITIATE operative that is within of the centre of each objective marker can do one of the following (they don't have to do the same):\r  <ul><li>Perform a free Shoot action if it has an Engage order.</li>\r  <li>Perform a free Fight action if it has an Engage order.</li></ul>"
+              "description": "At the start of the Firefight phase, one friendly NOVITIATE operative that is within [CIRCLE] of the centre of each objective marker can do one of the following (they don't have to do the same):\r  <ul><li>Perform a free Shoot action if it has an Engage order.</li>\r  <li>Perform a free Fight action if it has an Engage order.</li></ul>"
             },
             {
               "factionid": "IMP",
@@ -49418,6 +49418,96 @@
             }
           },
           {
+            "factionid": "IMP",
+            "killteamid": "PHO",
+            "eqid": "BH-GH",
+            "eqname": "Ghost",
+            "eqdescription": "<em>Battle Honour<br/></em>\nOnce per battle, this operative can perform the Guerila Warfare action for one less Action Point (to a minimum of 0 AP).",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 201
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "PHO",
+            "eqid": "BH-ASS",
+            "eqname": "Assassin",
+            "eqdescription": "<em>Battle Honour<br/></em>\nThis operative can perform the Charge action while it has a Conceal order.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 202
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "PHO",
+            "eqid": "BH-MOB",
+            "eqname": "Mobile",
+            "eqdescription": "<em>Battle Honour<br/></em>\nThis operative can perform the Fall Back action for one less Action Point (to a minimum of 0 AP).",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 203
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "PHO",
+            "eqid": "BH-RAID",
+            "eqname": "Raider",
+            "eqdescription": "<em>Battle Honour<br/></em>\nThis operative can perform the Charge action while within Engagement Range of an enemy operative.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 204
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "PHO",
+            "eqid": "BH-GUE",
+            "eqname": "Guerilla",
+            "eqdescription": "<em>Battle Honour<br/></em>\nFor the purposes of the Guerilla Warfare action, this operative cannot perform that action while within [SQUARE] of an enemy operative (instead of [PENT]).",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 205
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "PHO",
+            "eqid": "BH-DYN",
+            "eqname": "Dynamic",
+            "eqdescription": "<em>Battle Honour<br/></em>\nEach time this operative is activated, you can ignore any or all modifiers to its APL and Movement characteristics.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Battle Honour",
+            "eqseq": 206
+          },
+          {
             "factionid": "ALL",
             "killteamid": "ALL",
             "eqid": "BH-COM-INEX",
@@ -49776,6 +49866,96 @@
             "eqvar4": "",
             "eqcategory": "Battle Honour",
             "eqseq": 336
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "PHO",
+            "eqid": "RE-AB",
+            "eqname": "Artificer's Blade",
+            "eqdescription": "<em>Rare Equipment</em><br/>REIVER or INCURSOR operative only.\nSelect a Combat Knife or Combat Blade the operative is equipped with. It gains the following improvements for the battle:\n<ul>\n<li>Add 1 to its Critical Damage characteristic</li>\n<li>It gains the Lethal 5+ special rule</li>\n</ul>",
+            "eqpts": "3",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 401
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "PHO",
+            "eqid": "RE-US",
+            "eqname": "Umbra Shroud",
+            "eqdescription": "<em>Rare Equipment</em><br/>The operative gains the following ability for the battle:<br/>\n<strong>Umbra Shroud:</strong>\nEach time a shooting attack is made against this operative, in the Roll Attack Dice step of that shooting attack,\nyour opponent must re-roll their critical hits.",
+            "eqpts": "3",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 402
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "PHO",
+            "eqid": "RE-EGS",
+            "eqname": "Exogheist Scrambler",
+            "eqdescription": "<em>Rare Equipment</em><br/>INFILTRATOR operative only.\nThe operative gains the following ability for the battle:<br/>\n<strong>Exogheist Scrambler:</strong>\nFor the purposes of this operative's Omni-Scrambler ability, if this operative is in the killzone:\n<ul>\n<li>An enemy operative does not have to be Visible to a friendly operative with the Omni-Scrambler ability to be selected</li>\n<li>This operative counts as two operatives when determining the number of friendly operatives with the Omni-Scrambler ability in the killzone at the start of the phase</li>\n</ul>",
+            "eqpts": "2",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 403
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "PHO",
+            "eqid": "RE-ATA",
+            "eqname": "Aerial Tracking Augur",
+            "eqdescription": "<em>Rare Equipment</em><br/>INFILTRATOR COMMSMAN operative only.\nThe operative gains the following ability for the battle:<br/>\n<strong>Aerial Tracking Augur:</strong>\nOnce per battle after rolling off to determine Initiative, this operative can use this ability. If it does so, you can re-roll your dice.",
+            "eqpts": "3",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 404
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "PHO",
+            "eqid": "RE-EO",
+            "eqname": "Enhanced Optics",
+            "eqdescription": "<em>Rare Equipment</em><br/>Select a ranged weapon this operative is equipped with. Change its Ballistic Skill characteristics to 2+ for the battle.",
+            "eqpts": "2",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 405
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "PHO",
+            "eqid": "RE-RR",
+            "eqname": "Reaper Rounds",
+            "eqdescription": "<em>Rare Equipment</em><br/>REIVER operative only.\nSelect a Special Issue Bolt Pistol the operative is equipped with.\nIt gains the following improvements for the battle:\n<ul>\n<li>It gains the Silent special rule</li>\n<li>It gains the MW1 critical hit rule</li>\n</ul>",
+            "eqpts": "3",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Rare Equipment",
+            "eqseq": 406
           },
           {
             "factionid": "ALL",
@@ -67260,8 +67440,8 @@
                   "profileid": "0",
                   "name": "",
                   "A": "4",
-                  "BS": "3+",
-                  "D": "4/5",
+                  "BS": "4+",
+                  "D": "3/4",
                   "SR": "Rng [PENT]"
                 }
               ]
@@ -71117,7 +71297,7 @@
             "eqseq": 512
           }
         ],
-        "killteamcomp": "A FARSTALKER KINBAND kill team is composed of:\n<ul>\n        <li>\n                1 KROOT KILL-BROKER operative equipped with one of the following options:\n                <ul>\n                        <li>Kroot Rifle; Blade</li>\n                        <li>Pulse Carbine; Blade</li>\n                        <li>Pulse Rifle; Blade</li>\n                </ul>\n        </li>\n        <li>\n                10 FARSTALKER KINBAND operatives selected from the following list:\n                <ul>\n                        <li>KROOT BOW-HUNTER</li>\n                        <li>KROOT COLD-BLOOD</li>\n                        <li>KROOT CUT-SKIN</li>\n                        <li>\n                                KROOT HEAVY GUNNER equipped with one of the following options:\n                                <ul>\n                                        <li>Dvorgite Skinner; Blade</li>\n                                        <li>Londaxi Tribalest; Blade</li>\n                                </ul>\n                        </li>\n                        <li>KROOT HOUND</li>\n                        <li>KROOT LONG-SIGHT</li>\n                        <li>KROOT PISTOLIER</li>\n                        <li>KROOT STALKER</li>\n                        <li>KROOT TRACKER</li>\n                        <li>\n                                KROOT WARRIOR equipped with one of the following options:\n                                <ul>\n                                        <li>Kroot Rifle; Blade</li>\n                                        <li>Kroot Scattergun; Blade</li>\n                                </ul>\n                        </li>\n                </ul>\n        </li>\n</ul>\n\nYour kill team can only include up to two KROOT HOUND operatives.\nOther than KROOT WARRIOR and KROOT HOUND operatives, your kill team can only include each operative above once.",
+        "killteamcomp": "A FARSTALKER KINBAND kill team is composed of:\n <ul>\n         <li>\n                 1 KROOT KILL-BROKER operative equipped with one of the following options:\n                 <ul>\n                         <li>Kroot Rifle; Blade</li>\n                         <li>Pulse Carbine; Blade</li>\n                         <li>Pulse Rifle; Blade</li>\n                 </ul>\n         </li>\n         <li>\n                 11 FARSTALKER KINBAND operatives selected from the following list:\n                 <ul>\n                         <li>KROOT BOW-HUNTER</li>\n                         <li>KROOT COLD-BLOOD</li>\n                         <li>KROOT CUT-SKIN</li>\n                         <li>\n                                 KROOT HEAVY GUNNER equipped with one of the following options:\n                                 <ul>\n                                         <li>Dvorgite Skinner; Blade</li>\n                                         <li>Londaxi Tribalest; Blade</li>\n                                 </ul>\n                         </li>\n                         <li>KROOT HOUND</li>\n                         <li>KROOT LONG-SIGHT</li>\n                         <li>KROOT PISTOLIER</li>\n                         <li>KROOT STALKER</li>\n                         <li>KROOT TRACKER</li>\n                         <li>\n                                 KROOT WARRIOR equipped with one of the following options:\n                                 <ul>\n                                         <li>Kroot Rifle; Blade</li>\n                                         <li>Kroot Scattergun; Blade</li>\n                                 </ul>\n                         </li>\n                 </ul>\n         </li>\n </ul>\n \n Your kill team can only include up to two KROOT HOUND operatives.\n Other than KROOT WARRIOR and KROOT HOUND operatives, your kill team can only include each operative above once.",
         "fireteams": [
           {
             "factionid": "TAU",
@@ -72386,7 +72566,7 @@
                 "fireteammax": 0
               }
             ],
-            "fireteamcomp": "A FARSTALKER KINBAND kill team is composed of:\n<ul>\n        <li>\n                1 KROOT KILL-BROKER operative equipped with one of the following options:\n                <ul>\n                        <li>Kroot Rifle; Blade</li>\n                        <li>Pulse Carbine; Blade</li>\n                        <li>Pulse Rifle; Blade</li>\n                </ul>\n        </li>\n        <li>\n                10 FARSTALKER KINBAND operatives selected from the following list:\n                <ul>\n                        <li>KROOT BOW-HUNTER</li>\n                        <li>KROOT COLD-BLOOD</li>\n                        <li>KROOT CUT-SKIN</li>\n                        <li>\n                                KROOT HEAVY GUNNER equipped with one of the following options:\n                                <ul>\n                                        <li>Dvorgite Skinner; Blade</li>\n                                        <li>Londaxi Tribalest; Blade</li>\n                                </ul>\n                        </li>\n                        <li>KROOT HOUND</li>\n                        <li>KROOT LONG-SIGHT</li>\n                        <li>KROOT PISTOLIER</li>\n                        <li>KROOT STALKER</li>\n                        <li>KROOT TRACKER</li>\n                        <li>\n                                KROOT WARRIOR equipped with one of the following options:\n                                <ul>\n                                        <li>Kroot Rifle; Blade</li>\n                                        <li>Kroot Scattergun; Blade</li>\n                                </ul>\n                        </li>\n                </ul>\n        </li>\n</ul>\n\nYour kill team can only include up to two KROOT HOUND operatives.\nOther than KROOT WARRIOR and KROOT HOUND operatives, your kill team can only include each operative above once."
+            "fireteamcomp": "A FARSTALKER KINBAND kill team is composed of:\n <ul>\n         <li>\n                 1 KROOT KILL-BROKER operative equipped with one of the following options:\n                 <ul>\n                         <li>Kroot Rifle; Blade</li>\n                         <li>Pulse Carbine; Blade</li>\n                         <li>Pulse Rifle; Blade</li>\n                 </ul>\n         </li>\n         <li>\n                 11 FARSTALKER KINBAND operatives selected from the following list:\n                 <ul>\n                         <li>KROOT BOW-HUNTER</li>\n                         <li>KROOT COLD-BLOOD</li>\n                         <li>KROOT CUT-SKIN</li>\n                         <li>\n                                 KROOT HEAVY GUNNER equipped with one of the following options:\n                                 <ul>\n                                         <li>Dvorgite Skinner; Blade</li>\n                                         <li>Londaxi Tribalest; Blade</li>\n                                 </ul>\n                         </li>\n                         <li>KROOT HOUND</li>\n                         <li>KROOT LONG-SIGHT</li>\n                         <li>KROOT PISTOLIER</li>\n                         <li>KROOT STALKER</li>\n                         <li>KROOT TRACKER</li>\n                         <li>\n                                 KROOT WARRIOR equipped with one of the following options:\n                                 <ul>\n                                         <li>Kroot Rifle; Blade</li>\n                                         <li>Kroot Scattergun; Blade</li>\n                                 </ul>\n                         </li>\n                 </ul>\n         </li>\n </ul>\n \n Your kill team can only include up to two KROOT HOUND operatives.\n Other than KROOT WARRIOR and KROOT HOUND operatives, your kill team can only include each operative above once."
           }
         ]
       },
@@ -75480,7 +75660,7 @@
                         "A": "4",
                         "BS": "3+",
                         "D": "4/3",
-                        "SR": "Rng [PENT], Indirect, AP2, Lim, MW3"
+                        "SR": "Rng [PENT], Indirect, AP2, Lim, MW3, No Overwatch"
                       }
                     ],
                     "isselected": false
