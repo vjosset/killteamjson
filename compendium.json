@@ -41239,8 +41239,8 @@
             "killteamid": "INB",
             "fireteamid": "INB",
             "fireteamname": "Imperial Navy Breachers",
-            "archetype": "",
-            "description": "Security/Seek And Destroy",
+            "archetype": "Security/Seek And Destroy",
+            "description": "",
             "killteammax": 0,
             "operatives": [
               {
@@ -71564,9 +71564,9 @@
                         "wepid": "AB",
                         "profileid": "2",
                         "name": "Voltaic Arrow",
-                        "A": "3",
-                        "BS": "2+",
-                        "D": "3/4",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/2",
                         "SR": "Splash 2"
                       }
                     ],
