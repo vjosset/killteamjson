@@ -1,7 +1,7 @@
 # killteamjson
 JSON Dataset for Killteam 2021 Compendium, including additional teams from White Dwarf and boxed sets.
 
-See also https://ktdash.app/ and https://ktdash.app/api/faction.php
+See also [KTDash](https://ktdash.app/) and its [API](https://github.com/vjosset/ktdash/blob/v2/docs/api.md)
 
 "compendium.json" will hold the latest version of the full compendium.json
 
