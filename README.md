@@ -5,7 +5,9 @@ See also [KTDash](https://ktdash.app/) and its [API](https://github.com/vjosset/
 
 "compendium.json" will hold the latest version of the full compendium.json
 
-This repo may contain snapshots of the compendium to be used as backups
+This repo may contain snapshots of the compendium to be used as backups.
+
+**If you are using this dataset for your own applications, please give the appropriate credit. These teams take hours to load.**
 
 # Structure/Hierarchy
 
