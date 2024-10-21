@@ -13,7 +13,6 @@ This repo may contain snapshots of the compendium to be used as backups.
 
 The root of the JSON file is an array of "faction" objects.
 
-
 - [Root] - Array of Faction objects
   - `factionid` - *string* - ID for this faction
   - `factionname` - *string* - Name of this faction
