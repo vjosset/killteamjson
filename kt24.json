@@ -163,7 +163,7 @@
             "killteamid": "AOD",
             "eqid": "CT-AGG",
             "eqname": "[CT] Aggressive",
-            "eqdescription": "<em>When selecting your kill team, select a primary and secondary CHAPTER TACTIC for friendly ANGEL OF DEATH operatives to gain for the battle. Multiple instances of the same CHAPTER TACTIC are not cumulative.</em><br/><br/>This operative’s melee weapons have the Rending weapon rule.",
+            "eqdescription": "<em>When selecting your kill team, select a primary and secondary CHAPTER TACTIC for friendly ANGEL OF DEATH operatives to gain for the battle. Multiple instances of the same CHAPTER TACTIC are not cumulative.</em><br/><br/>This operative’s melee weapons have the Rending weapon rule.<hr/><strong>Rending:</strong> If you retain any critical hits, retain 1 normal hit as a critical hit instead.",
             "eqpts": "0",
             "eqtype": "WepMod",
             "eqvar1": "weptype:M",
@@ -248,7 +248,7 @@
             "killteamid": "AOD",
             "eqid": "CT-SHRP",
             "eqname": "[CT] Sharpshooter",
-            "eqdescription": "<em>When selecting your kill team, select a primary and secondary CHAPTER TACTIC for friendly ANGEL OF DEATH operatives to gain for the battle. Multiple instances of the same CHAPTER TACTIC are not cumulative.</em><br/><br/>Whenever this operative is shooting during an activation in which it has not performed the Charge, Fall Back or Reposition action, its bolt weapons have the Severe weapon rule.",
+            "eqdescription": "<em>When selecting your kill team, select a primary and secondary CHAPTER TACTIC for friendly ANGEL OF DEATH operatives to gain for the battle. Multiple instances of the same CHAPTER TACTIC are not cumulative.</em><br/><br/>Whenever this operative is shooting during an activation in which it has not performed the Charge, Fall Back or Reposition action, its bolt weapons have the Severe weapon rule.<hr/><strong>Severe:</strong> If you do not retain any critical successes, you can change one of your normal successes to a critical success. Any rules that take effect as a result of retaining a critical success (e.g. Devastating, Piercing Crits, etc.) still do.",
             "eqpts": "0",
             "eqtype": "Ability",
             "eqvar1": "",
@@ -265,7 +265,7 @@
             "killteamid": "AOD",
             "eqid": "CT-SS",
             "eqname": "[CT] Siege Specialist",
-            "eqdescription": "<em>When selecting your kill team, select a primary and secondary CHAPTER TACTIC for friendly ANGEL OF DEATH operatives to gain for the battle. Multiple instances of the same CHAPTER TACTIC are not cumulative.</em><br/><br/>This operative's ranged weapons have the Saturate weapon rule.",
+            "eqdescription": "<em>When selecting your kill team, select a primary and secondary CHAPTER TACTIC for friendly ANGEL OF DEATH operatives to gain for the battle. Multiple instances of the same CHAPTER TACTIC are not cumulative.</em><br/><br/>This operative's ranged weapons have the Saturate weapon rule.<hr/><strong>Saturate:</strong> The defender cannot retain Cover saves.",
             "eqpts": "0",
             "eqtype": "WepMod",
             "eqvar1": "weptype:R",
@@ -24956,7 +24956,7 @@
             "killteamid": "SCT24",
             "eqid": "HWBP",
             "eqname": "Heavy Weapon Bipod",
-            "eqdescription": "Whenever a friendly SCOUT SQUAD HEAVY GUNNER operative is shooting with a heavy bolter or missile launcher, if it has not moved during the activation, or if it is a counteraction, that weapon has the Ceaseless rule; if the weapon already has that weapon rule it has the Relentless weapon rule. Note that operative is not restricted from moving after shooting.",
+            "eqdescription": "Whenever a friendly SCOUT SQUAD HEAVY GUNNER operative is shooting with a heavy bolter or missile launcher, if it has not moved during the activation, or if it is a counteraction, that weapon has the Ceaseless rule; if the weapon already has that weapon rule it has the Relentless weapon rule. Note that operative is not restricted from moving after shooting.<hr/>\n<strong>Ceaseless:</strong> Can re-roll any or all results of one value (e.g. all results of 2)<br/>\n<strong>Relentless:</strong> Can re-roll any or all Attack dice",
             "eqpts": "0",
             "eqtype": "Ability",
             "eqvar1": "",
@@ -24973,7 +24973,7 @@
             "killteamid": "SCT24",
             "eqid": "TO",
             "eqname": "Targeting Oculars",
-            "eqdescription": "Once per turning point, when a friendly SCOUT SQUAD operative is performing the Shoot action and you are selecting a valid target, you can use this rule. If you do, until the end of that action, its ranged weapons have the Saturate weapon rule.",
+            "eqdescription": "Once per turning point, when a friendly SCOUT SQUAD operative is performing the Shoot action and you are selecting a valid target, you can use this rule. If you do, until the end of that action, its ranged weapons have the Saturate weapon rule.<hr/>\n<strong>Saturate:</strong> The defender cannot retain Cover saves.",
             "eqpts": "0",
             "eqtype": "Ability",
             "eqvar1": "",
@@ -42926,7 +42926,7 @@
             }
           }
         ],
-        "killteamcomp": "A BLOODED killteam is composed of:\n <ul>\n <li>\n \t1 Blooded Chieftan operative with one of the following options:\n \t<ul>\n \t\t<li>Autopistol or laspistol, chainsword or power weapon</li>\n \t\t<li>Bolt Pistol, chainsword</li>\n \t\t<li>Boltgun, bayonet</li>\n \t\t<li>Plasma pistol, improvised Blade<sup>2</sup></li>\n \t</ul>\n </li>\n <li>\n \t9 Blooded operatives selected from the following list:\n \t<ul>\n \t\t<li>Brimstone Grenadier</li>\n \t\t<li>Butcher</li>\n \t\t<li>Commsman</li>\n \t\t<li>Flenser</li>\n \t\t<li>Gunner with bayonet and Flamer<sup>1</sup></li>\n \t\t<li>Gunner with bayonet and Grenade Launcher<sup>1</sup></li>\n \t\t<li>Gunner with bayonet and Meltagun<sup>1</sup></li>\n \t\t<li>Gunner with bayonet and plasma gun<sup>1</sup></li>\n \t\t<li>Sharpshooter<sup>1,2</sup></li>\n \t\t<li>Thug</li>\n \t\t<li>Trench Sweeper</li>\n \t\t<li>Trooper</li>\n \t</ul>\n </li>\n <li>\n \t4 Blooded operatives selected from the following list:\n \t<ul>\n \t\t<li>Enforcer (counts as two selections)</li>\n \t\t<li>Ogryn (counts as two selections)</li>\n \t\t<li>Trooper</li>\n \t</ul>\n </li>\n </ul>\n Other than Trooper operatives your Kill Team can only include each operative on this list once.<br/>\n (1) You cannot select more than three of these operatives combined<br/>\n (2) You cannot select this option and this operative. In other words you can only have one operative with a plasma weapon.",
+        "killteamcomp": "A BLOODED killteam is composed of:\n  <ul>\n  <li>\n  \t1 Blooded Chieftan operative with one of the following options:\n  \t<ul>\n  \t\t<li>Autopistol or laspistol, chainsword or power weapon</li>\n  \t\t<li>Bolt Pistol, chainsword</li>\n  \t\t<li>Boltgun, bayonet</li>\n  \t\t<li>Plasma pistol, improvised Blade<sup>2</sup></li>\n  \t</ul>\n  </li>\n  <li>\n  \t9 Blooded operatives selected from the following list:\n  \t<ul>\n  \t\t<li>Brimstone Grenadier</li>\n  \t\t<li>Butcher</li>\n  \t\t<li>Commsman</li>\n  \t\t<li>Flenser</li>\n  \t\t<li>Gunner with bayonet and Flamer<sup>1</sup></li>\n  \t\t<li>Gunner with bayonet and Grenade Launcher<sup>1</sup></li>\n  \t\t<li>Gunner with bayonet and Meltagun<sup>1</sup></li>\n  \t\t<li>Gunner with bayonet and plasma gun<sup>1,2</sup></li>\n  \t\t<li>Sharpshooter<sup>1</sup></li>\n  \t\t<li>Thug</li>\n  \t\t<li>Trench Sweeper</li>\n  \t\t<li>Trooper</li>\n  \t</ul>\n  </li>\n  <li>\n  \t4 Blooded operatives selected from the following list:\n  \t<ul>\n  \t\t<li>Enforcer (counts as two selections)</li>\n  \t\t<li>Ogryn (counts as two selections)</li>\n  \t\t<li>Trooper</li>\n  \t</ul>\n  </li>\n  </ul>\n  Other than Trooper operatives your Kill Team can only include each operative on this list once.<br/>\n  (1) You cannot select more than three of these operatives combined<br/>\n  (2) You cannot select this option and this operative. In other words you can only have one operative with a plasma weapon.",
         "fireteams": [
           {
             "factionid": "CHAOS",
