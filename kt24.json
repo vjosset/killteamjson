@@ -20839,7 +20839,7 @@
               "ployname": "Glorious Martyrdom",
               "ploytype": "T",
               "CP": "1",
-              "description": "Use this firefight ploy when a friendly NOVITIATE operative is ncapacitated. For each enemy operative visible to and within 2\" of it, you gain 1 Faith point and inflict D3 damage on that enemy operative (roll separately for each)."
+              "description": "Use this firefight ploy when a friendly NOVITIATE operative is incapacitated. For each enemy operative visible to and within 2\" of it, you gain 1 Faith point and inflict D3 damage on that enemy operative (roll separately for each)."
             }
           ]
         },
@@ -30571,7 +30571,7 @@
                     "opid": "SSX",
                     "abilityid": "SSAT",
                     "title": "Aspect Techniques",
-                    "description": "<ul>\n<li>You cannot use more than one ASPECT TECHNIQUE per activation or counteraction.</li>\n<li>You cannot use each ASPECT TECHNIQUE more than once per turning point.</li>\n<li>If every friendly BLADES OF KHAINE operative selected for deployment has the same Aspect keyword (e.g. STRIKING SCORPION), you cannot use each ASPECT TECHNIQUE more than twice per turning point (instead of once).</li>\n</ul>\n<h5>Striking Scorpion Aspect Techniques</h5>\n<strong>Strike and Fade</strong><br/>\nUse this ASPECT TECHNIQUE when a friendly STRIKING SCORPION operative incapacitates an enemy operative during the Fight action, and is no longer within 3\" of enemy operatives.\nChange that friendly operative’s order to Conceal and it can immediately perform a free Dash action, even if it has performed an action that prevents it from performing the Dash action.\n<br/><br/>\n<strong>Scorpion’s Eye</strong><br/>\nUse this ASPECT TECHNIQUE when a friendly STRIKING SCORPION operative is performing the Shoot action and you select a shuriken pistol. Until the end of that action, that weapon has the Seek Light weapon rule.\n<br/><br/>\n<strong>Merciless Strikes</strong><br/>\nUse this ASPECT TECHNIQUE when a friendly STRIKING SCORPION operative is fighting, the first time you strike with a critical success during that sequence. Until the end of that sequence, that operative’s melee weapon has the Shock weapon rule.\n<br/><br/>\n<strong>One with the Gloom</strong><br/>\nUse this ASPECT TECHNIQUE during a friendly STRIKING SCORPION operative’s activation. Until the start of its next activation, while that operative has a Conceal order and is in cover, it cannot be selected as a valid target, taking precedence over all other rules (e.g. Vantage terrain)."
+                    "description": "<ul>\n<li>You cannot use more than one ASPECT TECHNIQUE per activation or counteraction.</li>\n<li>You cannot use each ASPECT TECHNIQUE more than once per turning point.</li>\n<li>If every friendly BLADES OF KHAINE operative selected for deployment has the same Aspect keyword (e.g. STRIKING SCORPION), you cannot use each ASPECT TECHNIQUE more than twice per turning point (instead of once).</li>\n</ul>\n<h5>Striking Scorpion Aspect Techniques</h5>\n<strong>Patient Stalk, Sudden Blow</strong><br/>\nUse this ASPECT TECHNIQUE when a friendly STRIKING SCORPION operative that has a Conceal order performs the Reposition action.\nDuring that action, that operative can move within control range of enemy operatives (it cannot end the move there),\nand you can inflict D3+2 damage on one enemy operative it moved within control range of after it hass moved.\n<br/><br/>\n<strong>Strike and Fade</strong><br/>\nUse this ASPECT TECHNIQUE when a friendly STRIKING SCORPION operative incapacitates an enemy operative during the Fight action, and is no longer within 3\" of enemy operatives.\nChange that friendly operative’s order to Conceal and it can immediately perform a free Dash action, even if it has performed an action that prevents it from performing the Dash action.\n<br/><br/>\n<strong>Scorpion’s Eye</strong><br/>\nUse this ASPECT TECHNIQUE when a friendly STRIKING SCORPION operative is performing the Shoot action and you select a shuriken pistol. Until the end of that action, that weapon has the Seek Light weapon rule.\n<br/><br/>\n<strong>Merciless Strikes</strong><br/>\nUse this ASPECT TECHNIQUE when a friendly STRIKING SCORPION operative is fighting, the first time you strike with a critical success during that sequence. Until the end of that sequence, that operative’s melee weapon has the Shock weapon rule.\n<br/><br/>\n<strong>One with the Gloom</strong><br/>\nUse this ASPECT TECHNIQUE during a friendly STRIKING SCORPION operative’s activation. Until the start of its next activation, while that operative has a Conceal order and is in cover, it cannot be selected as a valid target, taking precedence over all other rules (e.g. Vantage terrain)."
                   }
                 ],
                 "edition": "kt24",
@@ -30862,7 +30862,7 @@
                     "opid": "SSW",
                     "abilityid": "SSAT",
                     "title": "Aspect Techniques",
-                    "description": "<ul>\n<li>You cannot use more than one ASPECT TECHNIQUE per activation or counteraction.</li>\n<li>You cannot use each ASPECT TECHNIQUE more than once per turning point.</li>\n<li>If every friendly BLADES OF KHAINE operative selected for deployment has the same Aspect keyword (e.g. STRIKING SCORPION), you cannot use each ASPECT TECHNIQUE more than twice per turning point (instead of once).</li>\n</ul>\n<h5>Striking Scorpion Aspect Techniques</h5>\n<strong>Strike and Fade</strong><br/>\nUse this ASPECT TECHNIQUE when a friendly STRIKING SCORPION operative incapacitates an enemy operative during the Fight action, and is no longer within 3\" of enemy operatives.\nChange that friendly operative’s order to Conceal and it can immediately perform a free Dash action, even if it has performed an action that prevents it from performing the Dash action.\n<br/><br/>\n<strong>Scorpion’s Eye</strong><br/>\nUse this ASPECT TECHNIQUE when a friendly STRIKING SCORPION operative is performing the Shoot action and you select a shuriken pistol. Until the end of that action, that weapon has the Seek Light weapon rule.\n<br/><br/>\n<strong>Merciless Strikes</strong><br/>\nUse this ASPECT TECHNIQUE when a friendly STRIKING SCORPION operative is fighting, the first time you strike with a critical success during that sequence. Until the end of that sequence, that operative’s melee weapon has the Shock weapon rule.\n<br/><br/>\n<strong>One with the Gloom</strong><br/>\nUse this ASPECT TECHNIQUE during a friendly STRIKING SCORPION operative’s activation. Until the start of its next activation, while that operative has a Conceal order and is in cover, it cannot be selected as a valid target, taking precedence over all other rules (e.g. Vantage terrain)."
+                    "description": "<ul>\n<li>You cannot use more than one ASPECT TECHNIQUE per activation or counteraction.</li>\n<li>You cannot use each ASPECT TECHNIQUE more than once per turning point.</li>\n<li>If every friendly BLADES OF KHAINE operative selected for deployment has the same Aspect keyword (e.g. STRIKING SCORPION), you cannot use each ASPECT TECHNIQUE more than twice per turning point (instead of once).</li>\n</ul>\n<h5>Striking Scorpion Aspect Techniques</h5>\n<strong>Patient Stalk, Sudden Blow</strong><br/>\nUse this ASPECT TECHNIQUE when a friendly STRIKING SCORPION operative that has a Conceal order performs the Reposition action.\nDuring that action, that operative can move within control range of enemy operatives (it cannot end the move there),\nand you can inflict D3+2 damage on one enemy operative it moved within control range of after it hass moved.\n<br/><br/>\n<strong>Strike and Fade</strong><br/>\nUse this ASPECT TECHNIQUE when a friendly STRIKING SCORPION operative incapacitates an enemy operative during the Fight action, and is no longer within 3\" of enemy operatives.\nChange that friendly operative’s order to Conceal and it can immediately perform a free Dash action, even if it has performed an action that prevents it from performing the Dash action.\n<br/><br/>\n<strong>Scorpion’s Eye</strong><br/>\nUse this ASPECT TECHNIQUE when a friendly STRIKING SCORPION operative is performing the Shoot action and you select a shuriken pistol. Until the end of that action, that weapon has the Seek Light weapon rule.\n<br/><br/>\n<strong>Merciless Strikes</strong><br/>\nUse this ASPECT TECHNIQUE when a friendly STRIKING SCORPION operative is fighting, the first time you strike with a critical success during that sequence. Until the end of that sequence, that operative’s melee weapon has the Shock weapon rule.\n<br/><br/>\n<strong>One with the Gloom</strong><br/>\nUse this ASPECT TECHNIQUE during a friendly STRIKING SCORPION operative’s activation. Until the start of its next activation, while that operative has a Conceal order and is in cover, it cannot be selected as a valid target, taking precedence over all other rules (e.g. Vantage terrain)."
                   }
                 ],
                 "edition": "kt24",
@@ -46620,7 +46620,7 @@
                         "name": "Standard",
                         "A": "4",
                         "BS": "4+",
-                        "D": "5/6",
+                        "D": "3/5",
                         "SR": "Rng 8\", Prc1"
                       },
                       {
@@ -46633,7 +46633,7 @@
                         "name": "Supercharge",
                         "A": "4",
                         "BS": "4+",
-                        "D": "5/6",
+                        "D": "4/5",
                         "SR": "Rng 8\", Hot, Lethal 5+, Prc1"
                       }
                     ],
@@ -53468,8 +53468,8 @@
             "eqdescription": "Friendly PLAGUE MARINE operatives' boltguns and bolt pistols have the Poison and Severe weapon rules.",
             "eqpts": "0",
             "eqtype": "WepMod",
-            "eqvar1": "",
-            "eqvar2": "",
+            "eqvar1": "wepid:BG,BP",
+            "eqvar2": "SR:*Poison, Severe",
             "eqvar3": "",
             "eqvar4": "",
             "eqcategory": "Equipment",
@@ -60112,7 +60112,7 @@
                         "wepid": "FL",
                         "profileid": "0",
                         "name": "",
-                        "A": "5",
+                        "A": "4",
                         "BS": "2+",
                         "D": "3/3",
                         "SR": "Rng 8\", Saturate, Tor 2\""
