@@ -12149,6 +12149,15 @@
             {
               "factionid": "IMP",
               "killteamid": "INQ24",
+              "ployid": "KAS24-REL",
+              "ployname": "Relocate (Kasrkin Only)",
+              "ploytype": "S",
+              "CP": "0",
+              "description": "KASRKIN RECON TROOPER ONLY<br/>Select one friendly INQUISITORIAL AGENT operative that is more than 3\" from enemy operatives. That operative, and each other friendly INQUISITORIAL AGENT operative that is both within 3\" of that operative and more than 3\" from enemy operatives, can immediately perform a free Dash action in an order of your choice. You cannot use this ploy during the first turning point."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "INQ24",
               "ployid": "QUA",
               "ployname": "Quarry",
               "ploytype": "S",
@@ -24791,6 +24800,2014 @@
       },
       {
         "factionid": "IMP",
+        "killteamid": "RAT24",
+        "edition": "kt24",
+        "killteamname": "Ratlings",
+        "description": "Though less resilient than their baseline Human comrades, Ratlings are naturally excellent shots. It is said that Ratling marksmen can take the head off a Heretic from over a kilometre away. Coupled with their knack for staying out of harm's way, this makes Ratlings formidable snipers who can exact a withering toll upon superior enemy forces. ",
+        "customkeyword": "",
+        "ploys": {
+          "strat": [
+            {
+              "factionid": "IMP",
+              "killteamid": "RAT24",
+              "ployid": "CS",
+              "ployname": "Crack Shots",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Whenever a friendly RATLING operative is shooting an enemy operative more than 6\" from it, if that friendly operative has not performed the Charge, Fall Back, or Reposition action during the activation,\nor it is a counteraction, its rifle (if any) has the Balanced weapon rule."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "RAT24",
+              "ployid": "FA",
+              "ployname": "Frontline Assault",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Whenever a friendly RATLING BULLGRYN or friendly RATLING OGRYN operative is shooting within, fighting within, or retaliating within your opponent's territory or within 3\" of an objective marker, its weapons have the Balanced weapon rule."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "RAT24",
+              "ployid": "SH",
+              "ployname": "Shifty",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Whenever a friendly RATLING operative (excluding OGRYN or BULLGRYN) has a Conceal order and is in Cover, it cannot be selected as a valid target, taking precedence over all other rules (e.g. Vantage terrain)."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "RAT24",
+              "ployid": "SP",
+              "ployname": "Sniper Positions",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Whenever a friendly RATLING operative is more than 6\" from enemy operatives and has Heavy Terrain within its Control Range, the Stationary profile of its rifle (if any) has the Silent weapon rule."
+            }
+          ],
+          "tac": [
+            {
+              "factionid": "IMP",
+              "killteamid": "RAT24",
+              "ployid": "LAR",
+              "ployname": "Larcenous",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Firefight Ploy during a friendly RATLING operative's activation (excluding OGRYN or BULLGRYN).\nUntil the end of that activation, that operative does not have to control a marker to perform the Pick Up Marker or Mission actions that usually require this\n(taking precedence over that action's conditions - it only needs to contest the marker), and having an enemy operative within Control Range of it does not prevent it from doing so."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "RAT24",
+              "ployid": "SAH",
+              "ployname": "Shoot And Hide",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Firefight Ploy after a friendly RATLING operative that has an Engage order perfoms the Shoot action with a rifle.\r If it is more than 3\" from enemy operatives, or not visible to every enemy operative, you can change its order to Conceal."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "RAT24",
+              "ployid": "SI",
+              "ployname": "Survival Instincts",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Firefight Ploy when an enemy operative is shooting or fighting a friendly RATLING operative (excluding OGRYN or BULLGRYN) and you are allocating a die to block.\nIf it is a normal success, it can block one unresolved critical success;\nif it is a critical success, it can block two unresolved successes (normal or critical)."
+            },
+            {
+              "factionid": "IMP",
+              "killteamid": "RAT24",
+              "ployid": "SS",
+              "ployname": "Sharpshot",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Firefight Ploy when a friendly RATLING operative if performing the Shoot action with a rifle and you are selecting a valid target.\nHaving other friendly RATLING operatives within an enemy operative's Control Range does not prevent that enemy operative from being selected."
+            }
+          ]
+        },
+        "equipments": [
+          {
+            "factionid": "IMP",
+            "killteamid": "RAT24",
+            "eqid": "PR",
+            "eqname": "Purloined Rations",
+            "eqdescription": "Once per Turning Point, whenever a friendly RATLING operative (excluding BATTLEMUTT, BULLGRYN, and OGRYN) is activated, you can use this rule.\nIf you do, until the end of that activation, improve the Hit stat of its rifle (if any) by 1.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 1
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "RAT24",
+            "eqid": "LR",
+            "eqname": "Lucky Round",
+            "eqdescription": "Once per Turning Point, whenever a friendly RATLING operative is shooting with a rifle and you've rolled your Attack dice, you can use this rule if you have not used the Purloined Rations equipment this activation.\nIf you do, that weapon has the Severe weapon rule for that sequence.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 2
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "RAT24",
+            "eqid": "SG",
+            "eqname": "Stolen Goods",
+            "eqdescription": "At the end of the Select Operatives step, roll 1D3. If the result is:\n<ul>\n<li>1, you lose 1 CP</li>\n<li>2, you gain 1 CP</li>\n<l>3, your opponent loses 1CP</li>\n</ul>",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 3
+          },
+          {
+            "factionid": "IMP",
+            "killteamid": "RAT24",
+            "eqid": "IA",
+            "eqname": "Improvised Armour",
+            "eqdescription": "Whenever an operative is shooting a friendly RATLING BULLGRYN or friendly RATLING OGRYN operative, defence dice results of 5+ are critical successes.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 4
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-AC",
+            "eqname": "Ammo Cache",
+            "eqdescription": "Before the battle, you can set up one of your Ammo Cache markers wholly within your territory. Friendly operatives can perform the following mission action during the battle:\r <strong>AMMO RESUPPLY (0 AP):</strong> One of your Ammo Cache markers the active operative controls is used during this turning point.<br/>\r Until the start of the next turning point, whenever this operative is shooting with a weapon from its datacard, you can re-roll one of your attack dice.</br>\r An operative cannot perform this action while within control range of an enemy operative, if that marker is not yours, or if that marker has been used this turning point.",
+            "eqpts": "0",
+            "eqtype": "Action",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 601
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-RW",
+            "eqname": "Razor Wire",
+            "eqdescription": "Razor wire is Exposed and Obstructing terrain. Before the battle, you can set it up wholly within your territory, on the killzone floor and more than 2\" from other equipment terrain features, access points, and Accessible terrain.<br/>\r Obstructing: Whenever an operative would cross over this terrain feature within 1\" of it, treat the distance as an additional 1\".",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 602
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-CD",
+            "eqname": "Comms Device",
+            "eqdescription": "Before the battle, you can set up one of your Comms Device markers wholly within your territory.\nWhile a friendly operative controls this marker, add 3\" to the distance requirements of its SUPPORT rules that refer to friendly operatives\n(e.g. ‘select one friendly operative within 6\"’ would be 9\" instead).\nNote that you cannot benefit from your opponent's Comms Device markers.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 603
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-MN",
+            "eqname": "Mines",
+            "eqdescription": "Before the battle, you can set up one of your Mines markers wholly within your territory and more than 2\" from other markers, access points, and Accessible terrain.\r The first time that marker is within an operative's control range, remove that marker and inflict D3+3 damage on that operative.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 604
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-LB",
+            "eqname": "Light Barricades",
+            "eqdescription": "Light barricades are Light terrain, except the feet, which are Insignificant and Exposed. Before the battle, you can set up any of them wholly within your territory, on the killzone floor and more than 2\" from other markers, access points, and Accessible terrain.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 605
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-HB",
+            "eqname": "Heavy Barricade",
+            "eqdescription": "A heavy barricade is Heavy terrain. Before the battle, you can set it up wholly within 2\" of your drop zone, on the killzone floor and more than 2\" from other equipment terrain features, access points, and Accessible terrain.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 606
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-LAD",
+            "eqname": "Ladders",
+            "eqdescription": "Ladders are Exposed terrain. Before the battle, you can set up any of them as follows:\r <ul>\r <li>Wholly within your territory.</li>\r <li>Upright against terrain that is at least 2\" tall.</li>\r <li>More than 2\" from other equipment terrain features.</li>\r <li>More than 1\" from doors and access points.</li>\r </ul>\r In addition, an operative can either move through ladders as if they aren’t there (but cannot finish on them), or climb them.\r Once per action, whenever an operative is climbing this terrain feature, treat the vertical distance as 1\".\r Note that if an operative then continues climbing another terrain feature during that action (including another ladder), that distance is determined as normal.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 607
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-PB",
+            "eqname": "Portable Barricade",
+            "eqdescription": "A portable barricade is Light, Protective and Portable terrain.\r Before the battle, you can set it up wholly within your territory, on the killzone floor and more than 2\" from other equipment terrain features, access points, and Accessible terrain.\r <br/>\r <strong>Protective:</strong> While an operative is in cover from this terrain feature, improve its Save stat by 1 (to a maximum of 2+).<br/>\r <strong>Portable:</strong> This terrain feature only provides cover while an operative is connected to it and if the shield is intervening (ignore its feet).\r Operatives connected to the inside of it can perform the following unique action during the battle:<br/>\r <strong>Move With Barricade (1 AP):</strong>\r The same as the Reposition action, except the active operative can move no more than its Move stat minus 2\" and cannot climb, drop, jump, or use any killteam's rules that remove it and set it back up again (e.gh. HEARTHKYN SALVAGER Fly, MANDRAKE Shadow Passage).<br/>\r Before this operative moves, remove the portable barricade it is connected to. After it moves, set up the portable barricade so it is connected again.<br/>\r This action is treated as a Reposition action. An operative cannot perform this action while within control range of an enemy operative, or in the same activation in which it performed the Fall Back or Charge action.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 608
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-UG-SMK",
+            "eqname": "Utility Grenade - Smoke",
+            "eqdescription": "When you select this equipment, select two utility grenades (2 smoke, 2 stun, or 1 smoke and 1 stun).\nEach selection is a unique action your operatives can perform, but your kill team can only perform that action a total number of times during the battle equal to your selection.\n<br/>\n<strong>SMOKE GRENADE (1 AP):</strong><br/>\n<ul>\n<li>Place one of your Smoke Grenade markers within 6\" of this operative. It must be visible to this operative,\nor on Vantage terrain of a terrain feature that is visible to this operative. The marker creates an area of smoke 1\" horizontally and unlimited height vertically from (but not below) it.</li>\n<li>While an operative is wholly within an area of smoke, it is obscured to operatives more than 2\" from it, and vice versa.\nIn addition, whenever an operative is shooting an enemy operative wholly within an area of smoke, ignore the Piercing weapon rule unless they are within 2\" of each other.</li>\n<li>In the Ready step of the next Strategy phase, roll one D3. Remove that Smoke Grenade marker after a number of activations equal to that D3 have been completed\nor at the end of the turning point (whichever comes first).</li>\n<li>An operative cannot perform this action while within control range of an enemy operative, or if you have reached the total number of times your kill team can perform it.</li>\n</ul>",
+            "eqpts": "0",
+            "eqtype": "Action",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 609
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-UG-STN",
+            "eqname": "Utility Grenade - Stun",
+            "eqdescription": "When you select this equipment, select two utility grenades (2 smoke, 2 stun, or 1 smoke and 1 stun).\nEach selection is a unique action your operatives can perform, but your kill team can only perform that action a total number of times during the battle equal to your selection.\n<br/>\n<strong>STUN GRENADE (1 AP):</strong><br/>\n<ul>\n<li>Select one enemy operative visible to and within 6\" of this operative. That operative and each other operative within 1\" of it takes a stun test. For an operative to take a stun test, roll one D6: on a 3+, subtract 1 from its APL stat until the end of its next activation.</li>\n<li>An operative cannot perform this action while within control range of an enemy operative, or if you have reached the total number of times your kill team can perform it.</li>\n</ul>",
+            "eqpts": "0",
+            "eqtype": "Action",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 609
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-XG-FRAG",
+            "eqname": "Explosive Grenade - Frag",
+            "eqdescription": "When you select this equipment, select two explosive grenades (2 frag, 2 krak, or 1 frag and 1 krak).\n<table class=\"eqtable\">\n<tr>\n<th>Name</th><th>A</th><th>BS</th><th>D</th><th>\n</tr>\n<tr>\n<td>Frag Grenade</td><td>4</td><td>4+</td><td>2/4</td>\n</tr>\n<tr>\n<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n<td>Rng 6\", Blast 2\", Saturate</td>\n</tr>\n</table>",
+            "eqpts": "0",
+            "eqtype": "Weapon",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 610,
+            "weapon": {
+              "factionid": "kt24",
+              "killteamid": "ALL",
+              "fireteamid": "EQ",
+              "opid": "EQ",
+              "wepid": "UE-XG-FRAG",
+              "wepseq": 0,
+              "wepname": "Frag Grenade",
+              "weptype": "R",
+              "isdefault": 0,
+              "profiles": [
+                {
+                  "factionid": "kt24",
+                  "killteamid": "ALL",
+                  "fireteamid": "EQ",
+                  "opid": "EQ",
+                  "wepid": "UE-XG-FRAG",
+                  "profileid": "0",
+                  "name": "",
+                  "A": "4",
+                  "BS": "4+",
+                  "D": "2/4",
+                  "SR": "Rng 6\", Blast 2\", Saturate"
+                }
+              ]
+            }
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-XG-KRAK",
+            "eqname": "Explosive Grenade - Krak",
+            "eqdescription": "When you select this equipment, select two explosive grenades (2 frag, 2 krak, or 1 frag and 1 krak).\n<table class=\"eqtable\">\n<tr>\n<th>Name</th><th>A</th><th>BS</th><th>D</th><th>\n</tr>\n<tr>\n<td>Krak Grenade</td><td>4</td><td>4+</td><td>4/5</td>\n</tr>\n<tr>\n<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n<td>Rng 6\", Piercing 1, Saturate</td>\n</tr>\n</table>",
+            "eqpts": "0",
+            "eqtype": "Weapon",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 610,
+            "weapon": {
+              "factionid": "kt24",
+              "killteamid": "ALL",
+              "fireteamid": "EQ",
+              "opid": "EQ",
+              "wepid": "UE-XG-KRAK",
+              "wepseq": 0,
+              "wepname": "Krak Grenade",
+              "weptype": "R",
+              "isdefault": 0,
+              "profiles": [
+                {
+                  "factionid": "kt24",
+                  "killteamid": "ALL",
+                  "fireteamid": "EQ",
+                  "opid": "EQ",
+                  "wepid": "UE-XG-KRAK",
+                  "profileid": "0",
+                  "name": "",
+                  "A": "4",
+                  "BS": "4+",
+                  "D": "4/5",
+                  "SR": "Rng 6\", Prc1, Saturate"
+                }
+              ]
+            }
+          }
+        ],
+        "killteamcomp": "A RATLING KillTeam is composed of:\n<ul>\n\t<li>\n\t\t1 RATLING FIXER operative with one of the following options:\n\t\t<ul>\n\t\t\t<li>Battle Rifle, Fists</li>\n\t\t\t<li>Sniper Rifle, Fists</li>\n\t\t</ul>\n\t<li>\n\t<li>\n\t\t10 RATLING operatives selected from the following list:\n\t\t<ul>\n\t\t\t<li>BATTLEMUTT</li>\n\t\t\t<li>\n\t\t\t\tBULLGRYN* with one from each of the following:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Grenadier Gauntlet or Power Maul</li>\n\t\t\t\t\t<li>Brute Shield or Slabshiedl</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>OGRYN*</li>\n\t\t\t<li>BIG SHOT</li>\n\t\t\t<li>BOMBER</li>\n\t\t\t<li>HARDBIT</li>\n\t\t\t<li>RAIDER</li>\n\t\t\t<li>SNEAK</li>\n\t\t\t<li>SNIPER</li>\n\t\t\t<li>SPOTTER</li>\n\t\t\t<li>STASHMASTER</li>\n\t\t\t<li>VOX-THIEF</li>\n\t\t</ul>\n\t</li>\n</ul>\n\n* You cannot select more than three of these operatives combined. Up to three times, instead of selecting one of these operatives, you can select one RATLING ploy to cost you 0CP for the battle.<br/>\nOther than BULLGRYN, OGRYN, and SNIPER operatives, your KillTeam can only include each operative above once.",
+        "fireteams": [
+          {
+            "factionid": "IMP",
+            "killteamid": "RAT24",
+            "fireteamid": "RAT24",
+            "seq": 0,
+            "fireteamname": "Ratling",
+            "archetype": "Security/Infiltration",
+            "description": "",
+            "killteammax": 0,
+            "operatives": [
+              {
+                "factionid": "IMP",
+                "killteamid": "RAT24",
+                "fireteamid": "RAT24",
+                "opid": "FIX",
+                "opseq": 1,
+                "opname": "Ratling Fixer",
+                "description": "",
+                "M": "5\"",
+                "APL": "2",
+                "GA": "0",
+                "DF": "0",
+                "SV": "5+",
+                "W": "7",
+                "keywords": "RATLING, IMPERIUM, ASTRA MILITARUM, LEADER, FIXER",
+                "basesize": 25,
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "FIX",
+                    "wepid": "BR",
+                    "wepseq": 0,
+                    "wepname": "Battle Rifle",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "FIX",
+                        "wepid": "BR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "FIX",
+                    "wepid": "SR",
+                    "wepseq": 0,
+                    "wepname": "Sniper Rifle",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "FIX",
+                        "wepid": "SR",
+                        "profileid": "0",
+                        "name": "Mobile",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "FIX",
+                        "wepid": "SR",
+                        "profileid": "1",
+                        "name": "Stationary",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "3/3",
+                        "SR": "Dev3, Hvy"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "FIX",
+                    "wepid": "F",
+                    "wepseq": 0,
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "FIX",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "1/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "FIX",
+                    "abilityid": "MC",
+                    "title": "Munitorum Contacts",
+                    "description": "You can select one additional equipment option."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "FIX",
+                    "abilityid": "SCAR",
+                    "title": "Scarper",
+                    "description": "After each enemy operative's activation, before the next operative is activated, you can perform a free Dash action with one friendly RATLING operative (excluding BULLGRYN, OGRYN, and SNEAK), \nbut it cannot finish that move within 3\" of an enemy operative unless it is not visible to every enemy operative when it finishes that move.\n<br/>\nEach friendly operative can only do this once per Turning Point, and cannot do so after the final activation of the Turning Point.\nYou  cannot use this rule after consecutive enemy activations during the same Turning Point\n(in other words, after using this rule, you must skip the next opportunity during that Turning Point before you can use it again)."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "FIX",
+                    "abilityid": "TD",
+                    "title": "Target Designation",
+                    "description": "<strong>Strategic Gambit</strong>\nSelect one enemy operative visible to this operative.\nUntil the end of the Turning Point, whenever a friendly RATLING operative is shooting that enemy operative with a Rifle, that weapon has the Lethal 5+ weapon rule."
+                  }
+                ],
+                "edition": "kt24",
+                "fireteammax": 1,
+                "specialisms": ""
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "RAT24",
+                "fireteamid": "RAT24",
+                "opid": "BIG",
+                "opseq": 2,
+                "opname": "Ratling Big Shot",
+                "description": "",
+                "M": "5\"",
+                "APL": "2",
+                "GA": "0",
+                "DF": "0",
+                "SV": "5+",
+                "W": "6",
+                "keywords": "RATLING, IMPERIUM, ASTRA MILITARUM, BIG SHOT",
+                "basesize": 28,
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "BIG",
+                    "wepid": "TSR",
+                    "wepseq": 0,
+                    "wepname": "Tankstopper Rifle",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "BIG",
+                        "wepid": "TSR",
+                        "profileid": "0",
+                        "name": "Mobile",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/4",
+                        "SR": "Dev1, Hvy (DashOnly), Prc1"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "BIG",
+                        "wepid": "TSR",
+                        "profileid": "1",
+                        "name": "Stationary",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "4/2",
+                        "SR": "Dev4, Hvy, Prc1, Severe"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "BIG",
+                    "wepid": "F",
+                    "wepseq": 0,
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "BIG",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "1/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "BIG",
+                    "abilityid": "SCAR",
+                    "title": "Scarper",
+                    "description": "After each enemy operative's activation, before the next operative is activated, you can perform a free Dash action with one friendly RATLING operative (excluding BULLGRYN, OGRYN, and SNEAK), \nbut it cannot finish that move within 3\" of an enemy operative unless it is not visible to every enemy operative when it finishes that move.\n<br/>\nEach friendly operative can only do this once per Turning Point, and cannot do so after the final activation of the Turning Point.\nYou  cannot use this rule after consecutive enemy activations during the same Turning Point\n(in other words, after using this rule, you must skip the next opportunity during that Turning Point before you can use it again)."
+                  }
+                ],
+                "edition": "kt24",
+                "fireteammax": 0,
+                "specialisms": ""
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "RAT24",
+                "fireteamid": "RAT24",
+                "opid": "HARD",
+                "opseq": 3,
+                "opname": "Ratling Hardbit",
+                "description": "",
+                "M": "5\"",
+                "APL": "2",
+                "GA": "0",
+                "DF": "0",
+                "SV": "5+",
+                "W": "6",
+                "keywords": "RATLING, IMPERIUM, ASTRA MILITARUM, HARDBIT",
+                "basesize": 25,
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "HARD",
+                    "wepid": "BR",
+                    "wepseq": 0,
+                    "wepname": "Battle Rifle",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "HARD",
+                        "wepid": "BR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "HARD",
+                    "wepid": "CK",
+                    "wepseq": 0,
+                    "wepname": "Combat Knife",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "HARD",
+                        "wepid": "CK",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/5",
+                        "SR": "Balanced"
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "HARD",
+                    "abilityid": "HNT",
+                    "title": "Hunter",
+                    "description": "This operative can perform the Charge action while it has a Conceal order.\nIf it does so during its activation, until the end of that activation, add 1 to the ATk stat of its Combat Knife and that melee weapon has the Brutal weapon rule."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "HARD",
+                    "abilityid": "LIW",
+                    "title": "Lie In Wait",
+                    "description": "Whenever this operative is retaliating while Light or Heavy terrain is within its Control Range, you resolve the first attack die (i.e. defender instead of attacker)."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "HARD",
+                    "abilityid": "SCAR",
+                    "title": "Scarper",
+                    "description": "After each enemy operative's activation, before the next operative is activated, you can perform a free Dash action with one friendly RATLING operative (excluding BULLGRYN, OGRYN, and SNEAK), \nbut it cannot finish that move within 3\" of an enemy operative unless it is not visible to every enemy operative when it finishes that move.\n<br/>\nEach friendly operative can only do this once per Turning Point, and cannot do so after the final activation of the Turning Point.\nYou  cannot use this rule after consecutive enemy activations during the same Turning Point\n(in other words, after using this rule, you must skip the next opportunity during that Turning Point before you can use it again)."
+                  }
+                ],
+                "edition": "kt24",
+                "fireteammax": 0,
+                "specialisms": ""
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "RAT24",
+                "fireteamid": "RAT24",
+                "opid": "SPOT",
+                "opseq": 4,
+                "opname": "Ratling Spotter",
+                "description": "",
+                "M": "5\"",
+                "APL": "2",
+                "GA": "0",
+                "DF": "0",
+                "SV": "5+",
+                "W": "6",
+                "keywords": "RATLING, IMPERIUM, ASTRA MILITARUM, SPOTTER",
+                "basesize": 25,
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "SPOT",
+                    "wepid": "SR",
+                    "wepseq": 0,
+                    "wepname": "Sniper Rifle",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "SPOT",
+                        "wepid": "SR",
+                        "profileid": "0",
+                        "name": "Mobile",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": ""
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "SPOT",
+                        "wepid": "SR",
+                        "profileid": "1",
+                        "name": "Stationary",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/3",
+                        "SR": "Dev3, Hvy"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "SPOT",
+                    "wepid": "F",
+                    "wepseq": 0,
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "SPOT",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "1/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "SPOT",
+                    "uniqueactionid": "SPOT",
+                    "title": "Spot",
+                    "description": "<strong>SUPPORT</Strong>\nSelect one enemy operative visible to this operative. Once during this Turning Point, when a friendly RATLING operative within 3\" of this operative is shooting that enemy operative, you can use this effect.\nIf you do:\n<ul>\n<li>That fiendly operative's ranged weapons have the Seek Light weapon rule.</li>\n<li>That enemy operative is not Obscured.</li>\n</ul>\nThis operative cannot perform this action while within Control Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "SPOT",
+                    "abilityid": "SCAR",
+                    "title": "Scarper",
+                    "description": "After each enemy operative's activation, before the next operative is activated, you can perform a free Dash action with one friendly RATLING operative (excluding BULLGRYN, OGRYN, and SNEAK), \nbut it cannot finish that move within 3\" of an enemy operative unless it is not visible to every enemy operative when it finishes that move.\n<br/>\nEach friendly operative can only do this once per Turning Point, and cannot do so after the final activation of the Turning Point.\nYou  cannot use this rule after consecutive enemy activations during the same Turning Point\n(in other words, after using this rule, you must skip the next opportunity during that Turning Point before you can use it again)."
+                  }
+                ],
+                "edition": "kt24",
+                "fireteammax": 0,
+                "specialisms": ""
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "RAT24",
+                "fireteamid": "RAT24",
+                "opid": "BOMB",
+                "opseq": 5,
+                "opname": "Ratling Bomber",
+                "description": "",
+                "M": "5\"",
+                "APL": "2",
+                "GA": "0",
+                "DF": "0",
+                "SV": "4+",
+                "W": "6",
+                "keywords": "RATLING, IMPERIUM, ASTRA MILITARUM, BOMBER",
+                "basesize": 25,
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "BOMB",
+                    "wepid": "EXA",
+                    "wepseq": 0,
+                    "wepname": "Explosive Arsenal",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "BOMB",
+                        "wepid": "EXA",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "5",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "Rng3\", Blast1\", Hvy(RepOnly)"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "BOMB",
+                    "wepid": "SR",
+                    "wepseq": 0,
+                    "wepname": "Sniper Rifle",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "BOMB",
+                        "wepid": "SR",
+                        "profileid": "0",
+                        "name": "Mobile",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": ""
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "BOMB",
+                        "wepid": "SR",
+                        "profileid": "1",
+                        "name": "Stationary",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/3",
+                        "SR": "Dev3, Hvy"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "BOMB",
+                    "wepid": "BA",
+                    "wepseq": 0,
+                    "wepname": "Bionic Arm",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "BOMB",
+                        "wepid": "BA",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "BOMB",
+                    "abilityid": "MINE",
+                    "title": "Mine",
+                    "description": "Mines you select from Univeral Equipment inflict 2D3+3 damage instead, and fiendly RATLING operatives (excluding OGRYN and BULLGRYN) are ignored for its effects (i.e. they cannot trigger it or take damage from it).\nThis takes precedence over the normal mines rules."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "BOMB",
+                    "abilityid": "SCAR",
+                    "title": "Scarper",
+                    "description": "After each enemy operative's activation, before the next operative is activated, you can perform a free Dash action with one friendly RATLING operative (excluding BULLGRYN, OGRYN, and SNEAK), \nbut it cannot finish that move within 3\" of an enemy operative unless it is not visible to every enemy operative when it finishes that move.\n<br/>\nEach friendly operative can only do this once per Turning Point, and cannot do so after the final activation of the Turning Point.\nYou  cannot use this rule after consecutive enemy activations during the same Turning Point\n(in other words, after using this rule, you must skip the next opportunity during that Turning Point before you can use it again)."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "BOMB",
+                    "abilityid": "TRIP",
+                    "title": "Tripwire",
+                    "description": "When setting up equipment before the battle, you can set up to two of your Tripwire markers up wholly within you territory and more than 2\" from other markers.\nThe first time that marker is within an enemy operative's Control Range, end that operative's action (if any), remove that marker, and subtract 1 from that operative's APL state until the end of its next activation."
+                  }
+                ],
+                "edition": "kt24",
+                "fireteammax": 0,
+                "specialisms": ""
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "RAT24",
+                "fireteamid": "RAT24",
+                "opid": "STASH",
+                "opseq": 6,
+                "opname": "Ratling Stashmaster",
+                "description": "",
+                "M": "5\"",
+                "APL": "2",
+                "GA": "0",
+                "DF": "0",
+                "SV": "5+",
+                "W": "6",
+                "keywords": "RATLING, IMPERIUM, ASTRA MILITARUM, STASHMASTER",
+                "basesize": 25,
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "STASH",
+                    "wepid": "SR",
+                    "wepseq": 0,
+                    "wepname": "Sniper Rifle",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "STASH",
+                        "wepid": "SR",
+                        "profileid": "0",
+                        "name": "Mobile",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": ""
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "STASH",
+                        "wepid": "SR",
+                        "profileid": "1",
+                        "name": "Stationary",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/3",
+                        "SR": "Dev3, Hvy"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "STASH",
+                    "wepid": "F",
+                    "wepseq": 0,
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "STASH",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "1/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "STASH",
+                    "abilityid": "LF",
+                    "title": "Light-Fingered",
+                    "description": "Once during each of this operative's activations, it can perform the Place Marker, Pick Up Marker, or a Mission Action for 1 less AP."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "STASH",
+                    "abilityid": "SCAR",
+                    "title": "Scarper",
+                    "description": "After each enemy operative's activation, before the next operative is activated, you can perform a free Dash action with one friendly RATLING operative (excluding BULLGRYN, OGRYN, and SNEAK), \nbut it cannot finish that move within 3\" of an enemy operative unless it is not visible to every enemy operative when it finishes that move.\n<br/>\nEach friendly operative can only do this once per Turning Point, and cannot do so after the final activation of the Turning Point.\nYou  cannot use this rule after consecutive enemy activations during the same Turning Point\n(in other words, after using this rule, you must skip the next opportunity during that Turning Point before you can use it again)."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "STASH",
+                    "abilityid": "WS",
+                    "title": "Well Stocked",
+                    "description": "If you select an Ammo Cache from Univeral Equipment, you can set up an additional Ammo Cache marker."
+                  }
+                ],
+                "edition": "kt24",
+                "fireteammax": 0,
+                "specialisms": ""
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "RAT24",
+                "fireteamid": "RAT24",
+                "opid": "RAID",
+                "opseq": 7,
+                "opname": "Ratling Raider",
+                "description": "",
+                "M": "5\"",
+                "APL": "2",
+                "GA": "0",
+                "DF": "0",
+                "SV": "5+",
+                "W": "6",
+                "keywords": "RATLING, IMPERIUM, ASTRA MILITARUM, RAIDER",
+                "basesize": 25,
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "RAID",
+                    "wepid": "SSR",
+                    "wepseq": 0,
+                    "wepname": "Suppressed Sniper Rifle",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "RAID",
+                        "wepid": "SSR",
+                        "profileid": "0",
+                        "name": "Mobile",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": "Silent"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "RAID",
+                        "wepid": "SSR",
+                        "profileid": "1",
+                        "name": "Stationary",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/3",
+                        "SR": "Dev1, Hvy, Silent"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "RAID",
+                    "wepid": "DAG",
+                    "wepseq": 0,
+                    "wepname": "Dagger",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "RAID",
+                        "wepid": "DAG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "2/3",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "RAID",
+                    "uniqueactionid": "SS",
+                    "title": "Slingshot",
+                    "description": "Select a point on a terrain feature that is visible to, horizontally within 6\" of, and  higher than this operative.\nRemove this operative from the killzone and set it back up wholly within x+1\" horizontally of that point, not within Control Range of an enemy operative, and with that point visible to it.\nX is that point's height, rounded to the nearest inch (to a maximum of 5\").<br/>\nThis action is treated as a Reposition action.\nThis operative cannot perform this action while within Control Range of an enemy operative, or during an activation in which it performed the Charge, Fall Back, or Shoot action (or vice-versa).",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "RAID",
+                    "abilityid": "GH",
+                    "title": "Grappling Hook",
+                    "description": "Whenever this operative is vlimbing terrain, treat the vertical distance as 2\" (regardless of how far the oeprative actually moves vertically)."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "RAID",
+                    "abilityid": "SCAR",
+                    "title": "Scarper",
+                    "description": "After each enemy operative's activation, before the next operative is activated, you can perform a free Dash action with one friendly RATLING operative (excluding BULLGRYN, OGRYN, and SNEAK), \nbut it cannot finish that move within 3\" of an enemy operative unless it is not visible to every enemy operative when it finishes that move.\n<br/>\nEach friendly operative can only do this once per Turning Point, and cannot do so after the final activation of the Turning Point.\nYou  cannot use this rule after consecutive enemy activations during the same Turning Point\n(in other words, after using this rule, you must skip the next opportunity during that Turning Point before you can use it again)."
+                  }
+                ],
+                "edition": "kt24",
+                "fireteammax": 0,
+                "specialisms": ""
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "RAT24",
+                "fireteamid": "RAT24",
+                "opid": "SNP",
+                "opseq": 8,
+                "opname": "Ratling Sniper",
+                "description": "",
+                "M": "5\"",
+                "APL": "2",
+                "GA": "0",
+                "DF": "0",
+                "SV": "5+",
+                "W": "6",
+                "keywords": "RATLING, IMPERIUM, ASTRA MILITARUM, SNIPER",
+                "basesize": 25,
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "SNP",
+                    "wepid": "SR",
+                    "wepseq": 0,
+                    "wepname": "Sniper Rifle",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "SNP",
+                        "wepid": "SR",
+                        "profileid": "0",
+                        "name": "Mobile",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "SNP",
+                        "wepid": "SR",
+                        "profileid": "1",
+                        "name": "Stationary",
+                        "A": "4",
+                        "BS": "2+",
+                        "D": "3/3",
+                        "SR": "Dev3, Hvy"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "SNP",
+                    "wepid": "F",
+                    "wepseq": 0,
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "SNP",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "1/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "SNP",
+                    "abilityid": "SCAR",
+                    "title": "Scarper",
+                    "description": "After each enemy operative's activation, before the next operative is activated, you can perform a free Dash action with one friendly RATLING operative (excluding BULLGRYN, OGRYN, and SNEAK), \nbut it cannot finish that move within 3\" of an enemy operative unless it is not visible to every enemy operative when it finishes that move.\n<br/>\nEach friendly operative can only do this once per Turning Point, and cannot do so after the final activation of the Turning Point.\nYou  cannot use this rule after consecutive enemy activations during the same Turning Point\n(in other words, after using this rule, you must skip the next opportunity during that Turning Point before you can use it again)."
+                  }
+                ],
+                "edition": "kt24",
+                "fireteammax": 0,
+                "specialisms": ""
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "RAT24",
+                "fireteamid": "RAT24",
+                "opid": "VOX",
+                "opseq": 9,
+                "opname": "Ratling Vox-Thief",
+                "description": "",
+                "M": "5\"",
+                "APL": "2",
+                "GA": "0",
+                "DF": "0",
+                "SV": "5+",
+                "W": "6",
+                "keywords": "RATLING, IMPERIUM, ASTRA MILITARUM, VOX-THIEF",
+                "basesize": 25,
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "VOX",
+                    "wepid": "SR",
+                    "wepseq": 0,
+                    "wepname": "Sniper Rifle",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "VOX",
+                        "wepid": "SR",
+                        "profileid": "0",
+                        "name": "Mobile",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": ""
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "VOX",
+                        "wepid": "SR",
+                        "profileid": "1",
+                        "name": "Stationary",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/3",
+                        "SR": "Dev3, Hvy"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "VOX",
+                    "wepid": "F",
+                    "wepseq": 0,
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "VOX",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "1/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "VOX",
+                    "uniqueactionid": "IC",
+                    "title": "Intercept Communications",
+                    "description": "<strong>SUPPORT</strong>\nSelect one other friendly RATLING operative visible to and within 6\" of this operative.\nUntil the end of its next activation, add 1 to that operative's APL stat.\n<br/>\nThis operative cannot perform this action while within Control Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "VOX",
+                    "abilityid": "SCAR",
+                    "title": "Scarper",
+                    "description": "After each enemy operative's activation, before the next operative is activated, you can perform a free Dash action with one friendly RATLING operative (excluding BULLGRYN, OGRYN, and SNEAK), \nbut it cannot finish that move within 3\" of an enemy operative unless it is not visible to every enemy operative when it finishes that move.\n<br/>\nEach friendly operative can only do this once per Turning Point, and cannot do so after the final activation of the Turning Point.\nYou  cannot use this rule after consecutive enemy activations during the same Turning Point\n(in other words, after using this rule, you must skip the next opportunity during that Turning Point before you can use it again)."
+                  }
+                ],
+                "edition": "kt24",
+                "fireteammax": 0,
+                "specialisms": ""
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "RAT24",
+                "fireteamid": "RAT24",
+                "opid": "SNK",
+                "opseq": 10,
+                "opname": "Ratling Sneak",
+                "description": "",
+                "M": "5\"",
+                "APL": "2",
+                "GA": "0",
+                "DF": "0",
+                "SV": "5+",
+                "W": "6",
+                "keywords": "RATLING, IMPERIUM, ASTRA MILITARUM, SNEAK",
+                "basesize": 25,
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "SNK",
+                    "wepid": "SSR",
+                    "wepseq": 0,
+                    "wepname": "Suppressed Sniper Rifle",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "SNK",
+                        "wepid": "SSR",
+                        "profileid": "0",
+                        "name": "Mobile",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": "Silent"
+                      },
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "SNK",
+                        "wepid": "SSR",
+                        "profileid": "1",
+                        "name": "Stationary",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/3",
+                        "SR": "Dev1, Hvy, Silent"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "SNK",
+                    "wepid": "F",
+                    "wepseq": 0,
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "SNK",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "5+",
+                        "D": "1/2",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "SNK",
+                    "uniqueactionid": "OPT",
+                    "title": "Optics",
+                    "description": "Until the start of this operative's next activation, whenever it is shooting, enemy operatives cannot be Obscured.</br>\nThis operative cannot perform this action while within Control Range of an enemy operative.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "SNK",
+                    "abilityid": "EV",
+                    "title": "Evade",
+                    "description": "Once per Turning Point, after an enemy operative performs an action, you can interrupt that action (or counteraction) and perform a free Dash action with this operative.\nNote this operative cannot use the Scarper faction rule (it has this rule instead)."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "SNK",
+                    "abilityid": "SCAR",
+                    "title": "Scarper",
+                    "description": "After each enemy operative's activation, before the next operative is activated, you can perform a free Dash action with one friendly RATLING operative (excluding BULLGRYN, OGRYN, and SNEAK), \nbut it cannot finish that move within 3\" of an enemy operative unless it is not visible to every enemy operative when it finishes that move.\n<br/>\nEach friendly operative can only do this once per Turning Point, and cannot do so after the final activation of the Turning Point.\nYou  cannot use this rule after consecutive enemy activations during the same Turning Point\n(in other words, after using this rule, you must skip the next opportunity during that Turning Point before you can use it again)."
+                  }
+                ],
+                "edition": "kt24",
+                "fireteammax": 0,
+                "specialisms": ""
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "RAT24",
+                "fireteamid": "RAT24",
+                "opid": "OGR",
+                "opseq": 11,
+                "opname": "Ogryn",
+                "description": "",
+                "M": "6\"",
+                "APL": "2",
+                "GA": "0",
+                "DF": "0",
+                "SV": "5+",
+                "W": "16",
+                "keywords": "RATLING, IMPERIUM, ASTRA MILITARUM, OGRYN",
+                "basesize": 40,
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "OGR",
+                    "wepid": "RG",
+                    "wepseq": 0,
+                    "wepname": "Ripper Gun",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "OGR",
+                        "wepid": "RG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": "Rng 8\", Punishing"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "OGR",
+                    "wepid": "B",
+                    "wepseq": 0,
+                    "wepname": "Bayonet",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "OGR",
+                        "wepid": "B",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "OGR",
+                    "abilityid": "BC",
+                    "title": "Bayonet Charge",
+                    "description": "Whenever this operative finishes moving during the Charge action, you can inflict 1D3+1 damage on one enemy operative within its Control Range."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "OGR",
+                    "abilityid": "BRU",
+                    "title": "Brute",
+                    "description": "Whenever your opponent is selecting a valid target, if this operative has a Conceal order, it cannot use Light terrain for cover.\nWhilst this can allow this operative to be targeted (assuming it is visible), it does not remove its cover save (if any)."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "OGR",
+                    "abilityid": "SW",
+                    "title": "Slow-Witted",
+                    "description": "You must spend 1 additional AP for this operative to perform the Pick Up Marker and Mission actions (excluding Operate Hatch)."
+                  }
+                ],
+                "edition": "kt24",
+                "fireteammax": 0,
+                "specialisms": ""
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "RAT24",
+                "fireteamid": "RAT24",
+                "opid": "BULL",
+                "opseq": 12,
+                "opname": "Bullgryn",
+                "description": "",
+                "M": "6\"",
+                "APL": "2",
+                "GA": "0",
+                "DF": "0",
+                "SV": "4+",
+                "W": "16",
+                "keywords": "RATLING, IMPERIUM, ASTRA MILITARUM, BULLGRYN",
+                "basesize": 40,
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "BULL",
+                    "wepid": "GG",
+                    "wepseq": 0,
+                    "wepname": "Grenadier Gauntlet",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "BULL",
+                        "wepid": "GG",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "3/5",
+                        "SR": "Blast 2\""
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "BULL",
+                    "wepid": "PM",
+                    "wepseq": 0,
+                    "wepname": "Power Maul",
+                    "weptype": "M",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "BULL",
+                        "wepid": "PM",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/6",
+                        "SR": "Shock"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "BULL",
+                    "wepid": "BS",
+                    "wepseq": 0,
+                    "wepname": "Brute Shield",
+                    "weptype": "M",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "BULL",
+                        "wepid": "BS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "BULL",
+                    "wepid": "SS",
+                    "wepseq": 0,
+                    "wepname": "Slabshield",
+                    "weptype": "M",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "BULL",
+                        "wepid": "SS",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "4+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": false
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "BULL",
+                    "abilityid": "BRU",
+                    "title": "Brute",
+                    "description": "Whenever your opponent is selecting a valid target, if this operative has a Conceal order, it cannot use Light terrain for cover.\nWhilst this can allow this operative to be targeted (assuming it is visible), it does not remove its cover save (if any)."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "BULL",
+                    "abilityid": "SH",
+                    "title": "Shield",
+                    "description": "If this operative has a Slabshield, it has a 3+ Save stat;\nif it has a Brute Shield, whenever it is fighting or retaliating, each of your blocks can be allocated to block two unresolved successes (instead of one)."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "BULL",
+                    "abilityid": "SW",
+                    "title": "Slow-Witted",
+                    "description": "You must spend 1 additional AP for this operative to perform the Pick Up Marker and Mission actions (excluding Operate Hatch)."
+                  }
+                ],
+                "edition": "kt24",
+                "fireteammax": 0,
+                "specialisms": ""
+              },
+              {
+                "factionid": "IMP",
+                "killteamid": "RAT24",
+                "fireteamid": "RAT24",
+                "opid": "MUTT",
+                "opseq": 13,
+                "opname": "Ratling Battlemutt",
+                "description": "",
+                "M": "6\"",
+                "APL": "2",
+                "GA": "0",
+                "DF": "0",
+                "SV": "5+",
+                "W": "4",
+                "keywords": "RATLING, IMPERIUM, ASTRA MILITARUM, BATTLEMUTT",
+                "basesize": 25,
+                "weapons": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "MUTT",
+                    "wepid": "B",
+                    "wepseq": 0,
+                    "wepname": "Bite",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "IMP",
+                        "killteamid": "RAT24",
+                        "fireteamid": "RAT24",
+                        "opid": "MUTT",
+                        "wepid": "B",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "2/4",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "MUTT",
+                    "abilityid": "BST",
+                    "title": "Beast",
+                    "description": "This operative cannot perform any actions other than Charge, Dash, Fall Back, Fight, and Reposition.\nIt cannot use any weapons that are not on its datacard."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "MUTT",
+                    "abilityid": "EQ",
+                    "title": "Early Warning",
+                    "description": "Once per Turning Point, after an enemy operative performs an action in which it moves, you can interrupt that activation (or counteraction) to use this rule.\nIf you do, each friendly RATLING operative (excluding OGRYN and BULLGRYN) within 6\" of this operative and within 2\" of that enemy operative can perform a free Dash action or a free Fall Back action, but it cannot move more than 3\".\nIn either case, each one cannot finish that move within 3\" of an enemy operative unless it is not visible to every enemy operative when it finishes that move (if this is not possible for an operative, it cannot move)."
+                  },
+                  {
+                    "factionid": "IMP",
+                    "killteamid": "RAT24",
+                    "fireteamid": "RAT24",
+                    "opid": "MUTT",
+                    "abilityid": "SCAR",
+                    "title": "Scarper",
+                    "description": "After each enemy operative's activation, before the next operative is activated, you can perform a free Dash action with one friendly RATLING operative (excluding BULLGRYN, OGRYN, and SNEAK), \nbut it cannot finish that move within 3\" of an enemy operative unless it is not visible to every enemy operative when it finishes that move.\n<br/>\nEach friendly operative can only do this once per Turning Point, and cannot do so after the final activation of the Turning Point.\nYou  cannot use this rule after consecutive enemy activations during the same Turning Point\n(in other words, after using this rule, you must skip the next opportunity during that Turning Point before you can use it again)."
+                  }
+                ],
+                "edition": "kt24",
+                "fireteammax": 0,
+                "specialisms": ""
+              }
+            ],
+            "fireteamcomp": ""
+          }
+        ],
+        "tacops": [
+          {
+            "tacopid": "ZZZ-INF-01",
+            "archetype": "Infiltration",
+            "tacopseq": 1,
+            "title": "Implant",
+            "description": "<em>TACOP</em><br/>\r <strong>Reveal: </strong> When you first score VP from this op.<br/><br/>\r <strong>Additional Rules:</strong><br/>\r Whenever a friendly operative is fighting, when you would resolve an attack dice, you can implant the enemy operative instead of striking or blocking (then discard that dice).<br/>\r Whenever a friendly operative is shooting an enemy operative within 6\" of it, when you would resolve an attack dice, you can instead implant the enemy operative instead of inflicting damage with that dice.<br/>\r Each operative can only be implanted once, and cannot be implanted during the first turning point.<br/><br/>\r <strong>Victory Points:</strong><br/>\r Once per turning point after the first, if you implant an enemy operative, you score 1VP.<br/>\r At the end of each turning point after the first, if any implanted enemy operatives are in the killzone, you score 1 VP.",
+            "edition": "kt24"
+          },
+          {
+            "tacopid": "ZZZ-INF-02",
+            "archetype": "Infiltration",
+            "tacopseq": 2,
+            "title": "Surveillance",
+            "description": "<em>TACOP</em><br/>\r <strong>Reveal: </strong> The first time a friendly operative performs the Surveillance Action.<br/><br/>\r <strong>Mission Action: Surveillance (1 AP)</strong><br/>\r The active operative has gathered surveillance.\r <ul>\r <li>An operative cannot perform this action while it has an Engage order. It must be wholly within your opponent's territory to perform this action, and there must be an enemy operative that is a valid target for it.</li>\r <li>An operative cannot perform this action during the first turning point, or while within control range of an enemy operative.</li>\r </ul><br/>\r <strong>Victory Points:</strong><br/>\r Once per turning point after the first, if a friendly operative performs the Surveillance action, you score 1 VP.<br/>\r At the end of each turning point after the first, if a friendly operative has performed the Surveillance action during that turning point is in the killzone and has a conceal order, you score 1 VP",
+            "edition": "kt24"
+          },
+          {
+            "tacopid": "ZZZ-INF-03",
+            "archetype": "Infiltration",
+            "tacopseq": 3,
+            "title": "Wiretap",
+            "description": "<em>TACOP</em><br/>\n<strong>Reveal: </strong> The first time a friendly operative performs the Wiretap Action.<br/><br/>\n<strong>Mission Action: Wiretap (1 AP)</strong><br/>\nPlace one of your Wiretap mission markers within the active operative's control range.\nIn the ready step of the next Strategy phase, remove that marker.<br/>\nAn operative cannot perform this action during the first turning point, while within control range of an enemy operative, during an activation in which it was set up, or if a friendly operative has already performed this\naction during the turning point.<br/><br/>\n<strong>Victory Points:</strong><br/>\nOnce per tuning point after the first, whenever an enemy operative starts or ends an action within 2\" of your Wiretap mission marker, you score 1 VP.<br/>\nAt the end of each turning point after the first, if any enemy operatives with an Engage order are within 2\" of your Wiretap mission marker, you score 1 VP.",
+            "edition": "kt24"
+          },
+          {
+            "tacopid": "ZZZ-SEC-01",
+            "archetype": "Security",
+            "tacopseq": 1,
+            "title": "Contain",
+            "description": "<em>TACOP</em><br/>\n<strong>Reveal:</strong> When you first score VP from this op.<br/><br/>\n<strong>Victory Points:</strong><br/>\nAt the end of each turning point after the first:<br/>\n- If there are no enemy operatives wholly within your territory, you score 1 VP.<br/>\n- If there are no enemy operatives wholly within 6\" of your drop zone, you score 1 VP.",
+            "edition": "kt24"
+          },
+          {
+            "tacopid": "ZZZ-SEC-02",
+            "archetype": "Security",
+            "tacopseq": 2,
+            "title": "Secure Centre",
+            "description": "<em>TACOP</em><br/>\n<strong>Reveal:</strong> When you first score VP from this op.<br/><br/>\n<strong>Victory Points:</strong><br/>\nAt the end of each turning point after the first:<br/>\n- If the total APL of friendly operatives within 3\" of the centre of the killzone is greater than that of enemy operatives, you score 1VP.<br/>\n- If the total APL of friendly operatives on the centreline but more than 3\" from the centre of the killzone is greater than that of enemy operatives, you score 1VP.",
+            "edition": "kt24"
+          },
+          {
+            "tacopid": "ZZZ-SEC-03",
+            "archetype": "Security",
+            "tacopseq": 3,
+            "title": "Take Ground",
+            "description": "<em>TACOP</em><br/>\n<strong>Reveal:</strong> When you first score VP from this op.<br/><br/>\n<strong>Victory Points:</strong><br/>\nAt the end of each turning point after the first:\n<ul>\n<li>In Killzone Volkus: if friendly operatives control any stronghold terrain features within your opponent's territory, you score 2VP; for each ruin (Large or small) terrain feature within your opponent's territory that friendly operatives control, you score 1 VP.</li>\n<li>In Killzone Gallowdark, for each access point you control that is on the centreline or within your opponent's territory that friendly operatives control, you score 1 VP.</li>\n<li>In any other kill zone, for each terrain feature with Heavy terrain within your opponent's territory that Friendly operatives control, you score 1 VP.</li>\nYou can score a maximum of 2VP form this op per turning point.<br/>\nAn operative contests a stronghold terrain feature it is wholly within.\nAn operative contests all other terrain features within their control range, or while underneath a terrain feature's Vantage terrain.\nFriendly operative control each such terrain feature if the total APL stat of those contesting it is greater than that of enemy operatives.",
+            "edition": "kt24"
+          }
+        ]
+      },
+      {
+        "factionid": "IMP",
         "killteamid": "SCT24",
         "edition": "kt24",
         "killteamname": "Scout Squad",
@@ -29528,6 +31545,1362 @@
             "tacopseq": 3,
             "title": "Storm Objectives",
             "description": "<em>TACOP</em><br/>\n<strong>Reveal:</strong> When you first score VP from this op.<br/><br/>\n<strong>Additional Rules:</strong><br/>\nAt the end of each friendly operative's activation, if it controls an objective marker that enemy operatives controlled at the start of that activation or that is wholly within your opponent's territory,\nand that objective marker is not contested by enemy operatives, that objective marker is stormed by friendly operatives this turning point.<br/><br/>\n<strong>Victory Points:</strong><br/>\nOnce per turning point after the first, if an objective marker is stormed by Friendly operatives this turning point, you score 1VP.<br/>\nAt the end of each turning point after the first, if friendly operatives control an objective marker that was stormed by friendly operatives this turning point, you score 1VP.",
+            "edition": "kt24"
+          }
+        ]
+      },
+      {
+        "factionid": "ORK",
+        "killteamid": "WK24",
+        "edition": "kt24",
+        "killteamname": "Wrecka Krew",
+        "description": "Wrecka Crews are infamous Ork Kill Team Units, that love to commit explosive combat during their murderous rampages.\r They are considered the best of their species and are larger and stronger than the typical Ork. Wrecka Crews also make use of weapons that create explosions and the thought of this empowers them to become Tanked Up and ready to fight. These attributes and their use of 'eavy Armour, makes the Wrecka Crews incredibly durable and deadly in battle.",
+        "customkeyword": "",
+        "ploys": {
+          "strat": [
+            {
+              "factionid": "ORK",
+              "killteamid": "WK24",
+              "ployid": "AMP",
+              "ployname": "Amped Up",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Each friendly WRECKA KREW operative that has an Engage order can immediately reagin 1D3+1 lost Wounds (roll separately for each)."
+            },
+            {
+              "factionid": "ORK",
+              "killteamid": "WK24",
+              "ployid": "DES",
+              "ployname": "Destruction",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Friendly WRECKA KREW operatives' ranged weapons have the Saturate weapon rule."
+            },
+            {
+              "factionid": "ORK",
+              "killteamid": "WK24",
+              "ployid": "TG",
+              "ployname": "Tuff Gitz",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Whenever an operative is shooting a friendly WRECKA KREW operative that has an Engage order, you can re-roll one of your Defense dice."
+            },
+            {
+              "factionid": "ORK",
+              "killteamid": "WK24",
+              "ployid": "WAAAGH",
+              "ployname": "WAAAGH!",
+              "ploytype": "S",
+              "CP": "1",
+              "description": "Friendly WRECKA KREW operatives' melee weapons have the Balanced weapon rule."
+            }
+          ],
+          "tac": [
+            {
+              "factionid": "ORK",
+              "killteamid": "WK24",
+              "ployid": "DEMO",
+              "ployname": "Demolition Job",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Firefight ploy after a friendly WRECKA KREW operative performs the Fight or Shoot action; just before incapacitated operatives are removed (if any).\nPlace one of your Demolition markers within the target's Control Range (if it is using a Blast weapon, the primary target).\nWhenever a friendly WRECKA KREW operative (excluding BOMB SQUIG) is shooting against, fighting against, or retaliating against an operative that is within 3\" of that marker,\nyou can spend a Wrecka Point for free (even if you have none).\nIn the Ready step of the next Strategy phase, remove that marker."
+            },
+            {
+              "factionid": "ORK",
+              "killteamid": "WK24",
+              "ployid": "JSA",
+              "ployname": "Just A Scratch",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Firefight ploy when an attack die inflicts Normal dmg on a friendly WRECKA KREW operative (excluding BOMB SQUIG).\nIgnore that inflicted damage."
+            },
+            {
+              "factionid": "ORK",
+              "killteamid": "WK24",
+              "ployid": "KB",
+              "ployname": "Kaboom!",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Firefight ploy when a friendly WRECKA KREW operative performs the Shoot action and a weapon with the Blast weapon rule is selected.\nUntil the end of that action, add 1\" to that weapons' Blast and it has the Severe weapon rule when shooting the primary target.\nYou cannot use this ploy and the Drill Rokkit rule (see equipment) during the same action.\nNote that Sever does not generate a Wrecka point (as it is not a 6)."
+            },
+            {
+              "factionid": "ORK",
+              "killteamid": "WK24",
+              "ployid": "PS",
+              "ployname": "Proppa Scrap",
+              "ploytype": "T",
+              "CP": "1",
+              "description": "Use this Firefight ploy during a friendly WRECKA KREW BREAKA BOY or WRECKA KREW BOSS NOB operative's activation.\nDuring that activation, that operative can perform two Fight actions."
+            }
+          ]
+        },
+        "equipments": [
+          {
+            "factionid": "ORK",
+            "killteamid": "WK24",
+            "eqid": "DR",
+            "eqname": "Drill Rokkits",
+            "eqdescription": "Once per Turning Point, whenever a friendly WRECKA KREW operative is performing the Shoot action and you select a Rokkit Launcha or 'Eavy Rokkit Launcha, you can use this rule.\nIf you do, until the end of that action, that weapon loses the Blast weapon rule but has the Piercing 1 weapon rule.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 1
+          },
+          {
+            "factionid": "ORK",
+            "killteamid": "WK24",
+            "eqid": "EO",
+            "eqname": "Engine Oil",
+            "eqdescription": "Once per Turning Point, whenever a friendly WRECKA KREW operative (excluding BOMB SQUIG) is activated, you can use this rule.\nIf you do, until the end of that activation, you can ignore any changes to that operative's stats from being injured (including its weapons' stats).",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 2
+          },
+          {
+            "factionid": "ORK",
+            "killteamid": "WK24",
+            "eqid": "GL",
+            "eqname": "Glyphs",
+            "eqdescription": "When this item of equipment is selected, also select the Waaagh! or Destruction strategy ploy.\nThe first time you would use that ploy during the battle, it costs 0CP; whenever you would use it thereafter, it costs 0CP if you have any Wrecka points.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 3
+          },
+          {
+            "factionid": "ORK",
+            "killteamid": "WK24",
+            "eqid": "EA",
+            "eqname": "Extra Armour",
+            "eqdescription": "Subtract 1\" from the Move stat of friendly WRECKA KREW operatives and add 1 to their Wounds stat. This excludes BOMB SQUIG operatives.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 4
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-AC",
+            "eqname": "Ammo Cache",
+            "eqdescription": "Before the battle, you can set up one of your Ammo Cache markers wholly within your territory. Friendly operatives can perform the following mission action during the battle:\r <strong>AMMO RESUPPLY (0 AP):</strong> One of your Ammo Cache markers the active operative controls is used during this turning point.<br/>\r Until the start of the next turning point, whenever this operative is shooting with a weapon from its datacard, you can re-roll one of your attack dice.</br>\r An operative cannot perform this action while within control range of an enemy operative, if that marker is not yours, or if that marker has been used this turning point.",
+            "eqpts": "0",
+            "eqtype": "Action",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 601
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-RW",
+            "eqname": "Razor Wire",
+            "eqdescription": "Razor wire is Exposed and Obstructing terrain. Before the battle, you can set it up wholly within your territory, on the killzone floor and more than 2\" from other equipment terrain features, access points, and Accessible terrain.<br/>\r Obstructing: Whenever an operative would cross over this terrain feature within 1\" of it, treat the distance as an additional 1\".",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 602
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-CD",
+            "eqname": "Comms Device",
+            "eqdescription": "Before the battle, you can set up one of your Comms Device markers wholly within your territory.\nWhile a friendly operative controls this marker, add 3\" to the distance requirements of its SUPPORT rules that refer to friendly operatives\n(e.g. ‘select one friendly operative within 6\"’ would be 9\" instead).\nNote that you cannot benefit from your opponent's Comms Device markers.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 603
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-MN",
+            "eqname": "Mines",
+            "eqdescription": "Before the battle, you can set up one of your Mines markers wholly within your territory and more than 2\" from other markers, access points, and Accessible terrain.\r The first time that marker is within an operative's control range, remove that marker and inflict D3+3 damage on that operative.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 604
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-LB",
+            "eqname": "Light Barricades",
+            "eqdescription": "Light barricades are Light terrain, except the feet, which are Insignificant and Exposed. Before the battle, you can set up any of them wholly within your territory, on the killzone floor and more than 2\" from other markers, access points, and Accessible terrain.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 605
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-HB",
+            "eqname": "Heavy Barricade",
+            "eqdescription": "A heavy barricade is Heavy terrain. Before the battle, you can set it up wholly within 2\" of your drop zone, on the killzone floor and more than 2\" from other equipment terrain features, access points, and Accessible terrain.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 606
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-LAD",
+            "eqname": "Ladders",
+            "eqdescription": "Ladders are Exposed terrain. Before the battle, you can set up any of them as follows:\r <ul>\r <li>Wholly within your territory.</li>\r <li>Upright against terrain that is at least 2\" tall.</li>\r <li>More than 2\" from other equipment terrain features.</li>\r <li>More than 1\" from doors and access points.</li>\r </ul>\r In addition, an operative can either move through ladders as if they aren’t there (but cannot finish on them), or climb them.\r Once per action, whenever an operative is climbing this terrain feature, treat the vertical distance as 1\".\r Note that if an operative then continues climbing another terrain feature during that action (including another ladder), that distance is determined as normal.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 607
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-PB",
+            "eqname": "Portable Barricade",
+            "eqdescription": "A portable barricade is Light, Protective and Portable terrain.\r Before the battle, you can set it up wholly within your territory, on the killzone floor and more than 2\" from other equipment terrain features, access points, and Accessible terrain.\r <br/>\r <strong>Protective:</strong> While an operative is in cover from this terrain feature, improve its Save stat by 1 (to a maximum of 2+).<br/>\r <strong>Portable:</strong> This terrain feature only provides cover while an operative is connected to it and if the shield is intervening (ignore its feet).\r Operatives connected to the inside of it can perform the following unique action during the battle:<br/>\r <strong>Move With Barricade (1 AP):</strong>\r The same as the Reposition action, except the active operative can move no more than its Move stat minus 2\" and cannot climb, drop, jump, or use any killteam's rules that remove it and set it back up again (e.gh. HEARTHKYN SALVAGER Fly, MANDRAKE Shadow Passage).<br/>\r Before this operative moves, remove the portable barricade it is connected to. After it moves, set up the portable barricade so it is connected again.<br/>\r This action is treated as a Reposition action. An operative cannot perform this action while within control range of an enemy operative, or in the same activation in which it performed the Fall Back or Charge action.",
+            "eqpts": "0",
+            "eqtype": "Ability",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 608
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-UG-SMK",
+            "eqname": "Utility Grenade - Smoke",
+            "eqdescription": "When you select this equipment, select two utility grenades (2 smoke, 2 stun, or 1 smoke and 1 stun).\nEach selection is a unique action your operatives can perform, but your kill team can only perform that action a total number of times during the battle equal to your selection.\n<br/>\n<strong>SMOKE GRENADE (1 AP):</strong><br/>\n<ul>\n<li>Place one of your Smoke Grenade markers within 6\" of this operative. It must be visible to this operative,\nor on Vantage terrain of a terrain feature that is visible to this operative. The marker creates an area of smoke 1\" horizontally and unlimited height vertically from (but not below) it.</li>\n<li>While an operative is wholly within an area of smoke, it is obscured to operatives more than 2\" from it, and vice versa.\nIn addition, whenever an operative is shooting an enemy operative wholly within an area of smoke, ignore the Piercing weapon rule unless they are within 2\" of each other.</li>\n<li>In the Ready step of the next Strategy phase, roll one D3. Remove that Smoke Grenade marker after a number of activations equal to that D3 have been completed\nor at the end of the turning point (whichever comes first).</li>\n<li>An operative cannot perform this action while within control range of an enemy operative, or if you have reached the total number of times your kill team can perform it.</li>\n</ul>",
+            "eqpts": "0",
+            "eqtype": "Action",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 609
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-UG-STN",
+            "eqname": "Utility Grenade - Stun",
+            "eqdescription": "When you select this equipment, select two utility grenades (2 smoke, 2 stun, or 1 smoke and 1 stun).\nEach selection is a unique action your operatives can perform, but your kill team can only perform that action a total number of times during the battle equal to your selection.\n<br/>\n<strong>STUN GRENADE (1 AP):</strong><br/>\n<ul>\n<li>Select one enemy operative visible to and within 6\" of this operative. That operative and each other operative within 1\" of it takes a stun test. For an operative to take a stun test, roll one D6: on a 3+, subtract 1 from its APL stat until the end of its next activation.</li>\n<li>An operative cannot perform this action while within control range of an enemy operative, or if you have reached the total number of times your kill team can perform it.</li>\n</ul>",
+            "eqpts": "0",
+            "eqtype": "Action",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 609
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-XG-FRAG",
+            "eqname": "Explosive Grenade - Frag",
+            "eqdescription": "When you select this equipment, select two explosive grenades (2 frag, 2 krak, or 1 frag and 1 krak).\n<table class=\"eqtable\">\n<tr>\n<th>Name</th><th>A</th><th>BS</th><th>D</th><th>\n</tr>\n<tr>\n<td>Frag Grenade</td><td>4</td><td>4+</td><td>2/4</td>\n</tr>\n<tr>\n<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n<td>Rng 6\", Blast 2\", Saturate</td>\n</tr>\n</table>",
+            "eqpts": "0",
+            "eqtype": "Weapon",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 610,
+            "weapon": {
+              "factionid": "kt24",
+              "killteamid": "ALL",
+              "fireteamid": "EQ",
+              "opid": "EQ",
+              "wepid": "UE-XG-FRAG",
+              "wepseq": 0,
+              "wepname": "Frag Grenade",
+              "weptype": "R",
+              "isdefault": 0,
+              "profiles": [
+                {
+                  "factionid": "kt24",
+                  "killteamid": "ALL",
+                  "fireteamid": "EQ",
+                  "opid": "EQ",
+                  "wepid": "UE-XG-FRAG",
+                  "profileid": "0",
+                  "name": "",
+                  "A": "4",
+                  "BS": "4+",
+                  "D": "2/4",
+                  "SR": "Rng 6\", Blast 2\", Saturate"
+                }
+              ]
+            }
+          },
+          {
+            "factionid": "kt24",
+            "killteamid": "ALL",
+            "eqid": "UE-XG-KRAK",
+            "eqname": "Explosive Grenade - Krak",
+            "eqdescription": "When you select this equipment, select two explosive grenades (2 frag, 2 krak, or 1 frag and 1 krak).\n<table class=\"eqtable\">\n<tr>\n<th>Name</th><th>A</th><th>BS</th><th>D</th><th>\n</tr>\n<tr>\n<td>Krak Grenade</td><td>4</td><td>4+</td><td>4/5</td>\n</tr>\n<tr>\n<th colspan=\"4\">Special Rules</th>\n</tr>\n<tr>\n<td>Rng 6\", Piercing 1, Saturate</td>\n</tr>\n</table>",
+            "eqpts": "0",
+            "eqtype": "Weapon",
+            "eqvar1": "",
+            "eqvar2": "",
+            "eqvar3": "",
+            "eqvar4": "",
+            "eqcategory": "Universal Equipment",
+            "fireteamid": "",
+            "opid": "",
+            "eqseq": 610,
+            "weapon": {
+              "factionid": "kt24",
+              "killteamid": "ALL",
+              "fireteamid": "EQ",
+              "opid": "EQ",
+              "wepid": "UE-XG-KRAK",
+              "wepseq": 0,
+              "wepname": "Krak Grenade",
+              "weptype": "R",
+              "isdefault": 0,
+              "profiles": [
+                {
+                  "factionid": "kt24",
+                  "killteamid": "ALL",
+                  "fireteamid": "EQ",
+                  "opid": "EQ",
+                  "wepid": "UE-XG-KRAK",
+                  "profileid": "0",
+                  "name": "",
+                  "A": "4",
+                  "BS": "4+",
+                  "D": "4/5",
+                  "SR": "Rng 6\", Prc1, Saturate"
+                }
+              ]
+            }
+          }
+        ],
+        "killteamcomp": "A WRECKA KREW KillTeam is composed of:\n<ul>\n\t<li>\n\t\t1 WRECKA KREW BOSS NOB operative with one of the following options:\n\t\t<ul>\n\t\t\t<li>Rokkit Pistol; Smash Hammer</li>\n\t\t\t<li>Two Rokkit Pistols; Choppa</li>\n\t\t</ul>\n\t<li>\n\t<li>\n\t\t2 WRECKA KREW BOMB SQUIG operatives\n\t</li>\n\t<li>\n\t\t5 WRECKA KREW operatives selected from the following list:\n\t\t<ul>\n\t\t\t<li>BREAKA BOY DEMOLISHA</li>\n\t\t\t<li>BREAKA BOY FIGHTER</li>\n\t\t\t<li>BREAKA BOY KRUSHA</li>\n\t\t\t<li>\n\t\t\t\tTANKBUSTA GUNNER with one of the following options:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>'Eavy Rokkit Launcha; Fists</li>\n\t\t\t\t\t<li>Rokkit Launcha; Fists</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tTANKBUSTA ROKKITEER with one of the following options:\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Rokkit Launcha; Pusla Rokkit; Fists</li>\n\t\t\t\t\t<li>Rokkit Launcha; Rokkit Rack; Fists</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n\t</li>\n</ul>\n\nOther than BOMB SQUIG, BREAKA BOY FIGHTER, and TANKBUSTA GUNNER operatives, your KillTeam can only include each operative above once.",
+        "fireteams": [
+          {
+            "factionid": "ORK",
+            "killteamid": "WK24",
+            "fireteamid": "WK24",
+            "seq": 0,
+            "fireteamname": "Wrecka Krew",
+            "archetype": "Seek And Destroy/Security",
+            "description": "",
+            "killteammax": 0,
+            "operatives": [
+              {
+                "factionid": "ORK",
+                "killteamid": "WK24",
+                "fireteamid": "WK24",
+                "opid": "NOB",
+                "opseq": 1,
+                "opname": "Wrecka Boss Nob",
+                "description": "",
+                "M": "6\"",
+                "APL": "2",
+                "GA": "0",
+                "DF": "0",
+                "SV": "4+",
+                "W": "14",
+                "keywords": "WRECKA KREW, ORK, LEADER, BOSS NOB",
+                "basesize": 40,
+                "weapons": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "NOB",
+                    "wepid": "RP",
+                    "wepseq": 0,
+                    "wepname": "Rokkit Pistol",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "WK24",
+                        "fireteamid": "WK24",
+                        "opid": "NOB",
+                        "wepid": "RP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "6",
+                        "BS": "5+",
+                        "D": "4/5",
+                        "SR": "Rng 8\", Blast 1\""
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "NOB",
+                    "wepid": "2RP",
+                    "wepseq": 0,
+                    "wepname": "Two Rokkit Pistols",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "WK24",
+                        "fireteamid": "WK24",
+                        "opid": "NOB",
+                        "wepid": "2RP",
+                        "profileid": "0",
+                        "name": "Focused",
+                        "A": "6",
+                        "BS": "4+",
+                        "D": "4/5",
+                        "SR": "Rng 8\", Blast 1\", Ceaseless"
+                      },
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "WK24",
+                        "fireteamid": "WK24",
+                        "opid": "NOB",
+                        "wepid": "2RP",
+                        "profileid": "1",
+                        "name": "Salvo",
+                        "A": "6",
+                        "BS": "5+",
+                        "D": "4/5",
+                        "SR": "Rng 8\", Blast 1\", *Salvo"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "NOB",
+                    "wepid": "CHOP",
+                    "wepseq": 0,
+                    "wepname": "Choppa",
+                    "weptype": "M",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "WK24",
+                        "fireteamid": "WK24",
+                        "opid": "NOB",
+                        "wepid": "CHOP",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "NOB",
+                    "wepid": "SH",
+                    "wepseq": 0,
+                    "wepname": "Smash Hammer",
+                    "weptype": "M",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "WK24",
+                        "fireteamid": "WK24",
+                        "opid": "NOB",
+                        "wepid": "SH",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "5/6",
+                        "SR": "Brutal"
+                      }
+                    ],
+                    "isselected": false
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "NOB",
+                    "abilityid": "BOSS",
+                    "title": "Wrecka Boss",
+                    "description": "Whenever this operative performs a Fight or Shoot action (excluding Guard), you gain 1 Wrecka point."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "NOB",
+                    "abilityid": "RAMP",
+                    "title": "Wrecka Rampage",
+                    "description": "Whenever a friendly WRECKA KREW operative is shooting, fighting, or retaliating, in the Roll Attack Dice step:\n<ul>\n<li>For each attack die result of 6 you retain, you gain one Wrecka point</li>\n<li>You can spend up to 3 of your Wrecka points (unless it's a BOMB SQUIG). For each point you spend this way, retain one of your fails as a normal success instead of discarding it</li>\n</ul>\nYou cannot have more than 6 Wrecka points at once.\nIf you start an action with 6 Wrecka points, you cannot gain any more during that action."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "NOB",
+                    "abilityid": "SALVO",
+                    "title": "*Salvo",
+                    "description": "Select up to two valid targets. Shoot this weapon against both primary targets in an order of your choice, then against all remaining secondary targets in the same manner (roll each sequence separately).\nEach target (primary or secondary) cannot be shot more than once during the action."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "NOB",
+                    "abilityid": "TU",
+                    "title": "Tanked Up",
+                    "description": "Whenever a friendly WRECKA KREW operative (excluding BOMB SQUIG) that has an Engage order performs the Fight or Shoot action (excluding Guard), add 1 to its APL stat until the start of its next activation."
+                  }
+                ],
+                "edition": "kt24",
+                "fireteammax": 1,
+                "specialisms": ""
+              },
+              {
+                "factionid": "ORK",
+                "killteamid": "WK24",
+                "fireteamid": "WK24",
+                "opid": "BBFTR",
+                "opseq": 2,
+                "opname": "Breaka Boy Fighter",
+                "description": "",
+                "M": "6\"",
+                "APL": "2",
+                "GA": "0",
+                "DF": "0",
+                "SV": "4+",
+                "W": "12",
+                "keywords": "WRECKA KREW, ORK, BREAKA BOY, FIGHTER",
+                "basesize": 32,
+                "weapons": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "BBFTR",
+                    "wepid": "SH",
+                    "wepseq": 0,
+                    "wepname": "Smash Hammer",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "WK24",
+                        "fireteamid": "WK24",
+                        "opid": "BBFTR",
+                        "wepid": "SH",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "5/6",
+                        "SR": "Brutal"
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "BBFTR",
+                    "uniqueactionid": "BS",
+                    "title": "Break Stuff",
+                    "description": "Select a terrain feature within this operative's control range.\nIf it is Equipment terrain, remove it. Otherwise, place one of your Breach markers within this operative's control range as close as possible to that terrain.\nWhenever an operative is within 1\" of that marker, it treats parts of that terrain feature that are no more than 1\" thick as Accessible terrain.<br/>\nThis operative cannot perform this action while within Control Range of an enemy operative, or if a terrain feature is not within its Control Range.",
+                    "AP": 1
+                  }
+                ],
+                "abilities": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "BBFTR",
+                    "abilityid": "RAMP",
+                    "title": "Wrecka Rampage",
+                    "description": "Whenever a friendly WRECKA KREW operative is shooting, fighting, or retaliating, in the Roll Attack Dice step:\n<ul>\n<li>For each attack die result of 6 you retain, you gain one Wrecka point</li>\n<li>You can spend up to 3 of your Wrecka points (unless it's a BOMB SQUIG). For each point you spend this way, retain one of your fails as a normal success instead of discarding it</li>\n</ul>\nYou cannot have more than 6 Wrecka points at once.\nIf you start an action with 6 Wrecka points, you cannot gain any more during that action."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "BBFTR",
+                    "abilityid": "TU",
+                    "title": "Tanked Up",
+                    "description": "Whenever a friendly WRECKA KREW operative (excluding BOMB SQUIG) that has an Engage order performs the Fight or Shoot action (excluding Guard), add 1 to its APL stat until the start of its next activation."
+                  }
+                ],
+                "edition": "kt24",
+                "fireteammax": 0,
+                "specialisms": ""
+              },
+              {
+                "factionid": "ORK",
+                "killteamid": "WK24",
+                "fireteamid": "WK24",
+                "opid": "BBDEMO",
+                "opseq": 3,
+                "opname": "Breaka Boy Demolisha",
+                "description": "",
+                "M": "6\"",
+                "APL": "2",
+                "GA": "0",
+                "DF": "0",
+                "SV": "4+",
+                "W": "12",
+                "keywords": "WRECKA KREW, ORK, BREAKA BOY, DEMOLISHA",
+                "basesize": 32,
+                "weapons": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "BBDEMO",
+                    "wepid": "TH",
+                    "wepseq": 0,
+                    "wepname": "Tankhammer",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "WK24",
+                        "fireteamid": "WK24",
+                        "opid": "BBDEMO",
+                        "wepid": "TH",
+                        "profileid": "0",
+                        "name": "Bash",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "4/5",
+                        "SR": ""
+                      },
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "WK24",
+                        "fireteamid": "WK24",
+                        "opid": "BBDEMO",
+                        "wepid": "TH",
+                        "profileid": "1",
+                        "name": "Detonate",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "*",
+                        "SR": "Lethal 5+, Lim 1, *Detonate"
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "BBDEMO",
+                    "abilityid": "DET",
+                    "title": "*Detonate",
+                    "description": "The first time this operative would inflict damage on an enemy operative with this weapon profile during the battle,\nseparately inflict 1D6+6 damage on that operative and each other operative within that enemy operative's control range if it is a Normal success,\nor 2D6+6 damage if it is a Critical success.\nThen the action ends and you gain 1 Wrecka point, plus 1 for each operative that was incapacitated during that action."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "BBDEMO",
+                    "abilityid": "RAMP",
+                    "title": "Wrecka Rampage",
+                    "description": "Whenever a friendly WRECKA KREW operative is shooting, fighting, or retaliating, in the Roll Attack Dice step:\n<ul>\n<li>For each attack die result of 6 you retain, you gain one Wrecka point</li>\n<li>You can spend up to 3 of your Wrecka points (unless it's a BOMB SQUIG). For each point you spend this way, retain one of your fails as a normal success instead of discarding it</li>\n</ul>\nYou cannot have more than 6 Wrecka points at once.\nIf you start an action with 6 Wrecka points, you cannot gain any more during that action."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "BBDEMO",
+                    "abilityid": "RT",
+                    "title": "Reckless Temperament",
+                    "description": "Normal Dmg of 4 or more inflicts 1 less damage on this operative; if this operative has an Engage order, Critical Dmg or 4 or more also inflicts 1 less damage on this operative."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "BBDEMO",
+                    "abilityid": "TU",
+                    "title": "Tanked Up",
+                    "description": "Whenever a friendly WRECKA KREW operative (excluding BOMB SQUIG) that has an Engage order performs the Fight or Shoot action (excluding Guard), add 1 to its APL stat until the start of its next activation."
+                  }
+                ],
+                "edition": "kt24",
+                "fireteammax": 0,
+                "specialisms": ""
+              },
+              {
+                "factionid": "ORK",
+                "killteamid": "WK24",
+                "fireteamid": "WK24",
+                "opid": "BBKRU",
+                "opseq": 4,
+                "opname": "Breaka Boy Krusha",
+                "description": "",
+                "M": "6\"",
+                "APL": "2",
+                "GA": "0",
+                "DF": "0",
+                "SV": "4+",
+                "W": "12",
+                "keywords": "WRECKA KREW, ORK, BREAKA BOY, KRUSHA",
+                "basesize": 32,
+                "weapons": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "BBKRU",
+                    "wepid": "KB",
+                    "wepseq": 0,
+                    "wepname": "Knucklebustas",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "WK24",
+                        "fireteamid": "WK24",
+                        "opid": "BBKRU",
+                        "wepid": "KB",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "4",
+                        "BS": "3+",
+                        "D": "5/6",
+                        "SR": "Brutal, Shock, *Smash"
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "BBKRU",
+                    "abilityid": "RAMP",
+                    "title": "Wrecka Rampage",
+                    "description": "Whenever a friendly WRECKA KREW operative is shooting, fighting, or retaliating, in the Roll Attack Dice step:\n<ul>\n<li>For each attack die result of 6 you retain, you gain one Wrecka point</li>\n<li>You can spend up to 3 of your Wrecka points (unless it's a BOMB SQUIG). For each point you spend this way, retain one of your fails as a normal success instead of discarding it</li>\n</ul>\nYou cannot have more than 6 Wrecka points at once.\nIf you start an action with 6 Wrecka points, you cannot gain any more during that action."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "BBKRU",
+                    "abilityid": "SM",
+                    "title": "*Smash",
+                    "description": "Whenever you strike, you can move the enemy operative in a straight line increment of up to 1\".\nIf you do, it must finish the move further away from this operative and in a location it can be placed.\nThen move this operative in a straight line increment of up to 1\", but it must end that move within that enemy operative's control range (if either is not possible, you cannot move them)."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "BBKRU",
+                    "abilityid": "TU",
+                    "title": "Tanked Up",
+                    "description": "Whenever a friendly WRECKA KREW operative (excluding BOMB SQUIG) that has an Engage order performs the Fight or Shoot action (excluding Guard), add 1 to its APL stat until the start of its next activation."
+                  }
+                ],
+                "edition": "kt24",
+                "fireteammax": 0,
+                "specialisms": ""
+              },
+              {
+                "factionid": "ORK",
+                "killteamid": "WK24",
+                "fireteamid": "WK24",
+                "opid": "TBGNR",
+                "opseq": 5,
+                "opname": "Tankbusta Gunner",
+                "description": "",
+                "M": "6\"",
+                "APL": "2",
+                "GA": "0",
+                "DF": "0",
+                "SV": "4+",
+                "W": "12",
+                "keywords": "WRECKA KREW, ORK, TANKBUSTA, GUNNER",
+                "basesize": 32,
+                "weapons": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "TBGNR",
+                    "wepid": "ERL",
+                    "wepseq": 0,
+                    "wepname": "'Eavy Rokkit Launcha",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "WK24",
+                        "fireteamid": "WK24",
+                        "opid": "TBGNR",
+                        "wepid": "ERL",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "6",
+                        "BS": "4+",
+                        "D": "4/5",
+                        "SR": "Blast 1\", Heavy (DashOnly)"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "TBGNR",
+                    "wepid": "RL",
+                    "wepseq": 0,
+                    "wepname": "Rokkit Launcha",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "WK24",
+                        "fireteamid": "WK24",
+                        "opid": "TBGNR",
+                        "wepid": "RL",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "6",
+                        "BS": "5+",
+                        "D": "4/5",
+                        "SR": "Blast 1\""
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "TBGNR",
+                    "wepid": "F",
+                    "wepseq": 0,
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "WK24",
+                        "fireteamid": "WK24",
+                        "opid": "TBGNR",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "TBGNR",
+                    "abilityid": "KS",
+                    "title": "Kompetitive Streak",
+                    "description": "Once per Shoot action, if this operative shoots an enemy operative that another friendly operative has already shot during this Turning Point, you gain 1 Wrecka point.\nDetermine this when you select a valid target, but you can include any secondary targets when doing so (e.g. from the Blast weapon rule)."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "TBGNR",
+                    "abilityid": "RAMP",
+                    "title": "Wrecka Rampage",
+                    "description": "Whenever a friendly WRECKA KREW operative is shooting, fighting, or retaliating, in the Roll Attack Dice step:\n<ul>\n<li>For each attack die result of 6 you retain, you gain one Wrecka point</li>\n<li>You can spend up to 3 of your Wrecka points (unless it's a BOMB SQUIG). For each point you spend this way, retain one of your fails as a normal success instead of discarding it</li>\n</ul>\nYou cannot have more than 6 Wrecka points at once.\nIf you start an action with 6 Wrecka points, you cannot gain any more during that action."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "TBGNR",
+                    "abilityid": "TU",
+                    "title": "Tanked Up",
+                    "description": "Whenever a friendly WRECKA KREW operative (excluding BOMB SQUIG) that has an Engage order performs the Fight or Shoot action (excluding Guard), add 1 to its APL stat until the start of its next activation."
+                  }
+                ],
+                "edition": "kt24",
+                "fireteammax": 0,
+                "specialisms": ""
+              },
+              {
+                "factionid": "ORK",
+                "killteamid": "WK24",
+                "fireteamid": "WK24",
+                "opid": "TBROK",
+                "opseq": 6,
+                "opname": "Tankbusta Rokkiteer",
+                "description": "",
+                "M": "6\"",
+                "APL": "2",
+                "GA": "0",
+                "DF": "0",
+                "SV": "4+",
+                "W": "12",
+                "keywords": "WRECKA KREW, ORK, TANKBUSTA, ROKKITEER",
+                "basesize": 32,
+                "weapons": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "TBROK",
+                    "wepid": "PR",
+                    "wepseq": 0,
+                    "wepname": "Pulsa Rokkit",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "WK24",
+                        "fireteamid": "WK24",
+                        "opid": "TBROK",
+                        "wepid": "PR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "6",
+                        "BS": "5+",
+                        "D": "-",
+                        "SR": "Hvy (RepoOnly), Lim 1, *Pulsa"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "TBROK",
+                    "wepid": "RL",
+                    "wepseq": 0,
+                    "wepname": "Rokkit Launcha",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "WK24",
+                        "fireteamid": "WK24",
+                        "opid": "TBROK",
+                        "wepid": "RL",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "6",
+                        "BS": "5+",
+                        "D": "4/5",
+                        "SR": "Blast 1\""
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "TBROK",
+                    "wepid": "RR",
+                    "wepseq": 0,
+                    "wepname": "Rokkit Rack",
+                    "weptype": "R",
+                    "isdefault": 0,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "WK24",
+                        "fireteamid": "WK24",
+                        "opid": "TBROK",
+                        "wepid": "RR",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "6",
+                        "BS": "5+",
+                        "D": "4/5",
+                        "SR": "Blast 2\", Hvy (RepOnly), Lim 1, Relentless"
+                      }
+                    ],
+                    "isselected": false
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "TBROK",
+                    "wepid": "F",
+                    "wepseq": 0,
+                    "wepname": "Fists",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "WK24",
+                        "fireteamid": "WK24",
+                        "opid": "TBROK",
+                        "wepid": "F",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "3+",
+                        "D": "3/4",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "TBROK",
+                    "abilityid": "PUL",
+                    "title": "*Pulsa",
+                    "description": "Do not select a valid target. Instead, place your Pulsa marker Visible to this operative, or on Vantage terrain of a terrain feature Visible to this operative.\nThat marker gains 1 Pulsa point, then roll attack dice: \nIt gains 1 additional Pulsa point for each success (to a maximum of 3 additional points). Separately inflict 1D3 damage on each operative wholly within x\" of that marker, where x is that marker's Pulsa points.\nThen the action ends."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "TBROK",
+                    "abilityid": "RAMP",
+                    "title": "Wrecka Rampage",
+                    "description": "Whenever a friendly WRECKA KREW operative is shooting, fighting, or retaliating, in the Roll Attack Dice step:\n<ul>\n<li>For each attack die result of 6 you retain, you gain one Wrecka point</li>\n<li>You can spend up to 3 of your Wrecka points (unless it's a BOMB SQUIG). For each point you spend this way, retain one of your fails as a normal success instead of discarding it</li>\n</ul>\nYou cannot have more than 6 Wrecka points at once.\nIf you start an action with 6 Wrecka points, you cannot gain any more during that action."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "TBROK",
+                    "abilityid": "SA",
+                    "title": "Shokkwave",
+                    "description": "Whenever an operative is withing x\" of your Pulsa marker, worsen the Hit stat of its weapons by 1 and subtract 2\" from its Move stat.\nThis is cumulative with being injured.\nX is that marker's Pulsa points. In the Ready step of each Strategy phase, subtract 1 from your Pulsa marker's points.\nIf a Pulsa marker ever has 0 points, remove it."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "TBROK",
+                    "abilityid": "TU",
+                    "title": "Tanked Up",
+                    "description": "Whenever a friendly WRECKA KREW operative (excluding BOMB SQUIG) that has an Engage order performs the Fight or Shoot action (excluding Guard), add 1 to its APL stat until the start of its next activation."
+                  }
+                ],
+                "edition": "kt24",
+                "fireteammax": 0,
+                "specialisms": ""
+              },
+              {
+                "factionid": "ORK",
+                "killteamid": "WK24",
+                "fireteamid": "WK24",
+                "opid": "SQUIG",
+                "opseq": 7,
+                "opname": "Wrecka Bomb Squig",
+                "description": "",
+                "M": "6\"",
+                "APL": "2",
+                "GA": "0",
+                "DF": "0",
+                "SV": "5+",
+                "W": "5",
+                "keywords": "WRECKA KREW, ORK, BOMB SQUIG",
+                "basesize": 25,
+                "weapons": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "SQUIG",
+                    "wepid": "EX",
+                    "wepseq": 0,
+                    "wepname": "Explosives",
+                    "weptype": "R",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "WK24",
+                        "fireteamid": "WK24",
+                        "opid": "SQUIG",
+                        "wepid": "EX",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "6",
+                        "BS": "4+",
+                        "D": "4/5",
+                        "SR": "Blast 1\", Lim 1, *Explosive"
+                      }
+                    ],
+                    "isselected": true
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "SQUIG",
+                    "wepid": "B",
+                    "wepseq": 0,
+                    "wepname": "Bite",
+                    "weptype": "M",
+                    "isdefault": 1,
+                    "profiles": [
+                      {
+                        "factionid": "ORK",
+                        "killteamid": "WK24",
+                        "fireteamid": "WK24",
+                        "opid": "SQUIG",
+                        "wepid": "B",
+                        "profileid": "0",
+                        "name": "",
+                        "A": "3",
+                        "BS": "4+",
+                        "D": "4/5",
+                        "SR": ""
+                      }
+                    ],
+                    "isselected": true
+                  }
+                ],
+                "uniqueactions": [],
+                "abilities": [
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "SQUIG",
+                    "abilityid": "BOOM",
+                    "title": "Boom!",
+                    "description": "Whenever this operative is incapacitated during a battle in which it has not used its Explosives, roll 1D6, or 2D6 if you wish.\nIf any result is a 4+, this operative performs a free Shoot action with its Explosives before it is removed from the killzone."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "SQUIG",
+                    "abilityid": "EX",
+                    "title": "*Explosive",
+                    "description": "This operative can perform the Shoot action with this weapon while within Control Range of an enemy operative.\nDo not select a valid target. Instead, this operative is always the primary target and cannot be in Cover or Obscured."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "SQUIG",
+                    "abilityid": "EXP",
+                    "title": "Expendable",
+                    "description": "This operative is ignored for your opponent's kill/elimination op (when it is incapacitated, and when determining your starting number of operatives).\nIt is also ignored for victory conditions that require operatives to \"escape\", \"survive\", or be incapacitated (if it escapes/survives/is incapacitated, determining how many operatives must escape/survive/be incapacitated, etc.)."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "SQUIG",
+                    "abilityid": "RAMP",
+                    "title": "Wrecka Rampage",
+                    "description": "Whenever a friendly WRECKA KREW operative is shooting, fighting, or retaliating, in the Roll Attack Dice step:\n<ul>\n<li>For each attack die result of 6 you retain, you gain one Wrecka point</li>\n<li>You can spend up to 3 of your Wrecka points (unless it's a BOMB SQUIG). For each point you spend this way, retain one of your fails as a normal success instead of discarding it</li>\n</ul>\nYou cannot have more than 6 Wrecka points at once.\nIf you start an action with 6 Wrecka points, you cannot gain any more during that action."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "SQUIG",
+                    "abilityid": "ST",
+                    "title": "Stoopid",
+                    "description": "During the Firefight phase, whenever you determine this operative's order, you cannot select Conceal.\nThis operative cannot perform any actions other than Charge, Dash, Fight, Reposition, and Shoot, or use any weapons that are not on its datacard."
+                  },
+                  {
+                    "factionid": "ORK",
+                    "killteamid": "WK24",
+                    "fireteamid": "WK24",
+                    "opid": "SQUIG",
+                    "abilityid": "TU",
+                    "title": "Tanked Up",
+                    "description": "Whenever a friendly WRECKA KREW operative (excluding BOMB SQUIG) that has an Engage order performs the Fight or Shoot action (excluding Guard), add 1 to its APL stat until the start of its next activation."
+                  }
+                ],
+                "edition": "kt24",
+                "fireteammax": 0,
+                "specialisms": ""
+              }
+            ],
+            "fireteamcomp": ""
+          }
+        ],
+        "tacops": [
+          {
+            "tacopid": "ZZZ-SAD-01",
+            "archetype": "Seek And Destroy",
+            "tacopseq": 1,
+            "title": "Champion",
+            "description": "<em>TACOP</em><br/>\n<strong>Reveal:</strong> When you select your first Champion.<br/><br/>\n<strong>Additional Rules:</strong><br/>\nAs a STRATEGIC GAMBIT in each turning point after the first, you can select one friendly operative to be your champion for the turning point.<br/><br/>\n<strong>Victory Points:</strong><br/>\nIn each turning point after the first, whenever your champion incapacitates an enemy operative you score 1VP, or 2VP if that enemy operative had a wound stat of 12 or more (in either case to a maximum of 2VP per turning point).",
+            "edition": "kt24"
+          },
+          {
+            "tacopid": "ZZZ-SAD-02",
+            "archetype": "Seek And Destroy",
+            "tacopseq": 2,
+            "title": "Overrun",
+            "description": "<em>TACOP</em><br/>\n<strong>Reveal:</strong> When you first score VP from this op.<br/><br/>\n<strong>Victory Points:</strong><br/>\nOnce per turning point after the first, if an enemy operative is incapacitated by a friendly operative, and that friendly operative is wholly within your opponent's territory when it does so, you score 1VP.<br/>\nAt the end of each turning point after the first, if the total APL stat of friendly operatives that both fulfilled the above condition that turning point (regardless of you scoring the VP) and are still wholly within your opponent's territory is 3 or more, you score 1 VP.",
+            "edition": "kt24"
+          },
+          {
+            "tacopid": "ZZZ-SAD-03",
+            "archetype": "Seek And Destroy",
+            "tacopseq": 3,
+            "title": "Storm Objectives",
+            "description": "<em>TACOP</em><br/>\n<strong>Reveal:</strong> When you first score VP from this op.<br/><br/>\n<strong>Additional Rules:</strong><br/>\nAt the end of each friendly operative's activation, if it controls an objective marker that enemy operatives controlled at the start of that activation or that is wholly within your opponent's territory,\nand that objective marker is not contested by enemy operatives, that objective marker is stormed by friendly operatives this turning point.<br/><br/>\n<strong>Victory Points:</strong><br/>\nOnce per turning point after the first, if an objective marker is stormed by Friendly operatives this turning point, you score 1VP.<br/>\nAt the end of each turning point after the first, if friendly operatives control an objective marker that was stormed by friendly operatives this turning point, you score 1VP.",
+            "edition": "kt24"
+          },
+          {
+            "tacopid": "ZZZ-SEC-01",
+            "archetype": "Security",
+            "tacopseq": 1,
+            "title": "Contain",
+            "description": "<em>TACOP</em><br/>\n<strong>Reveal:</strong> When you first score VP from this op.<br/><br/>\n<strong>Victory Points:</strong><br/>\nAt the end of each turning point after the first:<br/>\n- If there are no enemy operatives wholly within your territory, you score 1 VP.<br/>\n- If there are no enemy operatives wholly within 6\" of your drop zone, you score 1 VP.",
+            "edition": "kt24"
+          },
+          {
+            "tacopid": "ZZZ-SEC-02",
+            "archetype": "Security",
+            "tacopseq": 2,
+            "title": "Secure Centre",
+            "description": "<em>TACOP</em><br/>\n<strong>Reveal:</strong> When you first score VP from this op.<br/><br/>\n<strong>Victory Points:</strong><br/>\nAt the end of each turning point after the first:<br/>\n- If the total APL of friendly operatives within 3\" of the centre of the killzone is greater than that of enemy operatives, you score 1VP.<br/>\n- If the total APL of friendly operatives on the centreline but more than 3\" from the centre of the killzone is greater than that of enemy operatives, you score 1VP.",
+            "edition": "kt24"
+          },
+          {
+            "tacopid": "ZZZ-SEC-03",
+            "archetype": "Security",
+            "tacopseq": 3,
+            "title": "Take Ground",
+            "description": "<em>TACOP</em><br/>\n<strong>Reveal:</strong> When you first score VP from this op.<br/><br/>\n<strong>Victory Points:</strong><br/>\nAt the end of each turning point after the first:\n<ul>\n<li>In Killzone Volkus: if friendly operatives control any stronghold terrain features within your opponent's territory, you score 2VP; for each ruin (Large or small) terrain feature within your opponent's territory that friendly operatives control, you score 1 VP.</li>\n<li>In Killzone Gallowdark, for each access point you control that is on the centreline or within your opponent's territory that friendly operatives control, you score 1 VP.</li>\n<li>In any other kill zone, for each terrain feature with Heavy terrain within your opponent's territory that Friendly operatives control, you score 1 VP.</li>\nYou can score a maximum of 2VP form this op per turning point.<br/>\nAn operative contests a stronghold terrain feature it is wholly within.\nAn operative contests all other terrain features within their control range, or while underneath a terrain feature's Vantage terrain.\nFriendly operative control each such terrain feature if the total APL stat of those contesting it is greater than that of enemy operatives.",
             "edition": "kt24"
           }
         ]
@@ -54953,7 +58326,7 @@
             "eqvar4": "",
             "eqcategory": "Equipment",
             "fireteamid": "",
-            "opid": "",
+            "opid": "GNR,IB,WAR",
             "eqseq": 2
           },
           {
