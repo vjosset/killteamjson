@@ -31693,14 +31693,14 @@
             "eqname": "Extra Armour",
             "eqdescription": "Subtract 1\" from the Move stat of friendly WRECKA KREW operatives and add 1 to their Wounds stat. This excludes BOMB SQUIG operatives.",
             "eqpts": "0",
-            "eqtype": "Ability",
-            "eqvar1": "",
-            "eqvar2": "",
+            "eqtype": "OpMod",
+            "eqvar1": "W,M",
+            "eqvar2": "+1,-1",
             "eqvar3": "",
             "eqvar4": "",
             "eqcategory": "Equipment",
             "fireteamid": "",
-            "opid": "",
+            "opid": "BBDEMO,BBFTR,BBKRU,NOB,TBGNR,TBROK",
             "eqseq": 4
           },
           {
@@ -62300,7 +62300,7 @@
                     "uniqueactionid": "MC",
                     "title": "Mind Control",
                     "description": "<em>PSYCHIC</em><br/>\nSelect one enemy operative visible to and within 2\" of this operative.\nBoth players roll 1D6 and add their respective operative's APL stat to the total.\nIf your total is higher than your opponent's you can resolve this action's second effect.<br/>\nUntil the end of the activation, that enemy operative is a friendly operative (an enemy operative for you opponent), you can change its order and it can immediately perofrm one free action.\nIt cannot perform an action in which it moves other than Dash (in which case specify the location for your opponent to move this operative to).\nYou can only resolve this action's second effect once per battle.<br/>\nThis operative cannot perform this action while within control range of an enemy operative, unless the only enemy operative it is within control range of is selected for this action.",
-                    "AP": 1
+                    "AP": 2
                   }
                 ],
                 "abilities": [
