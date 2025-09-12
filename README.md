@@ -1,99 +1,69 @@
 # killteamjson
-JSON Dataset for Killteam 2021 Compendium, including additional teams from White Dwarf and boxed sets.
+JSON Dataset for Killteam 2024.
 
-See also [KTDash](https://ktdash.app/) and its [API](https://github.com/vjosset/ktdash/blob/v2/docs/api.md)
-
-"compendium.json" will hold the latest version of the full compendium.json
-
-This repo may contain snapshots of the compendium to be used as backups.
+See also [KTDash](https://ktdash.app/)
 
 **If you are using this dataset for your own applications, please give the appropriate credit. These teams take hours to load.**
 
 # Structure/Hierarchy
 
-The root of the JSON file is an array of "faction" objects.
+The root of the JSON file is an array of "killteam" objects.
 
-- [Root] - Array of Faction objects
-  - `factionid` - *string* - ID for this faction
-  - `factionname` - *string* - Name of this faction
-  - `description` - *string* - HTML description of this faction (flavor text)
-  - `killteams` - Array of Killteam objects
-    - `factionid` - *string* - ID for this killteam's faction
-    - `killteamid` - *string* - ID for this killteam
-    - `killteamname` - *string* - Name of this killteam
-    - `description` - *string* - HTML description of this killteam (flavor text)
-    - `killteamcomp` - *string* - HTML description of this killteam's composition
-    - `equipments` - Array of Equipment objects
-      - `factionid` - *string* - ID for this equipment's faction
-      - `killteamid` - *string* - ID for this equipment's killteam
-      - `eqid` - *string* - ID for this equipment
-      - `eqpts` - *string* - Cost in Points of this equipment
-      - `eqname` - *string* - Name of this equipment
-      - `eqdescription` - *string* - HTML description of this equipment
-    - `ploys`
-      - `strat` - Array of strategic ploy objects
-        - `factionid` - *string* - ID for this ploy's faction
-        - `killteamid` - *string* - ID for this ploy's killteam
-        - `ploytype` - *string* - Type of ploy (`S`: Strategic, `T`: Tactical)
-        - `ployid` - *string* - ID of this ploy
-        - `ployname` - *string* - Name of this ploy
-        - `CP` - *string* - Cost in Command Points to run this ploy
-        - `description` - *string* - HTML description of this ploy
-      - `tac` - Array of tactical ploy objects
-        - `factionid` - *string* - ID for this ploy's faction
-        - `killteamid` - *string* - ID for this ploy's killteam
-        - `ploytype` - *string* - Type of ploy (`S`: Strategic, `T`: Tactical)
-        - `ployid` - *string* - ID of this ploy
-        - `ployname` - *string* - Name of this ploy
-        - `CP` - *string* - Cost in Command Points to run this ploy
-        - `description` - *string* - HTML description of this ploy
-    - `fireteams` - Array of fireteam objects
-      - `factionid` - *string* - ID for this fireteam's faction
-      - `killteamid` - *string* - ID for this fireteam's killteam
-      - `fireteamid` - *string* - ID for this fireteam
-      - `description` - *string* - HTML description of this fireteam (flavor text)
-      - `fireteamname` - *string* - Name of this fireteam
-      - `archetype` - *string* - Archetypes for this fireteam (separated by forward slash "/")
-      - `fireteamcomp` - *string* - HTML description of this fireteam's composition
-      - `operatives` - Array of Operative objects
-        - `factionid` - *string* - ID for this operative's faction
-        - `killteamid` - *string* - ID for this operative's killteam
-        - `fireteamid` - *string* - ID for this operative's fireteam
-        - `opid` - *string* - ID for this operative
-        - `opname` - *string* - Name of this operative
-        - `description` - *string* - HTML description of this operative (flavor text)
-        - `M` - *string* - Movement characteristic. Holds placeholders for distance measurements (see below)
-        - `APL` - *string* - Action Point Limit characteristic
-        - `GA` - *string* - Group Activation characteristic
-        - `DF` - *string* - Defense characteristic (number of Defense dice to roll when shot)
-        - `SV` - *string* - Save characteristic
-        - `W` - *string* - Wounds characteristic
-        - `weapons` - Array of Weapon objects
-          - `factionid` - *string* - ID for this weapon's faction
-          - `killteamid` - *string* - ID for this weapon's killteam
-          - `fireteamid` - *string* - ID for this weapon's fireteam
-          - `opid` - *string* - ID for this weapon's operative
-          - `wepid` - *string* - ID for this weapon
-          - `wepname` - *string* - Name of this weapon
-          - `weptype` - *string* - Weapon type (`R`: Ranged, `M`: Melee/Close Combat)
-          - `Weaponprofiles` - Array of WeaponProfile objects
-            - `factionid` - *string* - ID for this weapon profile's faction
-            - `killteamid` - *string* - ID for this weapon profile's killteam
-            - `fireteamid` - *string* - ID for this weapon profile's fireteam
-            - `opid` - *string* - ID for this weapon profile's operative
-            - `wepid` - *string* - ID for this weapon profile's weapon
-            - `profileid` - *string* - ID for this weapon profile
-            - `name` - *string* - Name of this weapon profile (usually blank if the weapon only has one profile)
-            - `A` - *string* - Attacks characteristic
-            - `BS` - *string* - Ballistic/Weapon Skill characteristic
-            - `D` - *string* - Damage characteristic
-            - `SR` - *string* - Comma-separated list of Special and Critical rules for this weapon profile
-
-# Distance/Range Placeholders
-
-- `[TRI]` - Triange range (1 inch) - Recommend replacing with `&#x25B2;` (&#x25B2;) in HTML output
-- `[CIRCLE]` - Circle range (2 inches) - Recommend replacing with `&#x2B24;` (&#x2B24;) in HTML output
-- `[SQUARE]` - Square range (3 inches) - Recommend replacing with `&#9632;` (&#9632;) in HTML output
-- `[PENT]` - Pentagon range (6 inches) - Recommend replacing with `&#x2B1F;` (&#x2B1F;) in HTML output
-
+- `killteams` - Array of Killteam objects
+  - `factionId` - *string* - ID for this killteam's faction
+  - `killteamId` - *string* - ID for this killteam
+  - `killteamname` - *string* - Name of this killteam
+  - `description` - *string* - Markdown description of this killteam (flavor text)
+  - `composition` - *string* - Markdown description of this killteam's composition
+  - `archetypes` - *string* - Slash-delimited list of archetypes for this killteam
+  - `opTypes` - Array of OpType (operative type) objects
+    - `killteamId` - *string* - ID for this operative type's killteam
+    - `opTypeId` - *string* - ID for this operative type
+    - `opTypeName` - *string* - Name of this operative type
+    - `MOVE` - *string* - Movement characteristic.
+    - `APL` - *string* - Action Point Limit characteristic
+    - `SAVE` - *string* - Save characteristic
+    - `WOUNDS` - *string* - Wounds characteristic
+    - `keywords` - *string* - Comma-separated keywords for this operative type
+    - `basesize` - *integer* - Base size for this operative type
+    - `nameType` - *string* - Name generation key
+    - `weapons` - Array of Weapon objects
+      - `opTypeId` - *string* - ID for this weapon's operative
+      - `wepId` - *string* - ID for this weapon
+      - `wepName` - *string* - Name of this weapon
+      - `wepType` - *string* - Weapon type (`R`: Ranged, `M`: Melee/Close Combat, `P`: Psychic, `E`: Equipment)
+      - `profiles` - Array of WeaponProfile objects
+        - `wepid` - *string* - ID for this weapon profile's weapon
+        - `seq` - *integer* - Sequence/ordering number for this profile
+        - `profileName` - *string* - Name of this weapon profile (usually blank if the weapon only has one profile)
+        - `ATK` - *string* - Attacks characteristic
+        - `HIT` - *string* - Hit characteristic
+        - `DMG` - *string* - Damage characteristic ([Normal]/[Critical])
+        - `WR` - *string* - Comma-separated list of Weapon Rules for this weapon profile
+    - `abilities` - Array of Ability objects
+      - `abilityId` - *string* - Unique ID for this ability
+      - `opTypeId` - *string* - ID of the OpType that has this ability
+      - `abilityName` - *string* - Name/title of this ability
+      - `AP` - *integer* - The AP to spend to use this ability. If `null`, this is a passive ability.
+      - `description` - *string* - Markdown-formatted description of this ability
+    - `options` - Array of Option objects (e.g. Chapter Tactics for Angels of Death)
+      - `optionId` - *string* - Unique ID for this option
+      - `opTypeId` - *string* - ID of the OpType that has this option
+      - `optionName` - *string* - Name/title of this ability
+      - `description` - *string* - Markdown-formatted description of this option
+      - `effects` - *string* - Coded string for effects to apply to the operative or its weapons
+  - `ploys` - Array of Ploy objects
+    - `ployId` - *string* - Unique ID for this ploy
+    - `killteamId` - *string* - ID of the killteam this ploy belongs to
+    - `seq` - *integer* - Sequence/ordering number for this ploy
+    - `ployType` - *string* - The type of ploy: `S` for Strategy ploys, `T` or `F` for Firefight ploys (don't ask)
+    - `ployName` - *string* - Name/title of this ploy
+    - `description` - *string* - Markdown-formatted description of this ploy
+  - `equipments` - Array of Equipment objects
+    - `eqId` - *string* - Unique ID for this equipment
+    - `killteamId` - *string* - ID of the killteam this equipment belongs to
+    - `seq` - *integer* - Sequence/ordering number for this equipment
+    - `eqName` - *string* - Name/title of this equipment
+    - `description` - *string* - Markdown-formatted description of this ploy
+    - `effects` - *string* - Coded string for effects to apply to operatives or weapons
 
