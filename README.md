@@ -1,7 +1,7 @@
 # killteamjson
 JSON Dataset for Killteam 2024.
 
-See also [KTDash](https://ktdash.app/)
+See also [KTDash](https://ktdash.app/) and its [repo](https://github.com/vjosset/ktdash-v4-public)
 
 **If you are using this dataset for your own applications, please give the appropriate credit. These teams take hours to load.**
 
